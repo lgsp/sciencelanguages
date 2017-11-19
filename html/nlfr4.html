@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2017-11-19 Sun 19:49 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>LEWLG (Learn English for French speaker with Laurent Garnier) newsletter#4</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Laurent Garnier" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">LEWLG (Learn English for French speaker with Laurent Garnier) newsletter#4</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org49f008c" target="_blank">1. Introduction</a></li>
+<li><a href="#orgeb7c816" target="_blank">2. Grammar tips of the week</a>
+<ul>
+<li><a href="#orgda8fed1" target="_blank">2.1. Few words about tests</a></li>
+<li><a href="#org7824b5e" target="_blank">2.2. Grammar tips and tricks</a>
+<ul>
+<li><a href="#org511ba6d" target="_blank">2.2.1. Parts of the speech</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orgb6d7e0e" target="_blank">3. Phonetics words of the week</a>
+<ul>
+<li><a href="#org5f0741d" target="_blank">3.1. Vowels</a></li>
+</ul>
+</li>
+<li><a href="#orgeae58f1" target="_blank">4. Topic of the week</a></li>
+<li><a href="#org7c22bbf" target="_blank">5. Games of the week</a></li>
+<li><a href="#org01b1a62" target="_blank">6. Previous newsletter</a></li>
+<li><a href="#org31a2277" target="_blank">7. Other languages?</a></li>
+<li><a href="#orgd2e9b65" target="_blank">8. Feedback</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org49f008c" class="outline-2">
+<h2 id="org49f008c"><span class="section-number-2">1</span> Introduction</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Hello everybody. This week I've got a lot of presents for you. I'm
+really happy and proud because a Chinese girl that I didn't know
+before this week left a comment on my Chinese video that you can see
+<a href="https://youtu.be/AEqPC5t24OU" target="_blank">here</a>. 
+</p>
+
+<p>
+Anyway, if you're reading this newsletter you want to know or learn
+new things about how to improve your English level. So because I've
+failed during the previous newsletter by giving you an impossible
+challenge (cf the Monkey game) I've decided to share with you good
+websites that are specialized in games to learn English or just
+games for English speakers. Sorry about the headache if you tried to
+solve the Monkey game challenge.
+</p>
+
+<p>
+So let's begin!
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgeb7c816" class="outline-2">
+<h2 id="orgeb7c816"><span class="section-number-2">2</span> Grammar tips of the week</h2>
+<div class="outline-text-2" id="text-2">
+</div><div id="outline-container-orgda8fed1" class="outline-3">
+<h3 id="orgda8fed1"><span class="section-number-3">2.1</span> Few words about tests</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+If you don't know what's your current English level let's visit the
+Cambridge web page that will help you to find which test to choose:
+<a href="http://www.cambridgeenglish.org/test-your-english/" target="_blank">CambridgeEnglish</a>.
+</p>
+
+<p>
+If you need some resources about the TOEFL you can find some
+<a href="https://www.thoughtco.com/free-toefl-study-on-the-internet-1209088" target="_blank">here</a>. And by the way this website provides tons of articles about
+English grammar.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7824b5e" class="outline-3">
+<h3 id="org7824b5e"><span class="section-number-3">2.2</span> Grammar tips and tricks</h3>
+<div class="outline-text-3" id="text-2-2">
+</div><div id="outline-container-org511ba6d" class="outline-4">
+<h4 id="org511ba6d"><span class="section-number-4">2.2.1</span> Parts of the speech</h4>
+<div class="outline-text-4" id="text-2-2-1">
+<p>
+Let's look (or review) the word types:
+</p>
+</div>
+<ol class="org-ol"><li><a id="org5c34f63"></a>Noun<br /><div class="outline-text-5" id="text-2-2-1-1">
+<p>
+A word used to name a person, animal, place, or thing.
+Here is a tip to find them in a sentence: "ask the question who is
+the subject of the sentence?"
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>a person</dt><dd>Laurent is a proper noun, so it starts with a
+capital letter even if it's not in the begining of
+the sentence like in: "My name is Laurent."</dd>
+<dt>an animal</dt><dd>People often say that the cat is the best friend
+of the woman. "Cat" is the name of an animal, but
+it's a common name so it doesn't take a capital
+letter unless it's the begining of the sentence.</dd>
+<dt>a place</dt><dd>Moscow is the capital of Russia. Here we have 3
+nouns, 2 propers nouns (Moscow and Russia) and 1
+common noun (capital). They are all names of places.</dd>
+<dt>a thing</dt><dd>My computer is my best tool. Here we have 2 common
+nouns (computer and tool).</dd>
+</dl>
+</div></li>
+<li><a id="org009c8af"></a>Adjective<br /><div class="outline-text-5" id="text-2-2-1-2">
+<p>
+A word used to describe a noun or pronoun.
+Here is a trick to find them in a sentence: ask the question "how
+is the noun?"
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>French</dt><dd>Laurent is a French name. "French" is an adjective
+because it describes the proper name (Laurent) by
+adding information to the sentence.</dd>
+<dt>best</dt><dd>The cat is the best friend of the woman. "Best" is
+an adjective because it describes the (common)
+name "cat"; it's not a normal friend that's a
+special one.</dd>
+<dt>cold</dt><dd>Russia is a cold country, especially in
+winter. "Cold" is an adjective because it describes
+the (common) noun "country".</dd>
+<dt>old</dt><dd>My computer is an old one because I've bought it
+in 2010. "Old" is an adjective because it describes
+the (common) noun "computer".</dd>
+</dl>
+</div></li>
+<li><a id="org31776d7"></a>Verb<br /><div class="outline-text-5" id="text-2-2-1-3">
+<p>
+A word that expresses an action or a state of being.
+Here is a tip to find them in a sentence: ask the question
+"what's the action?"
+</p>
+
+<p>
+Examples: 
+</p>
+<dl class="org-dl">
+<dt>to be</dt><dd>Laurent is a person. "Is" is the verb <i>to be</i> that
+expresses the existence of Laurent as a person
+(human being).</dd>
+<dt>to jump</dt><dd>The cat jumps out of the couch. "Jumps" is the the
+verb <i>to jump</i> that expresses the motion of the
+cat.</dd>
+<dt>to belong</dt><dd>Russia belongs to Europe and Asia because of its
+size. "Belongs" is the verb <i>to belong</i> that
+expresses a state of being a part of a group.</dd>
+<dt>to compute</dt><dd>My computer computes calculus faster than
+me. "Computes" is the verb <i>to compute</i> that
+expresses the action of doing calculus.</dd>
+</dl>
+</div></li>
+<li><a id="orga6122ee"></a>Adverb<br /><div class="outline-text-5" id="text-2-2-1-4">
+<p>
+A word that describes and adds information to a verb or a verb
+phrase. The adverb is to the verb what the adjective is to the
+noun. Here is a trick to find them: they oftenly ends with "ly"
+(but not always).
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>easily</dt><dd>Laurent is easily recognizable as a French name
+because of its pronunciation. "Easily" is an adverb
+related to the verb "is". It describes how Laurent
+is recognizable as a French name.</dd>
+<dt>quickly</dt><dd>The cat jumps quickly when the dog
+arrives. "Quickly" is refering to "jumps".</dd>
+<dt>particularly</dt><dd>Moscow is particularly crowdy because it's the
+capital. "Particularly" refers to "is".</dd>
+<dt>slowly</dt><dd>When I make videos my computer works
+slowly. "Slowly" is refering to "works".</dd>
+</dl>
+</div></li>
+<li><a id="org2e3004e"></a>Pronoun<br /><div class="outline-text-5" id="text-2-2-1-5">
+<p>
+A word that takes the place of a noun. Actually that's a kind of
+alias. It's a shorter way to refer to the noun. 
+</p>
+
+<p>
+Advice: Use it only <i>after</i> having introduce the name. Because
+the listener (or reader) has to know the reference if you want
+her/him to understand.
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>he</dt><dd>Laurent is a great teacher. You just say that
+because he offers you free tips and tricks in his
+newsletter. "He" is a pronoun that is a reference
+to the (proper) noun "Laurent".</dd>
+<dt>it</dt><dd>The cat is a pet. It is not a person. "It" is a
+pronoun refering to the (common) noun "The cat".</dd>
+<dt>she</dt><dd>Sarah is a writer, she has written a lot of books. "She"
+is a pronoun refering to the (proper) noun "Sarah".</dd>
+</dl>
+</div></li>
+<li><a id="orgedc9cbb"></a>Preposition<br /><div class="outline-text-5" id="text-2-2-1-6">
+<p>
+A word that indicates the relationship between two people or
+things, usually in terms of where they are. Preposition means
+"place before". So it is usually before the noun phrase.
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>on</dt><dd>Laurent is on his computer when he types the
+newsletters. "On" is a preposition that is before
+the noun phrase "his computer".</dd>
+<dt>in</dt><dd>The cat spend most of his time in the house. "In"
+is a preposition placed before the noun phrase
+"the house".</dd>
+<dt>down</dt><dd>Moscow is down St Petersburg. "Down" is a
+preposition that indicates the position of Moscow
+relatively to St Petersburg.</dd>
+<dt>at</dt><dd>My computer is at home when I'm going outside. "At"
+is a preposition that is before the noun "home".</dd>
+</dl>
+</div></li>
+<li><a id="org76eee98"></a>Conjunction<br /><div class="outline-text-5" id="text-2-2-1-7">
+<p>
+A word used to link words and clauses. We can call that a
+connector or a linking word.
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>but</dt><dd>Laurent is a French name but with Latin root so we
+can find derivatived names in other
+languages. "But" and "so" are conjunctions.</dd>
+<dt>and</dt><dd>The cat is the best friend of the woman and the
+dog is the best friend of the man. "And" is a
+conjunction.</dd>
+<dt>because</dt><dd>Moscow is a famous city because it's a capital but
+St Petersburg used to be a capital as
+well. "Because" and "but" are conjunctions.</dd>
+<dt>yet</dt><dd>My computer is old, yet it still works for the tasks
+I need to do. "Yet" is a conjunction here (be
+careful because yet can also have an adverb
+function).</dd>
+</dl>
+</div></li>
+<li><a id="orge25c11b"></a>Interjection<br /><div class="outline-text-5" id="text-2-2-1-8">
+<p>
+A word that usually occurs alone and expresses emotion.
+</p>
+
+<p>
+Examples: 
+</p>
+<dl class="org-dl">
+<dt>oh</dt><dd>Oh, that's surprising to see you this morning.</dd>
+<dt>ah</dt><dd>Ah, I'm happy to see you again.</dd>
+<dt>ouch</dt><dd>Ouch, I haven't seen that the door is low.</dd>
+<dt>phew</dt><dd>Phew, thanks to you we avoid this crazy driver.</dd>
+<dt>yuck</dt><dd>Yuck, I don't like ketchup, that's disgust me.</dd>
+<dt>hooray</dt><dd>Hooray, we win the game.</dd>
+<dt>help</dt><dd>Help, I need somebody helps&#x2026; (listen to the Beatles
+song).</dd>
+<dt>er</dt><dd>Er, frankly speaking I don't know the name of the
+currency in Venezuela.</dd>
+<dt>um</dt><dd>Um, it's hard to choose because all the things in that
+menu looks very good.</dd>
+<dt>oops</dt><dd>Oops, I forgot to wish you a happy birthday yesterday,
+I'm sorry.</dd>
+</dl>
+</div></li>
+<li><a id="org408897d"></a>Article<br /><div class="outline-text-5" id="text-2-2-1-9">
+<p>
+A word used with a noun to refer to a specific person or thing,
+or someone or something in general.
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>a</dt><dd>Laurent is a French name. "a" is the article of the
+phrase noun "French name".</dd>
+<dt>an</dt><dd>The cat is an animal. "an" is an article.</dd>
+<dt>the</dt><dd>Moscow is the capital of Russia. "The" is an
+article.</dd>
+</dl>
+</div></li>
+<li><a id="org5ed8aa8"></a>Determiner<br /><div class="outline-text-5" id="text-2-2-1-10">
+<p>
+A word used in front of a noun to denote something specific or
+something of a particular type. Articles are also determiners.
+</p>
+
+<p>
+Examples:
+</p>
+<dl class="org-dl">
+<dt>those</dt><dd>Those things over there. "those" determines the
+specific things that we talk about.</dd>
+<dt>many</dt><dd>There are many reasons to learn a new language. "many"
+determines the amount of reasons.</dd>
+<dt>my</dt><dd>The computer I use to write this newsletter is my
+computer. "my" determines that it's not a random
+computer, that's the one I've bought.</dd>
+<dt>his</dt><dd>Laurent is French so his native language is
+French. "his" determines the native language that
+Laurent speaks.</dd>
+<dt>(no term)</dt><dd>few : May I ask you few questions? "few" determines the amount
+of questions.</dd>
+</dl>
+</div></li>
+<li><a id="org81d7ca2"></a>Summary example<br /><div class="outline-text-5" id="text-2-2-1-11">
+<p>
+Let's have a look on a sentences that uses all parts of the
+speech.
+</p>
+
+<p>
+A computer quickly completes its long tasks but in a way that
+doesn't involve initiative.
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">adjective</th>
+<th scope="col" class="org-left">adverb</th>
+<th scope="col" class="org-left">article</th>
+<th scope="col" class="org-left">conjunction</th>
+<th scope="col" class="org-left">determiner</th>
+<th scope="col" class="org-left">noun</th>
+<th scope="col" class="org-left">preposition</th>
+<th scope="col" class="org-left">pronoun</th>
+<th scope="col" class="org-left">verb</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">long</td>
+<td class="org-left">quickly</td>
+<td class="org-left">a</td>
+<td class="org-left">but</td>
+<td class="org-left">that</td>
+<td class="org-left">computer</td>
+<td class="org-left">in</td>
+<td class="org-left">its</td>
+<td class="org-left">complete</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">tasks</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">doesn't</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">way</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">involve</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">initiative</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div></li></ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgb6d7e0e" class="outline-2">
+<h2 id="orgb6d7e0e"><span class="section-number-2">3</span> Phonetics words of the week</h2>
+<div class="outline-text-2" id="text-3">
+</div><div id="outline-container-org5f0741d" class="outline-3">
+<h3 id="org5f0741d"><span class="section-number-3">3.1</span> Vowels</h3>
+<div class="outline-text-3" id="text-3-1">
+<dl class="org-dl">
+<dt>uː</dt><dd><table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">English</th>
+<th scope="col" class="org-left">Français</th>
+<th scope="col" class="org-left">Phonétique</th>
+<th scope="col" class="org-left">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">fOOd</td>
+<td class="org-left">nourriture</td>
+<td class="org-left"><a href="https://en.oxforddictionaries.com/definition/food" target="_blank"><i>fuːd</i></a></td>
+<td class="org-left">Everybody needs food to live.</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Tout le monde a besoin de nourriture pour vivre.</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">yOU</td>
+<td class="org-left">tu, vous</td>
+<td class="org-left"><a href="https://en.oxforddictionaries.com/definition/you" target="_blank"><i>juː</i></a></td>
+<td class="org-left">Do you speak English?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Est-ce que tu parles anglais ?</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">shOE</td>
+<td class="org-left">chaussure</td>
+<td class="org-left"><a href="https://en.oxforddictionaries.com/definition/shoe" target="_blank"><i>ʃuː</i></a></td>
+<td class="org-left">A shoe alone is useless</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Une chaussure seule est inutile.</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">tUbe</td>
+<td class="org-left">tube (ou métro londonien)</td>
+<td class="org-left"><a href="https://en.oxforddictionaries.com/definition/tube" target="_blank"><i>tjuːb</i></a></td>
+<td class="org-left">Let's take the tube to Big Ben.</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Prenons le métro jusqu'à Big Ben.</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">viEW</td>
+<td class="org-left">vue</td>
+<td class="org-left"><a href="https://en.oxforddictionaries.com/definition/view" target="_blank"><i>vjuː</i></a></td>
+<td class="org-left">One view on YouTube! It's ridiculous.</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Une vue sur YouTube ! C'est ridicule.</td>
+</tr>
+</tbody>
+</table></dd>
+</dl>
+
+
+
+<p>
+On peut remarquer qu'il y a 5 types différents. Essayez de trouver
+un exemple de chaque type.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgeae58f1" class="outline-2">
+<h2 id="orgeae58f1"><span class="section-number-2">4</span> Topic of the week</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+Did you know that the Nobel Prize committee announced on October 13,
+2016, that it would be awarding Bob Dylan the Nobel Prize in
+Literature "for having created new poetic expressions within the
+great American song tradition." The New York Times reported:
+"Mr. Dylan, 75, is the first musician to win the award, and his
+selection on Thursday is perhaps the most radical choice in a
+history stretching back to 1901." You can read more <a href="https://en.wikipedia.org/wiki/Bob_Dylan#Nobel_Prize_in_Literature" target="_blank">here</a>.  
+</p>
+
+<p>
+Challenge of the week: 
+</p>
+<ol class="org-ol">
+<li>Try to translate this song <a href="https://youtu.be/1FOlV1EYxmg" target="_blank">Bob Dylan Hurricane</a>.</li>
+<li>Tell me what's your Bob Dylan's favorite(s) song(s).</li>
+<li>If you don't like Bob Dylan, tell me about a song in English that
+you like.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org7c22bbf" class="outline-2">
+<h2 id="org7c22bbf"><span class="section-number-2">5</span> Games of the week</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+Here are to good websites for games:
+</p>
+<ol class="org-ol">
+<li><a href="https://www.gamestolearnenglish.com/" target="_blank">Games to learn English</a> (I recommend you the hangman game)</li>
+<li><a href="http://fr.bab.la/jeux/" target="_blank">http://fr.bab.la/jeux/</a></li>
+<li><a href="https://www.boatloadpuzzles.com/playcrossword" target="_blank">Crossword</a> (be careful it's a tough one)</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org01b1a62" class="outline-2">
+<h2 id="org01b1a62"><span class="section-number-2">6</span> Previous newsletter</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li><a href="https://lgsp.github.io/sciencelanguages/html/news_french1.html" target="_blank">newsletter1</a></li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/nlfr2.html" target="_blank">newsletter2</a></li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/nlfr3.html" target="_blank">newsletter3</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org31a2277" class="outline-2">
+<h2 id="org31a2277"><span class="section-number-2">7</span> Other languages?</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+If you're interested in <a href="https://lgsp.github.io/sciencelanguages/html/index.html" target="_blank">other languages</a> here is my challenge:
+</p>
+
+<ol class="org-ol">
+<li>Newsletters :
+<dl class="org-dl">
+<dt>German / Allemand</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html" target="_blank">german-newsletter1</a></dd>
+<dt>Arabic / Arabe</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_arabic1.html" target="_blank">arabic-newsletter1</a></dd>
+<dt>Chinese / Chinois</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_chinese1.html" target="_blank">chinese-newsletter1</a></dd>
+<dt>Hebrew / Hébreux</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_hebrew1.html" target="_blank">hebrew-newsletter1</a></dd>
+<dt>Portuguese / Portugais</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_portuguese.html" target="_blank">portuguese-newsletter1</a></dd>
+<dt>Russian / Russe</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_russian1.html" target="_blank">russian-newsletter1</a></dd>
+</dl></li>
+<li>Series :
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r" target="_blank">Learn German with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA" target="_blank">Learn Arabic with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9" target="_blank">Learn Chinese with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt" target="_blank">Learn Spanish with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0" target="_blank">Learn Hebrew with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAn0zUUPYsMDd8_1J_UtfRxh" target="_blank">Learn Portuguese with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB" target="_blank">Learn Russian with me</a></li>
+</ul></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgd2e9b65" class="outline-2">
+<h2 id="orgd2e9b65"><span class="section-number-2">8</span> Feedback</h2>
+<div class="outline-text-2" id="text-8">
+<p>
+I hope you enjoyed reading it. Any kind of feedback would be
+appreciated, if you have any suggestion feel free to leave a comment
+by answering to this email. If you know people that would be
+interested by this content, feel free to share it.
+</p>
+
+<p>
+<b>Have a nice day and see you next week.</b> 
+</p>
+
+<p>
+Best regards,
+</p>
+
+<p>
+Your language learning knight, <a href="https://www.youtube.com/channel/UCPRNxpF6hJbwD8Ss37u611A?&amp;ab_channel=LanguageScience">Laurent Garnier</a>
+</p>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Laurent Garnier</p>
+<p class="date">Created: 2017-11-19 Sun 19:49</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
