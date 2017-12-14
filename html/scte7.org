@@ -1,0 +1,114 @@
+#+TITLE: SCTE#7: SEASONS OF THE YEAR
+#+AUTHOR: Laurent Garnier
+
+* Vocabulary of the week
+
+| Español          | English          | Français            |
+|------------------+------------------+---------------------|
+| Yo               | I                | je                  |
+|------------------+------------------+---------------------|
+| Tú               | you              | tu                  |
+|------------------+------------------+---------------------|
+| Usted            | (polite) you     | vous (de politesse) |
+|------------------+------------------+---------------------|
+| Amor             | love             | amour               |
+|------------------+------------------+---------------------|
+| Te quiero        | I love you       | je t’aime           |
+|------------------+------------------+---------------------|
+| No hay problema  | no problem       | aucun problème      |
+|------------------+------------------+---------------------|
+| ¡Bienvenido!     | welcome!         | bienvenue!          |
+|------------------+------------------+---------------------|
+| ¡Felicitaciones! | congratulations! | félicitations!      |
+|------------------+------------------+---------------------|
+| ¡Ayuda!          | help!            | à l’aide!           |
+|------------------+------------------+---------------------|
+| Disculpe         | sorry            | excusez-moi         |
+|------------------+------------------+---------------------|
+| ¿Cómo estás?     | how are you?     | comment vas-tu?     |
+|------------------+------------------+---------------------|
+| Estoy bien       | I’m fine         | je vais bien        |
+|------------------+------------------+---------------------|
+| Un poco          | a little         | un peu              |
+|------------------+------------------+---------------------|
+| Ahora            | now              | maintenant          |
+|------------------+------------------+---------------------|
+| Más tarde        | later            | plus tard           |
+
+* Five W 
+
+| ¿Qué?     | What?  | Quoi?     |
+|-----------+--------+-----------|
+| ¿Cuando?  | When?  | Quand?    |
+|-----------+--------+-----------|
+| ¿Dónde?   | Where? | Où?       |
+|-----------+--------+-----------|
+| ¿Quien?   | Who?   | Qui?      |
+|-----------+--------+-----------|
+| ¿Por Qué? | Why?   | Pourquoi? |
+|-----------+--------+-----------|
+| ¿Cómo?    | How?   | Comment?  |
+
+* Seasons of the year
+
+| Las estaciones | the seasons | les saisons |
+|----------------+-------------+-------------|
+| La primavera   | spring      | printemps   |
+|----------------+-------------+-------------|
+| El verano      | summer      | été         |
+|----------------+-------------+-------------|
+| El otoño       | autumn      | automne     |
+|----------------+-------------+-------------|
+| El invierno    | winter      | hiver       |
+
+* Other languages / Autres langues
+    1. Newsletters :
+       + German / Allemand :: [[https://lgsp.github.io/sciencelanguages/html/news_german1.html][german-newsletter1]]
+       + Arabic / Arabe :: [[https://lgsp.github.io/sciencelanguages/html/news_arabic1.html][arabic-newsletter1]]
+       + Chinese / Chinois :: [[https://lgsp.github.io/sciencelanguages/html/news_chinese1.html][chinese-newsletter1]]
+       + Hebrew / Hébreux :: [[https://lgsp.github.io/sciencelanguages/html/news_hebrew1.html][hebrew-newsletter1]]
+       + Portuguese / Portugais :: [[https://lgsp.github.io/sciencelanguages/html/news_portuguese.html][portuguese-newsletter1]]
+       + Russian / Russe :: [[https://lgsp.github.io/sciencelanguages/html/news_russian1.html][russian-newsletter1]]
+    2. Series :
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][Learn German with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Learn Arabic with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Learn Chinese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Learn Spanish with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0][Learn Hebrew with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAn0zUUPYsMDd8_1J_UtfRxh][Learn Portuguese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB][Learn Russian with me]]
+
+* Additional resources / Ressources complémentaires
+  + The linked video / La vidéo associée
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/spanish-index.html][The complete FSI course]]
+* Main website / Site web principal
+  [[https://lgsp.github.io/sciencelanguages/html/index.html][Home]]
+  page /
+  [[https://lgsp.github.io/sciencelanguages/html/index.html][Page]]
+  d'accueil
+* Feedback
+  You can find a link [[https://youtu.be/YmIk-u1bWH8][here]] for watching the video. Please subscribe to
+  the channel because that will help me. Any feedback and comment
+  would be appreciate. I have to precise that I am not an german
+  specialist, indeed I'm just a beginner who enjoy to share what he is
+  learning.
+  
+  Does this content is useful for you? 
+  1) If the answer is yes then  please subscribe and spread the word
+     by sharing the links on your social media.
+  2) If the answer is no then please tell me what can I do in order to
+     help you in your learning and improve my material.
+* Critiques constructives
+  Vous pouvez trouver un lien [[https://youtu.be/YmIk-u1bWH8][ici]] pour regarder la vidéo. Merci de
+  vous abonner à la chaîne parce que ça m'aidera. Toute critique
+  constructive ou commentaire utile seront appréciés. Je dois préciser
+  que je ne suis pas un spécialiste de l'allemand, en effet je suis juste
+  un débutant qui aime partager ce qu'il apprend.
+
+  Est-ce que ce contenu est utile pour vous?
+  1) Si la réponse est oui alors merci de vous abonner et de faire
+     passer le mot en partageant les liens sur vos réseaux sociaux.
+  2) Si la réponse est non alors merci de me dire ce que je peux faire
+     afin de vous aider dans votre apprentissage et améliorer mon
+     matériel.
+
