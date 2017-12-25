@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2017-12-25 Mon 17:04 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>GCME#9: TO HAVE AND TO BE</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Laurent Garnier" />
+<link rel="stylesheet" href="style.css"/>
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">GCME#9: TO HAVE AND TO BE</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org339bf88">1. To Be = sein</a>
+<ul>
+<li><a href="#org7397cc2">1.1. Conjugation</a></li>
+<li><a href="#orgf2882fd">1.2. Examples</a></li>
+<li><a href="#orgaf6858e">1.3. Questions</a></li>
+</ul>
+</li>
+<li><a href="#orgf603032">2. To Have = haben</a>
+<ul>
+<li><a href="#org5f40022">2.1. Examples</a></li>
+<li><a href="#orgedb30f6">2.2. Questions</a></li>
+</ul>
+</li>
+<li><a href="#org2156ecb">3. Other languages / Autres langues</a></li>
+<li><a href="#org310b847">4. Additional Ressources</a></li>
+<li><a href="#org6c401ef">5. Ressources complémentaires</a></li>
+<li><a href="#orga695f44">6. Constructive Feedback</a></li>
+<li><a href="#orge852534">7. Retours constructifs</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org339bf88" class="outline-2">
+<h2 id="org339bf88"><span class="section-number-2">1</span> To Be = sein</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org7397cc2" class="outline-3">
+<h3 id="org7397cc2"><span class="section-number-3">1.1</span> Conjugation</h3>
+<div class="outline-text-3" id="text-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Deutsch</th>
+<th scope="col" class="org-left">English</th>
+<th scope="col" class="org-left">Français</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Ich bin</td>
+<td class="org-left">I am</td>
+<td class="org-left">Je suis</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Du bist</td>
+<td class="org-left">You are</td>
+<td class="org-left">Tu es</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Er/sie/es ist</td>
+<td class="org-left">He/she/it is</td>
+<td class="org-left">Il/Elle est</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Wir sind</td>
+<td class="org-left">We are</td>
+<td class="org-left">Nous sommes</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Ihr seid</td>
+<td class="org-left">You are (plural)</td>
+<td class="org-left">Vous êtes (pluriel)</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Sie sind</td>
+<td class="org-left">You are (formal)</td>
+<td class="org-left">Vous êtes (politesse)</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">sie sind</td>
+<td class="org-left">They are</td>
+<td class="org-left">Ils/Elles sont</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgf2882fd" class="outline-3">
+<h3 id="orgf2882fd"><span class="section-number-3">1.2</span> Examples</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Ich bin 34 Jahre alt. = I am 34 years old.
+</p>
+
+<p>
+Wie alt sind Sie? = How old are you?
+</p>
+
+<p>
+Er ist traurig. = He is sad.
+</p>
+
+<p>
+Es ist schön draußen. = It’s nice outside.
+</p>
+
+<p>
+Wir sind konzentriert. = We are focused.
+</p>
+
+<p>
+Wir sind großartig. = We are great.
+</p>
+
+<p>
+Ihr seid interessiert. = You guys are interested.
+</p>
+
+<p>
+Ihr seid die besten Schüler der Welt. = You guys are the best students of the world.
+</p>
+
+<p>
+Sie sind gute Freunde. = They are good friends.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgaf6858e" class="outline-3">
+<h3 id="orgaf6858e"><span class="section-number-3">1.3</span> Questions</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Sind Sie aus Deutschland? = Are you from Germany?
+</p>
+
+<p>
+Ist er am Flughafen? = Is he at the airport?
+</p>
+
+<p>
+Ist sie am Bahnhof? = Is she at the train station?
+</p>
+
+<p>
+Sind Sie im Auto? = Are you in the care?
+</p>
+
+<p>
+Bist du auf dem Balkon? = Are you on the balcony?
+</p>
+
+<p>
+Wo bist du? = Where are you?
+</p>
+
+<p>
+Warum bist du hier? = Why are you here?
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgf603032" class="outline-2">
+<h2 id="orgf603032"><span class="section-number-2">2</span> To Have = haben</h2>
+<div class="outline-text-2" id="text-2">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Deutsch</th>
+<th scope="col" class="org-left">English</th>
+<th scope="col" class="org-left">Français</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Ich habe</td>
+<td class="org-left">I have</td>
+<td class="org-left">J'ai</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Du hast</td>
+<td class="org-left">You have</td>
+<td class="org-left">Tu as</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Er/sie/es hat</td>
+<td class="org-left">He/she/ it has</td>
+<td class="org-left">Il/Elle a</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Wir haben</td>
+<td class="org-left">We have</td>
+<td class="org-left">Nous avons</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Ihr habt</td>
+<td class="org-left">You have</td>
+<td class="org-left">Vous avez (pluriel)</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Sie haben</td>
+<td class="org-left">You have (formal)</td>
+<td class="org-left">Vous avez (politesse)</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Sie haben</td>
+<td class="org-left">They have</td>
+<td class="org-left">Ils/Elles ont</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div id="outline-container-org5f40022" class="outline-3">
+<h3 id="org5f40022"><span class="section-number-3">2.1</span> Examples</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Ich habe ein Fahrrad. = I have a bike.
+</p>
+
+<p>
+Ich habe einen Bruder. = I have a brother.
+</p>
+
+<p>
+Du hast ein Auto. = You have a car.
+</p>
+
+<p>
+Er hat Hunger. = He is hungry.
+</p>
+
+<p>
+Er hat ein Motorrad. = He has a motorcycle.
+</p>
+
+<p>
+Es hat geregnet. = It has rained.
+</p>
+
+<p>
+Wir haben 4 Kinder. = We have 4 children.
+</p>
+
+<p>
+Wir haben ein Haus. = We have a house.
+</p>
+
+<p>
+Ihr habt eine Wohnung. = You guys have an apartment.
+</p>
+
+<p>
+Ihr habt viel Spaß. = You have a lot of fan.
+</p>
+
+<p>
+Sie haben einen Balkon. = They have a balcony.
+</p>
+
+<p>
+Sie haben 5 Brüder. = They have 5 brothers.
+</p>
+
+<p>
+Sie haben eine Idee. = You have an idea.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgedb30f6" class="outline-3">
+<h3 id="orgedb30f6"><span class="section-number-3">2.2</span> Questions</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Hast du ein Auto? = Do you have a car?
+</p>
+
+<p>
+Hat sie Zeit? = Does she have time?
+</p>
+
+<p>
+Hast du einen Nachbarn? = Do you have a neighbor?
+</p>
+
+<p>
+Habt ihr einen Plan? = Do you guys have a plan?
+</p>
+
+<p>
+Haben Sie ein Buch? = Do you have a book?
+</p>
+
+<p>
+Hat sie eine Tasse? = Does she have a cup?
+</p>
+
+<p>
+Hast du einen Bruder? = Do you have a brother?
+</p>
+
+<p>
+Hat er eine Schwester? = Does he have a sister?
+</p>
+
+<p>
+Wer hat einen Plan? = Who has a plan?
+</p>
+
+<p>
+Wer hat eine Idee? = Who as an idea?
+</p>
+
+<p>
+Wann hat er Zeit? = When does he have time?
+</p>
+
+<p>
+Wann haben Sie den Termin? = When do you have the appointment?
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org2156ecb" class="outline-2">
+<h2 id="org2156ecb"><span class="section-number-2">3</span> Other languages / Autres langues</h2>
+<div class="outline-text-2" id="text-3">
+<ol class="org-ol">
+<li>Newsletters :
+<dl class="org-dl">
+<dt>German / Allemand</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html">german-newsletter1</a></dd>
+<dt>Arabic / Arabe</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_arabic1.html">arabic-newsletter1</a></dd>
+<dt>Chinese / Chinois</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_chinese1.html">chinese-newsletter1</a></dd>
+<dt>Hebrew / Hébreux</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_hebrew1.html">hebrew-newsletter1</a></dd>
+<dt>Portuguese / Portugais</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_portuguese.html">portuguese-newsletter1</a></dd>
+<dt>Russian / Russe</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_russian1.html">russian-newsletter1</a></dd>
+</dl></li>
+<li>Series :
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r">Learn German with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA">Learn Arabic with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9">Learn Chinese with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt">Learn Spanish with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0">Learn Hebrew with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAn0zUUPYsMDd8_1J_UtfRxh">Learn Portuguese with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB">Learn Russian with me</a></li>
+</ul></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org310b847" class="outline-2">
+<h2 id="org310b847"><span class="section-number-2">4</span> Additional Ressources</h2>
+<div class="outline-text-2" id="text-4">
+<ul class="org-ul">
+<li>The linked <a href="https://youtu.be/chY7MyproNw">video</a></li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html">The newsletter for german speaker</a></li>
+<li><a href="https://fsi-languages.yojik.eu/languages/oldfsi/languages/german.html">FSI complete German course</a></li>
+<li><a href="https://youtu.be/lvm-8rqqROk">Months and Zodiac</a></li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/index.html">The Home Page</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6c401ef" class="outline-2">
+<h2 id="org6c401ef"><span class="section-number-2">5</span> Ressources complémentaires</h2>
+<div class="outline-text-2" id="text-5">
+<ul class="org-ul">
+<li>La <a href="https://youtu.be/chY7MyproNw">vidéo</a> associée</li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html">La newsletter de l'anglais pour l'allemand</a></li>
+<li><a href="https://fsi-languages.yojik.eu/languages/oldfsi/languages/german.html">Le cours complet du FSI</a></li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/index.html">La page d'accueil</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga695f44" class="outline-2">
+<h2 id="orga695f44"><span class="section-number-2">6</span> Constructive Feedback</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+Please subscribe to
+the <a href="https://www.youtube.com/channel/UCPRNxpF6hJbwD8Ss37u611A?view_as=subscriber&amp;ab_channel=LanguageScience">channel</a> because that will help me. Any feedback and comment
+would be appreciate. I have to precise that I am not an german
+specialist, indeed I'm just a beginner who enjoy to share what he is
+learning.
+</p>
+
+<p>
+<span class="underline"><b>Does this content is useful for you?</b></span>
+</p>
+<ol class="org-ol">
+<li>If the answer is yes then  please <b>subscribe</b> and spread the word
+by sharing the links on your social media.</li>
+<li>If the answer is no then please tell me what can I do in order to
+help you in your learning and improve my material.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orge852534" class="outline-2">
+<h2 id="orge852534"><span class="section-number-2">7</span> Retours constructifs</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+Merci de
+vous abonner à la <a href="https://www.youtube.com/channel/UCPRNxpF6hJbwD8Ss37u611A?view_as=subscriber&amp;ab_channel=LanguageScience">chaîne</a> parce que ça m'aidera. Toute critique
+constructive ou commentaire utile seront appréciés. Je dois préciser
+que je ne suis pas un spécialiste de l'allemand, en effet je suis juste
+un débutant qui aime partager ce qu'il apprend.
+</p>
+
+<p>
+<span class="underline"><b>Est-ce que ce contenu est utile pour vous ?</b></span>
+</p>
+<ol class="org-ol">
+<li>Si la réponse est oui alors merci de vous <b>abonner</b> et de faire
+passer le mot en partageant les liens sur vos réseaux sociaux.</li>
+<li>Si la réponse est non alors merci de me dire ce que je peux faire
+afin de vous aider dans votre apprentissage et améliorer mon
+matériel.</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Laurent Garnier</p>
+<p class="date">Created: 2017-12-25 Mon 17:04</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
