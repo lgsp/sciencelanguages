@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2017-12-26 Tue 16:59 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ACTE#9: TO HAVE TO BE</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Laurent Garnier" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+
+ body { font-size: 2em; }
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">ACTE#9: TO HAVE TO BE</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgc60ad12">1. To Be: كان kana</a>
+<ul>
+<li><a href="#org8c6658c">1.1. Conjugation</a></li>
+<li><a href="#org526a99f">1.2. Non-verbal sentences or nominal sentences gumlatun ismiyyatun جملةاسعية</a></li>
+<li><a href="#org0772284">1.3. Verbal sentences = gumlatun fi liyyatun جملة فعلية</a></li>
+<li><a href="#org69c7e2c">1.4. Vocabulary</a></li>
+</ul>
+</li>
+<li><a href="#org13271d5">2. To Have</a>
+<ul>
+<li><a href="#org97309ba">2.1. Conjugation</a></li>
+<li><a href="#org37c78a1">2.2. Prepositions instead</a></li>
+</ul>
+</li>
+<li><a href="#org196b4ac">3. Feedback</a></li>
+<li><a href="#org1c0871d">4. Critiques constructives</a></li>
+<li><a href="#org1428343">5. Additional Ressources</a></li>
+<li><a href="#org00754ea">6. Ressources complémentaires</a></li>
+<li><a href="#org1b0f11f">7. Other languages / Autres langues</a></li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgc60ad12" class="outline-2">
+<h2 id="orgc60ad12"><span class="section-number-2">1</span> To Be: كان kana</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org8c6658c" class="outline-3">
+<h3 id="org8c6658c"><span class="section-number-3">1.1</span> Conjugation</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+كوّن koon 
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">I am</td>
+<td class="org-left">انااكون ana akounoun</td>
+</tr>
+
+<tr>
+<td class="org-left">You are (sing. Male)</td>
+<td class="org-left">انت تكون anta takounoun</td>
+</tr>
+
+<tr>
+<td class="org-left">You are (sing. Female)</td>
+<td class="org-left">انت تكونين anti takounin</td>
+</tr>
+
+<tr>
+<td class="org-left">You are (plural M)</td>
+<td class="org-left">أنتم تكونان antum takounaan</td>
+</tr>
+
+<tr>
+<td class="org-left">You are (plural F)</td>
+<td class="org-left">أنتن تكونون antun takounoun</td>
+</tr>
+
+<tr>
+<td class="org-left">You are (2)</td>
+<td class="org-left">أنتما antouma</td>
+</tr>
+
+<tr>
+<td class="org-left">He is</td>
+<td class="org-left">هو يكمن houa yakoun</td>
+</tr>
+
+<tr>
+<td class="org-left">She is</td>
+<td class="org-left">هي تكون hiya takounoun</td>
+</tr>
+
+<tr>
+<td class="org-left">They are (2 M)</td>
+<td class="org-left">هما hum</td>
+</tr>
+
+<tr>
+<td class="org-left">They are (plural F)</td>
+<td class="org-left">هُن min</td>
+</tr>
+
+<tr>
+<td class="org-left">They are (plural M)</td>
+<td class="org-left">هم تكونون hum takounoun</td>
+</tr>
+
+<tr>
+<td class="org-left">We are</td>
+<td class="org-left">نحن نكون ahnoun na kounoun</td>
+</tr>
+
+<tr>
+<td class="org-left">They (dual)</td>
+<td class="org-left">هما تكونان huma takounaan</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org526a99f" class="outline-3">
+<h3 id="org526a99f"><span class="section-number-3">1.2</span> Non-verbal sentences or nominal sentences gumlatun ismiyyatun جملةاسعية</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+أنتم معلمون antun mueallimun
+You (men) all are teachers
+</p>
+
+<p>
+أنتن معلمات antun mueallimaat
+You (women) all are teachers
+</p>
+
+<p>
+هما عر بتان huma arabiyaan
+They (male) are (2) Arabs.
+</p>
+
+<p>
+هماعربيتان huma arabiyataan 
+They (female) are (2) Arabs.
+</p>
+
+<p>
+هم معلمون hum muellimun
+They (male) are teachers.
+</p>
+
+<p>
+هُن معلمات hum mueallimaat
+They (female) are teachers.
+</p>
+
+<p>
+أنأمن مرسيليا ana min marsilia
+I am from Marseille
+</p>
+
+<p>
+انابخير ana behair 
+I am fine.
+</p>
+
+<p>
+اناهناطوعا ana houna tawan 
+I am here voluntarily
+</p>
+
+<p>
+انالست مجنو ن ana last majnoon 
+I am not crazy
+</p>
+
+<p>
+نحن بشر nahno basher 
+We are humans.
+</p>
+
+<p>
+نحن اخنياء nahno aghnya’a
+We are rich.
+</p>
+
+<p>
+نحن المستقبل nahno al mostaqbal
+We are the future
+</p>
+
+<p>
+نحن في الطر يق nahno fe al tareeq 
+We are on the road 
+</p>
+
+<p>
+أنتما سعيدن. Antouma saeedan 
+You (dual) are happy
+</p>
+
+<p>
+I am French = anâ faransiy 
+انافرنسي
+</p>
+
+<p>
+I am happy = anâ saîd 
+اناسعيد
+</p>
+
+<p>
+I am sorry = anâ tabân 
+انا تعبان
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0772284" class="outline-3">
+<h3 id="org0772284"><span class="section-number-3">1.3</span> Verbal sentences = gumlatun fi liyyatun جملة فعلية</h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+We are in the bank = nahnu fi l-bank نحن في البنك 
+</p>
+
+<p>
+My mother is in school with my brother = ummī fī l-madrasa ma a akhī
+أمي في المدرسةمع أخي
+</p>
+
+<p>
+This chair is very old = hahda l-kursī qadīm jiddan 
+مذ ا لكرسي قديم جدا
+</p>
+</div>
+</div>
+
+<div id="outline-container-org69c7e2c" class="outline-3">
+<h3 id="org69c7e2c"><span class="section-number-3">1.4</span> Vocabulary</h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+قلم qalamun 
+Pen
+</p>
+
+<p>
+قلمان qalamaane
+2 pens
+</p>
+
+
+<p>
+رجل rajul 
+Man
+</p>
+
+<p>
+رجلان rajulane
+2 men
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org13271d5" class="outline-2">
+<h2 id="org13271d5"><span class="section-number-2">2</span> To Have</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org97309ba" class="outline-3">
+<h3 id="org97309ba"><span class="section-number-3">2.1</span> Conjugation</h3>
+<div class="outline-text-3" id="text-2-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">I have</td>
+<td class="org-left">عذدي ind+e</td>
+</tr>
+
+<tr>
+<td class="org-left">You have (M)</td>
+<td class="org-left">عذدك ind+ka</td>
+</tr>
+
+<tr>
+<td class="org-left">You have (F)</td>
+<td class="org-left">عذدك ind+ki</td>
+</tr>
+
+<tr>
+<td class="org-left">He has</td>
+<td class="org-left">عذده ind+hu</td>
+</tr>
+
+<tr>
+<td class="org-left">She has</td>
+<td class="org-left">عذدها ind+ha</td>
+</tr>
+
+<tr>
+<td class="org-left">We have</td>
+<td class="org-left">عذدنا ind+na</td>
+</tr>
+
+<tr>
+<td class="org-left">They have (M)</td>
+<td class="org-left">عذدهم ind+hum</td>
+</tr>
+
+<tr>
+<td class="org-left">They have (F)</td>
+<td class="org-left">عذدهن ind+hunna</td>
+</tr>
+
+<tr>
+<td class="org-left">You have (PM)</td>
+<td class="org-left">عذدكم ind+kum</td>
+</tr>
+
+<tr>
+<td class="org-left">You have (PF)</td>
+<td class="org-left">عذدكن ind+kunna</td>
+</tr>
+
+<tr>
+<td class="org-left">You have (2M)</td>
+<td class="org-left">عذدكما ind+kuma</td>
+</tr>
+
+<tr>
+<td class="org-left">They have (2M)</td>
+<td class="org-left">عذدهما ind+huma</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+<div id="outline-container-org37c78a1" class="outline-3">
+<h3 id="org37c78a1"><span class="section-number-3">2.2</span> Prepositions instead</h3>
+<div class="outline-text-3" id="text-2-2">
+<ul class="org-ul">
+<li>ma a مع :</li>
+<li>مع الطالب سيارة</li>
+<li>Ma a t-tālibi sayyāratun</li>
+<li>The student has a car</li>
+
+<li>inda عند :</li>
+<li>عند الخبيرفكرة</li>
+<li>Inda l-habiri fikratun</li>
+<li>The expert has an idea.</li>
+</ul>
+<p>
+عند + ه 
+عنده كتاب جديد inda kitab jadid
+He has a new book
+</p>
+
+<p>
+عندها كتاب جديد indaha kitab jadid 
+She has a new book
+</p>
+
+<p>
+عندي كتاب جديد indi kitab jadid
+I have a new book
+</p>
+
+<p>
+Abstract:
+ل+ي 
+لي ابن و امد li iben wahemd 
+I have a son 
+</p>
+
+<p>
+لهم ابن و امد lahum iben wahemd
+They have a son
+</p>
+
+<p>
+لنا ابن و امد lana iben wahemd
+We have a son
+</p>
+
+<p>
+Place:
+في fi
+هذه الدينة فيها بانان جميلة 
+Hadith almadinat fiya baniya medina
+This city has beautiful buildings
+</p>
+
+<p>
+بيتي فيه اربع غرف Bayti fih arbaa ghuraf
+My house has 4 rooms
+</p>
+
+<ul class="org-ul">
+<li>ladā لدى :</li>
+<li>لدىالتاجرمال كثير</li>
+<li>Ladā t-tāgiri mālun katīrun</li>
+<li>The merchant has a lot of money</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-org196b4ac" class="outline-2">
+<h2 id="org196b4ac"><span class="section-number-2">3</span> Feedback</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+You can find a link <a href="https://youtu.be/ugi0E0reSkI">here</a> for watching the video. Please subscribe to
+the channel because that will help me. Any feedback and comment
+would be appreciate. I have to precise that I am not an arabic
+specialist, indeed I'm just a beginner who enjoy to share what he is
+learning.
+</p>
+
+<p>
+Does this content is useful for you? 
+</p>
+<ol class="org-ol">
+<li>If the answer is yes then  please subscribe and spread the word
+by sharing the links on your social media.</li>
+<li>If the answer is no then please tell me what can I do in order to
+help you in your learning and improve my material.</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org1c0871d" class="outline-2">
+<h2 id="org1c0871d"><span class="section-number-2">4</span> Critiques constructives</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+Vous pouvez trouver un lien <a href="https://youtu.be/ugi0E0reSkI">ici</a> pour regarder la vidéo. Merci de
+vous abonner à la chaîne parce que ça m'aidera. Toute critique
+constructive ou commentaire utile seront appréciés. Je dois préciser
+que je ne suis pas un spécialiste de l'arabe, en effet je suis juste
+un débutant qui aime partager ce qu'il apprend.
+</p>
+
+<p>
+Est-ce que ce contenu est utile pour vous ?
+</p>
+<ol class="org-ol">
+<li>Si la réponse est oui alors merci de vous abonner et de faire
+passer le mot en partageant les liens sur vos réseaux sociaux.</li>
+<li>Si la réponse est non alors merci de me dire ce que je peux faire
+afin de vous aider dans votre apprentissage et améliorer mon
+matériel.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org1428343" class="outline-2">
+<h2 id="org1428343"><span class="section-number-2">5</span> Additional Ressources</h2>
+<div class="outline-text-2" id="text-5">
+<ul class="org-ul">
+<li><a href="https://youtu.be/YmIk-u1bWH8">The linked video</a></li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html">The newsletter for german speaker</a></li>
+<li><a href="https://fsi-languages.yojik.eu/languages/oldfsi/languages/german.html">FSI complete german course</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org00754ea" class="outline-2">
+<h2 id="org00754ea"><span class="section-number-2">6</span> Ressources complémentaires</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li><a href="https://youtu.be/YmIk-u1bWH8">La vidéo associée</a></li>
+<li><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html">La newsletter de l'anglais pour l'allemand</a></li>
+<li><a href="https://fsi-languages.yojik.eu/languages/oldfsi/languages/german.html">Le cours complet du FSI</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org1b0f11f" class="outline-2">
+<h2 id="org1b0f11f"><span class="section-number-2">7</span> Other languages / Autres langues</h2>
+<div class="outline-text-2" id="text-7">
+<ol class="org-ol">
+<li>Newsletters :
+<dl class="org-dl">
+<dt>German / Allemand</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html">german-newsletter1</a></dd>
+<dt>Arabic / Arabe</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_arabic1.html">arabic-newsletter1</a></dd>
+<dt>Chinese / Chinois</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_chinese1.html">chinese-newsletter1</a></dd>
+<dt>Hebrew / Hébreux</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_hebrew1.html">hebrew-newsletter1</a></dd>
+<dt>Portuguese / Portugais</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_portuguese.html">portuguese-newsletter1</a></dd>
+<dt>Russian / Russe</dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_russian1.html">russian-newsletter1</a></dd>
+</dl></li>
+<li>Series :
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r">Learn German with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA">Learn Arabic with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9">Learn Chinese with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt">Learn Spanish with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0">Learn Hebrew with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAmY0FMGH6u68j4lwBpiEQFC">Learn Portuguese with me</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB">Learn Russian with me</a></li>
+</ul></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Laurent Garnier</p>
+<p class="date">Created: 2017-12-26 Tue 16:59</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
