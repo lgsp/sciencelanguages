@@ -1,0 +1,456 @@
+#+TITLE: Papier bleu de Steem ([[https://steem.io/steem-bluepaper.pdf][Steem bluepaper]])
+#+AUTHOR: Laurent Garnier
+
+Un protocole pour permettre une monnaie sociale intelligente pour les
+éditeurs et les entreprises de contenu à travers l'Internet.
+
+* Introduction
+  Steem fournit un protocole[fn:1] de chaîne de blocs (blockchain)
+  évolutif pour un contenu accessible publiquement et immuable, ainsi
+  qu'un jeton numérique rapide et sans frais appelé STEEM[fn:2]) ce
+  qui permet aux gens de gagner de la monnaie (STEEM) en utilisant
+  leur cerveau (ce qu'on peut appeler "Preuve de cerveau"
+  [Proof-of-Brain]). Les deux blocs de construction de ce protocole, à
+  la fois la chaîne de blocs et le jeton, dépendent l'un de l'autre
+  pour la sécurité, l'immuabilité et la longévité, et sont donc partie
+  intégrante de l'existence de chacun. Steem a fonctionné avec succès
+  pendant plus d'un an, et a maintenant dépassé Bitcoin et Ethereum en
+  nombre de transactions traitées.[fn:3]
+
+  Comparé à d'autres chaînes de blocs, Steem se distingue comme la première
+  base de données accessible au public pour du contenu stocké de façon
+  immuable sous la forme de texte brut, avec un mécanisme d'incitation
+  intégré. Cela fait de Steem une plate-forme de publication publique
+  à partir de laquelle toute application Internet peut tirer et
+  partager des données tout en récompensant ceux qui contribuent au
+  contenu le plus précieux. 
+
+  Dans le domaine des crypto-monnaies, les propriétés uniques de STEEM
+  le rendent à la fois «intelligente» et «sociale» par rapport à
+  d'autres, comme le bitcoin et l'éther. Cela provient de deux
+  nouvelles fonctionnalités du jeton. La première est une piscine de
+  jetons (pool of tokens) dédiés à la création de contenu et à la
+  conservation (appelé «piscine de récompenses» ["rewards pool"]). La
+  seconde est un système de vote qui tire parti de la sagesse de la
+  foule pour évaluer la valeur du contenu et distribuer des jetons à
+  celui-ci. Ces deux propriétés uniques lorsqu'elles sont combinées
+  sont appelées Preuve de Cerveau, ce qui est un principe basé sur la
+  Preuve de Travail (Proof-of-Work),[fn:4] déstiné à insister sur le
+  travail humain requis pour distribuer des jetons aux participants de
+  la communauté. La preuve de cerveau positionne STEEM comme un outil
+  pour construire des communautés en perpétuelle croissance, qui
+  encouragent leurs membres à ajouter de la valeur à la communauté
+  grâce à la structure de récompenses intégrée. 
+
+  En plus de ces progrès dans la technologie de la chaîne de bloc et des jetons,
+  Steem en tant que système fournit des fonctionnalités avancées
+  supplémentaires pour améliorer l'expérience de l'utilisateur, comme
+  la récupération de compte volé[fn:5], les services d'entiercement[fn:6],
+  le contenu favorisé par l'utilisateur et les comptes d'épargne. Tout
+  cela est fait tout en fournissant aux utilisateurs trois fois le
+  temps de confirmation et zéro frais sur toutes les
+  transactions. Tout cela lui permet de soutenir la mission d'apporter
+  une monnaie intelligente et sociale aux éditeurs et bâtisseurs de
+  communautés sur Internet. 
+
+
+
+
+
+
+
+
+
+
+* Preuve de Cerveau : Jetons Intelligents et Sociaux
+  Les systèmes de jetons qui récompensent les utilisateurs lorsqu'ils
+  contribuent à un système de communauté basé sur des jetons
+  nécessitent des mécanismes pour établir et évaluer la valeur sociale
+  du contenu: nous appelons cela «preuve de cerveau».
+** La piscine de récompenses ("D'où les jetons viennent-ils ?")
+   L'un des aspects les plus innovants (et des plus mal compris) de la
+   chaîne de blocs Steem est la "piscine de récompenses" à partir de
+   laquelle les jetons sont distribués aux créateurs de contenu de
+   valeur. Afin de comprendre ce qu'est la piscine de récompenses, il
+   faut d'abord comprendre que les jetons sont produits différemment
+   dans les chaînes de blocs DPoS[fn:7] qu'ils ne le sont dans les
+   chaînes de blocs PoW (Preuve de Travail). Dans les chaînes de blocs PoW
+   traditionnelles, les jetons sont produits régulièrement mais
+   distribués aléatoirement aux personnes dont les machines effectuent
+   un travail ("les mineurs"). 
+
+   Différent des crypto-monnaies de type PoW, les jetons de Steem sont
+   générés à un taux fixe d'un bloc toutes les trois secondes. Ces
+   jetons sont distribués aux différents acteurs du système selon les
+   règles définies par la chaîne de blocs. Ces acteurs, tels que les
+   créateurs de contenu, les témoins et les conservateurs
+   (organisateurs ?[fn:8]), rivalisent de manière spécialisée pour les
+   jetons. Contrairement aux moyens traditionnels de distribution de
+   PoW, où les mineurs rivalisent sur la puissance informatique brute,
+   les acteurs du réseau Steem sont incités à être compétitifs de
+   manière à ajouter de la valeur au réseau.
+
+   Le taux de génération de nouveaux jetons a été fixé à 9,5% par an à
+   compter de décembre 2016, et diminue à raison de 0,01% tous les 250
+   000 blocs, soit environ 0,5% par an. L'inflation continuera à
+   décroître à ce rythme jusqu'à atteindre 0,95%, après une période
+   d'environ 20,5 ans.
+
+   De l'offre de nouveaux jetons créés par la chaîne de blocs Steem chaque
+   année, 75% de ces jetons composent la «piscine de récompenses» qui sont
+   distribués aux créateurs de contenu et aux conservateurs de
+   contenu. 15% sont distribués aux détenteurs de jetons acquis, et
+   10% sont distribués aux Témoins, les producteurs de blocs coopérant
+   au protocole de consensus DPoS de Steem.
+
+** Récompenses pour les créateurs de contenu et les conservateurs   
+   Les utilisateurs qui produisent du contenu ajoutent de la valeur au
+   réseau en créant du matériel qui attirera de nouveaux utilisateurs
+   vers la plateforme, tout en maintenant l'engagement et le
+   divertissement des utilisateurs existants. Cela facilite la
+   distribution de la monnaie à un plus grand nombre d'utilisateurs et
+   augmente l'effet de réseau. Les utilisateurs qui prennent le temps
+   d'évaluer et de voter pour le contenu jouent un rôle important dans
+   la distribution de la devise aux utilisateurs qui ajoutent le plus
+   de valeur. La chaîne de blocs récompense ces deux activités par rapport
+   à leur valeur sur la base de la sagesse collective de la foule
+   rassemblée à travers le système de vote pondéré par les parts.
+** Voter avec des jetons jalonnés pour déterminer l'attribution des récompenses
+   Steem opère sur la base de un-STEEM, un vote. Selon ce modèle, les
+   personnes qui ont le plus contribué à la plateforme, selon le solde
+   de leur compte, ont le plus d'influence sur la façon dont les
+   contributions sont évaluées. L'enjeu peut être acheté ou gagné. Les
+   utilisateurs ne peuvent pas acquérir une influence supplémentaire
+   en possédant plusieurs comptes, car un même compte avec un montant
+   de participation aura la même influence que deux comptes différents
+   partageant le même montant de participation. Le seul moyen pour les
+   utilisateurs d'accroître leur influence sur la plateforme est
+   d'augmenter leur participation.
+
+   En outre, Steem ne permet pas aux membres de voter avec STEEM quand il
+   est engagé à un calendrier d'acquisition de 13 semaines appelé
+   Steem Power. Selon ce modèle, les membres ont une incitation
+   financière à voter de manière à maximiser la valeur à long terme de
+   leur STEEM.
+* Vitesse et échelle sur la Blockchain Steem
+  La chaîne de blocs Steem est conçue pour être l'une des chaînes de blocs
+  les plus rapides et les plus efficaces, ce qui est nécessaire pour
+  supporter la quantité de trafic attendue sur une plate-forme de
+  médias sociaux plus grande que la taille de Reddit. Steem a déjà
+  dépassé Bitcoin en nombre de transactions, et est capable d'évoluer
+  pour prendre en charge 10 000 transactions ou plus par seconde.
+** La preuve de participation déléguée (DPoS)
+   Souvent engorgées par la preuve de travail (PoW)[fn:9], de
+   nombreuses chaînes de blocs ne peuvent pas s'étendre au-delà de
+   trois transactions par secondes, ce qui est une fraction du trafic
+   financier mondial. Steem avait besoin d'une bien plus grande
+   échelle et vitesse que celle offerte par PoW, et ainsi un
+   algorithme moins connu appelé Preuve de Participation Déléguée
+   (DPoS)[fn:10] a été mis à profit pour jeter les bases d'une
+   chaîne de blocs adaptée à des milliards d'utilisateurs. 
+
+   Grâce au DPoS, la chaîne de blocs Steem est capable de générer un nouveau
+   bloc toutes les 3 secondes avec une charge de calcul minimale. Cela
+   signifie que la chaîne de blocs peut traiter plus de transactions et
+   contenir plus d'informations, y compris du contenu.
+
+   En définissant les règles pour le cas où un Hardfork se produit,
+   les témoins élus dans le cadre DPoS peuvent rapidement et
+   efficacement décider d'aller de l'avant avec une proposition
+   de hardfork, permettant au protocole chaîne de blocs Steem d'évoluer plus
+   rapidement que la plupart des autres. La chaîne de blocs Steem a déjà
+   bifurquée 18 fois[fn:11], et chaque fois qu'un Hardfork s'est
+   produit, une seule chaîne a persisté après la bifurcation.
+** Chaîne de base (ChainBase)
+   ChainBase[fn:12] est la partie de la base de données de la pile
+   de chaîne de blocs et qui a remplacé Graphene[fn:13]
+   en 2016. ChainBase a des temps de chargement et de sortie plus
+   rapides, prend en charge l'accès parallèle à la base de données et
+   est plus robuste contre les plantages que son prédécesseur.La
+   corruption de la base de données est également moins fréquente,
+   elle permet un "instantané" instantané de l'état de la base de
+   données et peut servir plus de requêtes RPC à partir de la même
+   mémoire.  
+** AppBase
+   AppBase est la première étape dans la création d'une FABRIC
+   multi-chaîne. AppBase permet à de nombreux composants de la chaîne
+   de blocs Steem de devenir modulaire en créant des chaînes de blocs
+   supplémentaires sans consensus comme greffons (plugins) dédiés. Ces
+   greffons peuvent être mis à jour beaucoup plus rapidement parce
+   qu'ils n'ont pas besoin de rejouer la chaîne de blocs en
+   entier. Cela rend steemd[fn:14] beaucoup plus efficace et facile à
+   maintenir et à étendre.
+
+   En pratique, AppBase permet à différents cœurs, ou même à
+   différents ordinateurs, de maintenir différentes parties de la
+   chaîne de blocs Steem. Cela est significativement plus efficace que
+   de nécessiter que chaque coeur, et chaque ordinateur du réseau
+   maintienne l'entière chaîne de blocs. Modulariser la chaîne de
+   blocs permet de tirer pleinement parti de la nature modulaire des
+   ordinateurs. Cela est un pas nécessaire dans le long processus de
+   création d'une chaîne de blocs entièrement parallèle, entièrement
+   optimisée. 
+* Fonctionnalités de la plate-forme Steem
+  La chaîne de blocs Steem sert un double but d'être à la fois un système de
+  traitement de jeton numérique, et une plate-forme de média social de
+  masse. Les fonctionnalités offertes par la chaîne de blocs
+  nécessitent de soutenir les deux buts, et de fournir aux
+  utilisateurs une experience de classe mondiale lorsqu'ils utilisent
+  chacun des aspects de la plate-forme.
+** Primitives conçues pour les applications de contenu
+   Steem offre aux utilisateurs la possibilité unique de publier et
+   stocker différents types de contenus directement et de façon
+   permanente à l'intérieur du registre immuable de la chaîne de blocs
+   en tant que texte brute. Une fois stockées dans la chaîne de blocs,
+   les données deviennent disponibles publiquement pour les
+   développeurs pour construire avec. Les développeurs sont capables
+   d'intéragir avec le contenu directement dans la chaîne de blocs en
+   utilisant les APIs[fn:15] disponibles. Plusieurs développeurs de
+   primitives de la chaîne de blocs peuvent construire à partir de noms de
+   compte, messages, commentaires, votes et solde de compte.
+** Système de nom natif
+   Les adresses de portefeuille utilisées par de nombreuses
+   technologies de la chaîne de blocs, telles que Bitcoin et Ethereum, se
+   composaient historiquement de longues chaînes de lettres et de
+   chiffres aléatoires. Cependant, ces adresses de portefeuille
+   peuvent rendre difficile la transaction avec d'autres utilisateurs
+   dans un contexte de média social en ligne parce que les
+   utilisateurs ne peuvent pas se rappeler les adresses de longue chaîne
+   de mémoire. La chaîne de blocs Steem utilise chaque nom
+   d'utilisateur comme adresse de portefeuille, ce qui renforce
+   l'expérience utilisateur pour les participants qui tentent
+   d'envoyer des jetons car ils peuvent vérifier les adresses à partir
+   de leur propre mémoire. 
+** Steem Blockchain Dollars (SBD)
+   De nombreux utilisateurs initiés à la crypto-monnaie peinent à
+   comprendre comment les «jetons internet magiques» attribués par la
+   plateforme peuvent réellement avoir une valeur réelle. Afin de
+   combler le fossé entre les systèmes de monnaie fiduciaire plus
+   traditionnels auxquels les utilisateurs traditionnels sont habitués
+   et les jetons de crypto-monnaie qui leur sont attribués via la
+   plate-forme, une nouvelle monnaie appelée Steem Blockchain Dollars
+   (SBD) a été créée. Les jetons SBD sont conçus pour être étroitement
+   liés à un dollar, de sorte que les utilisateurs qui les reçoivent
+   peuvent savoir à peu près combien ils valent en termes de «dollars
+   réels». Les jetons SBD offrent également une monnaie relativement
+   stable aux utilisateurs s'ils veulent préserver la valeur de leur
+   compte par rapport à l'USD. Une explication technique plus
+   détaillée peut être trouvée dans le livre blanc technique de
+   Steem[fn:16].
+** Echange décentralisé   
+   La chaîne de blocs Steem offre un échange de jeton décentralisé,
+   similaire aux échanges de Bitshare.[fn:17] L'échange permet aux
+   utilisateurs d'échanger leurs jetons STEEM et SBD via un marché
+   pair à pair public décentralisé. Les utilisateurs peuvent placer
+   des ordres d'achat et de vente, et l'appariement des ordres est
+   effectué automatiquement par la chaîne de blocs. Il existe
+   également un carnet de commandes accessible au public et un
+   historique des commandes que les utilisateurs peuvent utiliser pour
+   analyser le marché. Les utilisateurs peuvent interagir directement
+   avec l'échange en utilisant l'API de la chaîne de blocs, ou utiliser une
+   interface graphique telle que celle sur Steemit.com.[fn:18] 
+** Paiements par l'intermédiaire de l'entiercement
+   La nature irréversible des transactions de la chaîne de blocs est un élément
+   de sécurité important, bien qu'il y ait de nombreux cas où les
+   utilisateurs ne soient pas à l'aise pour envoyer leurs jetons à un
+   autre individu sans moyen de les récupérer si l'autre utilisateur
+   ne respecte pas leur contrat. La chaîne de blocs Steem fournit un
+   moyen pour les utilisateurs de s'envoyer des pièces de monnaie avec
+   un tiers désigné comme un service d'entiercement. L'utilisateur
+   agissant comme le service d'entiercement est capable de déterminer
+   si les termes de l'accord ont été respectés, et soit autoriser les
+   fonds à être remis au récepteur ou renvoyé à l'expéditeur.
+** Structure de clé privée hiérarchique
+   Steem utilise un système de clé privée hiérarchique unique en son
+   genre pour faciliter les transactions à faible sécurité et haute
+   sécurité. Les transactions à faible sécurité ont tendance à être
+   sociales, comme l'affichage ou les commentaires. Les transactions
+   de haute sécurité ont tendance à être des transferts et des
+   changements de clés. Cela permet aux utilisateurs d'implémenter
+   différents niveaux de sécurité pour leurs clés, en fonction de
+   l'accès que les clés permettent. 
+
+   Ces clés privées sont la Publication, Active et Propriétaire. La
+   clé de publication permet aux comptes de publier, commenter,
+   modifier, voter, resteem[fn:19], et suivre/rendre muet d'autres
+   comptes. La clé active est destinée à des tâches plus délicates
+   telles que le transfert de fonds, les transactions de montée /
+   descente, la conversion de Steem Dollars, le vote de témoins, la
+   passation d'ordres au marché et la réinitialisation de la clé de
+   publication. La clé du propriétaire est uniquement destinée à
+   être utilisée lorsque cela est nécessaire. C'est la clé la plus
+   puissante car elle peut changer n'importe quelle clé d'un compte, y
+   compris la clé du propriétaire, et prouver la propriété pendant une
+   récupération de compte. Idéalement, elle est destinée à être stockée
+   hors ligne et utilisée uniquement lorsque les clés du compte doivent
+   être modifiées ou pour récupérer un compte compromis.
+
+   Steem facilite également l'utilisation d'un mot de passe principal
+   qui crypte les trois clés. Des services Web peuvent utiliser un mot de
+   passe principal qui décrypte et signe avec la clé privée
+   nécessaire. Les mots de passe principaux peuvent permettre aux
+   utilisateurs de faire confiance à certains services pour empêcher
+   le transfert de clés inappropriées sur tous les serveurs,
+   augmentant ainsi l'expérience utilisateur tout en maintenant un
+   environnement de signature côté client sécurisé.
+
+** Autorités Multi Sig   
+   La chaîne de blocs Steem permet à une autorité d'être divisée entre
+   plusieurs entités, de sorte que plusieurs utilisateurs peuvent
+   partager la même autorité, ou plusieurs entités sont nécessaires
+   pour autoriser une transaction afin qu'elle soit valide. Ceci est
+   fait de la même manière que Bitshares où chaque paire de clés
+   publique / privée reçoit un poids, et un seuil est défini pour
+   l'autorité. Pour qu'une transaction soit valide, suffisamment
+   d'entités doivent signer pour que la somme de leurs poids atteigne
+   ou dépasse le seuil.
+   
+** Bénéficiaires de récompenses multiples   
+   Pour un poste donné, il peut y avoir un certain nombre de personnes
+   différentes qui ont un intérêt financier dans la récompense. Cela
+   inclut l'auteur, les co-auteurs possibles, les référents, les
+   fournisseurs d'hébergement, les blogs qui ont intégré les
+   commentaires de la chaîne de blocs et les développeurs
+   d'outils. Quel que soit le site ou l'outil utilisé pour construire
+   un article ou un commentaire, vous pourrez définir comment les
+   récompenses de ce commentaire sont réparties entre les différentes
+   parties. Cela permet diverses formes de collaboration, ainsi qu'un
+   moyen pour les plates-formes qui sont construites au-dessus de la
+   chaîne de blocs Steem pour collecter une partie des récompenses de leurs
+   utilisateurs.
+
+** Jetons de média intelligents (Smart Media Tokens)
+   Cette couche de protocole est en cours de développement. Son livre
+   blanc sera posté ici.
+
+** Récupération de compte volé
+   Si le compte d'un utilisateur est compromis, il peut changer de clé
+   en utilisant sa clé privée. Dans le cas où l'attaquant est capable
+   de compromettre la clé privée du propriétaire et de changer le mot
+   de passe, l'utilisateur dispose de 30 jours pour soumettre une clé
+   privée auparavant fonctionnelle via le processus de récupération de
+   compte volé de Steem et reprendre le contrôle de son compte. Cela
+   peut être offert par une personne ou une entreprise qui fournit des
+   services d'enregistrement à Steem. Il n'est pas obligatoire pour le
+   registraire de fournir ce service à ses utilisateurs, mais il est
+   disponible pour augmenter la valeur de l'expérience des
+   utilisateurs d'un registraire.
+** Sécurité à travers les serrures de temps
+   Si la clé active ou propriétaire d'un utilisateur est compromise,
+   l'attaquant aura un accès complet à tous les fonds de son
+   compte. Parce que les transactions chaîne de blocs sont irréversibles,
+   les utilisateurs n'ont aucun moyen de récupérer leurs fonds après
+   avoir été volés. 
+
+   La chaîne de blocs Steem permet aux utilisateurs de stocker leurs jetons
+   STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne
+   peuvent être retirés qu'après une période d'attente de trois
+   jours. En outre, STEEM qui est détenu dans le calendrier
+   d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13
+   par semaine, après une période d'attente initiale de sept
+   jours. Ces verrous temporels empêchent un attaquant d'accéder
+   immédiatement à la totalité des fonds de l'utilisateur, de sorte
+   que le propriétaire légitime ait le temps de reprendre le contrôle
+   de son compte avant que tous ses fonds puissent être retirés.
+** Limitation du débit de bande passante pour les opérations sans frais
+   Parce que les témoins sont entièrement payés grâce à la génération
+   de nouveaux jetons, il n'est pas nécessaire de facturer aux
+   utilisateurs des frais pour alimenter la chaîne de blocs. La seule
+   raison de facturer des frais aurait pour effet dissuasif d'empêcher
+   les utilisateurs d'effectuer un nombre déraisonnable de
+   transactions, ce qui pourrait avoir un impact sur la performance de
+   la chaîne de blocs.
+
+   Afin de placer des limites raisonnables sur l'utilisation du
+   système, chaque utilisateur dispose d'une bande passante
+   limitée. Lorsque les utilisateurs effectuent des opérations de
+   chaîne de blocs telles que les transferts de jetons, l'envoi de
+   contenu et le vote, ils utilisent une partie de leur bande
+   passante. Si un utilisateur dépasse sa capacité de bande passante,
+   il doit attendre d'effectuer des actions supplémentaires jusqu'à ce
+   que sa bande passante se recharge.
+   
+   Les limites de bande passante s'ajustent en fonction de
+   l'utilisation du réseau, de sorte que les utilisateurs disposent
+   d'une bande passante plus importante lorsque l'utilisation du
+   réseau est faible. La quantité de bande passante autorisée par un
+   compte est directement proportionnelle à la quantité de Steem Power
+   dont dispose un utilisateur, de sorte que les utilisateurs peuvent
+   toujours augmenter leur bande passante en obtenant une puissance
+   Steem supplémentaire.
+* Conclusion
+  Le programme unique de récompenses et d'incitations offert par la
+  chaîne de blocs et le token de Steem est conçu pour faire de Steem
+  l'ultime passerelle de crypto-monnaie pour les utilisateurs
+  ordinaires. La performance de la chaîne de blocs est conçue avec
+  l'adoption massive de la devise et de la plate-forme en
+  tête. Lorsqu'il est combiné avec des temps de traitement
+  ultra-rapides et des transactions sans frais, Steem est positionné
+  pour devenir l'une des principales technologies de chaîne de blocs
+  utilisées par les personnes autour du monde.
+
+
+* Footnotes
+
+[fn:19] "Resteem" est le terme utilisé dans la chaîne de blocs Steem
+lorsqu'un utilisateur partage le contenu avec ses abonnés. 
+
+[fn:18] Steemit.com Currency Market https://steemit.com/market
+
+[fn:17] Bitshares Decentralized Exchange [[http://docs.bitshares.org/_downloads/bitshares-general.pdf]]
+
+[fn:16] Steem Whitepaper [[https://steem.io/SteemWhitePaper.pdf]]
+
+[fn:15] NdT : l'acronyme API est un peu partout présent sur internet
+et comme souvent jamais traduit alors j'en profite ici : [[https://fr.wikipedia.org/wiki/Interface_de_programmation][interface de programmation]]
+
+[fn:14] Le composant du cadre (framework) de la chaîne de blocs Steem
+responsable du traitement des transactions et de la distribution des
+récompenses.
+ 
+
+[fn:13] Graphene Documentation [[http://docs.bitshares.org/]]
+
+[fn:12] ChainBase Release
+[[https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release]]
+
+
+[fn:11]
+[[https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity]]
+
+
+[fn:10] DPoS Whitepaper
+[[https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper]]
+
+
+[fn:9] Bitcoin Scalability Problem
+[[https://en.wikipedia.org/wiki/Bitcoin_scalability_problem]]
+
+
+[fn:8] NdT : Les mots /[[http://www.wordreference.com/enfr/curators][curator]]/ ou /curation/ sont particulièrement
+chiants à traduire.
+
+[fn:7] NdT : DPoS: [[https://www.liskafrica.com/guides/la-preuve-de-participation-d%25C3%25A9l%25C3%25A9gu%25C3%25A9-dpos][Delegateed Proof-of-Stake]] (expliqué en français) et
+[[https://hackernoon.com/explain-delegated-proof-of-stake-like-im-5-888b2a74897d][Hackernoon]] (expliqué en anglais)
+
+[fn:6] NdT : Ne connaissant pas ce mot français en voici une définition [[http://www.larousse.fr/dictionnaires/francais/entiercement/29936][Larousse]].
+
+[fn:5] Stolen Account Recovery initiation for Steemit.com users:
+07-13-2017 [[https://steemit.com/recover_account_step_1]] (en français
+s'il vous plaît)
+
+[fn:4]
+Proof-of-Work. Wikipedia. [[https://en.wikipedia.org/wiki/Proof-of-work_system]]
+et je me permets d'ajouter cette vidéo dont j'ai fait les sous-titres
+[[https://youtu.be/bBC-nXj3Ng4][Bitcoin and Proof-of-Work in 26 minutes]]
+
+[fn:3] Volumes de transaction: transactions par seconde. Steem Témoin
+et utilisateur
+"@roadscape". [[https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening]]
+
+[fn:2] Pour le différentier de sa chaîne de blocs, l'orthographe
+correcte du jeton numérique natif de Steem est STEEM.
+
+[fn:1] Delegated Proof of Stake Position
+Paper. Grigg, 2017. [[https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-%0Atwo-generals-problem]]
+
