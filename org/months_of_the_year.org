@@ -3,20 +3,21 @@
 
 * Months of the year 
   
-  | Months | English   | Français  |
-  |--------+-----------+-----------|
-  |      1 | January   | janvier   |
-  |      2 | February  | février   |
-  |      3 | March     | mars      |
-  |      4 | April     | avril     |
-  |      5 | May       | mai       |
-  |      6 | June      | juin      |
-  |      7 | July      | juillet   |
-  |      8 | August    | août      |
-  |      9 | September | septembre |
-  |     10 | October   | octobre   |
-  |     11 | November  | novembre  |
-  |     12 | December  | décembre  |
+  | Months | English   | Français  |       Number of days |
+  |--------+-----------+-----------+----------------------|
+  |      1 | January   | janvier   |                   31 |
+  |      2 | February  | février   | 28 (29 on leap year) |
+  |      3 | March     | mars      |                   31 |
+  |      4 | April     | avril     |                   30 |
+  |      5 | May       | mai       |                   31 |
+  |      6 | June      | juin      |                   30 |
+  |      7 | July      | juillet   |                   31 |
+  |      8 | August    | août      |                   31 |
+  |      9 | September | septembre |                   30 |
+  |     10 | October   | octobre   |                   31 |
+  |     11 | November  | novembre  |                   30 |
+  |     12 | December  | décembre  |                   31 |
+  
 
 ** Exercise 1
    1. In which month is there Christmas Eve?
@@ -29,11 +30,21 @@
    8. In which month Germans celebrate beers?
    9. When is the end of Summer?
 
-* Number of days
-  January starts the year with 31 days, February is the exception with
-  28 days (and 29 on leap years), then March has 31 days, April 30
-  days, May 31 days, June 30, July and August 31, September 30,
-  October 31, November 30 and finally December 31.
+
+* Solutions
+** Exercise 1
+   1. In which month is there Christmas Eve? In December
+   2. When Christian Orthodox and Spanish celebrate Christmas? At the
+      beginning of January
+   3. What is the day of jokes? April the first (see [[https://en.wikipedia.org/wiki/April_Fools%2527_Day][April Fool's Day]])
+   4. When is Valentine's Day?  February the fourteenth
+   5. When does Spring start? March the twenty first
+   6. Which month has the same spelling as a modal verb? May
+   7. Which name of months derived frome Romans Emperor's names? July
+      from Julius Ceasar and August from Augustus
+   8. In which month Germans celebrate beers? October
+   9. When is the end of Summer? September the twenty first
+
 * If you want to go further
   Here are resources with native speakers:
   + [[https://youtu.be/lPeAo1hz8GA][Months of the Year]]
