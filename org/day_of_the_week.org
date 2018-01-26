@@ -1,0 +1,47 @@
+#+TITLE: Days of the week
+#+AUTHOR: Laurent Garnier
+
+* Days of the week
+  | Day | English   | Français |
+  |-----+-----------+----------|
+  |   1 | Monday    | lundi    |
+  |   2 | Tuesday   | mardi    |
+  |   3 | Wednesday | mercredi |
+  |   4 | Thursday  | jeudi    |
+  |   5 | Friday    | vendredi |
+  |   6 | Saturday  | samedi   |
+  |   7 | Sunday    | dimanche |
+** Exercise 1
+   1. What's the day of today?
+   2. Write your habits for each day of the week. For example, Monday
+      I do the food shopping for the week. Tuesday I go to the
+      gym. And so on and so forth.
+* Review of the previous lesson
+** Exercise 2
+  In the previous lesson we've seen numbers so let's check quickly if
+  you are okay with them:
+  1. Write today's date.
+  2. Write today's rank. For instance if today is Friday, the rank is
+     fifth.
+  3. How many weeks are there in a year?
+
+  
+* Solutions
+** Exercise 1
+   1. What's the day of today? Today is Friday. 
+   2. Write your habits for each day of the week. For example, Monday
+      I work my German skills. Tuesday I work my Arabic
+      skills. Wednesday I work my Chinese skills. Thursday I work my
+      Spanish skills. Friday I work my Hebrew skills. Saturday I work
+      my Portuguese skills. Sunday I work my Russian skills.
+** Exercise 2
+   In the previous lesson we've seen numbers so let's check quickly if
+   you are okay with them:
+  1. Write today's date. Today is the twenty fifth.
+  2. Write today's rank. For instance if today is Friday, the rank is
+     fifth.
+  3. How many weeks are there in a year? There fifty two weeks in a year.
+* If you want to go further
+  Here are some videos with native speakers:
+  + [[https://youtu.be/LIQsyHoLudQ][Days of the Week Song]]
+  + [[https://youtu.be/mXMofxtDPUQ][Days of the Week Song]], the Singing Walrus
