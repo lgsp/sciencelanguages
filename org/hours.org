@@ -1,0 +1,139 @@
+#+TITLE: How to tell the time in English?
+#+AUTHOR: Laurent Garnier
+
+* Full hours
+
+  For full hours you just add o'clock (of the clock) after the
+  number. 
+** Examples
+   1. What time is it please? It's one o'clock 1:00
+   2. What's the time please? It's two o'clock 2:00
+   3. What time is it please? It's three o'clock 3:00
+   4. What's the time please? It's four o'clock 4:00
+   5. What time is it please? It's five o'clock 5:00
+   6. What's the time please? It's six o'clock 6:00
+** Exercise 1
+   1. How do you spell 7:00?
+   2. How do you spell 8:00?
+   3. How do you spell 9:00?
+   4. How do you spell 10:00?
+   5. How do you spell 11:00?
+   6. How do you spell 12:00?
+  
+* Before half 
+  
+  | Fractions | English      | Français             |
+  |-----------+--------------+----------------------|
+  | 1/2       | half past    | et demie             |
+  | 1/4       | quarter past | et quart ou un quart |
+  
+** Examples
+   1. What's the time please? It's quarter past one, 1:15
+   2. What time is it please? It's half past two, 2:30
+   3. What's the time please? It's five past three, 3:05
+   4. What time is it please? It's ten past four, 4:10
+   5. What's the time please? It's twenty past five, 5:20
+
+** Exercise 2
+   1. How do you say 6:25?
+   2. How do you spell 7:07?
+   3. How do you say 8:30?
+   4. How do you spell 9:15?
+   5. How do you say 10:20?
+
+* After half
+
+    | Fraction  | English    | Français       |
+    |-----------+------------+----------------|
+    | 1/4       | quarter to | moins le quart |
+   
+** Examples
+   1. What time is it please? It's twenty to twelve, 11:40
+   2. What's the time please? It's quarter to three, 2:45
+   3. What time is it please? It's twenty five to four, 3:35
+   4. What's the time please? It's ten to six, 5:50
+   5. What time is it please? It's five to seven, 6:55
+
+** Exercise 3
+  1. How do you say 6:45?
+  2. How do you spell 7:47?
+  3. How do you say 8:40?
+  4. How do you spell 9:55?
+  5. How do you say 10:50?
+* Systems
+** The 1 to 12 system
+   Traditionally, English speakers used the 1 to 12 system with to
+   latin abbreviation in order to specify wether the time is in the
+   morning or in the afternoon. 
+*** Examples
+    1. What time is it please? It's six p.m (post meridiem), 6:00 p.m
+       (in the afternoon, and in this case in the evening depending to
+       the season)
+    2. What's the time please? It's quarter past four a.m (ante
+       meridiem), 4:15 a.m (in the morning, and in this case in the
+       night)
+    3. What time is it please? It's half past three p.m (post
+       meridiem), 3:30 p.m (in the afternoon)
+    4. What's the time please? It's six to ten a.m (ante meridiem),
+       9:54 a.m (in the morning)
+** The 0 to 23 system
+   Nowadays with electronic devices everywhere people use the 0 to 23
+   system without latin abbreviation. 
+*** Examples 
+    1. What time is it please? It's eighteen, 18:00
+    2. What's the time please? It's quarter past four, 4:15
+    3. What time is it please? It's half past fifteen, 15:30
+    4. What's the time please? It's six to ten, 9:54
+** Without the half division
+   Nowadays with electronic devices everywhere people use a literal
+   description of the numbers
+*** Examples 
+    1. What time is it please? It's eighteen, 18:00
+    2. What's the time please? It's four fifteen, 4:15
+    3. What time is it please? It's fifteen thirty, 15:30
+    4. What's the time please? It's nine fifty four, 9:54
+** Exercise 4
+   1. It's five forty five. Express it with the traditional system
+      (half division and latin abbreviation).
+   2. It's ten to five p.m. Express it just by describing the numbers
+      without abbreviation.
+* Noon and midnight
+  There also a specific case for twelve. Indeed a day spend 24 hours,
+  so 12 is the right middle. So before twelve, that's the morning and
+  after twelve that's the afternoon, because 12:00 p.m is called noon.
+  12:00 a.m is called midnight (middle of the night).
+* Solutions
+** Exercise 1
+   1. How do you spell 7:00? seven o'clock
+   2. How do you spell 8:00? eight o'clock
+   3. How do you spell 9:00? nine o'clock
+   4. How do you spell 10:00? ten o'clock
+   5. How do you spell 11:00? eleven o'clock
+   6. How do you spell 12:00? twelve o'clock
+** Exercise 2
+   1. How do you say 6:25? twenty five past six
+   2. How do you spell 7:07? seven past seven
+   3. How do you say 8:30? half past thirty
+   4. How do you spell 9:15? quarter past nine
+   5. How do you say 10:20? twenty past ten
+
+** Exercise 3
+  1. How do you say 6:45? quarter to six
+  2. How do you spell 7:47? thirteen to eight
+  3. How do you say 8:40? twenty to nine 
+  4. How do you spell 9:55? five to ten 
+  5. How do you say 10:50? ten to eleven
+** Exercise 4
+   1. It's five forty five. Express it with the traditional system
+      (half division and latin abbreviation). It's quarter to six a.m,
+      5:45 a.m
+   2. It's ten to five p.m. Express it just by describing the numbers
+      without abbreviation. It's seventeen, 17:00
+* If you want to go further
+  Here are some videos with native speakers:
+  + [[https://youtu.be/zEKLqgvUSDM][Expressing Time in English]]
+  + [[https://youtu.be/fq2tRfHu5s8][Telling the Time in English]]
+  + [[https://youtu.be/IBBQXBhSNUs][How to Tell Time]]
+  + [[https://youtu.be/ub62GCUMZZo][Telling the time in English]]
+
+   
