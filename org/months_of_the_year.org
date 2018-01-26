@@ -1,0 +1,40 @@
+#+TITLE: Months of the year 
+#+AUTHOR: Laurent Garnier
+
+* Months of the year 
+  
+  | Months | English   | Français  |
+  |--------+-----------+-----------|
+  |      1 | January   | janvier   |
+  |      2 | February  | février   |
+  |      3 | March     | mars      |
+  |      4 | April     | avril     |
+  |      5 | May       | mai       |
+  |      6 | June      | juin      |
+  |      7 | July      | juillet   |
+  |      8 | August    | août      |
+  |      9 | September | septembre |
+  |     10 | October   | octobre   |
+  |     11 | November  | novembre  |
+  |     12 | December  | décembre  |
+
+** Exercise 1
+   1. In which month is there Christmas Eve?
+   2. When Christian Orthodox and Spanish celebrate Christmas?
+   3. What is the day of jokes?
+   4. When is Valentine's Day?
+   5. When does Spring start?
+   6. Which month has the same spelling as a modal verb?
+   7. Which name of months derived frome Romans Emperor's names?
+   8. In which month Germans celebrate beers?
+   9. When is the end of Summer?
+
+* Number of days
+  January starts the year with 31 days, February is the exception with
+  28 days (and 29 on leap years), then March has 31 days, April 30
+  days, May 31 days, June 30, July and August 31, September 30,
+  October 31, November 30 and finally December 31.
+* If you want to go further
+  Here are resources with native speakers:
+  + [[https://youtu.be/lPeAo1hz8GA][Months of the Year]]
+  + [[https://youtu.be/Fe9bnYRzFvk][The Singing Walrus]]
