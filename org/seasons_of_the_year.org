@@ -1,0 +1,58 @@
+#+TITLE: Seasons of the year
+#+AUTHOR: Laurent Garnier
+
+* Seasons
+  
+  | Season | English                 | Français  |
+  |--------+-------------------------+-----------|
+  |      1 | Spring                  | Printemps |
+  |      2 | Summer                  | Eté       |
+  |      3 | Autumn (UK) / Fall (US) | Automne   |
+  |      4 | Winter                  | Hiver     |
+
+* Months in it
+** Spring
+   + Notrh hemisphere :: Spring starts March the twenty first and ends
+        June the twenty first.
+   + South hemisphere :: Spring starts September the twenty first and
+        ends December the twenty first.
+** Summer
+   + Notrh hemisphere :: Summer starts June the twenty first, which is
+        the longest day of the year, and ends September the twenty first.
+   + South hemisphere :: Summer starts December the twenty first,
+        which is the longest day of the year, and ends March the
+        twenty first.
+** Autumn (UK) / Fall (US)
+   + Notrh hemisphere :: Autumn (UK) / Fall (US) starts September the
+        twenty first, and ends December the twenty first.
+   + South hemisphere :: Autumn (UK) / Fall (US) starts March the
+        twenty first, and ends June the twenty first.
+** Winter
+   + Notrh hemisphere :: Winter starts December the twenty first, and
+        ends March the twenty first.
+   + South hemisphere :: Winter starts June the twenty first,
+        and ends September the twenty first.
+
+* Countries without the four seasons system
+  Some countries do not share the four seasons system, for instance in
+  India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
+  details). Also tropical areas have only two main different seasons
+  like in Caribbean sea (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or in
+  Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details). And obviously in desertic
+  areas things are different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
+  details). 
+
+  
+* Exercices
+** Exercise 1
+   1. Could you give the list of the season by alphabetical order?
+   2. In which season belong February? Answer for North Hemisphere and
+      then for South hemisphere.
+   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
+      fourteenth to July the fifteenth. Which season it will be there?
+      And in New Zealand?
+* If you want to go further
+  Here are videos with native speakers:
+  + [[https://youtu.be/8ZjpI6fgYSY][Seasons Song]]
+  + [[https://youtu.be/owppK-GHPTU][Kids Vocabulary]]
+  + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
