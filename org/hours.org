@@ -1,4 +1,4 @@
-#+TITLE: How to tell the time in English?
+#+TITLE: How to tell time in English?
 #+AUTHOR: Laurent Garnier
 
 * Full hours
