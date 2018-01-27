@@ -37,7 +37,7 @@
    Do you see a patern? Just remember the first three by heart and
    then add "th" at the end. But be careful with five and nine.
 
-* Tenths
+* Tens
   | Tenths | English                     | Français                                 |
   |--------+-----------------------------+------------------------------------------|
   |     10 | ten (tenth)                 | dix (dixième)                            |
