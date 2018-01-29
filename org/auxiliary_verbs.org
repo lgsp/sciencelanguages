@@ -1,0 +1,134 @@
+#+TITLE: Auxiliary Verbs (Helping Verbs)
+#+AUTHOR: Laurent Garnier
+
+* To be 
+  You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/be][here]].
+** Progressive form
+*** Examples 
+    1. You are reading this text. 
+    2. I was writing this text before I uploaded online.
+*** Exercise 1
+    Transform the following sentences in progressive form:
+    1. He teaches English.
+    2. They played football yesterday.
+** Passive voice
+*** Examples
+    1. Argentina were beaten by Germany in the final.
+    2. The vocabulary was well taught in the previous lesson.
+*** Exercise 2
+    Transform the following sentences in the passive voice:
+    1. You choose to join this course.
+    2. I do these courses in order to share my English tips and tricks
+       with you.
+* To have 
+  You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/have][here]].
+** Perfect tenses
+*** Present perfect
+**** Examples
+    1. I've never been to South Africa yet.
+    2. She has done a great work so far.
+**** Exercise 3
+     Conjugate the verb between parentheses in the present perfect tense:
+     1. I (to make) some mistakes so far. 
+     2. He (to play) for Arsenal for four years, and now I heard he
+        plays for Manchester.
+*** Past perfect    
+**** Examples
+    1. I'd never been to America until my fifteen.
+    2. She had done a great work until she finished her PhD last year.
+**** Exercise 4
+     Conjugate the verb between parentheses in the past perfect tense:
+     1. I (to make) some mistakes until I checked the previous lesson
+        yesterday. 
+     2. He (to play) for Arsenal for four years, and then I heard he
+        played for Manchester for two years before getting retired
+        last year.
+* To do 
+  You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/do][here]].
+** Questions
+*** Examples
+    1. Does she speak English?
+    2. Do you like this course?
+    3. Did you learn English at school?
+*** Exercise 5
+    Transform these sentences in questions:
+    1. He likes football.
+    2. They work on Sunday.
+    3. I bought this book yesterday.
+** Short answers
+*** Examples
+    1. Do you know the Capital of Peru? Yes I do.
+    2. Does he go to England? Yes he does.
+    3. Did you go to the cinema last night? Yes I did.
+*** Exercise 6
+    Answer shortly to the questions:
+    1. Do you understand what I've written so far?
+    2. Does he explain well in this lesson?
+    3. Did he make all this work alone?
+** Negation
+*** Examples
+    1. I like this movie. => I do not (don't) like this movie.
+    2. She cooks very well. => She does not (doesn't) cook well.
+    3. He played for Newcastle. => He did not (didn't) play for Newcastle.
+*** Exercise 7
+    Negate the following sentences:
+    1. You work hard everyday.
+    2. He play very well.
+    3. They eat out twice last week. 
+** Emphasis
+*** Examples
+    1. Do you like this movie? I do like this movie. (do is optional,
+       but here, its presence shows the insistance)
+    2. Does she play the guitar? She does play the guitar.
+    3. Did we work together before? We did work together before.
+*** Exercise 8
+    Answer with emphasis:
+    1. Do you work on Sunday?
+    2. Does he insist on auxiliary verbs in this lesson?
+    3. Did you like the previous lesson?
+* Solutions
+*** Exercise 1
+    Transform the following sentences in progressive form:
+    1. He teaches English. => He is teaching English.
+    2. They played football yesterday. => They were playing football
+       yesterday.
+*** Exercise 2
+    Transform the following sentences in the passive voice:
+    1. You choose to join this course. => This course was chosen by you.
+    2. I do these courses in order to share my English tips and tricks
+       with you. => These courses are done by me in order to share my
+       English tips and tricks with you.
+*** Exercise 3
+     Conjugate the verb between parentheses in the present perfect tense:
+     1. I have made ('ve made) some mistakes so far. 
+     2. He has played ('s played) for Arsenal for four years, and now
+        I heard he plays for Manchester.
+*** Exercise 4
+     Conjugate the verb between parentheses in the past perfect tense:
+     1. I had made ('d made) some mistakes until I checked the previous lesson
+        yesterday. 
+     2. He had played ('d played) for Arsenal for four years, and then
+        I heard he played for Manchester for two years before getting
+        retired last year.
+*** Exercise 5
+    Transform these sentences in questions:
+    1. He likes football. => Does he like football?
+    2. They work on Sunday. => Do they work on Sunday?
+    3. I bought this book yesterday. => When did you buy this book?
+*** Exercise 6
+    Answer shortly to the questions:
+    1. Do you understand what I've written so far? Yes I do.
+    2. Does he explain well in this lesson? Yes he does.
+    3. Did he make all this work alone? Yes he did.
+*** Exercise 7
+    Negate the following sentences:
+    1. You work hard everyday. => You do not (don't) work hard everyday.
+    2. He play very well. => He does not (doesn't) play very well.
+    3. They eat out twice last week. => They do not (don't) eat out
+       twice last week.
+*** Exercise 8
+    Answer with emphasis:
+    1. Do you work on Sunday? => I do work on Sunday.
+    2. Does he insist on auxiliary verbs in this lesson? => He does
+       insist on auxiliary verbs in this lesson.
+    3. Did you like the previous lesson? => I did like the previous lesson.
