@@ -86,6 +86,33 @@
     1. Do you work on Sunday?
     2. Does he insist on auxiliary verbs in this lesson?
     3. Did you like the previous lesson?
+* Phonetics
+** Exercise 9
+   Give an example for each sound that you've seen so far (6 short
+   vowels, 4 long vowels, 5 diphthong vowels).
+** Diphthong vowels
+   + The diphthong vowel [əʊ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/no][no]]      | [[http://www.wordreference.com/enfr/no][/nəʊ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/don't][don't]]   | [[http://www.wordreference.com/enfr/don't][/dəʊnt/]]   |
+     | [[https://en.oxforddictionaries.com/definition/stone][stone]]   | [[http://www.wordreference.com/enfr/stone][/stəʊn/]]   |
+     | [[https://en.oxforddictionaries.com/definition/alone][alone]]   | [[http://www.wordreference.com/enfr/alone][/əˈləʊn/]]  |
+     | [[https://en.oxforddictionaries.com/definition/hole][hole]]    | [[http://www.wordreference.com/enfr/hole][/həʊl/]]    |
+     | [[https://en.oxforddictionaries.com/definition/bowl][bowl]]    | [[http://www.wordreference.com/enfr/bowl][/bəʊl/]]    |
+     | [[https://en.oxforddictionaries.com/definition/chrome][chrome]]  | [[http://www.wordreference.com/enfr/chrome][/krəʊm/]]   |
+     
+   + The diphthong vowel [aʊ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/mouth][mouth]]   | [[http://www.wordreference.com/enfr/mouth][/maʊθ/]]    |
+     | [[https://en.oxforddictionaries.com/definition/house][house]]   | [[http://www.wordreference.com/enfr/house][/haʊs/]]    |
+     | [[https://en.oxforddictionaries.com/definition/brown][brown]]   | [[http://www.wordreference.com/enfr/brown][/braʊn/]]   |
+     | [[https://en.oxforddictionaries.com/definition/couch][couch]]   | [[http://www.wordreference.com/enfr/couch][/kaʊtʃ/]]   |
+     | [[https://en.oxforddictionaries.com/definition/foul][foul]]    | [[http://www.wordreference.com/enfr/foul][/faʊl/]]    |
+
 * Solutions
 *** Exercise 1
     Transform the following sentences in progressive form:
@@ -132,3 +159,19 @@
     2. Does he insist on auxiliary verbs in this lesson? => He does
        insist on auxiliary verbs in this lesson.
     3. Did you like the previous lesson? => I did like the previous lesson.
+** Exercise 9
+   1. Short vowel [ɛ], for example: [[https://en.oxforddictionaries.com/definition/apprehend][apprehend]] ([[http://www.wordreference.com/enfr/apprehend][/ˌæprɪˈhɛnd/]])
+   2. Short vowel [æ], for example: [[https://en.oxforddictionaries.com/definition/nap][nap]] ([[http://www.wordreference.com/enfr/nap][/næp/]]) 
+   3. Short vowel [ʌ], for example: [[https://en.oxforddictionaries.com/definition/but][but]] ([[http://www.wordreference.com/enfr/but][/bʌt/]]) 
+   4. Short vowel [ʊ], for example: [[https://en.oxforddictionaries.com/definition/hood][hood]] ([[http://www.wordreference.com/enfr/hood][/hʊd/]])
+   5. Short vowel [ɒ], for example: [[https://en.oxforddictionaries.com/definition/lob][lob]] ([[http://www.wordreference.com/enfr/lob][/lɒb/]]) 
+   6. Short vowel [ə], for example: [[https://en.oxforddictionaries.com/definition/attend][attend]] ([[http://www.wordreference.com/enfr/attend][/əˈtɛnd/]])
+   7. Long vowel [iː], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
+   8. Long vowel [ɑː], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
+   9. Long vowel [ɔː], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
+  10. Long vowel [uː], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]])  
+  11. Diphthong vowel [ɪə], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
+  12. Diphthong vowel [ʊə], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
+  13. Diphthong vowel [eɪ] like in [[https://en.oxforddictionaries.com/definition/place][place]] ([[http://www.wordreference.com/enfr/place][/pleɪs/]])
+  14. Diphthong vowel [ɔɪ] like in [[https://en.oxforddictionaries.com/definition/boil][boil]] ([[http://www.wordreference.com/enfr/boil][/bɔɪl/]])
+  15. Diphthong vowel [aɪ] like in [[https://en.oxforddictionaries.com/definition/fry][fry]] ([[http://www.wordreference.com/enfr/fry][/fraɪ/]])
