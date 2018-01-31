@@ -30,7 +30,93 @@
    8. In which month Germans celebrate beers?
    9. When is the end of Summer?
 
+* Phonetics
+** Review the short vowels
+   + The short vowel [æ] like in:
+     
+     | English | Phonetics    |
+     |---------+--------------|
+     | [[https://en.oxforddictionaries.com/definition/january][January]] | [[http://www.wordreference.com/enfr/january][/ˈdʒænjʊərɪ/]] |
 
+   + The short vowel [ɛ] like in:
+
+     | English   | Phonetics   |
+     |-----------+-------------|
+     | [[https://en.oxforddictionaries.com/definition/february][February]]  | [[http://www.wordreference.com/enfr/February][/ˈfɛbrʊərɪ/]] |
+     | [[https://en.oxforddictionaries.com/definition/september][September]] | [[http://www.wordreference.com/enfr/september][/sɛpˈtɛmbə/]] |
+     | [[https://en.oxforddictionaries.com/definition/november][November]]  | [[http://www.wordreference.com/enfr/november][/nəʊˈvɛmbə/]] |
+     | [[https://en.oxforddictionaries.com/definition/december][December]]  | [[http://www.wordreference.com/enfr/december][/dɪˈsɛmbə/]]  |
+      
+   + The short vowel [ə] like in:
+
+     | English   | Phonetics    |
+     |-----------+--------------|
+     | [[https://en.oxforddictionaries.com/definition/january][January]]   | [[http://www.wordreference.com/enfr/january][/ˈdʒænjʊərɪ/]] |
+     | [[https://en.oxforddictionaries.com/definition/february][February]]  | [[http://www.wordreference.com/enfr/February][/ˈfɛbrʊərɪ/]]  |
+     | [[https://en.oxforddictionaries.com/definition/april][April]]     | [[http://www.wordreference.com/enfr/april][/ˈeɪprəl/]]    |
+     | [[https://en.oxforddictionaries.com/definition/august][August]]    | [[http://www.wordreference.com/enfr/august][/ˈɔːɡəst/]]    |
+     | [[https://en.oxforddictionaries.com/definition/september][September]] | [[http://www.wordreference.com/enfr/september][/sɛpˈtɛmbə/]]  |
+     | [[https://en.oxforddictionaries.com/definition/october][October]]   | [[http://www.wordreference.com/enfr/october][/ɒkˈtəʊbə/]]   |
+     | [[https://en.oxforddictionaries.com/definition/november][November]]  | [[http://www.wordreference.com/enfr/november][/nəʊˈvɛmbə/]]  |
+     | [[https://en.oxforddictionaries.com/definition/december][December]]  | [[http://www.wordreference.com/enfr/december][/dɪˈsɛmbə/]]   |
+    
+   + The short vowel [ɒ] like in:
+
+     | English | Phonetics  |
+     |---------+------------|
+     | [[https://en.oxforddictionaries.com/definition/october][October]] | [[http://www.wordreference.com/enfr/october][/ɒkˈtəʊbə/]] |
+     
+   + The short vowel [ʊ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/good][good]]    | [[http://www.wordreference.com/enfr/good][/ɡʊd/]]     |
+     
+
+   + The short vowel [ʌ] like in:
+     
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/fun][fun]]     | [[http://www.wordreference.com/enfr/fun][/fʌn/]]     |
+     
+
+** Exercise 2
+   Complete each table in order to get 7 items (one of them has
+   already 8 items).
+** Long vowels 
+   + The long vowel [iː] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/need][need]]    | [[http://www.wordreference.com/enfr/need][/niːd/]]    |
+     | [[https://en.oxforddictionaries.com/definition/beat][beat]]    | [[http://www.wordreference.com/enfr/beat][/biːt/]]    |
+     | [[https://en.oxforddictionaries.com/definition/team][team]]    | [[http://www.wordreference.com/enfr/team][/tiːm/]]    |
+     | [[https://en.oxforddictionaries.com/definition/see][see]]     | [[http://www.wordreference.com/enfr/see][/siː/]]     |
+     | [[https://en.oxforddictionaries.com/definition/heat][heat]]    | [[http://www.wordreference.com/enfr/heat][/hiːt/]]    |
+     | [[https://en.oxforddictionaries.com/definition/sea][sea]]     | [[http://www.wordreference.com/enfr/sea][/siː/]]     |
+     | [[https://en.oxforddictionaries.com/definition/bee][bee]]     | [[http://www.wordreference.com/enfr/bee][/biː/]]     |
+   + The long vowel [ɑː] like in:
+     
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/glass][glass]]   | [[http://www.wordreference.com/enfr/glass][/ɡlɑːs/]]   |
+     | [[https://en.oxforddictionaries.com/definition/half][half]]    | [[http://www.wordreference.com/enfr/half][/hɑːf/]]    |
+     | [[https://en.oxforddictionaries.com/definition/car][car]]     | [[http://www.wordreference.com/enfr/car][/kɑː/]]     |
+     | [[https://en.oxforddictionaries.com/definition/arch][arch]]    | [[http://www.wordreference.com/enfr/arch][/ɑːtʃ/]]    |
+     | [[https://en.oxforddictionaries.com/definition/hard][hard]]    | [[http://www.wordreference.com/enfr/hard][/hɑːd/]]    |
+     | [[https://en.oxforddictionaries.com/definition/arm][arm]]     | [[http://www.wordreference.com/enfr/arm][/ɑːm/]]     |
+     | [[https://en.oxforddictionaries.com/definition/father][father]]  | [[http://www.wordreference.com/enfr/father][/ˈfɑːðə/]]  |
+   + The long vowel [] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/talk][talk]]    | [[http://www.wordreference.com/enfr/talk][/tɔːk/]]    |
+     | [[https://en.oxforddictionaries.com/definition/law][law]]     | [[http://www.wordreference.com/enfr/law][/lɔː/]]     |
+     | [[https://en.oxforddictionaries.com/definition/yawn][yawn]]    | [[http://www.wordreference.com/enfr/yawn][/jɔːn/]]    |
+     | [[https://en.oxforddictionaries.com/definition/jaw][jaw]]     | [[http://www.wordreference.com/enfr/jaw][/dʒɔː/]]    |
+     | [[https://en.oxforddictionaries.com/definition/raw][raw]]     | [[http://www.wordreference.com/enfr/raw][/rɔː/]]     |
+     
+   
 * Solutions
 ** Exercise 1
    1. In which month is there Christmas Eve? In December
@@ -45,6 +131,8 @@
    8. In which month Germans celebrate beers? October
    9. When is the end of Summer? September the twenty first
 
+** Exercise 2
+   Read again the previous lessons.
 * If you want to go further
   Here are resources with native speakers:
   + [[https://youtu.be/lPeAo1hz8GA][Months of the Year]]
