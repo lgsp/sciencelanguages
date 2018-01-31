@@ -25,7 +25,62 @@
      fifth.
   3. How many weeks are there in a year?
 
-  
+* Phonetics  
+** Short vowels review
+   + The short vowel [ʌ] like in:
+     
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/monday][Monday]]  | [[http://www.wordreference.com/enfr/monday][/ˈmʌndɪ/]]  |
+     | [[https://en.oxforddictionaries.com/definition/sunday][Sunday]]  | [[http://www.wordreference.com/enfr/sunday][/ˈsʌndɪ/]]  |
+   + The short vowel [ɛ] like in:
+     
+     | English   | Phonetics |
+     |-----------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/wednesday][Wednesday]] | [[http://www.wordreference.com/enfr/wednesday][/ˈwɛnzdɪ/]] |
+   + The short vowel [æ] like in:
+
+     | English  | Phonetics |
+     |----------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/saturday][Saturday]] | [[http://www.wordreference.com/enfr/saturday][/ˈsætədɪ/]] |
+** Exercise 3   
+   Complete each table in order to get 7 items like in the previous
+   lesson.
+** New short vowels
+   + The short vowel [ʊ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/put][put]]     | [[http://www.wordreference.com/enfr/put][/pʊt/]]     |
+     | [[https://en.oxforddictionaries.com/definition/look][look]]    | [[http://www.wordreference.com/enfr/look][/lʊk/]]     |
+     | [[https://en.oxforddictionaries.com/definition/should][should]]  | [[http://www.wordreference.com/enfr/should][/ʃʊd/]]     |
+     | [[https://en.oxforddictionaries.com/definition/cook][cook]]    | [[http://www.wordreference.com/enfr/cook][/kʊk/]]     |
+     | [[https://en.oxforddictionaries.com/definition/book][book]]    | [[http://www.wordreference.com/enfr/book][/bʊk/]]     |
+     | [[https://en.oxforddictionaries.com/definition/brook][brook]]   | [[http://www.wordreference.com/enfr/brook][/brʊk/]]    |
+     | [[https://en.oxforddictionaries.com/definition/crook][crook]]   | [[http://www.wordreference.com/enfr/crook][/krʊk/]]    |
+   + The short vowel [ɒ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/rob][rob]]     | [[http://www.wordreference.com/enfr/rob][/rɒb/]]     |
+     | [[https://en.oxforddictionaries.com/definition/top][top]]     | [[http://www.wordreference.com/enfr/top][/tɒp/]]     |
+     | [[https://en.oxforddictionaries.com/definition/watch][watch]]   | [[http://www.wordreference.com/enfr/watch][/wɒtʃ/]]    |
+     | [[https://en.oxforddictionaries.com/definition/squat][squat]]   | [[http://www.wordreference.com/enfr/squat][/skwɒt/]]   |
+     | [[https://en.oxforddictionaries.com/definition/sausage][sausage]] | [[http://www.wordreference.com/enfr/sausage][/ˈsɒsɪdʒ/]] |
+     | [[https://en.oxforddictionaries.com/definition/bottom][bottom]]  | [[http://www.wordreference.com/enfr/bottom][/ˈbɒtəm/]]  |
+     | [[https://en.oxforddictionaries.com/definition/flop][flop]]    | [[http://www.wordreference.com/enfr/flop][/flɒp/]]    |
+   + The short vowel [ə] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/alive][alive]]   | [[http://www.wordreference.com/enfr/alive][/əˈlaɪv/]]  |
+     | [[https://en.oxforddictionaries.com/definition/again][again]]   | [[http://www.wordreference.com/enfr/again][/əˈɡɛn/]]   |
+     | [[https://en.oxforddictionaries.com/definition/mother][mother]]  | [[http://www.wordreference.com/enfr/mother][/ˈmʌðə/]]   |
+     | [[https://en.oxforddictionaries.com/definition/father][father]]  | [[http://www.wordreference.com/enfr/father][/ˈfɑːðə/]]  |
+     | [[https://en.oxforddictionaries.com/definition/brother][brother]] | [[http://www.wordreference.com/enfr/brother][/ˈbrʌðə/]]  |
+     | [[https://en.oxforddictionaries.com/definition/further][further]] | [[http://www.wordreference.com/enfr/further][/ˈfɜːðə/]]  |
+     | [[https://en.oxforddictionaries.com/definition/among][among]]   | [[http://www.wordreference.com/enfr/among][/əˈmʌŋ/]]   |
+        
 * Solutions
 ** Exercise 1
    1. What's the day of today? Today is Friday. 
@@ -40,7 +95,10 @@
   1. Write today's date. Today is the twenty fifth.
   2. Write today's rank. For instance if today is Friday, the rank is
      fifth.
-  3. How many weeks are there in a year? There fifty two weeks in a year.
+  3. How many weeks are there in a year? There fifty two weeks in a
+     year.
+** Exercise 3
+   Read again the previous lesson.
 * If you want to go further
   Here are some videos with native speakers:
   + [[https://youtu.be/LIQsyHoLudQ][Days of the Week Song]]
