@@ -9,7 +9,7 @@
   |      2 | Summer                  | Eté       |
   |      3 | Autumn (UK) / Fall (US) | Automne   |
   |      4 | Winter                  | Hiver     |
-
+  
 * Months in it
 ** Spring
    + Notrh hemisphere :: Spring starts March the twenty first and ends
@@ -41,8 +41,44 @@
   Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details). And obviously in desertic
   areas things are different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
   details). 
-
   
+* Phonetics
+** Long vowel  
+   The last one, the long vowel [uː] like in:
+   
+   | English | Phonetics |
+   |---------+-----------|
+   | [[https://en.oxforddictionaries.com/definition/few][few]]     | [[http://www.wordreference.com/enfr/few][/fjuː/]]    |
+   | [[https://en.oxforddictionaries.com/definition/boot][boot]]    | [[http://www.wordreference.com/enfr/boot][/buːt/]]    |
+   | [[https://en.oxforddictionaries.com/definition/lose][lose]]    | [[http://www.wordreference.com/enfr/lose][/luːz/]]    |
+   | [[https://en.oxforddictionaries.com/definition/gloomy][gloomy]]  | [[http://www.wordreference.com/enfr/gloomy][/ˈɡluːmɪ/]] |
+   | [[https://en.oxforddictionaries.com/definition/fruit][fruit]]   | [[http://www.wordreference.com/enfr/fruit][/fruːt/]]   |
+   | [[https://en.oxforddictionaries.com/definition/chew][chew]]    | [[http://www.wordreference.com/enfr/chew][/tʃuː/]]    |
+   | [[https://en.oxforddictionaries.com/definition/goose][goose]]   | [[http://www.wordreference.com/enfr/goose][/ɡuːs/]]    |
+   
+** Diphthong vowels   
+   + The diphthong vowel [ɪə] like in:
+
+     | English   | Phonetics   |
+     |-----------+-------------|
+     | [[https://en.oxforddictionaries.com/definition/near][near]]      | [[http://www.wordreference.com/enfr/near][/nɪə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/ear][ear]]       | [[http://www.wordreference.com/enfr/ear][/ɪə/]]        |
+     | [[https://en.oxforddictionaries.com/definition/clear][clear]]     | [[http://www.wordreference.com/enfr/clear][/klɪə/]]      |
+     | [[https://en.oxforddictionaries.com/definition/weird][weird]]     | [[http://www.wordreference.com/enfr/weird][/wɪəd/]]      |
+     | [[https://en.oxforddictionaries.com/definition/disappear][disappear]] | [[http://www.wordreference.com/enfr/disappear][/ˌdɪsəˈpɪə/]] |
+     | [[https://en.oxforddictionaries.com/definition/here][here]]      | [[http://www.wordreference.com/enfr/here][/hɪə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/fear][fear]]      | [[http://www.wordreference.com/enfr/fear][/fɪə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/tear][tear]]      | [[http://www.wordreference.com/enfr/tear][/tɪə/]]       |
+   + The diphthong vowel [ʊə] like in:
+
+     | English | Phonetics  |
+     |---------+------------|
+     | [[https://en.oxforddictionaries.com/definition/cure][cure]]    | [[http://www.wordreference.com/enfr/cure][/kjʊə/]]     |
+     | [[https://en.oxforddictionaries.com/definition/pure][pure]]    | [[http://www.wordreference.com/enfr/pure][/pjʊə/]]     |
+     | [[https://en.oxforddictionaries.com/definition/tourist][tourist]] | [[http://www.wordreference.com/enfr/tourist][/ˈtʊərɪst/]] |
+     | [[https://en.oxforddictionaries.com/definition/tour][tour]]    | [[http://www.wordreference.com/enfr/tour][/tʊə/]]      |
+     | [[https://en.oxforddictionaries.com/definition/contour][contour]] | [[http://www.wordreference.com/enfr/contour][/ˈkɒntʊə/]]  |
+        
 * Exercices
 ** Exercise 1
    1. Could you give the list of the season by alphabetical order?
@@ -51,8 +87,53 @@
    3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
       fourteenth to July the fifteenth. Which season it will be there?
       And in New Zealand?
+** Exercise 2
+   Give an exemple for each 6 short vowels and each 4 long vowels.
 * If you want to go further
   Here are videos with native speakers:
   + [[https://youtu.be/8ZjpI6fgYSY][Seasons Song]]
   + [[https://youtu.be/owppK-GHPTU][Kids Vocabulary]]
   + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
+* Solutions
+** Exercise 1
+   1. Could you give the list of the season by alphabetical order?
+      Autumn (fall), Spring, Summer, Winter
+   2. In which season belong February? Answer for North Hemisphere and
+      then for South hemisphere.
+      + North Hemisphere :: February belong to Winter
+      + South Hemisphere :: February belong to Summer
+   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
+      fourteenth to July the fifteenth. Which season it will be there?
+      Summer like in other countries in the North Hemisphere.
+      And in New Zealand? Winter like other countries in the South Hemisphere.
+** Exercice 2
+   1. Short vowel [ɛ] like in [[https://en.oxforddictionaries.com/definition/trend][trend]] ([[http://www.wordreference.com/enfr/Trend][/trɛnd/]]). For example: I don't like the
+      trend on this platform. (Je n'aime pas la tendance sur cette plate-forme.)
+   2. Short vowel [æ] like in [[https://en.oxforddictionaries.com/definition/brand][brand]] ([[http://www.wordreference.com/enfr/brand][/brænd/]]). For example: I like
+      this new brand. (J'aime cette nouvelle marque.)
+   3. Short vowel [ʌ] like in [[https://en.oxforddictionaries.com/definition/money][money]] ([[http://www.wordreference.com/enfr/money][/ˈmʌnɪ/]]). For example: Time is
+      money. (Le temps c'est de l'argent.)
+   4. Short vowel [ʊ] like in [[https://en.oxforddictionaries.com/definition/foot][foot]] ([[http://www.wordreference.com/enfr/foot][/fʊt/]]). For example: Usually only
+      10% of people prefer to use their left foot in order to play
+      football. (Habituellement seulement 10% des gens préfèrent
+      utiliser leur pied gauche pour jouer au foot.) 
+   5. Short vowel [ɒ] like in [[https://en.oxforddictionaries.com/definition/lock][lock]] ([[http://www.wordreference.com/enfr/lock][/lɒk/]]). For example: Don't forget
+      to lock the door when you leave the house. (N'oublie pas de
+      verrouiller la porte lorsque tu quittes la maison.)
+   6. Short vowel [ə] like in [[https://en.oxforddictionaries.com/definition/afraid][afraid]] ([[http://www.wordreference.com/enfr/afraid][/əˈfreɪd/]]). For example: Don't
+      be afraid, I'll protect you. (N'aie pas peur, je te protègerai.)
+   7. Long vowel [iː] like in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
+      become a father you become in charge to feed your
+      children. (Lorsque tu deviens père tu deviens responsable de
+      nourrir tes enfants.)
+   8. Long vowel [ɑː] like in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I haven't
+      never notice a real difference between 1st and 2nd class in this
+      train. (Je n'ai jamais remarqué de réelle différence entre la
+      1ère et la 2de classe dans ce train.)
+   9. Long vowel [ɔː] like in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
+      rather walk instead of taking the bus. (Tu devrais plutôt
+      marcher au lieu de prendre le bus.)
+  10. Long vowel [uː] like in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: That's very
+      surprising to observe how fast food become usual in France. (C'est
+      surprenant de voir comment la restauration rapide est devenue
+      une habitude en France.) 
