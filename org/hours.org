@@ -1,4 +1,4 @@
-#+TITLE: How to tell time in English?
+#+TITLE: How to tell the time in English?
 #+AUTHOR: Laurent Garnier
 
 * Full hours
@@ -102,6 +102,48 @@
   so 12 is the right middle. So before twelve, that's the morning and
   after twelve that's the afternoon, because 12:00 p.m is called noon.
   12:00 a.m is called midnight (middle of the night).
+* Phonetics
+** Exercise 5
+   Give an example for each sound you've seen so far (6 short vowels,
+   4 long vowels, and 2 diphthong vowels).
+** Diphthong vowels
+   + The diphthong vowel [eɪ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/face][face]]    | [[http://www.wordreference.com/enfr/face][/feɪs/]]    |
+     | [[https://en.oxforddictionaries.com/definition/space][space]]   | [[http://www.wordreference.com/enfr/space][/speɪs/]]   |
+     | [[https://en.oxforddictionaries.com/definition/grace][grace]]   | [[http://www.wordreference.com/enfr/grace][/ɡreɪs/]]   |
+     | [[https://en.oxforddictionaries.com/definition/case][case]]    | [[http://www.wordreference.com/enfr/case][/keɪs/]]    |
+     | [[https://en.oxforddictionaries.com/definition/eight][eight]]   | [[http://www.wordreference.com/enfr/eight][/eɪt/]]     |
+     | [[https://en.oxforddictionaries.com/definition/weight][weight]]  | [[http://www.wordreference.com/enfr/weight][/weɪt/]]    |
+
+   + The diphthong vowel [ɔɪ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/joy][joy]]     | [[http://www.wordreference.com/enfr/joy][/dʒɔɪ/]]    |
+     | [[https://en.oxforddictionaries.com/definition/employ][employ]]  | [[http://www.wordreference.com/enfr/employ][/ɪmˈplɔɪ/]] |
+     | [[https://en.oxforddictionaries.com/definition/toy][toy]]     | [[http://www.wordreference.com/enfr/toy][/tɔɪ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/coil][coil]]    | [[http://www.wordreference.com/enfr/coil][/kɔɪl/]]    |
+     | [[https://en.oxforddictionaries.com/definition/oyster][oyster]]  | [[http://www.wordreference.com/enfr/oyster][/ˈɔɪstə/]]  |
+     | [[https://en.oxforddictionaries.com/definition/boy][boy]]     | [[http://www.wordreference.com/enfr/boy][/bɔɪ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/enjoy][enjoy]]   | [[http://www.wordreference.com/enfr/enjoy][/ɪnˈdʒɔɪ/]] |
+     
+   + The diphthong vowel [aɪ] like in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/my][my]]      | [[http://www.wordreference.com/enfr/my][/maɪ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/time][time]]    | [[http://www.wordreference.com/enfr/time][/taɪm/]]    |
+     | [[https://en.oxforddictionaries.com/definition/life][life]]    | [[http://www.wordreference.com/enfr/life][/laɪf/]]    |
+     | [[https://en.oxforddictionaries.com/definition/high][high]]    | [[http://www.wordreference.com/enfr/high][/haɪ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/fly][fly]]     | [[http://www.wordreference.com/enfr/fly][/flaɪ/]]    |
+     | [[https://en.oxforddictionaries.com/definition/wide][wide]]    | [[http://www.wordreference.com/enfr/wide][/waɪd/]]    |
+     | [[https://en.oxforddictionaries.com/definition/wild][wild]]    | [[http://www.wordreference.com/enfr/wild][/waɪld/]]   |
+     
+  
+   
 * Solutions
 ** Exercise 1
    1. How do you spell 7:00? seven o'clock
@@ -129,6 +171,19 @@
       5:45 a.m
    2. It's ten to five p.m. Express it just by describing the numbers
       without abbreviation. It's seventeen, 17:00
+** Exercise 5
+   1. Short vowel [ɛ], for example: [[https://en.oxforddictionaries.com/definition/apprehend][apprehend]] ([[http://www.wordreference.com/enfr/apprehend][/ˌæprɪˈhɛnd/]])
+   2. Short vowel [æ], for example: [[https://en.oxforddictionaries.com/definition/nap][nap]] ([[http://www.wordreference.com/enfr/nap][/næp/]]) 
+   3. Short vowel [ʌ], for example: [[https://en.oxforddictionaries.com/definition/but][but]] ([[http://www.wordreference.com/enfr/but][/bʌt/]]) 
+   4. Short vowel [ʊ], for example: [[https://en.oxforddictionaries.com/definition/hood][hood]] ([[http://www.wordreference.com/enfr/hood][/hʊd/]])
+   5. Short vowel [ɒ], for example: [[https://en.oxforddictionaries.com/definition/lob][lob]] ([[http://www.wordreference.com/enfr/lob][/lɒb/]]) 
+   6. Short vowel [ə], for example: [[https://en.oxforddictionaries.com/definition/attend][attend]] ([[http://www.wordreference.com/enfr/attend][/əˈtɛnd/]])
+   7. Long vowel [iː], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
+   8. Long vowel [ɑː], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
+   9. Long vowel [ɔː], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
+  10. Long vowel [uː], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]])  
+  11. Diphthong vowel [ɪə], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
+  12. Diphthong vowel [ʊə], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
 * If you want to go further
   Here are some videos with native speakers:
   + [[https://youtu.be/zEKLqgvUSDM][Expressing Time in English]]
