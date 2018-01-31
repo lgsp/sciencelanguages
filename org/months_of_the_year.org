@@ -106,7 +106,7 @@
      | [[https://en.oxforddictionaries.com/definition/hard][hard]]    | [[http://www.wordreference.com/enfr/hard][/hɑːd/]]    |
      | [[https://en.oxforddictionaries.com/definition/arm][arm]]     | [[http://www.wordreference.com/enfr/arm][/ɑːm/]]     |
      | [[https://en.oxforddictionaries.com/definition/father][father]]  | [[http://www.wordreference.com/enfr/father][/ˈfɑːðə/]]  |
-   + The long vowel [] like in:
+   + The long vowel [ɔː] like in:
 
      | English | Phonetics |
      |---------+-----------|
