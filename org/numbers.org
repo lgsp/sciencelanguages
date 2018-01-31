@@ -114,7 +114,40 @@
    1. What's the age of Earth (round to billion)?
    2. What's the number of the year?
    3. How many days are there in a year?
+* Short vowels
+  + The short vowel [ʌ] like in:
 
+    | English | Phonetics  |
+    |---------+------------|
+    | [[http://www.wordreference.com/enfr/number][number]]  | [[https://en.oxforddictionaries.com/definition/number][/ˈnʌmbə/]]   |
+    | [[https://en.oxforddictionaries.com/definition/one][one]]     | [[http://www.wordreference.com/enfr/one][/wʌn/]]      |
+    | [[https://en.oxforddictionaries.com/definition/hundred][hundred]] | [[http://www.wordreference.com/enfr/hundred][/ˈhʌndrəd/]] |
+    | [[http://www.wordreference.com/enfr/cup][cup]]     | [[http://www.wordreference.com/enfr/cup][/kʌp/]]      |
+    | [[https://en.oxforddictionaries.com/definition/luck][luck]]    | [[http://www.wordreference.com/enfr/luck][/lʌk/]]      |
+    | [[https://en.oxforddictionaries.com/definition/london][London]]  | [[http://www.wordreference.com/enfr/london][/ˈlʌndən/]]  |
+    | [[https://en.oxforddictionaries.com/definition/love][love]]    | [[http://www.wordreference.com/enfr/love][/lʌv/]]      |
+  + The short vowel [æ] like in:
+    
+    | English | Phonetics |
+    |---------+-----------|
+    | [[https://en.oxforddictionaries.com/definition/and][and]]     | [[http://www.wordreference.com/enfr/and][/ænd/]]     |
+    | [[https://en.oxforddictionaries.com/definition/cat][cat]]     | [[http://www.wordreference.com/enfr/cat][/kæt/]]     |
+    | [[https://en.oxforddictionaries.com/definition/black][black]]   | [[http://www.wordreference.com/enfr/black][/blæk/]]    |
+    | [[https://en.oxforddictionaries.com/definition/as][as]]      | [[http://www.wordreference.com/enfr/as][/æz/]]      |
+    | [[https://en.oxforddictionaries.com/definition/have][have]]    | [[http://www.wordreference.com/enfr/have][/hæv/]]     |
+    | [[https://en.oxforddictionaries.com/definition/hand][hand]]    | [[http://www.wordreference.com/enfr/hand][/hænd/]]    |
+    | [[https://en.oxforddictionaries.com/definition/flat][flat]]    | [[http://www.wordreference.com/enfr/flat][/flæt/]]    |  
+  + The short vowel [ɛ] like in: 
+    
+    | English | Phonetics |
+    |---------+-----------|
+    | [[https://en.oxforddictionaries.com/definition/ten][ten]]     | [[http://www.wordreference.com/enfr/ten][/tɛn/]]     |
+    | [[https://en.oxforddictionaries.com/definition/twelve][twelve]]  | [[http://www.wordreference.com/enfr/twelve][/twɛlv/]]   |
+    | [[https://en.oxforddictionaries.com/definition/send][send]]    | [[http://www.wordreference.com/enfr/send][/sɛnd/]]    |
+    | [[https://en.oxforddictionaries.com/definition/pen][pen]]     | [[http://www.wordreference.com/enfr/pen][/pɛn/]]     |
+    | [[https://en.oxforddictionaries.com/definition/intend][intend]]  | [[http://www.wordreference.com/enfr/intend][/ɪnˈtɛnd/]] |
+    | [[https://en.oxforddictionaries.com/definition/letter][letter]]  | [[http://www.wordreference.com/enfr/letter][/ˈlɛtə/]]   |
+    | [[https://en.oxforddictionaries.com/definition/bend][bend]]    | [[http://www.wordreference.com/enfr/bend][/bɛnd/]]    |
 * Solutions
 ** Exercice 1
      1. How do you spell this phone number, digit by digit:
