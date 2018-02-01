@@ -1,0 +1,48 @@
+  #+TITLE: Les nombres
+#+AUTHOR: Laurent Garnier
+
+* Introduction
+  Chaque fois que l'on a besoin de compter, mesurer, on a besoin de
+  nombres. Que cela soit pour dénombrer (un moniteur de centre aéré
+  qui souhaite vérifier qu'il n'a perdu aucun enfant), pour mesurer
+  une masse (par exemple au marché pour les fruits et légumes), on
+  n'utilisera pas toujours les mêmes nombres. 
+
+  #+BEGIN_QUOTE
+  Dieu a inventé les nombres entiers, le reste est l'oeuvre de
+  l'homme.
+
+  [[https://fr.wikipedia.org/wiki/Leopold_Kronecker][Leopold Kronecker]]
+  #+END_QUOTE
+
+* Les nombres entiers
+
+  Sauf si vous avez eu un accident ou une mal formation, a priori vous
+  avez dix doigts. De ce fait si vous commencez avec le pouce de votre
+  main gauche avec 1, ensuite vous passez à l'index ce qui fera 2,
+  puis au majeur ce qui fera 3, et ainsi de suite jusqu'à
+  l'auriculaire de la main droite et ça fera 10. De façon /simplifiée/
+  on dit que les entiers naturels sont ceux que l'on peut compter avec
+  les doigts auxquels on ajoute zéro. En théorie, si l'on disposait
+  d'un temps infini on pourrait compter n'importe quel nombre entier
+  avec nos doigts. Mais au fait, pourquoi choisir uniquement nos 10
+  doigts des mains ? Après tout on pourrait tout à fait continuer avec
+  nos 10 orteils ce qui nous amènerait à 20. Et pourquoi ne pas
+  compter nos phalanges pendant que nous y sommes ?
+
+  Toutes ces questions qui peuvent vous paraître étranges ou au
+  contraire légitimes sont là pour apprendre ou vous rappeler (si vous
+  le saviez déjà) que même en mathématiques (en fait surtout) il
+  s'agit avant tout de définir des conventions. Pour parler plus
+  simplement on peut dire que l'on se met d'accord sur les règles du
+  jeu. Pour le moment on ne va pas parler de ces autres systèmes
+  potentiels (ou bases de numération). Mais soyez assurés que nous y
+  reviendrons en temps voulu pour approfondir ces notions. 
+
+  Pour résumer, on va commencer par les nombres que "tout le monde
+  connaît", les entiers naturels $\mathbb{N} = \{0, 1, 2, 3, \dots
+  \}$. Auxquels on ajoutera les entiers relatifs c'est-à-dire les
+  nombres entiers positifs et négatifs. Ceux qui servent pour exprimer
+  la température en Sibérie pendant l'hiver, ou pour indiquer le
+  niveau du parking souterrain dans les ascenseurs. Les entiers
+  relatifs sont notés $\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}$.
