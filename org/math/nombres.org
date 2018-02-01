@@ -40,8 +40,11 @@
   reviendrons en temps voulu pour approfondir ces notions. 
 
   Pour résumer, on va commencer par les nombres que "tout le monde
-  connaît", les entiers naturels $\mathbb{N} = \{0, 1, 2, 3, \dots
-  \}$. Auxquels on ajoutera les entiers relatifs c'est-à-dire les
+  connaît", les entiers naturels 
+  
+  \[\mathbb{N} = \{0, 1, 2, 3, \dots \}\]
+  
+  Auxquels on ajoutera les entiers relatifs c'est-à-dire les
   nombres entiers positifs et négatifs. Ceux qui servent pour exprimer
   la température en Sibérie pendant l'hiver, ou pour indiquer le
   niveau du parking souterrain dans les ascenseurs. Les entiers
