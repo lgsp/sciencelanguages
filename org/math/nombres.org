@@ -16,7 +16,7 @@
   #+END_QUOTE
 
 * Les nombres entiers
-
+** Bases de numération
   Sauf si vous avez eu un accident ou une mal formation, a priori vous
   avez dix doigts. De ce fait si vous commencez avec le pouce de votre
   main gauche avec 1, ensuite vous passez à l'index ce qui fera 2,
@@ -38,7 +38,13 @@
   jeu. Pour le moment on ne va pas parler de ces autres systèmes
   potentiels (ou bases de numération). Mais soyez assurés que nous y
   reviendrons en temps voulu pour approfondir ces notions. 
-
+*** Exercice 1
+    1. Quelle serait la base de numération si on utilisait uniquement
+       les phalanges des 4 doigts de la main gauche (le pouce servant
+       à compter) ?
+    2. En consultant cet [[https://fr.wiktionary.org/wiki/quatre-vingts][article]] essayez de deviner quelle base de
+       numération utilisaient les Gaulois.
+*** Ensemble de nombres
   Pour résumer, on va commencer par les nombres que "tout le monde
   connaît", les entiers naturels 
   
@@ -51,7 +57,10 @@
   relatifs sont notés 
   
   \[\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}\]
-
+*** Exercice 2
+    1. Est-ce que -2 est un entier naturel ?
+    2. Peut-on exprimer la température moyenne à [[https://fr.wikipedia.org/wiki/Saint-P%25C3%25A9tersbourg#Climat][Saint Pétersbourg]] (Russie) en
+       hiver avec des nombres entiers relatifs ?
 
 * Les nombres rationnels ou fractions
   Que représente 15 minutes pour 1 heure ? Facile, cela représente 1/4
@@ -110,8 +119,11 @@
   
   Avec $\mathbb{N}^{*} = \mathbb{N}\{0} = \{1, 2, 3, \dots\}$
   c'est-à-dire tous les entiers naturels sauf zéro.
-
-
+** Exercice 3
+   Convertir en fractions les données suivantes :
+   1. Quelle fraction d'heure représente 12 minutes ?
+   2. Sachant qu'un tour complet fait 360°, quelle fraction de tour
+      représente 90° ?
 * Les nombres réels
   La légende raconte que le disciple de Pythagore [[https://fr.wikipedia.org/wiki/Hippase_de_M%25C3%25A9taponte][Hippase de Métaponte]]
   aurait découvert que certains nombres ne peuvent pas s'écrire à
@@ -129,9 +141,9 @@
 
   Il existe d'autres nombres célèbres qui ne peuvent pas s'écrire sous
   la forme de fractions :
-  + le [[https://fr.wikipedia.org/wiki/Nombre_d%2527or][nombre d'or]] souvent noté $\Phi$
-  + le nombre [[https://fr.wikipedia.org/wiki/Pi][Pi]] noté $\pi$
-  + le nombre [[https://fr.wikipedia.org/wiki/E_(nombre)][e]] appelé constante d'[[https://fr.wikipedia.org/wiki/Leonhard_Euler][Euler]]
+  + le [[https://fr.wikipedia.org/wiki/Nombre_d%2527or][nombre d'or]] souvent noté \Phi = \dfrac{1+\sqrt{5}}{2} \simeq 1,618\dots
+  + le nombre [[https://fr.wikipedia.org/wiki/Pi][Pi]] noté \pi \simeq 3,14158\dots
+  + le nombre [[https://fr.wikipedia.org/wiki/E_(nombre)][e]] \simeq 2,718\dots appelé constante d'[[https://fr.wikipedia.org/wiki/Leonhard_Euler][Euler]]
 
   Et bien d'autres. L'ensemble des nombres réels est l'ensemble de
   tous les nombres que l'on obtiendrait en identifiant l'abscisse de
@@ -143,6 +155,11 @@
   
   \[\mathbb{R} = \{\dots, -\sqrt{3}, \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1,
   \dots, 0, \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}\]
+** Exercice 4
+   1. Citer 3 nombres qui sont des nombres réels mais qui ne sont pas
+      rationnels.
+   2. Citer 3 nombres qui sont rationnels mais qui n'ont pas
+      d'écriture décimales.
 * Récapitulatif
 
   En guise de résumé, nous avons vu :
@@ -156,6 +173,51 @@
      \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1, \dots, 0,
      \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}$
 
-  
+
+  Et on peut même écrire la chaîne suivante 
+
+  \matbb{N} \subset \mathbb{Z} \subset \mathbb{D} \subset \mathbb{Q}
+  \subset \mathbb{R}
+
   Mais attention, l'histoire n'est pas finie, il existe bien d'autres
   nombres... Nous en verrons quelques uns un peu (beaucoup ?) plus tard.
+* Solutions
+** Exercice 1
+    1. Quelle serait la base de numération si on utilisait uniquement
+       les phalanges des 4 doigts de la main gauche (le pouce servant
+       à compter) ? L'index, le majeur, l'annulaire et l'auriculaire
+       on chacun 3 phalanges donc avec la main gauche on peut compter
+       jusqu'à 12.
+    2. En consultant cet [[https://fr.wiktionary.org/wiki/quatre-vingts][article]] essayez de deviner quelle base de
+       numération utilisaient les Gaulois. D'après l'article les
+       Gaulois (et d'autres peuples celtes) utilisaient la base
+       vingt d'où notre bon vieux quatre vingt qui est "unique" au
+       monde. Dans les autres langues européennes ils utilisent plutôt
+       des noms comme octante, huitante... 
+** Exercice 2
+    1. Est-ce que -2 est un entier naturel ? Non c'est un entier
+       relatif parce que les entiers naturels sont toujours positifs
+       (plus grands que zéro).
+    2. Peut-on exprimer la température moyenne à [[https://fr.wikipedia.org/wiki/Saint-P%25C3%25A9tersbourg#Climat][Saint Pétersbourg]] (Russie) en
+       hiver avec des nombres entiers relatifs ? Non parce que la
+       température moyenne s'exprime avec des nombres décimaux (avec
+       des chiffres après la virgule).
+** Exercice 3
+   Convertir en fractions les données suivantes :
+   1. Quelle fraction d'heure représente 12 minutes ? Puisqu'il y a 60
+      minutes dans 1 heure, alors 12 minutes représente \dfrac{12}{60}
+      heure soit \dfrac{1}{5} car 60 = 12\times 5
+   2. Sachant qu'un tour complet fait 360°, quelle fraction de tour
+      représente 90° ? 90° représente \dfrac{90}{360} soit
+      \dfrac{1}{4} de tour car 360 = 90\times 4
+
+
+
+** Exercice 4
+   1. Citer 3 nombres qui sont des nombres réels mais qui ne sont pas
+      rationnels. \sqrt{3} \simeq 1,73\dots, \sqrt{5} \simeq
+      2,236\dots, [[https://fr.wikipedia.org/wiki/Constante_d%2527Euler-Mascheroni][\gamma]] \simeq 0,577\dots
+   2. Citer 3 nombres qui sont rationnels mais qui n'ont pas
+      d'écriture décimales. \dfrac{1}{7} \simeq
+      0,\overline{142857}\dots, \dfrac{1}{9} \simeq
+      0,\overline{1}\dots, \dfrac{1}{11} \simeq 0,\overline{09}\dots
