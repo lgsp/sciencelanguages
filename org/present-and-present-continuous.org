@@ -1,0 +1,162 @@
+#+TITLE: Present simple and present continuous
+#+AUTHOR: Laurent Garnier
+
+* Review the verb to be
+
+  To be is the only irregular verb in present simple tense.
+
+  + I *am* an irregular verb. 
+  + You *are* forced to deal with it.
+  + That *is* the way it *is*.
+  + You *are* not alone.
+  + They *are* happy to learn with me.
+
+* Other verbs
+ For all the other verbs you just have to keep the verbal base, except
+ for He/She/It where you need to add an 's'. Let's see some examples.
+
+** Examples
+   1. I (to work) *work* everyday, but my whife (to do) *does* not.
+   2. He (to learn) *learns* English by himself and she (to study)
+      *studies* it at University.
+   3. I (to try) *try* to travel as much as I (to can) *can*.
+   4. My daughter (to try) *tries* to make new sounds everyday.
+   5. Her mother (to cook) *cooks* very well and I (to like) *like*
+      that.
+** Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the present simple.
+   1. Usually I (to eat) my breakfast at 7:00 am.
+   2. She (to listen) to the music while she (to do) her homework.
+   3. You (to try) to do your exercises in each lesson.
+   4. People in the street usually (to walk) fast in NYC.
+   5. It (to make) sense to study everyday if you (to want) to improve
+      your level.
+
+* Present continuous
+
+  The construction of the present continuous or present progressive is
+  simple: to be + verbal base + ing
+
+  Let's see some examples.
+
+** Examples
+   1. I (to go) *am going* to show you the present continuous.
+   2. You (to read) *are reading* this sentence right now.
+   3. My daughter (to play) *is playing* with her mother.
+   4. My nephew (to do) *is doing* a good job with video games.
+   5. They (to live) *are living* the information era with tones of
+      internet of the things.
+** Exercise 2
+   Complete the following sentences with the verb in parenthesis using
+   the present continuous.
+   1. I (to eat) my breakfast right now because it's 7:00 am.
+   2. Currently, she (to listen) to the music while she (to do) her homework.
+   3. Right now, you (to try) to do this exercise in this lesson.
+   4. While I (to walk) in the street I can observe people.
+   5. After this I (to go) to explain you when you should use one tense
+      or another.
+* When to use which one
+** Present simple
+*** General truth, habit, and so on
+   The present simple expresses a general truth, a habit, a persistant
+   fact.
+**** Examples
+    1. Women live longer than men.
+    2. I try to express myself in the language of the country I live.
+    3. I always like to learn new languages.
+**** Exercise 3
+    Write 3 sentences using the present simple.
+*** Other cases
+    + Comments in live (on TV, radio,...)
+    + Newspaper titles
+    + Movie script
+**** Examples
+     1. Ronaldo dribbles the last defender and then he shoots and
+        scores!
+     2. Prime Minister visits new station.
+     3. The detective appears at the door. He knocks. Lisa rises,
+        pauses a moment. She crosses the room to open the door.
+**** Exercise 4
+     Write an example for each case.
+** Present continuous 
+   The present continuous expresses an action or a fact that is
+   happening right now, currently, at the moment we talk about it.
+*** Examples
+    1. Be careful! Taxi cabs in London don't care about pedestrians.
+    2. What are you doing? I am studying English.
+*** Exercise 5 
+    Write 2 examples using present continuous.
+*** Verbs that almost never use present continuous
+    Some verbs describe the result rather the action itself.
+
+    agree, believe, belong, consist, contain, depend, deserve, doubt,
+    hate, include, know, like, love, matter, mean, need, own, possess,
+    prefer, recognize, remember, seem, suppose, understand, want, wish
+*** Exercise 6
+    Write 5 examples using 5 differents verbs from this list.
+* Solutions
+** Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the present simple.
+   1. Usually I *eat* my breakfast at 7:00 am.
+   2. She *listens* to the music while she *does* her homework.
+   3. You *try* to do your exercises in each lesson.
+   4. People in the street usually *walk* fast in NYC.
+   5. It *makes* sense to study everyday if you *want* to improve
+      your level.
+** Exercise 2
+   Complete the following sentences with the verb in parenthesis using
+   the present continuous.
+   1. I *am eating* my breakfast right now because it's 7:00 am.
+   2. Currently, she *is listening* to the music while she *is doing* her homework.
+   3. Right now, you *are trying* to do this exercise in this lesson.
+   4. While I *am walking* in the street I can observe people.
+   5. After this I *am going* to explain you when you should use one tense
+      or another.
+** Exercise 3
+    Write 3 sentences using the present simple.
+
+    1. I love to learn languages.
+    2. [[https://youtu.be/eDW_yAwaHnc][People are strange]].
+    3. [[https://youtu.be/_eF75YR5Ijw][She is everything I need]].
+** Exercise 4
+     1. Federer does his service. And it's an ace again!
+     2. Today Macron receives Merkel.
+     3. My name is Bond, James Bond. And then the bad guy arrives.
+** Exercise 5 
+    1. Right now I am thinking about the material I am creating for
+       you.
+    2. It's going to be a great day because the sun is shining.
+** Exercise 6
+    1. My wife always agrees with me.
+    2. Do you believe what's happening?
+    3. [[https://youtu.be/uAhzBVALop4][I belong to you, and you belong to me]].
+    4. This exercise consists in applying all the things you've
+       learned so far.
+    5. This course contains a lot of references.
+    6. Your improvement depends on your will power.
+    7. You deserve this award because you've worked hard.
+    8. [[https://www.goodreads.com/quotes/7840-doubt-thou-the-stars-are-fire-doubt-that-the-sun][Doubt truth to be a liar]].
+    9. Right now, I hate you because of what've youve done.
+   10. Do you include this fact in your analysis?
+   11. [[https://youtu.be/DeZOzkHEQAw][You know nothing, Jon Snow]].
+   12. [[https://youtu.be/CZzW6_hR068][P.S. I love you]].
+   13. Does it matter?
+   14. Currently, what I mean is simple. 
+   15. [[https://youtu.be/NZiEqhrIL_k][I need you]].
+   16. [[https://youtu.be/PYsEo4TTTtM][I own you]].
+   17. [[https://youtu.be/wUdfblJEAY8][Seven signs of Emotional Intelligence: Which of these do you
+       possess?]] 
+   18. I [[https://youtu.be/35zlUQUCxQk][prefer]] not talking to you right now.
+   19. Do you recognize this person?
+   20. I don't remember when is your birthday.
+   21. As soon as I formulate my thoughts she understands me
+       immediately.
+   22. What do you want right now?
+   23. What do you wish to eat now?
+* If you want to go further
+  Here are some additionally resources:
+  + [[https://youtu.be/AEBRIBtq7q0][Anglo-link]]
+  + [[https://youtu.be/X8lu4_5F0hg][Crown Academy of English]]: present simple
+  + [[https://youtu.be/rjWd8U-6jbA][Crown Academy of English]]: present continuous
