@@ -175,3 +175,7 @@
   13. Diphthong vowel [eɪ] like in [[https://en.oxforddictionaries.com/definition/place][place]] ([[http://www.wordreference.com/enfr/place][/pleɪs/]])
   14. Diphthong vowel [ɔɪ] like in [[https://en.oxforddictionaries.com/definition/boil][boil]] ([[http://www.wordreference.com/enfr/boil][/bɔɪl/]])
   15. Diphthong vowel [aɪ] like in [[https://en.oxforddictionaries.com/definition/fry][fry]] ([[http://www.wordreference.com/enfr/fry][/fraɪ/]])
+* If you want to go further
+  Here are some additionally resources:
+  + [[https://youtu.be/nmVN-5oOGy0][English Jade]]
+  + [[https://youtu.be/A2ncygNMaFo][mmmEnglish]]
