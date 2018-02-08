@@ -1,0 +1,235 @@
+#+TITLE: Past simple and past continuous
+#+AUTHOR: Laurent Garnier
+
+* Review the verb to be at past tense
+
+  To be is the only irregular verb in past simple tense.
+
+  + I *was* in London last october.
+  + You *were* in your native country when you *were* born.
+  + That *was* obvious in the previous sentence.
+  + You *were* a lot of people to follow my previous lessons.
+  + They *were* happy to tell me that last year.
+
+* Regular verbs
+ For all the regular verbs you just have to keep the verbal base and
+ to add 'ed' at the end. Let's see some examples.
+
+** Examples
+   1. I (to work) *worked* yesterday, but fortunately my whife (to
+      help) *helped* me a lot.
+   2. He (to learn) *learned* English when he was a kid and she (to study)
+      *studied* it at University.
+   3. I (to try) *tried* to travel as much as possible when I was single.
+   4. My daughter (to cry) *cried* yesterday.
+   5. Her mother (to cook) *cooked* very well last week and I (to like) *liked*
+      that.
+** Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the past simple.
+   1. I (to plan) to have my breakfast at 7:00 am and now it's 9:00 am.
+   2. She (to listen) to the music few minutes ago.
+   3. You (to try) to do your exercises yesterday in order to be ok
+      with this new lesson.
+   4. People in the street usually (to walk) fast when I was in NYC in 2000.
+   5. It (to work) when I (to try) this machine two days ago, you (to
+      want) to do the same before I (to warn) you yesterday.
+
+* Irregular verbs
+  In English there are a lot of irregular verbs. Because of that I've
+  decided to do specific lessons on these verbs. So right now I will
+  just show you some of them. Don't focus it currently. Be patient
+  we'll study them carfully, later.
+
+** Examples  
+   1. Yesterday (to go) I *went* to the park.
+   2. We (to drink) *drank* some juice this morning.
+   3. They (to come) *came* back from their trip in the U.S.A last
+      week, they (to spend) *spent* four days with us, and then, they
+      (to leave) *left* us for going to New Zealand two days ago.
+   4. She (to fall) *fell* in love when she (to meet) *met* him at her
+      sister's wedding last year.
+   5. You (to cut) *cut* your hair since last month.
+** Exercise 2
+   1. I (to drink) water last night.
+   2. We (to cut) some wood yesterday.
+   3. She (to go) to U.K two weeks ago.
+   4. They (to come) back from Australia last month, they (to spend) a
+      week with us, and then they (to leave) us for going to South
+      Africa.
+   5. So you (to go) to the cinema with your brother last Wednesday.
+* Past continuous
+
+  The construction of the past continuous or past progressive is
+  simple: to be (past simple) + verbal base + ing
+
+  Let's see some examples.
+
+** Examples
+   1. I (to go) *was going* to show you the past simple before the
+      perfect tenses.
+   2. You (to read) *were reading* the sentence before this one.
+   3. My daughter (to play) *was playing* with her mother while I (to
+      write) *was writing* this course.
+   4. My nephew (to do) *was doing* a good job with video games during
+      Christmas holidays.
+   5. They (to live) *were living* living in Russia before we move together.
+** Exercise 3
+   Complete the following sentences with the verb in parenthesis using
+   the past continuous.
+   1. I (to eat) my breakfast right now because it's 7:00 am.
+   2. Currently, she (to listen) to the music while she (to do) her homework.
+   3. Right now, you (to try) to do this exercise in this lesson.
+   4. While I (to walk) in the street I can observe people.
+   5. After this I (to go) to explain you when you should use one tense
+      or another.
+* When to use which one
+** Past simple
+*** Talking about a finished past
+   The past simple is the most used form for talking about a finished
+   past. 
+**** Examples
+    1. When my parents were kids computers weren't common.
+    2. Evariste Galois died young.
+    3. I was really bad in English class.
+**** Exercise 4
+    Write 3 sentences using the past simple.
+*** Mandatory after past markers
+    Here are some keywords that indicates past simple is required:
+    when, ago, yesterday, last time...
+**** Examples
+     1. I saw here *yesterday*.
+     2. He came to Manchester United *last* year.
+     3. They were the best players *when* they won the world cup.
+**** Exercise 5
+     Write an example with each word.
+*** Writing a story in the past
+    We use it in order to describe a story in the past.
+**** Example
+     She got home and went straight to the bathroom. She looked around
+     her, took a shower. And then she went to her bed.
+**** Exercice 6 
+     Write three sentences like this in order to describe a story in
+     the past.
+*** Expressing habits or past states
+    past simple is used in order to express habits or past states.
+**** Example
+     We always went to the museum with my mother when I was a kid. 
+**** Exercise 7
+     Write your own example.
+*** Hypothetical states
+    After keywords like: if, it's time, I'd rather, I wish... simple
+    past describe an hypothetical state.
+**** Examples
+     1. _If_ only I (to know) *knew* what to say.
+     2. _It's time_ they (to pay) *paid* their debts.
+     3. _I'd rather_ you (to come) *came* earlier.
+     4. _I wish_ I (to be) *was* stronger in computer programming.
+**** Exercise 8
+     1. Tell me _if_ you (to do) it or not.
+     2. _It's time_ you (to earn) your salary.
+     3. _I'd rather_ they (to finish) later.
+     4. _I wish_ you (to win) this game.
+** Past continuous 
+   The past continuous expresses an action or a fact that is
+   happening during the past. 
+*** Examples
+    1. What were you doing last night around 9? I was studying my English.
+    2. Why were they playing the game whearas it was snowing? Because
+       they were playing in order to get a ticket for the world cup.
+*** Exercise 9 
+    Write 2 examples using past continuous.
+
+* If you want to go further
+  Here are some additionally resources:
+  + [[http://www.talkenglish.com/grammar/simple-tense.aspx][Talkenglish]]
+  + [[https://youtu.be/_XP4le29BAM][Past Simple and Past Continuous]]
+  + [[https://youtu.be/LtVkKpBWy54][Mr Skype Lessons]]
+  + [[https://youtu.be/e0q24_bB_54][Engvid]] Rebecca
+  + [[https://youtu.be/6IilS4SEqyA][Engvid]] James
+  + [[https://www.thoughtco.com/differences-between-french-and-english-1369367][French vs English]]
+  + [[https://www.fluentu.com/blog/educator-english/esl-grammar-games/][Grammar Games]] 
+
+* Vocabulary
+
+| English     | Français                              |
+|-------------+---------------------------------------|
+| debt        | dette                                 |
+| dumb        | idiot                                 |
+| both        | les deux                              |
+| iron        | fer                                   |
+| advertisers | pubs                                  |
+| wise        | sage                                  |
+| leisure     | loisir                                |
+| useful      | utile                                 |
+| relative    | parent                                |
+| thwart      | repousser,  contrecarrer, contrarier  |
+| drought     | sécheresse, pénurie                   |
+| bout        | accès, période                        |
+| soot        | suie                                  |
+| choir       | chorale, choeur                       |
+| wire        | câble                                 |
+| towards     | en direction de                       |
+| sew         | coudre                                |
+| ribbon      | ruban                                 |
+| bow         | arc, s'incliner, faire une  déférence |
+| fur         | pelage                                |
+
+
+* Solutions
+** Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the past simple.
+   1. I *[[https://fr.bab.la/conjugaison/anglais/plan][planned]]* to have my breakfast at 7:00 am and now it's 9:00 am.
+   2. She *[[https://fr.bab.la/conjugaison/anglais/listen][listened]]* to the music few minutes ago.
+   3. You *[[https://fr.bab.la/conjugaison/anglais/try][tried]]* to do your exercises yesterday in order to be ok
+      with this new lesson.
+   4. People in the street usually *[[https://fr.bab.la/conjugaison/anglais/walk][walked]]* fast when I was in NYC in 2000.
+   5. It *[[https://fr.bab.la/conjugaison/anglais/work][worked]]* when I *[[https://youglish.com/search/tried][tried]]* this machine two days ago, you
+      *[[https://fr.bab.la/conjugaison/anglais/want][wanted]]* to do the same before I *[[https://fr.bab.la/conjugaison/anglais/warn][warned]]* you yesterday.
+
+** Exercise 2
+   1. I *[[https://fr.bab.la/conjugaison/anglais/drink][drank]]* water last night.
+   2. We *[[https://fr.bab.la/conjugaison/anglais/cut][cut]]* some wood yesterday.
+   3. She *[[https://fr.bab.la/conjugaison/anglais/go][went]]* to U.K two weeks ago.
+   4. They *[[https://fr.bab.la/conjugaison/anglais/come][came]]* back from Australia last month, they *[[https://fr.bab.la/conjugaison/anglais/spend][spent]]* a
+      week with us, and then they *[[https://fr.bab.la/conjugaison/anglais/leave][left]]* us for going to South
+      Africa.
+   5. So you *[[https://youglish.com/search/went][went]]* to the cinema with your brother last Wednesday.
+** Exercise 3
+   Complete the following sentences with the verb in parenthesis using
+   the past continuous.
+   1. I *[[https://fr.bab.la/conjugaison/anglais/eat][was eating]]* my breakfast when it was 7:00 am.
+   2. Previously, she *[[https://fr.bab.la/conjugaison/anglais/listen][was listening]]* to the music while she *[[https://fr.bab.la/conjugaison/anglais/do][was
+      doing]]* her homework.
+   3. So far, you *[[https://fr.bab.la/conjugaison/anglais/try][were trying]]* to do this exercise in this lesson.
+   4. While I *[[https://fr.bab.la/conjugaison/anglais/walk][was walking]]* in the street I can observe people.
+   5. After this I *[[https://fr.bab.la/conjugaison/anglais/go][was going]]* to explain you when you should use one tense
+      or another.
+** Exercise 4
+     1. Federer *[[https://fr.bab.la/conjugaison/anglais/do][did]]* his service few minutes ago. And it *[[https://fr.bab.la/conjugaison/anglais/be][was]]* an ace
+        again!
+     2. Yesterday Macron *[[https://fr.bab.la/conjugaison/anglais/receive][received]]* Merkel.
+     3. His name *[[https://fr.bab.la/conjugaison/anglais/be][was]]* Bond, James Bond, but now it's over. 
+** Exercise 5 
+    1. *[[https://youglish.com/search/yesterday][Yesterday]]* all my troubles *[[https://fr.bab.la/conjugaison/anglais/seem][seemed]]* so far away.
+    2. Brazil *[[https://fr.bab.la/conjugaison/anglais/organize][organized]]* the world cup *[[https://youglish.com/search/last][last]]* time.
+    3. I was sleeping *[[https://youglish.com/search/when][when]]* the telephone *[[https://fr.bab.la/conjugaison/anglais/ring][rang]]*.
+** Exercise 6
+   1. It was a cold and dark night.
+   2. He was a strong and dark knight.
+   3. Yes, it was the man with the bat suit.
+** Exercise 7
+   We played a lot with video games with my friends when we were
+   teenagers.
+** Exercice 8
+     1. Tell me _if_ you *[[https://fr.bab.la/conjugaison/anglais/do][did]]* it or not.
+     2. _It's time_ you *[[https://fr.bab.la/conjugaison/anglais/earn][earned]]* your salary.
+     3. _I'd rather_ they *[[https://fr.bab.la/conjugaison/anglais/finish][finished]]* later.
+     4. _I wish_ you
+        *[[https://fr.bab.la/conjugaison/anglais/win][won]]* this
+        game.
+** Exercise 9
+   1. I *was working* when someone knocked the door.
+   2. She *was trying* to learn French during her trip in France.
+
