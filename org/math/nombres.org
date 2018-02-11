@@ -48,7 +48,7 @@
   Pour résumer, on va commencer par les nombres que "tout le monde
   connaît", les entiers naturels 
   #+BEGIN_LaTeX
-  \mathbb{N} = \{0, 1, 2, 3, \dots \}
+  \[\mathbb{N} = \{0, 1, 2, 3, \dots \}\]
   #+END_LaTeX
   
 
@@ -59,7 +59,7 @@
   relatifs sont notés 
   
   #+BEGIN_LaTeX 
-  \mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}
+  \[\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}\]
   #+END_LaTeX
   
 *** Exercice 2
@@ -120,13 +120,13 @@
   nombre en dessous) n'est pas zéro : 
 
   #+BEGIN_LaTeX 
-  \mathbb{Q} = \{ \dfrac{a}{b} | a\in\mathbb{Z},
-  b\in\mathbb{N}^{*}\}
+  \[\mathbb{Q} = \{ \dfrac{a}{b} | a\in\mathbb{Z},
+  b\in\mathbb{N}^{*}\}\]
   #+END_LaTeX
   
   Avec 
   #+BEGIN_LaTeX 
-  \mathbb{N}^{*} = \mathbb{N}\{0} = \{1, 2, 3, \dots\}
+  \[\mathbb{N}^{*} = \mathbb{N}\{0} = \{1, 2, 3, \dots\}\]
   #+END_LaTeX 
   c'est-à-dire tous les entiers naturels sauf zéro.
 ** Exercice 3
@@ -164,8 +164,7 @@
   L'ensemble des nombres réels est noté :
   
   #+BEGIN_LaTeX 
-  \mathbb{R} = \{\dots, -\sqrt{3}, \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1,
-  \dots, 0, \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}
+  \[\mathbb{R} = \{\dots, -\sqrt{3}, \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1,\dots, 0, \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}\]
   #+END_LaTeX 
 ** Exercice 4
    1. Citer 3 nombres qui sont des nombres réels mais qui ne sont pas
@@ -177,27 +176,25 @@
   En guise de résumé, nous avons vu :
   1. Les nombres "qu'on peut compter avec les doigts", 
   #+BEGIN_LaTeX 
-  \mathbb{N} = \{0, 1, 2, 3, \dots \}
+  \[\mathbb{N} = \{0, 1, 2, 3, \dots \}\]
   #+END_LaTeX
   2. Les nombres "qui servent à indiquer le niveau des températures",
      #+BEGIN_LaTeX 
-     \mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}
+     \[\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}\]
      #+END_LaTeX
   3. Les nombres fractionnaires 
      #+BEGIN_LaTeX 
-     \mathbb{Q} = \{ \dfrac{a}{b} | a\in\mathbb{Z}, b\in\mathbb{N}^{*}\}
+     \[\mathbb{Q} = \{ \dfrac{a}{b} | a\in\mathbb{Z}, b\in\mathbb{N}^{*}\}\]
      #+END_LaTeX
   4. Les nombres réels 
      #+BEGIN_LaTeX 
-     \mathbb{R} = \{\dots, -\sqrt{3}, \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1, \dots, 0,
-     \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}
+     \[\mathbb{R} = \{\dots, -\sqrt{3}, \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1, \dots, 0,\dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}\]
      #+END_LaTeX
 
 
   Et on peut même écrire la chaîne suivante 
   #+BEGIN_LaTeX 
-  \matbb{N} \subset \mathbb{Z} \subset \mathbb{D} \subset \mathbb{Q}
-  \subset \mathbb{R}
+  \[\matbb{N} \subset \mathbb{Z} \subset \mathbb{D} \subset \mathbb{Q}\subset \mathbb{R}\]
   #+END_LaTeX
 
   Mais attention, l'histoire n'est pas finie, il existe bien d'autres
