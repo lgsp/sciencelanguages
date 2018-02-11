@@ -56,7 +56,10 @@
   niveau du parking souterrain dans les ascenseurs. Les entiers
   relatifs sont notés 
   
+  #+BEGIN_EXPORT latex
   \[\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}\]
+  #+END_EXPORT
+  
 *** Exercice 2
     1. Est-ce que -2 est un entier naturel ?
     2. Peut-on exprimer la température moyenne à [[https://fr.wikipedia.org/wiki/Saint-P%25C3%25A9tersbourg#Climat][Saint Pétersbourg]] (Russie) en
@@ -91,13 +94,13 @@
   
   En revanche il faut se méfier de certaines fractions
 
-  #+BEGIN_SRC LATEX
+  #+BEGIN_EXPORT latex
   \begin{align*}
   \dfrac{1}{3} &\neq 0,33 \\
   \dfrac{2}{3} &\neq 0,66 \\
   \dfrac{1}{6} &\neq 0,16 
   \end{align*}
-  #+END_SRC
+  #+END_EXPORT
 
   Mais chaque fois que vous manipulez des euros et des centimes (en
   fait n'importe quelle [[https://www.wikiberal.org/wiki/Monnaie-fiat][monnaie-fiat]] ferait l'affaire) vous utilisez
@@ -114,10 +117,15 @@
   tous les quotients d'entiers relatifs dont le dénominateur (le
   nombre en dessous) n'est pas zéro : 
 
+  #+BEGIN_EXPORT latex
   \[\mathbb{Q} = \{ \dfrac{a}{b} | a\in\mathbb{Z},
   b\in\mathbb{N}^{*}\}\]
+  #+END_EXPORT
   
-  Avec $\mathbb{N}^{*} = \mathbb{N}\{0} = \{1, 2, 3, \dots\}$
+  Avec 
+  #+BEGIN_EXPORT latex
+  \[\mathbb{N}^{*} = \mathbb{N}\{0} = \{1, 2, 3, \dots\}\]
+  #+END_EXPORT 
   c'est-à-dire tous les entiers naturels sauf zéro.
 ** Exercice 3
    Convertir en fractions les données suivantes :
@@ -153,8 +161,10 @@
   droite est associé à un unique nombre, qu'on appelle nombre réel. 
   L'ensemble des nombres réels est noté :
   
+  #+BEGIN_EXPORT latex
   \[\mathbb{R} = \{\dots, -\sqrt{3}, \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1,
   \dots, 0, \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}\]
+  #+END_EXPORT 
 ** Exercice 4
    1. Citer 3 nombres qui sont des nombres réels mais qui ne sont pas
       rationnels.
@@ -163,21 +173,30 @@
 * Récapitulatif
 
   En guise de résumé, nous avons vu :
-  1. Les nombres "qu'on peut compter avec les doigts", $\mathbb{N} =
-     \{0, 1, 2, 3, \dots \}$
+  1. Les nombres "qu'on peut compter avec les doigts", 
+  #+BEGIN_EXPORT latex
+  \[\mathbb{N} = \{0, 1, 2, 3, \dots \}\]
+  #+END_EXPORT
   2. Les nombres "qui servent à indiquer le niveau des températures",
-     $\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}$
-  3. Les nombres fractionnaires $\mathbb{Q} = \{ \dfrac{a}{b} |
-     a\in\mathbb{Z}, b\in\mathbb{N}^{*}\}$
-  4. Les nombres réels $\mathbb{R} = \{\dots, -\sqrt{3},
-     \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1, \dots, 0,
-     \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}$
+     #+BEGIN_EXPORT latex
+     \[\mathbb{Z} = \{\dots, -3, -2, -1, 0, 1, 2, 3, \dots\}\]
+     #+END_EXPORT
+  3. Les nombres fractionnaires 
+     #+BEGIN_EXPORT latex
+     \[\mathbb{Q} = \{ \dfrac{a}{b} | a\in\mathbb{Z}, b\in\mathbb{N}^{*}\}\]
+     #+END_EXPORT
+  4. Les nombres réels 
+     #+BEGIN_EXPORT latex
+     \[\mathbb{R} = \{\dots, -\sqrt{3}, \dots,-\dfrac{3}{3}, \dots,  -\sqrt{2}, \dots, -1, \dots, 0,
+     \dots, 1, \dots, \Phi, \dots, e, \dots, \pi, \dots \}\]
+     #+END_EXPORT
 
 
   Et on peut même écrire la chaîne suivante 
-
-  \matbb{N} \subset \mathbb{Z} \subset \mathbb{D} \subset \mathbb{Q}
-  \subset \mathbb{R}
+  #+BEGIN_EXPORT latex
+  \[\matbb{N} \subset \mathbb{Z} \subset \mathbb{D} \subset \mathbb{Q}
+  \subset \mathbb{R}\]
+  #+END_EXPORT
 
   Mais attention, l'histoire n'est pas finie, il existe bien d'autres
   nombres... Nous en verrons quelques uns un peu (beaucoup ?) plus tard.
