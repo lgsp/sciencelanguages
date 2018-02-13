@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hangman Game</title>
+  </head>
+  <body>
+
+    <canvas id="canvas" width="1000" height="1000"></canvas>
+
+    <script>
+      document.write("<h1>Welcome to the Hang Man Game!</h1>");
+      alert("Welcome to the Hang Man Game!");
+      alert("You have to find the word behind the -s.");
+      // Create an array of words
+      var words = [
+        "zero", "one", "two", "three", "four",
+        "five", "six", "seven", "eight", "nine",
+        "ten", "eleven", "twelve", "thirteen",
+        "fourteen", "fifteen", "sixteen",
+        "seventeen", "eighteen", "nineteen"
+      ];
+
+      // Pick up a random word
+      var word = words[Math.floor(Math.random() * words.length)];
+
+      // Set up the answer array
+      var answerArray = [];
+      for (var i = 0; i < word.length; i++) {
+        answerArray[i] = "_";
+      }
+
+      var canvas = document.getElementById("canvas");
+      var ctx = canvas.getContext("2d");
+      // hangman
+      var hangman = function(x = 350, y = 550, incorrectGuess) {
+        /*
+        x = (typeof x !== 'undefined') ?  x : 350;
+        y = (typeof y !== 'undefined') ?  y : 550;
+        */
+        ctx.strokeStyle = "Black";
+        ctx.beginPath();
+        switch (incorrectGuess) {
+          case 0: // does nothing because it's the initial case
+          break;
+          case 1:
+            ctx.strokeRect(x, y, 20, 20); // head
+            
+            break;
+          case 2:
+            ctx.moveTo(x+10, y+20); // trunc
+            ctx.lineTo(x+10, y+65); // body
+          break;
+          case 3:
+            ctx.moveTo(x-10, y+30); // left
+            ctx.lineTo(x+10, y+40); // arm
+          break;
+          case 4:
+            ctx.moveTo(x+30, y+30); // right
+            ctx.lineTo(x+8, y+40); // arm
+          break;
+          case 5:
+            ctx.moveTo(x+10, y+65); // left
+            ctx.lineTo(x-10, y+90); // leg
+          break;
+          case 6:
+            ctx.moveTo(x+10, y+65); // right
+            ctx.lineTo(x+30, y+90); // leg
+          break;
+          case 7:
+            ctx.moveTo(x+10, y-30); // top of the string
+            ctx.lineTo(x+10, y); // bottom of the string
+          break;
+          case 8:
+            ctx.moveTo(x+10, y-30); // right of the string
+            ctx.lineTo(x-30, y-30); // left of the string
+          break;
+          case 9:
+            ctx.moveTo(x-30, y-30); // top of the stick
+            ctx.lineTo(x-30, y+110); // bottom of the stick
+          break;
+          case 10:
+            ctx.moveTo(x-30, y+110); // left of the ground
+            ctx.lineTo(x+60, y+110); // right of the ground
+          break;
+          default:
+            alert("There is a problem");
+          }
+          ctx.stroke();
+        };
+
+        var remainingLetters = word.length;
+        var incorrectGuess = 0;
+        var guessWell = false;
+
+        // The game loop
+        while (remainingLetters > 0) {
+          // Show the player their progress
+          alert(answerArray.join(" "));
+
+          // Get a guess from the player
+          var guess = prompt("Guess a letter, or click Cancel to stop playing.");
+          if (guess === null) {
+            // Exit the game loop
+            break;
+          } else if (guess.length !== 1) {
+            alert("Please enter a single letter.");
+          } else {
+            // Update the game state with the guess
+            for (var j = 0; j < word.length; j++) {
+              if (word[j] === guess) {
+                answerArray[j] = guess;
+                remainingLetters--;
+                guessWell = true;
+              }
+            }
+            if (guessWell === false) {
+              incorrectGuess++;
+              if (incorrectGuess === 1) {
+                  alert("You've done "+incorrectGuess+" incorrect guess!");
+                  hangman(x = 150, y = 150, incorrectGuess);
+              } else if (incorrectGuess > 1) {
+                  alert("You've done "+incorrectGuess+" incorrect guesses!");
+                  hangman(x = 150, y = 150, incorrectGuess);
+              } else {
+                alert("Well done you've done only correct guesses!")
+              }
+            }
+          }
+          // The end of the game loop
+        }
+
+        // Show the answer and congratulate the player
+        document.write("<p>" + answerArray.join(" ") + "</p>");
+        document.write("<p>Good job! The answer was " + word + "</p>");
+
+    </script>
+  </body>
+</html>
