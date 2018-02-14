@@ -1,0 +1,268 @@
+#+TITLE: 45 Phonetic Sounds of English
+#+AUTHOR: Laurent Garnier
+
+* Introduction
+Dans cet ebook (ou livre électronique en bon français), vous allez
+découvrir ce qui est bien trop souvent passé sous silence dans les
+cours de langues..., la
+phonétique. En effet, en France en particulier (n'ayant jamais fait
+d'études à l'étranger je ne peux pas me permettre de parler des autres
+pays), les cours de langues insistent rarement sur l'oral. Attention,
+je parle des cours de langue avant le bac. Il faut savoir que
+/normalement/ l'objectif de l'enseignement obligatoire (jusqu'à 16 ans
+je le rappelle, donc normalement disons seconde ou première du lycée)
+est d'atteindre le [[http://www.cambridgeenglish.org/fr/exams-and-tests/cambridge-english-certificate-cec/][niveau B1]]. 
+Hélas, la réalité est loin d'être celle qu'espèrent les ministres et
+de nombreux indicateurs le prouvent :
++ niveau en anglais par rapport aux autres pays [[https://www.ef.fr/epi/regions/europe/][européens]] (derrière
+  l'Espagne, la Grèce, la Bulgarie, la Roumanie...)
++ niveau en anglais par rapport [[https://www.ef.fr/epi/][au reste du monde]] (derrière la
+  République Dominicaine et la Corée du Sud s'il vous plaît...)
++ encore des [[https://www.digischool.fr/international/tests-anglais/chiffres-cles-francais-langues-etrangeres-16265.html][chiffres accablants]] (1/5 des français parlent anglais
+  couramment)
+Loin de moi l'idée vous assommer avec des chiffres et encore moins de
+partir dans l'auto-flagellation. Néanmoins, il faut être lucide, il y
+a un problème franco-français (qui est très bien expliqué dans cet
+[[http://www.larevuedesressources.org/les-francais-et-les-langues-etrangeres,2920.html][essai]]). 
+Ce problème est très bien développé et analysé dans l'essai du
+professeur Daniel Emilio Rojas (hispanophone natif qui parle et écrit
+probablement beaucoup mieux le français que 90% d'entre
+nous). Cependant, je me permettrais de vous proposer un raccourci
+(forcément réducteur) pédagogique en vous rappelant un fait
+élémentaire mais que l'on oubli trop souvent. Parfois les solutions
+sont tellement /bêtes/ qu'on oubli d'y penser. Attention, je ne
+prétends pas vous proposer de recette miracle. L'anglais est une
+langue difficile, bizarre, complexe et illogique (comme beaucoup de
+langues et notamment le français); et je ne suis pas le seul à le dire
+puisque certains anglophones natifs (et linguistes de surcroît) le
+disent et l'écrivent dans cet [[https://aeon.co/essays/why-is-english-so-weirdly-different-from-other-languages][article]] qui permet également d'être
+écouté. Donc oui l'anglais est difficile *mais* avec un peu de bon
+sens et de persévérence vous pouvez y arriver tout aussi bien. 
+
+Mais quel est donc ce truc /tout bête/ que l'on oublierait et dont je
+ne vous ai toujours pas parlé ? Minute papillon ! Non ! Je n'essaie
+pas de noyer le poisson, je vais vous révéler mon /truc/. Je vous
+préviens, vous allez être probablement déçu, mais pourtant c'est une
+évidence. 
+Allons-y ! Et bien, je ne sais pas pour vous mais pour moi (et il me
+semble pour la plupart des gens aussi), l'acquisition de ma langue
+maternelle a commencé par l'oral et non par l'écrit. Pendant au moins
+5 ans (avant de rentrer au CP ou tout autre système scolaire qui
+apprend à lire et à écrire), j'ai pratiqué en priorité l'écoute et la
+méthode essai/erreur (en anglais on dit /try and guess/ ce qui veut
+dire /essayer et deviner/, qui est un point de vue plus positif). Ben
+oui, quand on est enfant on baigne dans un environnement linguistique
+oral. Et dès les premiers mois de la vie on essaie (avec beaucoup de
+difficultés au début) à produire ou plutôt reproduire des sons que
+l'on a entendu. Et croyez-moi, si vous avez oublié allez faire un tour
+chez votre frère, soeur, cousin, cousine, ami, amie qui a (ont) des
+enfants en bas âge et cela vous raffraichira la mémoire. La parole est
+si importante pour l'humanité qu'elle a été pendant des siècles ( des
+millénaires même!) le seul et unique vecteur de
+communication. D'ailleurs aujourd'hui encore parmi les presque 7 000
+[[http://www.museedelhomme.fr/fr/combien-langues-sont-parlees-monde][langues dans le monde]] la plupart ne possèdent pas de système
+d'écriture. Pour plus de précisions sur la répartition linguistique
+dans le monde vous pouvez consulter [[http://www.axl.cefan.ulaval.ca/Langues/1div_recens.htm][ce site canadien]] qui tire ses
+sources statistiques du *Summer Institute of Linguistics* du Texas
+(2017). 
+#+BEGIN_QUOTE
+Les Romains, déjà, ne parlaient pas exactement la langue qu'ils
+écrivaient. Ainsi, /cheval/ vient d'un mot parlé, /caballus/, alors
+que le latin classique écrit /equus/ -- d'où viendront des mots <<
+savants >> comme /équidé/ et /équitation/
+#+END_QUOTE
+Extrait du livre [[https://www.amazon.fr/gp/product/2844100015/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2844100015&linkCode=as2&tag=wwwbecomefree-21&linkId=985f3a849fd44728e8480993cf2d5490][français lycée]] de Pierre Brunel.
+
+D'ailleurs comme le montre [[https://youtu.be/Wn_eBrIDUuc][cette vidéo]], les zones du cerveau actives
+pour la parole et pour l'écriture sont différentes. 
+#+BEGIN_QUOTE
+Longtemps, le français s'est écrit comme il se parlait; vice versa,
+toutes les lettres se prononçaient, comme en latin. La notion même
+d'orthographe n'existait pas.
+#+END_QUOTE
+Extrait du livre [[https://www.amazon.fr/gp/product/2844100015/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2844100015&linkCode=as2&tag=wwwbecomefree-21&linkId=985f3a849fd44728e8480993cf2d5490][français lycée]] de Pierre Brunel.
+
+En lisant cet extrait je pari que certains d'entre vous sont en train
+de chercher un moyen pour inventer une machine à remonter le temps. 
+
+Vous vous demandez sûrement où je veux en venir. Mon but est de vous
+faire comprendre ou plutôt de vous rappeler qu'une langue ça s'écoute
+et ça se parle pendant un certain temps (jusqu'à ce que ça devienne
+naturel) avant d'apprendre à l'écrire et d'étudier toutes les
+subtilités de la grammaire. [[https://fr.wikipedia.org/wiki/Django_Reinhardt][Django Reinhardt]] et [[https://fr.wikipedia.org/wiki/Louis_Armstrong][Louis Amstrong]] ne
+savaient ni lire ni écrire la musique et pourtant ils sont des
+musiciens vénérés de leur vivant et encore aujourd'hui. Et oui la
+langue est également une musique. Une langue a une musicalité et un
+rythme. Pas de chance pour nous le français (ou plutôt le /parisien/)
+n'est pas très chantant. Mais pourtant si l'on écoute les accents du
+midi il y a tout de suite plus de mélodies qui chatouillent nos
+oreilles. 
+
+En résumé, ce que je vais partager avec vous dans ce livre ... ce sont
+les sons de la langue anglaise. Les 45 sons (certains en décrivent 44,
+pour le français c'est pareil, certains disent 36 d'autres 37). Je
+vais vous présenter ces 45 sons qui sont absolument FONDAMENTAUX. En
+insistant particulièrement sur ceux qui n'apparaissent pas du tout
+dans la langue française. J'ai dit qu'on apprend d'abord à parler
+avant d'écrire, c'est vrai, mais a priori, si vous lisez ce livre
+c'est que vous savez lire. Et comme vous savez lire et bien on va en
+profiter pour apprendre encore plus efficacement en utilisant l'[[https://fr.wikipedia.org/wiki/Alphabet_phon%25C3%25A9tique_international][API]]
+(Alphabet Phonétique International). En anglais on l'écrit IPA
+(International Phonetic Alphabet). Et cerise sur le gâteau, ceci
+vous sera utile pour toutes les autres langues que vous souhaitez
+apprendre ou que vous parlez déjà (cela va même améliorer votre
+français !). D'ailleurs, contrairement à ce que certaines personnes
+pourraient penser, apprendre une autre langue, et en particulier
+l'anglais, améliore votre niveau de français. Ce n'est pas magique,
+mais c'est véridique. Alors c'est parti, allons découvrir les 45 sons
+de la langue anglaise (qui n'a plus grand chose à voir avec
+Shakespeare de la même manière qu'on ne parle plus la langue de
+Molière). 
+* Vowel sounds
+** Front Vowels (langue vers l'avant)
+Il y en a 4 et pour chaque son, je vous proposerai au moins 4
+exemples. La structure sera toujours la même, le son écrit selon la
+norme de l'API ou IPA en anglais (à partir de maintenant on utilisera
+la terminologie anglaise), puis les exemples pour illustrer.
+*** Le son [iː] comme dans le mot
+1. [[http://www.wordreference.com/enfr/need][need]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/need][/niːd/]]. Considérez la
+   phrase suivante :
+   + english :: I need to work everyday if I want to improve my level.
+   + français :: Je dois travailler tous les jours si je veux
+        améliorer mon niveau.
+2. [[http://www.wordreference.com/enfr/tea][tea]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/tea][/tiː/]]. Voici un exemple simple dans
+   lequel ce mot apparaît :
+   + english :: Every morning we use to drink tea.
+   + français :: Tous les matins on a l'habitude de boire du thé.
+3. [[http://www.wordreference.com/enfr/believe][believe]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/believe][/bɪˈliːv/]]. En voici un exemple
+   célèbre :
+   + english :: [[https://youtu.be/GIQn8pab8Vc][I believe I can fly.]]
+   + français :: Je crois que je peux voler.
+4. [[http://www.wordreference.com/enfr/see][see]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/see][/siː/]]. Exemple :
+   + english :: What You See Is What You Get ([[https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get][WYSIWYG]])
+   + français :: Ce que vous voyez est ce que vous obtenez
+
+*** Le son [ɪ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/england][England]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/england][/ˈɪŋɡlənd/]]. Exemple :
+   + english :: Last summer I went to England.
+   + française :: L'été dernier je suis allé en Angleterre.
+2. [[http://www.wordreference.com/enfr/thin][thin]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/thin][/θɪn/]]. Exemple :
+   + english :: Usually female top model are thin.
+   + française :: Habituellement les mannequins féminins sont minces.
+3. [[http://www.wordreference.com/enfr/big][big]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/big][/bɪɡ/]]. Exemple :
+   + english :: New York has got a nickname: the big apple.
+   + français :: New York a un surnom : la grosse pomme.
+4. [[http://www.wordreference.com/enfr/which][which]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/which][/wɪtʃ/]]. Exemple :
+   + english :: Pick up a word in the list. Which one?
+   + français :: Choisis un mot dans la liste. Lequel ?
+
+*** Le son [e] noté aussi [ɛ] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/bed][bed]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bed][/bɛd/]]. Exemple :
+   + english :: It's time to go to bed.
+   + français :: C'est l'heure d'aller se coucher.
+2. [[http://www.wordreference.com/enfr/bread][bread]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bread][/brɛd/]]. Exemple :
+   + english :: French people are famous for their bread.
+   + français :: Les Français sont célèbres pour leur pain.
+3. [[http://www.wordreference.com/enfr/said][said]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/said][/sɛd/]]. Exemple :
+   + english :: [[https://www.azlyrics.com/lyrics/beatles/yesterday.html][Yesterday]] you said that same thing.
+   + français :: Hier tu as dit cette même chose.
+4. [[http://www.wordreference.com/enfr/friend][friend]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/friend][/frɛnd/]]. Exemple :
+   + english :: [[https://youtu.be/q-9kPks0IfE][I'll be there for you]] my friend.
+   + français :: Je serais là pour toi mon ami(e).
+*** Le son [æ] noté aussi [a] comme dans le mot
+1. [[http://www.wordreference.com/enfr/bat][bat]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bat][/bat/]]. Exemple :
+   + english :: Have you ever noticed that Batman means the man who
+        is a bat?
+   + français :: As-tu déjà remarqué que Batman signifie l'homme qui
+        est une chauve-souris ?
+2. [[http://www.wordreference.com/enfr/cat][cat]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cat][/kat/]]. Exemple :
+   + english :: What about Catwoman? Is she a cat?
+   + français :: Qu'en est-il de Catwoman ? Est-elle une chatte ?
+3. [[http://www.wordreference.com/enfr/that][that]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/that][/ðat/]] lorsqu'il est considéré comme
+   un pronom, un déterminant, un adverbe. En revanche, en tant que
+   conjonction il se prononce parfois différemment [[https://en.oxforddictionaries.com/definition/that][/ðət/]]. Exemple :
+   + english :: That house is really big.
+   + français :: Cette maison est vraiment grande.
+4. [[http://www.wordreference.com/enfr/hand][hand]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/hand][/hand/]]. Exemple : 
+   + english :: Maradona had scored with his hand during a famous
+        match Argentina versus England.
+   + français :: Maradona avait marqué avec sa main durant un célèbre
+        match Argentine contre Angleterre.
+
+** Centre Vowels (langue relativement plate)
+Comme pour les Front Vowels il y en a 4 donc je vous proposerais 4
+exemples à chaque fois.
+*** Le son [ə] qui se note aussi [ɜ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/ago][ago]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/ago][/əˈɡəʊ/]]. Exemple :
+   + english :: I started to learn English when I was in Middle School
+        25 years ago! 
+   + français :: J'ai commencé à apprendre l'Anglais quand j'étais au
+        Collège il y a 25 ans.
+2. [[http://www.wordreference.com/enfr/today][today]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/today][/təˈdeɪ/]]. Exemple :
+   + english :: Today is Wednesday.
+   + français :: Aujourd'hui c'est mercredi.
+3. [[http://www.wordreference.com/enfr/rhythm][rhythm]] (attention il y a bien 2 h) qui s'écrit phonétiquement
+   [[https://en.oxforddictionaries.com/definition/rhythm][/ˈrɪð(ə)m/]]. Exemple :
+   + english :: Did you know that any language has got its own rhythm?
+   + français :: Saviez-vous que chaque langue a son propre rythme ?
+4. [[http://www.wordreference.com/enfr/supply][supply]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/supply][/səˈplʌɪ/]]. Exemple : 
+   + english :: Do not worry I will always supply you with multimedia
+        documents, audio links, videos, text.
+   + français :: Ne vous inquiétez pas, je vous fournirai toujours des
+        documents multimédia, des liens audio, des vidéos, du texte.
+
+*** Le son [ɜː] qui se note aussi [əː] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/bird][bird]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bird][/bəːd/]]. Exemple :
+   + english :: [[https://genius.com/The-beatles-free-as-a-bird-lyrics][Free as a bird.]]
+   + français :: Libre comme l'air (littéralement : libre tel un
+        oiseau)
+2. [[http://www.wordreference.com/enfr/turn][turn]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/turn][/təːn/]]. Exemple : 
+   + english :: Turn off your TV, actually, you should sell it.
+   + français :: Éteins ta télé, en fait, tu devrais la vendre.
+3. [[http://www.wordreference.com/enfr/worse][worse]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/worse][/wəːs/]]. Exemple : 
+   + english :: I don't know if watching silly cat videos on YouTube
+        is worse than watching TV, but you won't improve your
+        intellectual level by doing so.
+   + français :: Je ne sais pas si regarder des vidéos débiles de chat
+        sur YouTube est pire que de regarder la télé, mais tu
+        n'augmenteras pas ton niveau intellectuel en le faisant.
+4. [[http://www.wordreference.com/enfr/learn][learn]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/learn][/ləːn/]]. Exemple :
+   + english :: If you want to learn English, you need to practice
+        the sounds. 
+   + français :: Si tu veux apprendre l'anglais, il faut que tu
+        pratiques les sons.
+*** Le son [ʌ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/cup][cup]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cup][/kʌp/]]. Exemple :
+   + english :: Do you want a cup of tea?
+   + français :: Voulez-vous une tasse de thé ?
+2. [[http://www.wordreference.com/enfr/something][something]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/something][/ˈsʌmθɪŋ/]]. Exemple : 
+   + english :: She does something special with her voice that I can't
+        describe, but I like it.
+   + français :: Elle fait quelque chose de spécial avec sa voix que
+        je ne peux pas décrire, mais j'aime ça.
+3. [[http://www.wordreference.com/enfr/fun][fun]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/fun][/fʌn/]]. Exemple : 
+   + english :: Some studies have shown that having fun is the best
+        way to learn.
+   + français :: Des études ont montré que s'amuser est le meilleur
+        moyen pour apprendre.
+4. [[http://www.wordreference.com/enfr/luck][luck]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/luck][/lʌk/]]. Exemple :
+   + english :: They wish you good luck for your learning.
+   + français :: Ils vous souhaietent bonne chance pour votre
+        apprentissage.
+*** Le son [ɑː] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/father][father]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/father][/ˈfɑːðə/]]. Exemple :
+   + english :: My father used to tell me that you never waste your
+        time when you think.
+   + français :: Mon père avait l'habitude de me dire qu'on ne perd
+        jamais son temps à réfléchir.
+2. [[http://www.wordreference.com/enfr/arm][arm]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/arm][/ɑːm/]]. Exemple :
+   + english :: We are lucky because we have two arms and two legs;
+        sorry if one of them is harmed.
+   + français :: Nous avons la chance d'avoir deux bras et deux
+        jambes; désolé si l'un d'eux est blessé.
+3. [[http://www.wordreference.com/enfr/dance][dance]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/dance][/dɑːns/]]. Exemple :
+   + english :: Would you like to dance with me pretty lady?
+   + français :: Veux-tu danser avec moi jolie demoiselle ?
+4. [[http://www.wordreference.com/enfr/half][half]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/half][/hɑːf/]]. Exemple :
+   + english :: Half time! That's the right moment to get some drinks!
+   + français :: Mi-temps ! C'est le bon moment pour prendre à boire !
