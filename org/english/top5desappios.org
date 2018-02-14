@@ -1,0 +1,135 @@
+#+TITLE: Top 5 des applications iOS pour apprendre l'anglais
+#+AUTHOR: Laurent Garnier
+
+* Introduction
+De nos jours nous passons la plus grande partie de nos journées avec
+ce que j'appelle notre /laisse électronique/ j'ai nommé ainsi le
+smartphone. Et pour certaines personnes, quand il ne s'agit pas du
+smartphone, c'est le tour de la tablette. Personnellement je trouve
+que les tablettes sont gadgets mais ce n'est pas le propos de cet
+article. 
+
+Aujourd'hui je vais vous parler de 5 applications que j'ai
+personnellement testé, pour l'anglais bien sûr, mais pas
+seulement. Contrairement à ce que vous pourriez trouver ailleurs sur
+le web, je ne ferais pas de test noté, ni de test tout court. En fait
+il s'agit avant tout de partager avec vous mon expérience utilisateur
+en tant qu'apprenant et enseignant. Car il s'agit d'applications que
+j'ai déjà recommandé à mes élèves. 
+
+Certaines sont disponibles sur Android mais je ne serais pas très
+précis sur ce point car j'ai un iPhone et pas d'Android. Je n'ai rien
+contre les Android alors pas de troll s'il vous plaît. D'ailleurs il
+se pourrait peut être qu'un jour je teste cette plateforme qui est
+aujourd'hui clairement majoritaire sur le marché. Mais bon je vais pas
+jeter mon iPhone même si c'est loin d'être le dernier modèle. 
+
+Avant d'aller plus loin, il me semble important de vous dire, AUCUNE
+APPLICATION NE FERA DE VOUS UN AS DE L'ANGLAIS. Même si vous
+l'utiliser tous les jours. Ensuite, comme toujours en matière de
+langue, il est très important d'être honnête avec soi-même. Cela
+signifie qu'il faut être clair sur ses objectifs et se donner les
+moyens de les atteindre. Certes la technologie des applications
+mobiles (et souvent de leur site web associé) a de nombreux avantages
+sur les livres mais elle a aussi des inconvénients. Et franchement,
+entre une application et un livre, le livre sera toujours supérieur. 
+
+Néanmoins, ces outils -- car ce sont bien des outils pratiques qu'il
+faut utiliser -- auront au moins la bonne fonction de réduire votre
+temps à jouer à des jeux débilisants ou à gaspiller votre temps sur
+les réseaux sociaux. 
+
+Voici sans plus attendre la liste des applications que j'ai
+sélectionné :
+1. Duolingo, probablement la plateforme la plus populaire. Je
+   parlerais également de la série Tiny Cards qui renferme plus de
+   surprises qu'elle n'en a l'air. 
+2. MosaLingua, probablement la plateforme la plus plébiscité par les
+   youtubeurs et blogueurs francophones.
+3. Lingvist, probablement la plateforme la moins connue, et c'est bien
+   dommage pour ceux qui ne la connaissent pas.
+4. La série des PolyLingual, la plateforme la plus étrange à mes yeux.
+5. La nouvelle application du journal le Monde
+Et en bonus je parlerai de la plateforme Tandem. 
+
+C'est parti !
+* Duolingo
+** Les avantages
+[[https://www.duolingo.com/][Duolingo]] est probablement la plateforme à la fois la plus populaire
+dans le sens où << tout le monde >> la connaît. Mais en même temps la
+plus critiquée, et franchement, souvent à tort. 
+
+Attention, une petite mise en garde s'impose, même si je vais dire
+beaucoup de bien de cette plateforme, comme dit précédemment, on ne
+peut pas apprendre une langue uniquement en utilisant des applications
+(sauf si on a de bons Tandem, ce que Duolingo ne propose pas
+directement, mais je reviendrais sur ce point un peu plus tard).
+
+Commençons par les avantages car ils sont nombreux.
+*** Travailler les 4 compétences fondamentales
+Soit vous le savez déjà, soit je vous l'apprends mais pour apprendre
+une langue il y a 4 compétences à maîtriser :
++ L'écoute
++ La parole
++ La lecture 
++ L'écriture
+Comme je dis toujours, 2 entrées et 2 sorties ou 2 compétences
+passives et 2 compétences actives. En fait, si elles sont travaillées
+correctement, toutes ces compétences doivent être actives et c'est
+justement ce que Duolingo vous permet de faire. 
+
+En effet, sous c'est allure ludique de jeu vidéo cette application (et
+son site web associé) vous fera tour à tour écouter et transcrire,
+traduire, relier des paires, construire des phrases, etc. Il s'agit de
+traiter la langue comme un jeu de Lego et ainsi de former des phrases
+et de manipuler le plus d'élément du discours sans passer par une
+quelconque étude scolaire ou grammaticales. Tout est basé sur la
+manipulation répétée du langage. Au début cela peut paraître un peu
+vide de sens que cette approche est basée sur la régularité et il faut
+bien l'avouer, si l'on est un peu joueur on se prend vite au jeu. et
+on peut devenir addict. 
+
+Encore une fois, calmons-nous, le niveau est tout de même très basique
+et les phrases sont parfois vides de sens. Et surtout, il faut garder
+à l'esprit qu'une langue est avant tout une propriété humaine qui sert
+principalement à interagir avec nos semblables. Pour ce dernier point
+il est tout de même utile de signaler la fonctionnalité des clubs qui
+permet de lancer des défis à d'autres personnes. On est certes dans
+l'intéraction mais pas directement. Cela dit, rien ne vous empêche
+d'entrer en contact avec vos << compétiteurs >>. Enfin, le site de
+Duolingo possède de nombreux forums qui permettent également également
+de rejoindre ou créer des communautés.
+*** Tiny cards
+Depuis quelques temps Duolingo s'est étoffé avec la série des [[https://tinycards.duolingo.com/][Tiny
+cards]] (littéralement petites cartes). De nombreux logiciels (dont MosaLingua) exploite le concept de
+flash cards (ou carte mémoire en bon français) essentiellement dans le
+but de mettre en oeuvre la fameuse répétition espacée. En effet, des
+études scientifiques ont prouvé que l'on mémorise mieux si l'on répète
+exposition au matériel en fonction des difficultés que l'on a. Sans
+rentrer dans les détails techniques (qui sont expliqués [[https://fr.wikipedia.org/wiki/R%25C3%25A9p%25C3%25A9tition_espac%25C3%25A9e][ici]] si vous
+voulez en savoir plus), en gros on répète plus fréquemment les choses
+que l'on mémorise mal et moins souvent celles que l'on mémorise
+mieux. 
+Là où Tiny cards est très intéressant c'est que non seulement les
+thèmes traités ne se cantonnent pas aux langues (on peut apprendre les
+éléments chimiques, l'anatomie, la géographie et bien d'autres
+choses), mais en plus il est possible de créer ses propres cartes afin
+que les autres utilisateurs puissent les tester. 
+Selon moi, une très bonne approche pour améliorer considérablement son
+vocabulaire en anglais serait de choisir des cartes sur des thèmes qui
+vous passionnent comme ça la motivation sera au maximum, et pourquoi
+pas créer les votre. 
+
+** Les limites de Duolingo
+J'ai déjà évoqué en filigrane quelques réserves durant la section
+précédente. Le manque d'interaction directe avec des humains est selon
+moi la première (et la plus importante) des limites. Ensuite,
+l'absence de grammaire est une lacune à moyen et surtout long
+terme. Oui l'acquisition de vocabulaire est très importante mais non
+ce n'est pas suffisant. Duolingo de base ne permet pas de choisir son
+vocabulaire mais Tiny Cards permet de combler cette lacune en nous
+proposant de créer les notres. Alors tous les gens sur le web qui
+critiquent Duolingo devraient avoir l'honnêteté intellectuelle de soit
+se mettre à jour soit reconnaître qu'il ne l'on pas fait ou qu'ils ont
+la flemme de le faire. Duolingo seul est limité mais couplé avec Tiny
+Cards s'est un très bon outil pour améliorer son vocabulaire. 
