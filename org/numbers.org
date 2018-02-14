@@ -148,6 +148,8 @@
     | [[https://en.oxforddictionaries.com/definition/intend][intend]]  | [[http://www.wordreference.com/enfr/intend][/ɪnˈtɛnd/]] |
     | [[https://en.oxforddictionaries.com/definition/letter][letter]]  | [[http://www.wordreference.com/enfr/letter][/ˈlɛtə/]]   |
     | [[https://en.oxforddictionaries.com/definition/bend][bend]]    | [[http://www.wordreference.com/enfr/bend][/bɛnd/]]    |
+* Game
+Here is my first game: [[https://lgsp.github.io/sciencelanguages/html/english/hangman.html][hangman]]! Have fun!
 * Solutions
 ** Exercice 1
      1. How do you spell this phone number, digit by digit:
