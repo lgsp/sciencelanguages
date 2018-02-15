@@ -127,41 +127,41 @@ la terminologie anglaise), puis les exemples pour illustrer.
 *** Le son [iː] comme dans le mot
 1. [[http://www.wordreference.com/enfr/need][need]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/need][/niːd/]]. Considérez la
    phrase suivante :
-   + english :: I need to work everyday if I want to improve my level.
+   + english :: I [[https://youtu.be/p0quLJutRC8][need]] to work everyday if I want to improve my level.
    + français :: Je dois travailler tous les jours si je veux
         améliorer mon niveau.
 2. [[http://www.wordreference.com/enfr/tea][tea]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/tea][/tiː/]]. Voici un exemple simple dans
    lequel ce mot apparaît :
-   + english :: Every morning we use to drink tea.
+   + english :: Every morning we use to drink [[https://youtu.be/Euh8dY4EU9o][tea]].
    + français :: Tous les matins on a l'habitude de boire du thé.
 3. [[http://www.wordreference.com/enfr/believe][believe]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/believe][/bɪˈliːv/]]. En voici un exemple
    célèbre :
    + english :: [[https://youtu.be/GIQn8pab8Vc][I believe I can fly.]]
    + français :: Je crois que je peux voler.
 4. [[http://www.wordreference.com/enfr/see][see]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/see][/siː/]]. Exemple :
-   + english :: What You See Is What You Get ([[https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get][WYSIWYG]])
+   + english :: What You [[https://youtu.be/Dpf2yHjBVYM][See]] Is What You Get ([[https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get][WYSIWYG]])
    + français :: Ce que vous voyez est ce que vous obtenez
 
 *** Le son [ɪ] comme dans le mot
 1. [[http://www.wordreference.com/enfr/england][England]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/england][/ˈɪŋɡlənd/]]. Exemple :
-   + english :: Last summer I went to England.
+   + english :: Last summer I went to [[https://youtu.be/QUPBesOdax8][England]].
    + française :: L'été dernier je suis allé en Angleterre.
 2. [[http://www.wordreference.com/enfr/thin][thin]] qui s'écrit en phonétique [[https://en.oxforddictionaries.com/definition/thin][/θɪn/]]. Exemple :
-   + english :: Usually female top model are thin.
+   + english :: Usually female top model are [[https://youtu.be/LekA62H17bo][thin]].
    + française :: Habituellement les mannequins féminins sont minces.
 3. [[http://www.wordreference.com/enfr/big][big]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/big][/bɪɡ/]]. Exemple :
-   + english :: New York has got a nickname: the big apple.
+   + english :: New York has got a nickname: the [[https://youtu.be/Jha4OkG-ixw][big]] apple.
    + français :: New York a un surnom : la grosse pomme.
 4. [[http://www.wordreference.com/enfr/which][which]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/which][/wɪtʃ/]]. Exemple :
-   + english :: Pick up a word in the list. Which one?
+   + english :: Pick up a word in the list. [[https://youtu.be/5fR__LXDkRg][Which]] one?
    + français :: Choisis un mot dans la liste. Lequel ?
 
 *** Le son [e] noté aussi [ɛ] comme dans le mot 
 1. [[http://www.wordreference.com/enfr/bed][bed]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bed][/bɛd/]]. Exemple :
-   + english :: It's time to go to bed.
+   + english :: It's time to go to [[https://youtu.be/urARKkLo6MY][bed]].
    + français :: C'est l'heure d'aller se coucher.
 2. [[http://www.wordreference.com/enfr/bread][bread]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bread][/brɛd/]]. Exemple :
-   + english :: French people are famous for their bread.
+   + english :: French people are famous for their [[https://youtu.be/Ynm9Wrznz4I][bread]].
    + français :: Les Français sont célèbres pour leur pain.
 3. [[http://www.wordreference.com/enfr/said][said]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/said][/sɛd/]]. Exemple :
    + english :: [[https://www.azlyrics.com/lyrics/beatles/yesterday.html][Yesterday]] you said that same thing.
@@ -171,20 +171,20 @@ la terminologie anglaise), puis les exemples pour illustrer.
    + français :: Je serais là pour toi mon ami(e).
 *** Le son [æ] noté aussi [a] comme dans le mot
 1. [[http://www.wordreference.com/enfr/bat][bat]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bat][/bat/]]. Exemple :
-   + english :: Have you ever noticed that Batman means the man who
-        is a bat?
+   + english :: Have you ever noticed that [[https://www.youtube.com/watch?v=O24Ui015YXM][Batman]] means the [[https://youtu.be/24howVwYgHY][man]] who
+        is a [[https://youtu.be/eozL5n2Plmc][bat]]?
    + français :: As-tu déjà remarqué que Batman signifie l'homme qui
         est une chauve-souris ?
 2. [[http://www.wordreference.com/enfr/cat][cat]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cat][/kat/]]. Exemple :
-   + english :: What about Catwoman? Is she a cat?
+   + english :: What [[https://youtu.be/7FjChUY0zgQ][about]] Catwoman? Is she a [[https://youtu.be/eNQazP-wdj4][cat]]?
    + français :: Qu'en est-il de Catwoman ? Est-elle une chatte ?
 3. [[http://www.wordreference.com/enfr/that][that]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/that][/ðat/]] lorsqu'il est considéré comme
    un pronom, un déterminant, un adverbe. En revanche, en tant que
    conjonction il se prononce parfois différemment [[https://en.oxforddictionaries.com/definition/that][/ðət/]]. Exemple :
-   + english :: That house is really big.
+   + english :: [[https://youtu.be/HAlz5TiKOCM][That]] house is really big.
    + français :: Cette maison est vraiment grande.
 4. [[http://www.wordreference.com/enfr/hand][hand]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/hand][/hand/]]. Exemple : 
-   + english :: Maradona had scored with his hand during a famous
+   + english :: Maradona had scored with his [[https://youtu.be/KDKBY9FqwQg][hand]] during a famous
         match Argentina versus England.
    + français :: Maradona avait marqué avec sa main durant un célèbre
         match Argentine contre Angleterre.
@@ -195,18 +195,18 @@ exemples à chaque fois.
 *** Le son [ə] qui se note aussi [ɜ] comme dans le mot
 1. [[http://www.wordreference.com/enfr/ago][ago]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/ago][/əˈɡəʊ/]]. Exemple :
    + english :: I started to learn English when I was in Middle School
-        25 years ago! 
+        25 years [[https://youtu.be/RO4fWbM3WA8][ago]]! 
    + français :: J'ai commencé à apprendre l'Anglais quand j'étais au
         Collège il y a 25 ans.
 2. [[http://www.wordreference.com/enfr/today][today]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/today][/təˈdeɪ/]]. Exemple :
-   + english :: Today is Wednesday.
+   + english :: [[https://youtu.be/yCSLK0WCUd8][Today]] is Wednesday.
    + français :: Aujourd'hui c'est mercredi.
 3. [[http://www.wordreference.com/enfr/rhythm][rhythm]] (attention il y a bien 2 h) qui s'écrit phonétiquement
    [[https://en.oxforddictionaries.com/definition/rhythm][/ˈrɪð(ə)m/]]. Exemple :
-   + english :: Did you know that any language has got its own rhythm?
+   + english :: Did you know that any language has got its own [[https://youtu.be/XQJVoS3SlX0][rhythm]]?
    + français :: Saviez-vous que chaque langue a son propre rythme ?
 4. [[http://www.wordreference.com/enfr/supply][supply]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/supply][/səˈplʌɪ/]]. Exemple : 
-   + english :: Do not worry I will always supply you with multimedia
+   + english :: Do not worry I will always [[https://youtu.be/qEd6QUbK2Mw][supply]] you with multimedia
         documents, audio links, videos, text.
    + français :: Ne vous inquiétez pas, je vous fournirai toujours des
         documents multimédia, des liens audio, des vidéos, du texte.
@@ -217,52 +217,208 @@ exemples à chaque fois.
    + français :: Libre comme l'air (littéralement : libre tel un
         oiseau)
 2. [[http://www.wordreference.com/enfr/turn][turn]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/turn][/təːn/]]. Exemple : 
-   + english :: Turn off your TV, actually, you should sell it.
+   + english :: [[https://youtu.be/WLTI2rWAlV4][Turn]] off your TV, actually, you should sell it.
    + français :: Éteins ta télé, en fait, tu devrais la vendre.
 3. [[http://www.wordreference.com/enfr/worse][worse]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/worse][/wəːs/]]. Exemple : 
    + english :: I don't know if watching silly cat videos on YouTube
-        is worse than watching TV, but you won't improve your
+        is [[https://youtu.be/JHWhzS0zdOc][worse]] than watching TV, but you won't improve your
         intellectual level by doing so.
    + français :: Je ne sais pas si regarder des vidéos débiles de chat
         sur YouTube est pire que de regarder la télé, mais tu
         n'augmenteras pas ton niveau intellectuel en le faisant.
 4. [[http://www.wordreference.com/enfr/learn][learn]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/learn][/ləːn/]]. Exemple :
-   + english :: If you want to learn English, you need to practice
+   + english :: If you want to [[https://youtu.be/1xXs7MAsB0w][learn]] English, you need to [[https://youtu.be/wmCAKUFKZ7Y][practice]]
         the sounds. 
    + français :: Si tu veux apprendre l'anglais, il faut que tu
         pratiques les sons.
 *** Le son [ʌ] comme dans le mot
 1. [[http://www.wordreference.com/enfr/cup][cup]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cup][/kʌp/]]. Exemple :
-   + english :: Do you want a cup of tea?
+   + english :: Do you want a [[https://youtu.be/pjcOzqxu4JQ][cup]] of tea?
    + français :: Voulez-vous une tasse de thé ?
 2. [[http://www.wordreference.com/enfr/something][something]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/something][/ˈsʌmθɪŋ/]]. Exemple : 
-   + english :: She does something special with her voice that I can't
-        describe, but I like it.
+   + english :: She does [[https://youtu.be/UelDrZ1aFeY][something]] special with her voice that I can't
+        [[https://genius.com/The-beatles-something-lyrics][describe]], but I like it.
    + français :: Elle fait quelque chose de spécial avec sa voix que
         je ne peux pas décrire, mais j'aime ça.
 3. [[http://www.wordreference.com/enfr/fun][fun]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/fun][/fʌn/]]. Exemple : 
-   + english :: Some studies have shown that having fun is the best
+   + english :: Some studies have shown that having [[https://youtu.be/KXJNoC6CuYE][fun]] is the best
         way to learn.
    + français :: Des études ont montré que s'amuser est le meilleur
         moyen pour apprendre.
 4. [[http://www.wordreference.com/enfr/luck][luck]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/luck][/lʌk/]]. Exemple :
-   + english :: They wish you good luck for your learning.
+   + english :: They wish you good [[https://youtu.be/LQCY2zL0Jr8][luck]] for your [[https://youtu.be/o61dD6hwrdM][learning]].
    + français :: Ils vous souhaietent bonne chance pour votre
         apprentissage.
 *** Le son [ɑː] comme dans le mot 
 1. [[http://www.wordreference.com/enfr/father][father]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/father][/ˈfɑːðə/]]. Exemple :
-   + english :: My father used to tell me that you never waste your
+   + english :: My [[https://youtu.be/MZDAUbeSwNY][father]] used to tell me that you never waste your
         time when you think.
    + français :: Mon père avait l'habitude de me dire qu'on ne perd
         jamais son temps à réfléchir.
 2. [[http://www.wordreference.com/enfr/arm][arm]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/arm][/ɑːm/]]. Exemple :
-   + english :: We are lucky because we have two arms and two legs;
+   + english :: We are lucky because we have two [[https://youtu.be/tlhQghmuMf8][arms]] and two legs;
         sorry if one of them is harmed.
    + français :: Nous avons la chance d'avoir deux bras et deux
         jambes; désolé si l'un d'eux est blessé.
 3. [[http://www.wordreference.com/enfr/dance][dance]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/dance][/dɑːns/]]. Exemple :
-   + english :: Would you like to dance with me pretty lady?
+   + english :: Would you like to [[https://youtu.be/aagbeWUDe7w][dance]] with me pretty lady?
    + français :: Veux-tu danser avec moi jolie demoiselle ?
 4. [[http://www.wordreference.com/enfr/half][half]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/half][/hɑːf/]]. Exemple :
-   + english :: Half time! That's the right moment to get some drinks!
+   + english :: [[https://youtu.be/XWamnSNgiCM][Half]] time! That's the right moment to get some drinks!
    + français :: Mi-temps ! C'est le bon moment pour prendre à boire !
+** Back Vowels (langue vers l'arrière)
+Comme pour les Centre Vowels il y en a 4 donc je vous proposerais 4
+exemples à chaque fois.
+*** Le son [uː] comme dans le mot
+1. [[http://www.wordreference.com/enfr/too][too]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/too][/tuː/]]. Exemple :
+   + english :: I like to speak English, and you? Me [[https://youtu.be/RaveinO4_vs][too]].
+   + français :: J'aime parler Anglais, et toi ? Moi aussi.
+2. [[http://www.wordreference.com/enfr/few][few]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/few][/fjuː/]]. Exemple :
+   + english :: [[https://youtu.be/r3TaGhdqEiA][Few]] people understand the key role of phonetics.
+   + français :: Peu de gens comprennent le rôle clé de la phonétique.
+3. [[http://www.wordreference.com/enfr/rule][rule]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/rule][/ruːl/]]. Exemple : 
+   + english :: [[https://youtu.be/rStL7niR7gs][Do you want to rule?]]
+   + français :: Voulez-vous diriger ?
+4. [[http://www.wordreference.com/enfr/lose][lose]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/lose][/luːz/]]. Exemple :
+   + english :: You [[https://youtu.be/UNcCTgA5lzo][lose]] the game this time, do you want to try again?
+   + français :: Vous avez perdu la partie cette fois, voulez-vous
+        essayer à nouveau ?
+*** Le son [ʊ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/good][good]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/good][/ɡʊd/]]. Exemple :
+   + english :: Your book is [[https://youtu.be/o3TQSaqHBtM][good]].
+   + français :: Votre le livre est bon.
+2. [[http://www.wordreference.com/enfr/put][put]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/put][/pʊt/]]. Exemple :
+   + english :: [[https://youtu.be/BSpoa7TsiD0][Put]] your energy in something you like.
+   + français :: Mettez votre énergie dans quelque chose que vous
+        aimez.
+3. [[http://www.wordreference.com/enfr/would][would]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/would][/wʊd/]]. Exemple :
+   + english :: [[https://youtu.be/wRSNm3pr100][Would]] you like to drink something?
+   + français :: Voulez-vous boire quelque chose ?
+4. [[http://www.wordreference.com/enfr/look][look]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/look][/lʊk/]]. Exemple :
+   + english :: [[https://youtu.be/b4xcpMCPhfE][Look]] at this!
+   + français :: Regarde ça !
+*** Le son [ɔː] comme dans le mot
+1. [[http://www.wordreference.com/enfr/pork][pork]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/pork][/pɔːk/]]. Exemple :
+   + english :: Do you eat [[https://youtu.be/WqTJbyfewzw][pork]]?
+   + français :: Mangez-vous du porc ?
+2. [[http://www.wordreference.com/enfr/law][law]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/law][/lɔː/]]. Exemple : 
+   + english :: [[https://youtu.be/us5CUAsH0U0][Hackers like to say: code is law.]]
+   + français :: Les hackers aiment dire que le code est la loi.
+3. [[http://www.wordreference.com/enfr/taught][taught]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/taught][/tɔːt/]]. Exemple :
+   + english :: I [[https://youtu.be/U2BG2_K2fGk][taught]] you how to write English phonetics yesterday.
+   + français :: Hier je t'ai enseigné comment écrire la phonétique
+        Anglaise.
+4. [[http://www.wordreference.com/enfr/thought][thought]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/thought][/θɔːt/]]. Exemple : 
+   + english :: Tell me your [[https://youtu.be/8kR-GDbYHhc][thoughts]].
+   + français :: Raconte-moi tes pensées.
+*** Le son [ɒ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/got][got]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/got][/ɡɒt/]]. Exemple :
+   + english :: I [[https://youtu.be/Bo09BiPb24Y][got]] you. (slang: [[https://youtu.be/EWRaAbVUkjA][Gotcha]])
+   + français :: Je t'ai eu. (argot: Gotcha)
+2. [[http://www.wordreference.com/enfr/watch][watch]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/watch][/wɒtʃ/]]. Exemple :
+   + english :: [[https://youtu.be/qOs8MagOfwg][Watch]] this video carefully.
+   + français :: Regardez attentivement cette vidéo.
+3. [[http://www.wordreference.com/enfr/rob][rob]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/rob][/rɒb/]]. Exemple :
+   + english :: Are you planning to [[https://youtu.be/X3uZ0Gf104A][rob]] a bank? I discourage you to do
+        that.
+   + français :: Êtes-vous en train d'envisager de cambrioler une
+        banque ? Je vous déconseille de faire ça.
+4. [[http://www.wordreference.com/enfr/top][top]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/top][/tɒp/]]. Exemple : 
+   + english :: [[https://youtu.be/gPaD513xWOY][Top]] videos are sometime very boring.
+   + français :: Les vidéos de top sont parfois très ennuyeuses.
+** Diphthong Vowels
+Il y a 6 diphtongues en anglais.
+*** Le son [eɪ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/snake][snake]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/snake][/sneɪk/]]. Exemple :
+   + english :: [[https://youtu.be/MOltIVdyAHQ][Snakes]] regularly shed their skin.
+   + français :: Les serpents perdent régulièrement leur peau.
+2. [[http://www.wordreference.com/enfr/pay][pay]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/pay][/peɪ/]]. Exemple : 
+   + english :: How much would you be able to [[https://youtu.be/mBuLm5XeF44][pay]] for additional
+        content?
+   + français :: Combien seriez-vous capable de payer pour du contenu
+        supplémentaire ?
+3. [[http://www.wordreference.com/enfr/mail][mail]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/mail][/meɪl/]]. Exemple :
+   + english :: The post office redirected the [[https://youtu.be/KX1CSSZa1v0][mail]] to my new address.
+   + français :: Le bureau de poste a fait suivre le courrier à ma
+        nouvelle adresse.
+4. [[http://www.wordreference.com/enfr/great][great]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/great][/ɡreɪt/]]. Exemple :
+   + english :: Your content is [[https://youtu.be/e0qM84DWXzA][great]]!
+   + français :: Ton contenu est génial !
+*** Le son [ɔɪ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/toy][toy]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/toy][/tɔɪ/]]. Exemple :
+   + english :: The little boy was delighted with all his [[https://youtu.be/1qbuZhVUj_g][toys]].
+   + français :: Le petit garçon était enchanté par tous ses jouets.
+2. [[http://www.wordreference.com/enfr/choice][choice]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/choice][/tʃɔɪs/]]. Exemple :
+   + english :: Looking at my additional content is your [[https://youtu.be/qBfeK_IIHag][choice]].
+   + française :: Regarder mon contenu supplémentaire est votre choix.
+3. [[http://www.wordreference.com/enfr/joy][joy]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/joy][/dʒɔɪ/]]. Exemple :
+   + english :: The music creates a sensation of [[https://youtu.be/-GjW1pSYgUk][joy]] and playfulness.
+   + français :: La musique crée une sensation de joie et de gaieté.
+4. [[http://www.wordreference.com/enfr/oyster][oyster]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/oyster][/ˈɔɪstə/]]. Exemple :
+   + english :: Inside the [[https://youtu.be/PVn6b9QQZeM][oyster]], I found a pearl. 
+   + français :: À l'intérieur de l'huître, j'ai trouvé une perle.
+*** Le son [aɪ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/my][my]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/my][/maɪ/]]. Exemple :
+   + english :: [[https://youtu.be/SMwEkjcEACM][My]] content is made to help you [[https://www.youtube.com/watch?v=m_uWS6K-VF8&list=PL0J5xb8JH3VukoRHgk86Yr9BSVeBewCuZ][progress in English]].
+   + français :: Mon contenu est fait pour vous aider à progresser en
+        anglais.
+2. [[http://www.wordreference.com/enfr/while][while]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/while][/waɪl/]]. Exemple :
+   + english :: She partied [[https://youtu.be/8q182kWAhiM][while]] I worked.
+   + français :: Elle faisait la fête alors que je travaillais.
+3. [[http://www.wordreference.com/enfr/might][might]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/might][/maɪt/]]. Exemple :
+   + english :: Hurricanes show us the [[https://youtu.be/Nqlr35WnqTk][might]] of nature. 
+   + français :: Les ouragans nous démontrent la puissance de la
+        nature.
+4. [[http://www.wordreference.com/enfr/life][life]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/life][/laɪf/]]. Exemple :
+   + english :: The author withdrew from public [[https://youtu.be/zyKGKoGACVk][life]]. 
+   + français :: L'auteur s'est retiré de la vie publique.
+*** Le son [əʊ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/alone][alone]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/alone][/əˈləʊn/]]. Exemple :
+   + english :: I experience real [[https://youtu.be/cnsk7iXFCtY][joy]] when I am alone in nature.
+   + français :: Je ressens une joie réelle quand je suis seul dans la
+        nature.
+2. [[http://www.wordreference.com/enfr/goat][goat]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/goat][/ɡəʊt/]]. Exemple :
+   + english :: Behind a door there is a sports car and behind each of
+        the other two there is a [[https://youtu.be/pEHWbpy-EpI][goat]].
+   + français :: Derrière une porte il y a une voiture de sport et
+        derrière chacune des deux autres il y a une chèvre.
+3. [[http://www.wordreference.com/enfr/hope][hope]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/hope][/həʊp/]]. Exemple :
+   + english :: I [[https://youtu.be/_pKcv0Fml-A][hope]] you will enjoy your stay.
+   + français :: J'espère que vous apprécierez votre séjour. 
+4. [[http://www.wordreference.com/enfr/road][road]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/road][/rəʊd/]]. Exemple :
+   + english :: [[https://youtu.be/jzmy6iUGDo8][Body like a back road.]]
+   + français :: Un corps comme une route de retour.
+*** Le son [aʊ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/now][now]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/now][/naʊ/]]. Exemple :
+   + english :: I am [[https://youtu.be/xcpxjx2fy_E][now]] completely free and unencumbered.
+   + français :: Je suis désormais complètement libre et sans contrainte.
+2. [[http://www.wordreference.com/enfr/round][round]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/round][/raʊnd/]]. Exemple :
+   + english :: The boxer won the fight in the second [[https://youtu.be/oGTBax-Cu4Q][round]].
+   + français :: Le boxeur a gagné le combat au deuxième round.
+3. [[http://www.wordreference.com/enfr/mouth][mouth]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/mouth][/maʊθ/]]. Exemple :
+   + english :: In order to produce a vowel you need to open your
+        [[https://youtu.be/kkDHKSNrJ5g][mouth]].
+   + français :: Afin de produire une voyelle vous devez ouvrir votre
+        bouche.
+4. [[http://www.wordreference.com/enfr/brown][brown]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/brown][/braʊn/]]. Exemple :
+   + english :: [[https://youtu.be/OwTXBBU0JLo][Brown]] is just a colour.
+   + français :: Le marron est juste une couleur.
+*** Le son [ɪə] comme dans le mot
+1. [[http://www.wordreference.com/enfr/weird][weird]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/weird][/wɪəd/]]. Exemple :
+   + english :: He always has [[https://youtu.be/fcdUXnt87ng][weird]] dreams that [[https://youtu.be/FikYhD7bXYE][nobody]] understands.
+   + français :: Il fait toujours des rêves bizarres que personne ne
+        comprend.
+2. [[http://www.wordreference.com/enfr/beer][beer]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/beer][/bɪə/]]. Exemple :
+   + english :: Football supporters usually drink [[https://youtu.be/I1fsk4k-bOs][beer]]. 
+   + français :: Les supporters de foot boivent habituellement de la
+        bière (attention à consommer avec modération).
+3. [[http://www.wordreference.com/enfr/near][near]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/near][/nɪə/]]. Exemple : 
+   + english :: UK is [[https://youtu.be/xIS9K-bNt3M][near]] from France.
+   + français :: Le Royaume-Uni est proche de la France.
+4. [[http://www.wordreference.com/enfr/steer][steer]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/steer][/stɪə/]]. Exemple :
+   + english :: The politician [[https://youtu.be/z_vSRFODAxU][steered]] the conversation to a different
+        topic.
+   + français :: L'homme politique a orienté la conversation vers un autre sujet.
+*** Le son [eə] comme dans le mot
+1. [[http://www.wordreference.com/enfr/bear][bear]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/bear][/beər/]]. Exemple :
+   + english :: 
