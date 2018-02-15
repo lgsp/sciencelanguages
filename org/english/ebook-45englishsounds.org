@@ -119,6 +119,9 @@ de la langue anglaise (qui n'a plus grand chose à voir avec
 Shakespeare de la même manière qu'on ne parle plus la langue de
 Molière). 
 * Vowel sounds
+Un son de voyelle est fait en façonnant l'air comme il quitte la
+bouche. Nous utilisons les articulateurs pour façonner l'air - les
+lèvres, la mâchoire, la langue. L'anglais britannique utilise 12 positions de la bouche.
 ** Front Vowels (langue vers l'avant)
 Il y en a 4 et pour chaque son, je vous proposerai au moins 4
 exemples. La structure sera toujours la même, le son écrit selon la
@@ -327,7 +330,7 @@ exemples à chaque fois.
    + english :: [[https://youtu.be/gPaD513xWOY][Top]] videos are sometime very boring.
    + français :: Les vidéos de top sont parfois très ennuyeuses.
 ** Diphthong Vowels
-Il y a 6 diphtongues en anglais.
+Il y a 7 diphtongues en anglais.
 *** Le son [eɪ] comme dans le mot
 1. [[http://www.wordreference.com/enfr/snake][snake]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/snake][/sneɪk/]]. Exemple :
    + english :: [[https://youtu.be/MOltIVdyAHQ][Snakes]] regularly shed their skin.
@@ -419,6 +422,21 @@ Il y a 6 diphtongues en anglais.
    + english :: The politician [[https://youtu.be/z_vSRFODAxU][steered]] the conversation to a different
         topic.
    + français :: L'homme politique a orienté la conversation vers un autre sujet.
-*** Le son [eə] comme dans le mot
-1. [[http://www.wordreference.com/enfr/bear][bear]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/bear][/beər/]]. Exemple :
-   + english :: 
+*** Le son [eə] qui s'écrit aussi [ɛə] comme dans le mot
+1. [[http://www.wordreference.com/enfr/bear][bear]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/bear][/bɛə/]]. Exemple :
+   + english :: This noise is difficult to [[https://youtu.be/NJ6jv_lPBN8][bear]].
+   + français :: Ce bruit est difficile à supporter.
+2. [[http://www.wordreference.com/enfr/rare][rare]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/rare][/rɛə/]]. Exemple :
+   + english :: The consultant is an expert in [[https://youtu.be/hPncU3924fU][rare]] illnesses.
+   + français :: Le médecin spécialiste est expert en maladies rares. 
+3. [[http://www.wordreference.com/enfr/there][there]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/there][/ðeər/]]. Exemple :
+   + english :: My friend is always [[https://youtu.be/fg9pkAYvrSM][there]] for me when I need her.
+   + français :: Mon amie est toujours là pour moi quand j'ai besoin
+        d'elle.
+4. [[http://www.wordreference.com/enfr/care][care]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/care][/keər/]]. Exemple :
+   + english :: Babies need constant [[https://youtu.be/ClrSEz_tBZw][care]].  
+   + français :: Les bébés ont besoin d'une attention constante.
+* Consonant sounds
+Un son de consonne est fait en bloquant l'air quand il quitte la bouche. Nous utilisons la langue, les lèvres, les dents, la bouche et la gorge pour bloquer l'air. Certains sons utilisent la voix (exprimé), d'autres seulement l'air (sans voix).
+** Plosive (un bloc d'air complet)
+Il y a 7 consonnes occlusives en anglais britannique.  
