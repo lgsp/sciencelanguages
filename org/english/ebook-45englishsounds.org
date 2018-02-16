@@ -440,3 +440,251 @@ Il y a 7 diphtongues en anglais.
 Un son de consonne est fait en bloquant l'air quand il quitte la bouche. Nous utilisons la langue, les lèvres, les dents, la bouche et la gorge pour bloquer l'air. Certains sons utilisent la voix (exprimé), d'autres seulement l'air (sans voix).
 ** Plosive (un bloc d'air complet)
 Il y a 7 consonnes occlusives en anglais britannique.  
+*** Le son [p] comme dans le mot
+1. [[http://www.wordreference.com/enfr/pause][pause]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/pause][/pɔːz/]]. Exemple :
+   + english :: After a brief [[https://youtu.be/v_UlZ0Y9Vho][pause]], I continued.
+   + français :: Après une courte pause, j'ai recommencé.
+2. [[http://www.wordreference.com/enfr/pin][pin]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/pin][/pɪn/]]. Exemple :
+   + english :: She wore a diamond [[https://youtu.be/DMoeYWQmRuQ][pin]] on her evening dress.
+   + français :: Elle portait une broche en diamants sur sa robe du
+        soir.
+3. [[http://www.wordreference.com/enfr/purpose][purpose]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/purpose][/ˈpəːpəs/]]. Exemple :
+   + english :: The [[https://youtu.be/J8yhsbMULsQ][purpose]] of the game is to score points.
+   + français :: Le but du jeu consiste à marquer des points.
+4. [[http://www.wordreference.com/enfr/cap][cap]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cap][/kap/]]. Exemple :
+   + english :: The baseball player is wearing a [[https://youtu.be/Dkzh8b5Mj3s][cap]] on his head.
+   + français :: Le joueur de base-ball porte une casquette sur la
+        tête.
+*** Le son [b] comme dans le mot
+1. [[http://www.wordreference.com/enfr/bag][bag]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bag][/baɡ/]]. Exemple :
+   + english :: I put the fruit in a [[https://youtu.be/DLQhGy7BIjQ][bag]].
+   + français :: J'ai mis les fruits dans un sac.
+2. [[http://www.wordreference.com/enfr/bubble][bubble]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/bubble][/ˈbʌb(ə)l/]]. Exemple :
+   + english :: The hot soup was [[https://youtu.be/h6OhzwkBAEc][bubbling]] in the saucepan.
+   + française :: La soupe chaude bouillonnait dans la casserole.
+3. [[http://www.wordreference.com/enfr/build][build]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/build][/bɪld/]]. Exemple :
+   + english :: I bezeled some wooden rods to [[https://youtu.be/UC4eCvuxjIU][build]] a picture frame.
+   + français :: J'ai taillé en biseau des baguettes de bois pour fabriquer un cadre.
+4. [[http://www.wordreference.com/enfr/robe][robe]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/robe][/rəʊb/]]. Exemple :
+   + english :: The judge entered the court room wearing her [[https://youtu.be/eiObDiqVcPk][robe]].
+   + français :: La juge a fait son entrée dans le tribunal portant sa
+        robe.
+*** Le son [t] comme dans le mot
+1. [[http://www.wordreference.com/enfr/time][time]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/time][tʌɪm/]]. Exemple :
+   + english :: It takes [[https://youtu.be/A7pI96Osp9c][time]] to get a good level in English.
+   + français :: Il faut du temps pour obtenir un bon niveau en anglais.
+2. [[http://www.wordreference.com/enfr/tow][tow]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/tow][/təʊ/]]. Exemple :
+   + english :: Pleasure craft are not permitted to [[https://youtu.be/tGIx9uoJh9M][tow]] small personal
+        boats or dinghies while transiting Canadian locks.
+   + français :: Les embarcations de plaisance ne sont pas autorisées
+        à remorquer de petits bateaux ou dériveurs personnels pendant
+        le transit des écluses canadiennes.
+3. [[http://www.wordreference.com/enfr/train][train]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/train][/treɪn/]]. Exemple :
+   + english :: I'm sorry, I missed my [[https://youtu.be/jgxKrH-O2Kk][train]] this morning.
+   + français :: Je suis désolé, j'ai loupé mon train ce matin.
+4. [[http://www.wordreference.com/enfr/late][late]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/late][/leɪt/]]. Exemple : 
+   + english :: It is very likely that I will be [[https://youtu.be/v_HNcDj7-Kw][late]].
+   + français :: Il est très probable que j'arrive en retard.
+*** Le son [d] comme dans le mot
+1. [[http://www.wordreference.com/enfr/day][day]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/day][/deɪ/]]. Exemple :
+   + english :: One [[https://youtu.be/sl9voSKJmEU][day]] you'll understand that practice makes perfect.
+   + français :: Un jour tu comprendras que la perfection n'est
+        approchable que par la répétition.
+2. [[http://www.wordreference.com/enfr/door][door]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/door][/dɔː/]]. Exemple :
+   + english :: The [[https://youtu.be/eDW_yAwaHnc][doors]] are opened so you can come in.
+   + français :: Les portes sont ouvertes donc tu peux entrer.
+3. [[http://www.wordreference.com/enfr/down][down]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/down][/daʊn/]]. Exemple :
+   + english :: Following the storm, many trees are [[https://youtu.be/pn4oaQNiNQc][down]]. 
+   + français :: Suite à la tempête, de nombreux arbres sont à terre.
+4. [[http://www.wordreference.com/enfr/drive][drive]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/drive][/drʌɪv/]]. Exemple :
+   + english :: The [[https://youtu.be/mPBCO17bFms][drive]] to work is short.
+   + français :: Le trajet jusqu'au travail est court.
+*** Le son [k] comme dans le mot
+1. [[http://www.wordreference.com/enfr/cash][cash]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cash][/kaʃ/]]. Exemple :
+   + english :: The supermarket only accepts [[https://youtu.be/ALGi0tcFCcw][cash]].
+   + français :: Le supermarché n'accepte que les espèces.
+2. [[http://www.wordreference.com/enfr/cricket][cricket]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cricket][/ˈkrɪkɪt/]]. Exemple :
+   + english :: In March, India's [[https://youtu.be/c5oZPB-grGI][cricket]] team will be visiting
+        Pakistan for the first time in a decade. 
+   + français :: Au mois de mars, l'équipe de cricket indienne se rendra au Pakistan pour la première fois depuis dix ans.
+3. [[http://www.wordreference.com/enfr/quick][quick]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/quick][/kwɪk/]]. Exemple :
+   + english :: We would appreciate a [[https://youtu.be/OB-YD47ddWI][quick]] reply.
+   + française :: Nous apprécierions une réponse rapide.
+4. [[http://www.wordreference.com/enfr/sock][sock]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/sock][/sɒk/]]. Exemple :
+   + english :: I put on [[https://youtu.be/Eu1fW2BafnM][socks]] before putting on my shoes.
+   + français :: J'ai enfilé des chaussettes avant de mettre mes
+        chaussures.
+*** Le son [g] comme dans le mot
+1. [[http://www.wordreference.com/enfr/girl][girl]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/girl][/ɡəːl/]]. Exemple :
+   + english :: [[https://en.wikipedia.org/wiki/In_the_Pines][My]]
+        [[https://youtu.be/bpFuH8vcXbw][girl]],
+        [[https://genius.com/Nirvana-where-did-you-sleep-last-night-lyrics][my]]
+        [[https://youtu.be/PsfcUZBMSSg][girl]],
+        [[https://fr.wikipedia.org/wiki/Where_Did_You_Sleep_Last_Night][don't
+        lie]] to me. 
+2. [[http://www.wordreference.com/enfr/green][green]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/green][ɡriːn/]]. Exemple :
+   + english :: The mayor launched a [[https://youtu.be/a1BS7XnEZqc][green]] initiative to plant more
+        trees.
+   + français :: Le maire a lancé une initiative écologique pour
+        planter davantage d'arbres.
+3. [[http://www.wordreference.com/enfr/grass][grass]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/grass][/ɡrɑːs/]]. Exemple :
+   + english :: Cows feed on fresh [[https://youtu.be/QsfJscoMx5M][grass]].
+   + français :: Les vaches se nourrissent d'herbe fraîche.
+4. [[http://www.wordreference.com/enfr/flag][flag]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/flag][/flaɡ/]]. Exemple :
+   + english :: The vessel flies the British [[https://youtu.be/EBl2PVjVNqA][flag]].
+   + français :: Le navire bat pavillon britannique.
+*** Le son [[https://en.wikipedia.org/wiki/Glottal_stop][glottal]] [?] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/football][football]] qui s'écrit phonétiquement [[https://www.phon.ucl.ac.uk/home/wells/phoneticsymbolsforenglish.htm][/ˈfʊ?bɔːl/]]. Exemple :
+   + english :: This summer the [[https://youtu.be/6v5Ao0tYhBw][football]] [[https://youtu.be/zVr3dTMY9Ag][world cup]] will be in Russia
+        and twenty four years ago it was in [[https://youtu.be/mAYvjOzh1ag][America]].
+   + français :: Cet été la coupe du monde de football sera en Russie
+        et il y a vingt-quatre ans c'était en Amérique.
+2. [[http://www.wordreference.com/enfr/department][department]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/department][/dɪˈpɑː?m(ə)nt/]]. Exemple :
+   + english :: Guadeloupe is an overseas [[https://youtu.be/0CUWPGLVRoU][department]] of France.
+   + français :: La Guadeloupe est un département d'outre-mer de la
+        France.
+3. [[http://www.wordreference.com/enfr/apartment][apartment]] qui s'écrit phonétiquement [[https://tophonetics.com/][/əˈpɑː?mənt/]]. Exemple :
+   + english :: My [[https://youtu.be/H0HjU9956Z8][apartment]] is not in your department.
+   + français :: Mon appartement n'est pas dans votre département.
+4. [[http://www.wordreference.com/enfr/button][button]] qui s'écrit phonétiquement [[https://en.wikipedia.org/wiki/Glottal_stop][/ˈbɐʔn̩n/]]. Exemple :
+   + english :: Click the [[https://youtu.be/IJcwc5Gz8K0][button]] to subscribe.
+   + français :: Cliquez sur le bouton pour vous abonner.
+** Fricative (une compression constante de l'air)
+*** Le son [f] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/fish][fish]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/fish][/fɪʃ/]]. Exemple : 
+   + english :: He prefers [[https://youtu.be/rEm4ynLtGx4][fish]] to meat.
+   + français :: Il préfère le poisson à la viande.
+2. [[http://www.wordreference.com/enfr/friday][friday]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/friday][/ˈfrʌɪdi/]]. Exemple :
+   + english :: The ship sailed from the port on [[https://youtu.be/lQ_pgrjjHLo][Friday]].
+   + français :: Le bateau a quitté le port vendredi.
+3. [[http://www.wordreference.com/enfr/full][full]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/full][/fʊl/]]. Exemple : 
+   + english :: The [[https://youtu.be/LR73DrKX_bs][full]] report is hundreds of pages long.
+   + français :: Le rapport complet fait des centaines de pages.
+4. [[http://www.wordreference.com/enfr/knife][knife]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/knife][/nʌɪf/]]. Exemple : 
+   + english :: The blunt [[https://youtu.be/JUyzH9HpkqE][knife]] could not cut the rope.
+   + français :: Le couteau émoussé ne pouvait pas couper la corde.
+*** Le son [v] comme dans le mot
+1. [[http://www.wordreference.com/enfr/cave][cave]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cave][/keɪv/]]. Exemple :
+   + english :: Plato is famous for his myth of the [[https://youtu.be/kZQbkzwwinI][cave]]. 
+   + français :: Platon est célèbre pour son mythe de la caverne. 
+2. [[http://www.wordreference.com/enfr/vest][vest]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/vest][/vɛst/]]. Exemple :
+   + english :: The committee was [[https://youtu.be/E4cjvxydHuU][vested]] with the government's full
+        authority.
+   + français :: Le comité était investi de toute l'autorité du
+        gouvernement.
+3. [[http://www.wordreference.com/enfr/view][view]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/view][/vjuː/]]. Exemple :
+   + english :: There is a splendid [[https://youtu.be/gODvA_SdXCY][view]] from the balcony.
+   + français :: Il y a une vue splendide depuis le balcon.
+4. [[http://www.wordreference.com/enfr/village][village]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/village][/ˈvɪlɪdʒ/]]. Exemple :
+   + english :: The [[https://youtu.be/Xq8mt6WuD-E][village]] is peaceful at night.
+   + français :: Le village est tranquille la nuit.
+*** Le son [θ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/author][author]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/author][/ˈɔːθə/]]. Exemple :
+   + english :: I am the [[https://youtu.be/lyGivD8aJi4][author]] of this document.
+   + français :: Je suis l'auteur de ce document.
+2. [[http://www.wordreference.com/enfr/path][path]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/path][/pɑːθ/]]. Exemple :
+   + english :: A fork in the road splits it into two [[https://youtu.be/EZdFE-nnyyQ][paths]].
+   + français :: Un embranchement sur la route la divise en deux
+        sentiers.
+3. [[http://www.wordreference.com/enfr/thing][thing]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/thing][/θɪŋ/]]. Exemple :
+   + english :: Windsurfing is not really my [[https://youtu.be/h-pmsrw8XNE][thing]]; I prefer surfing. 
+   + français :: La planche à voile n'est pas vraiment mon truc ; je
+        préfère surfer.
+4. [[http://www.wordreference.com/enfr/think][think]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/think][/θɪŋk/]]. Exemple :
+   + english :: I [[https://youtu.be/PpD8OvMTRiE][think]] my solution is the best.
+   + français :: Je considère que ma solution est la meilleure.
+*** Le son [ð] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/this][this]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/this][/ðɪs/]]. Exemple :
+   + english :: The implementation of [[https://youtu.be/KqzlYTmFBGY][this]] principle will, as a
+        consequence, generate more data than currently available.
+   + français :: L'application de ce principe va donc générer plus de
+        données que ce qui est actuellement disponible.
+2. [[http://www.wordreference.com/enfr/other][other]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/other][/ˈʌðə/]]. Exemple :
+   + english :: The woman was selling apples and [[https://youtu.be/9gXP8wcICqQ][other]] fruits. 
+   + français :: La femme vendait des pommes et d'autres fruits.
+3. [[http://www.wordreference.com/enfr/breathe][breathe]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/breathe][/briːð/]]. Exemple :
+   + english :: The air we [[https://youtu.be/V8rtJRlLdI8][breathe]] is invisible.
+   + français :: L'air que nous respirons est invisible.
+4. [[http://www.wordreference.com/enfr/bathe][bathe]] qui s'écrit phonétiquement [[https://dictionary.cambridge.org/dictionary/english/bathe][/beɪð/]]. Exemple :
+   + english :: Can I [[https://youtu.be/U9V8cx2buG0][bathe]] my baby from the first hours of their
+        life?
+   + français :: Puis-je baigner mon bébé dès ses premières heures de
+        vie ?
+*** Le son [s] comme dans le mot
+1. [[http://www.wordreference.com/enfr/kiss][kiss]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/kiss][/kɪs/]]. Exemple :
+   + english :: The princess [[https://youtu.be/vMbVzr7WqIo][kissed]] the frog.
+   + français :: La princesse a embrassé la grenouille.
+2. [[http://www.wordreference.com/enfr/cease][cease]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cease][/siːs/]]. Exemple :
+   + english :: My wife never [[https://youtu.be/6m9bEMejTKI][ceases]] to amaze me.
+   + français :: Ma femme ne cesse de m'étonner.
+3. [[http://www.wordreference.com/enfr/sister][sister]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/sister][/ˈsɪstə/]]. Exemple :
+   + english :: Many [[https://youtu.be/SBNB13EeRx4][sisters]] live in the convent.
+   + français :: De nombreuses religieuses vivent dans le couvent.
+4. [[http://www.wordreference.com/enfr/sight][sight]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/sight][/sʌɪt/]]. Exemple : 
+   + english :: I witnessed a strange [[https://youtu.be/JeiVf30VDDU][sight]] in the street.
+   + français :: J'ai été témoin d'une scène étrange dans la rue.
+*** Le son [z] comme dans le mot
+1. [[http://www.wordreference.com/enfr/buzz][buzz]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/buzz][/bʌz/]]. Exemple :
+   + english :: The news caused a [[https://youtu.be/OoQJUNv-Jlg][buzz]] in the audience.
+   + français :: La nouvelle a provoqué l'effervescence du public. 
+2. [[http://www.wordreference.com/enfr/crazy][crazy]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/crazy][/ˈkreɪzi/]]. Exemple :
+   + english :: My aunt is [[https://youtu.be/U0EW0s1fN-8][crazy]] about her cats.
+   + français :: Ma tante est dingue de ses chats.
+3. [[http://www.wordreference.com/enfr/lazy][lazy]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/lazy][/ˈleɪzi/]]. Exemple :
+   + english :: My son is smart but incredibly [[https://youtu.be/3ev7GXzFTPg][lazy]]. 
+   + français :: Mon fils est intelligent mais extrêmement paresseux. 
+4. [[http://www.wordreference.com/enfr/nose][nose]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/nose][/nəʊz/]]. Exemple :
+   + english :: The tip of my [[https://youtu.be/1G-nn-b4TJA][nose]] is cold.
+   + français :: Le bout de mon nez est froid.
+*** Le son [ʃ] comme dans le mot
+1. [[http://www.wordreference.com/enfr/cash][cash]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/cash][/kaʃ/]]. Exemple :
+   + english :: The [[https://youtu.be/4ahHWROn8M0][cash]] he received for his invention is a windfall.
+   + français :: L'argent qu'il a reçu pour son invention est une aubaine.
+2. [[http://www.wordreference.com/enfr/national][national]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/national][/ˈnaʃ(ə)n(ə)l/]]. Exemple : 
+   + english :: The country's beautiful landscapes are a subject of
+        [[https://youtu.be/xZvzCOQ-TPA][national]] pride.
+   + français :: Les beaux paysages du pays sont un objet de fierté
+        nationale.
+3. [[http://www.wordreference.com/enfr/crash][crash]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/crash][/kraʃ/]]. Exemple :
+   + english :: All passengers on the plane survived the [[https://youtu.be/Jw81bRYUzVM][crash]].
+   + français :: Tous les passagers de l'avion ont survécu à
+        l'accident.
+4. [[http://www.wordreference.com/enfr/ship][ship]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/ship][/ʃɪp/]]. Exemple :
+   + english :: The company mainly [[https://youtu.be/LLkGsfOfgUw][ships]] parcels to Europe.
+   + français :: L'entreprise expédie principalement des colis vers
+        l'Europe.
+*** Le son [ʒ] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/leisure][leisure]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/leisure][/ˈlɛʒə/]]. Exemple :
+   + english :: Everyone needs moments of [[https://youtu.be/VSRFE7E4qWI][leisure]] to relax.
+   + français :: Tout le monde a besoin de moments de loisir pour se
+        détendre.
+2. [[http://www.wordreference.com/enfr/measure][measure]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/measure][/ˈmɛʒə/]]. Exemple :
+   + english :: This application [[https://youtu.be/bN60fb9fzKg][measures]] the speed of the Internet
+        connection.
+   + français :: Cette application calcule la vitesse de la connexion
+        Internet.
+3. [[http://www.wordreference.com/enfr/pleasure][pleasure]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/pleasure][/ˈplɛʒə/]]. Exemple :
+   + english :: I read your book with great [[https://youtu.be/Q4-VK5uqY34][pleasure]].
+   + français :: J'ai lu votre livre avec grand plaisir.
+4. [[http://www.wordreference.com/enfr/vision][vision]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/vision][/ˈvɪʒ(ə)n/]]. Exemple :
+   + english :: The teacher's [[https://youtu.be/lk7lIhAmwHI][vision]] was getting fuzzy so he put his
+        glasses on.
+   + français :: Comme sa vision devenait floue, le professeur a mis
+        ses lunettes
+*** Le son [h] comme dans le mot 
+1. [[http://www.wordreference.com/enfr/ahead][ahead]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/ahead][/əˈhɛd/]]. Exemple : 
+   + english :: It has been major, important and time-consuming work,
+        because we in actual fact have demanding and important tasks
+        [[https://youtu.be/1rLpIOzKaBA][ahead]] of us. 
+   + français :: C'est un travail énorme, important et très long, dans
+        la mesure où les missions qui nous attendent sont importantes
+        et exigeantes. 
+2. [[http://www.wordreference.com/enfr/hello][hello]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/hello][/hɛˈləʊ/]]. Exemple :
+   + english :: [[https://youtu.be/62XB9IbMnxQ][Hello]] [[https://en.wikipedia.org/wiki/%2522Hello,_World!%2522_program][world]]!
+   + français :: Bonjour le monde !
+3. [[http://www.wordreference.com/enfr/high][high]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/high][/hʌɪ/]]. Exemple :
+   + english :: [[https://youtu.be/F7lj4LknWO8][High]] walls surrounded the [[https://youtu.be/hclQLklBHNs][castle]].
+   + français :: De hauts murs entouraient le château.
+4. [[http://www.wordreference.com/enfr/whole][whole]] qui s'écrit phonétiquement [[https://en.oxforddictionaries.com/definition/whole][/həʊl/]]. Exemple :
+   + english :: The environment concerns society as a whole.
+   + français :: L'environnement concerne l'ensemble de la société.
