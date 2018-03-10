@@ -140,8 +140,31 @@
 *** Exercise 9 
     Write 2 examples using past continuous.
 
+* Phonetics
+** Exercise 10
+   Fill the tabs in order to get 7 items in each one:
+   + The consonant [p] like in:
+     
+     | English | Phonetics   |
+     |---------+-------------|
+     | [[https://en.oxforddictionaries.com/definition/pack][pack]]    | [[http://www.wordreference.com/enfr/pack][/pæk/]]       |
+     | [[https://en.oxforddictionaries.com/definition/pause][pause]]   | [[http://www.wordreference.com/enfr/pause][/pɔːz/]]      |
+     | [[https://en.oxforddictionaries.com/definition/project][project]] | [[http://www.wordreference.com/enfr/project][/ˈprɒdʒɛkt/]] |
+     | [[https://en.oxforddictionaries.com/definition/purpose][purpose]] | [[http://www.wordreference.com/enfr/purpose][/ˈpɜːpəs/]]   |
+     |         |             |
+   + The consonant [b] like in:
+
+     | English   | Phonetics     |
+     |-----------+---------------|
+     | [[https://en.oxforddictionaries.com/definition/bilingual][bilingual]] | [[http://www.wordreference.com/enfr/bilingual][/baɪˈlɪŋɡwəl/]] |
+     | [[https://en.oxforddictionaries.com/definition/boat][boat]]      | [[http://www.wordreference.com/enfr/boat][/bəʊt/]]        |
+     | [[https://en.oxforddictionaries.com/definition/british][british]]   | [[http://www.wordreference.com/enfr/british][/ˈbrɪtɪʃ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/cab][cab]]       | [[http://www.wordreference.com/enfr/cab][/kæb/]]         |
+     |           |               |
+     
 * If you want to go further
   Here are some additionally resources:
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + [[http://www.talkenglish.com/grammar/simple-tense.aspx][Talkenglish]]
   + [[https://youtu.be/_XP4le29BAM][Past Simple and Past Continuous]]
   + [[https://youtu.be/LtVkKpBWy54][Mr Skype Lessons]]
@@ -174,7 +197,6 @@
 | ribbon      | ruban                                 |
 | bow         | arc, s'incliner, faire une  déférence |
 | fur         | pelage                                |
-
 
 * Solutions
 ** Exercise 1
@@ -233,3 +255,30 @@
    1. I *was working* when someone knocked the door.
    2. She *was trying* to learn French during her trip in France.
 
+** Exercise 10
+   Fill the tabs in order to get 7 items in each one:
+   + The consonant [p] like in:
+     
+     | English | Phonetics   |
+     |---------+-------------|
+     | [[https://en.oxforddictionaries.com/definition/pack][pack]]    | [[http://www.wordreference.com/enfr/pack][/pæk/]]       |
+     | [[https://en.oxforddictionaries.com/definition/pause][pause]]   | [[http://www.wordreference.com/enfr/pause][/pɔːz/]]      |
+     | [[https://en.oxforddictionaries.com/definition/project][project]] | [[http://www.wordreference.com/enfr/project][/ˈprɒdʒɛkt/]] |
+     | [[https://en.oxforddictionaries.com/definition/purpose][purpose]] | [[http://www.wordreference.com/enfr/purpose][/ˈpɜːpəs/]]   |
+     | [[https://en.oxforddictionaries.com/definition/perfect][perfect]] | [[http://www.wordreference.com/enfr/perfect][/ˈpɜːfɪkt/]]  |
+     | [[https://en.oxforddictionaries.com/definition/people][people]]  | [[http://www.wordreference.com/enfr/people][/ˈpiːpəl/]]   |
+     | [[https://en.oxforddictionaries.com/definition/pity][pity]]    | [[http://www.wordreference.com/enfr/pity][/ˈpɪtɪ/]]     |
+     
+
+   + The consonant [b] like in:
+
+     | English    | Phonetics       |
+     |------------+-----------------|
+     | [[https://en.oxforddictionaries.com/definition/bilingual][bilingual]]  | [[http://www.wordreference.com/enfr/bilingual][/baɪˈlɪŋɡwəl/]]   |
+     | [[https://en.oxforddictionaries.com/definition/boat][boat]]       | [[http://www.wordreference.com/enfr/boat][/bəʊt/]]          |
+     | [[https://en.oxforddictionaries.com/definition/british][british]]    | [[http://www.wordreference.com/enfr/british][/ˈbrɪtɪʃ/]]       |
+     | [[https://en.oxforddictionaries.com/definition/cab][cab]]        | [[http://www.wordreference.com/enfr/cab][/kæb/]]           |
+     | [[https://en.oxforddictionaries.com/definition/belly][belly]]      | [[http://www.wordreference.com/enfr/belly][/ˈbɛlɪ/]]         |
+     | [[https://en.oxforddictionaries.com/definition/babylonian][babylonian]] | [[http://www.wordreference.com/enfr/babylonian][/ˌbæbɪˈləʊnɪən/]] |
+     | [[https://en.oxforddictionaries.com/definition/boring][boring]]     | [[http://www.wordreference.com/enfr/boring][/ˈbɔːrɪŋ/]]       |
+     
