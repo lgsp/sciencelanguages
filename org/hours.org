@@ -185,7 +185,9 @@
   11. Diphthong vowel [ɪə], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
   12. Diphthong vowel [ʊə], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
 * If you want to go further
-  Here are some videos with native speakers:
+  Here are some resources:
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/auxiliary_verbs.org][Auxiliary Verbs]] (Helping Verbs)
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + [[https://youtu.be/zEKLqgvUSDM][Expressing Time in English]]
   + [[https://youtu.be/fq2tRfHu5s8][Telling the Time in English]]
   + [[https://youtu.be/IBBQXBhSNUs][How to Tell Time]]
