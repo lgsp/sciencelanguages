@@ -184,7 +184,6 @@ Here is my first game: [[https://lgsp.github.io/sciencelanguages/html/english/ha
    2. What's the number of the year? two thousand eighteen
    3. How many days are there in a year? three hundred sixty five
 * If you want to go further
-  Here are some interesting links in order to go further on this
-  topic:
-  + [[https://youtu.be/QrsFohyz_LU][6 common mistakes]]
-  + [[https://youtu.be/uEGYX8UAsK4][American English]]
+  Here are some resources :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/day_of_the_week.org][Days of the week]]
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
