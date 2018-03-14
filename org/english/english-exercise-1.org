@@ -1,0 +1,129 @@
+#+TITLE: English exercises
+#+AUTHOR: Laurent Garnier
+
+* Les noms (in)dénombrables--Les pluriels
+** Dénombrabables et indénombrables
+*** Noms dénombrables
+**** Singulier
+    + this, that :: examples: this book, that cat, this dog, that car
+    + the :: examples: the car, the definition, the dollar, the idea
+    + a(n) :: examples: an apple, a bag, a car, a dog, an elephant
+    + one :: examples: one apple, one bag, one car, one flower
+**** Pluriel 
+     + these, those :: examples: these books, those cats, these dogs,
+                       those cars
+     + the :: examples: the cars, the definitions, the dollars, the
+              ideas
+     + \emptyset (nothing) :: examples: apples, bags, cars, dogs,
+          elephants
+     + two, three, \dots :: examples:  two apples, three bags,  four
+          cars,  five flowers
+*** Noms indénombrables
+    + this, that :: examples: that bread, this coal (charbon), this
+                    hair = les cheveux (mais attention hairs = les
+                    poils), that that water
+    + the :: examples: the air, the courage, the optimism, the weather
+    + \emptyset (nothing) :: examples: data, information, tea, traffic
+    + a piece of :: examples: a piece of advice, a piece of furniture,
+                    a piece of luggage, a piece of news 
+*** Noms qui appartiennent aux deux catégories
+    + room :: examples: room = la place qu'on a, a room = une pièce
+              (bureau, chambre\dots)
+    + coffee :: examples: coffee = le café, a coffe = un café (a cup
+                of coffee)
+*** Pluriels irréguliers
+    + one *child* \Rightarrow two *children*
+    + one *foot* \Rightarrow two *feet*
+    + one *man* \Rightarrow three *men*
+    + one *mouse* \Rightarrow four *mice*
+    + one *penny* \Rightarrow five *pence*
+    + one *sheep* \Rightarrow six *sheep*
+    + one *woman* \Rightarrow seven *women*
+** Exercises
+   1. Les noms suivants sont-ils dénombrables ou indénombrables ? On
+      répondra à l'aide d'un exemple.
+      + bags ::
+      + boys :: 
+      + bread ::
+      + cheese :: 
+      + dogs :: 
+      + exercises :: 
+      + food :: 
+      + luggage :: 
+      + suitcase :: 
+   2. Dans les phrases suivantes, mettez les mots entre parenthèses au
+      pluriel.
+      + How strange! There are no (book) in this library!
+      + My uncle has a form in Yorkshire with quite a few (sheep) and
+        about a hundred (cow).
+      + You will need good shoes to protect your (foot) if you intend
+        to go hiking.
+      + Brushing your (tooth) after every meal is a good habit.
+      + When the cat is away, the (mouse) will play.
+   3. Remplir utiliser l'un des éléments entre parenthèses
+      + We had (a/\emptyset/an/one) lovely weather last week.
+      + She gave me (two/a/\emptyset/one) good advice.
+      + (Is/Are/Were/Do) your luggage heavy? -- No, I have only got
+        one bag.
+      + What a useful (\emptyset/an/piece of/one) information!
+      + What (a/\emptyset/this/the) delicious meal!
+* Exprimer une quantité
+** Avec les dénombrables
+*** Singulier
+    + every :: examples: every day, every morning
+    + no :: examples: no bag, no dog
+*** Pluriel
+    + some :: example: Some drivers are dangerous.
+    + (not) any :: examples: I did not win _any_ games = I lost every
+                   game. Click on this link for _any_ information
+                   about the courses.
+    + few :: example: Few pupils study Latin. 
+    + a few :: example: He only had a few friends there.
+    + (too) many :: example: There were too many people.
+    + several :: example: We have several places to visit.
+    + all :: exemple: All these cars are Japanese.
+    + a lot (of) :: example: A lot of people think so.
+    + lots (of) :: example: There were lots of people.
+    + plenty (of) :: example: I have plenty of friends.
+    + enough :: example: I have enough friends.
+    + as many :: examples: He changed jobs four times in as many years.
+    
+** Avec les indénombrables
+   + some :: example: I made some money running errands.
+   + (not) any :: example: He won't give you any help.
+   + no :: example: It was no easy task persuading her.
+   + little :: example: They had little money to spend.
+   + a little :: example: Can I have a little sugar?
+   + (too) much :: example: There is too much noise.
+   + all :: example: All information about the new product is confidential.
+   + a lot (of) :: example: You have a lot of money.
+   + lots (of) :: We had lots of fun.
+   + plenty (of) :: There is plenty of bread left.
+   + enough :: She has enough money.
+   + [[https://www.collinsdictionary.com/dictionary/english/as-much][as much]] :: I knew he'd fail - I said as much at the time.
+* Situations du présent
+** Present simple and present continuous
+* Situations du passé
+** Past simple and past continuous
+* Possession / Pronoms réfléchis et réciproques
+** Exprimer l'appartenance
+* Exclamation / Mots de liaison
+** S'exprimer, construire son discours
+* Le present perfect
+** Comment employer correctement le present perfect
+* Situations du futur--Registres de la langue
+** Exprimer des faits à venir 
+* Situations virtuelles--Mots interrogatifs
+** Employer l'auxialiaire modal would
+* Modaux et équivalents [1/3]
+** Pouvoir : comment l'exprimer ?
+* Modaux et équivalents [2/3]
+** Autoriser ou devoir : comment l'exprimer ?
+* Modaux et équivalents [3/3]
+** Comment exprimer la probabilité, le conseil ou la suggestion ?
+* Tags / réponses courtes
+** S'informer, communiquer
+* Comparaison et composition des adjectifs
+** Comparer et décrire 
+* Le past perfect--Le style indirect
+** Situatons du passé--Rapporter un discours
