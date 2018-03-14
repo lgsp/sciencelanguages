@@ -2,7 +2,7 @@
 #+AUTHOR: Laurent Garnier
 
 * Digits
-  Like in all languages there are 10 digits:
+  As in all languages there are ten digits:
   | Digit | English | Français |
   |-------+---------+----------|
   |     0 | zero    | zéro     |
@@ -16,12 +16,12 @@
   |     8 | eight   | huit     |
   |     9 | nine    | neuf     |
 ** Exercise 1
-   1. How do you spell this phone number, digit by digit:
+   1. How do you say this phone number, digit by digit:
      59-14-83-60-72
-   2. How do you spell this phone number, digit by digit:
+   2. How do you say this phone number, digit by digit:
      41-95-06-38-27
 ** Ordinal number
-   Let's imagine you're talking about the rank of your favorite team:
+   Let's imagine you're talking about the ranking of your favorite team:
    | Rank | English | Français                                      |
    |------+---------+-----------------------------------------------|
    |    1 | first   | premier                                       |
@@ -34,8 +34,8 @@
    |    8 | eighth  | huitième                                      |
    |    9 | ninth   | neuvième                                      |
 
-   Do you see a patern? Just remember the first three by heart and
-   then add "th" at the end. But be careful with five and nine.
+   Do you see a pattern? Just remember the first three by heart and
+   then add "th" at the end, but be careful with five and nine.
 
 * Tens
   | Tenths | English                     | Français                                 |
@@ -62,28 +62,28 @@
   |     80 | eighty (eightieth)          | quatre-vingt (quatre-vingtième)          |
   |     90 | ninety (ninetieth)          | quatre-vingt-dix (quantre-vingt-dixième) |
  
-** Old school 
-   During the previous century we used to talk about decades like
+** The nineteen hundreds 
+   In the last century we talked about decades like
    this:
-   + 20's: the twenties that means the years between 1920 and 1929
-   + 30's: the thirties that means the years between 1930 and 1939
-   + 40's: the forties that means the years between 1940 and 1949
-   + 50's: the fifties that means the years between 1950 and 1959
-   + 60's: the sixties that means the years between 1960 and 1969
-   + 70's: the seventies that means the years between 1970 and 1979
-   + 80's: the eighties that means the years between 1980 and 1989
-   + 90's: the nineties that means the years between 1990 and 1999
+   + 20s: the twenties signifies the years between 1920 and 1929
+   + 30s: the thirties signifies the years between 1930 and 1939
+   + 40s: the forties signifies the years between 1940 and 1949
+   + 50s: the fifties signifies the years between 1950 and 1959
+   + 60s: the sixties signifies the years between 1960 and 1969
+   + 70s: the seventies signifies the years between 1970 and 1979
+   + 80s: the eighties signifies the years between 1980 and 1989
+   + 90s: the nineties signifies the years between 1990 and 1999
 
 ** Exercise 2
-   1. How do you spell 37? What's the rank of November?
-   2. How do you spell 43? Look on a map in which district Montmartre
-      is located and write it as a ranking number (the district rank).
-   3. How do you spell 59? What's the name of the famous Hollywood
+   1. How do you say 37? What's the ranking of November in the year?
+   2. How do you say 43? Look at a map of Paris. Which district is Montmartre
+      located in? And write it as a ranking number (the district ranking).
+   3. How do you say 59? What's the name of the famous Hollywood
       studio with gold letters?
-   4. How do you spell 61? What's the rank of our millenium?
-   5. How do you spell 75? If we look at the ranking position in the
-      solar system from the closest (Mercury) to the furthest
-      (Neptune), what's the rank of planet Earth?
+   4. How do you say 61? What's the ranking of our millenium?
+   5. How do you say 75? If we look at the ranking position in the
+      solar system from the closest to the Sun (Mercury) to the furthest away
+      (Neptune), what's the ranking of planet Earth?
 
 * Hundred, thousand, million and billion
   |     Numbers | English               | Français           |
@@ -111,11 +111,11 @@
   | 10000000000 | one billion           | un milliard        |
  
 ** Exercise 3
-   1. What's the age of Earth (round to billion)?
-   2. What's the number of the year?
+   1. How old is the Earth (round up billion)?
+   2. What's year is this?
    3. How many days are there in a year?
 * Short vowels
-  + The short vowel [ʌ] like in:
+  + The short vowel [ʌ] as in:
 
     | English | Phonetics  |
     |---------+------------|
@@ -126,7 +126,7 @@
     | [[https://en.oxforddictionaries.com/definition/luck][luck]]    | [[http://www.wordreference.com/enfr/luck][/lʌk/]]      |
     | [[https://en.oxforddictionaries.com/definition/london][London]]  | [[http://www.wordreference.com/enfr/london][/ˈlʌndən/]]  |
     | [[https://en.oxforddictionaries.com/definition/love][love]]    | [[http://www.wordreference.com/enfr/love][/lʌv/]]      |
-  + The short vowel [æ] like in:
+  + The short vowel [æ] as in:
     
     | English | Phonetics |
     |---------+-----------|
@@ -137,7 +137,7 @@
     | [[https://en.oxforddictionaries.com/definition/have][have]]    | [[http://www.wordreference.com/enfr/have][/hæv/]]     |
     | [[https://en.oxforddictionaries.com/definition/hand][hand]]    | [[http://www.wordreference.com/enfr/hand][/hænd/]]    |
     | [[https://en.oxforddictionaries.com/definition/flat][flat]]    | [[http://www.wordreference.com/enfr/flat][/flæt/]]    |  
-  + The short vowel [ɛ] like in: 
+  + The short vowel [ɛ] as in: 
     
     | English | Phonetics |
     |---------+-----------|
@@ -152,37 +152,37 @@
 Here is my first game: [[https://lgsp.github.io/sciencelanguages/html/english/hangman.html][hangman]]! Have fun!
 * Solutions
 ** Exercice 1
-     1. How do you spell this phone number, digit by digit:
+     1. How do you say this phone number, digit by digit:
         59-14-83-60-72
 	five, nine, one, four, eight, three, six, zero, seven, two
 
-	Americans use also "o" like the letter in "olive" instead of "zero".
-     2. How do you spell this phone number, digit by digit:
+	Native English speakers use also "o" like the letter in "olive" instead of "zero".
+     2. How do you say this phone number, digit by digit:
         41-95-06-38-27
 	four, one, nine, five, zero, three, eight, two, seven
 ** Exercise 2
-   1. How do you spell 37? thirty seven
-      What's the rank of November? eleventh
-   2. How do you spell 43? forty three
-      Look on a map in which district Montmartre is located and write
-      it as a ranking number (the district rank).
+   1. How do you say 37? thirty-seven
+      What's the ranking of November? eleventh
+   2. How do you say 43? forty-three
+      Look at a map of Paris. Which district Montmartre is located in. And write
+      it as a ranking number (the district ranking).
       Montmartre is located in the eighteenth district of Paris.
-   3. How do you spell 59? fifty nine
+   3. How do you spell 59? fifty-nine
       What's the name of the famous Hollywood studio with gold
       letters?
-      The twentieth century fox
-   4. How do you spell 61? sixty one
-      What's the rank of our millenium? We are currently in the third millenium
-   5. How do you spell 75? seventy five
-      If we look at the ranking position in the solar system from the closest (Mercury) to the furthest
-      (Neptune), what's the rank of planet Eart? 
-      Earth is the third planet after the sun. Fun fact: there was a
-      funny tv show during the 90's titled: third planet after the sun.
+      The Twentieth Century Fox
+   4. How do you say 61? sixty-one
+      What's the ranking of our millenium? We are currently in the third millenium
+   5. How do you spell 75? seventy-five
+      If we look at the ranking position in the solar system from the closest to the Sun (Mercury) to the furthest away
+      (Neptune), what's the ranking of planet Earth? 
+      Earth is the third planet from the sun. Fun fact: there was a
+      funny TV show during the 90s titled: [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][third rock from the sun]].
 ** Exercise 3
-   1. What's the age of Earth (round to billion)? five billion (you can
+   1. How old is the Earth (round to billion)? five billion (you can
       check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]])
-   2. What's the number of the year? two thousand eighteen
-   3. How many days are there in a year? three hundred sixty five
+   2. What's year is this? two thousand eighteen
+   3. How many days are there in a year? three hundred sixty-five
 * If you want to go further
   Here are some resources :
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/day_of_the_week.org][Days of the week]]
