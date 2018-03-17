@@ -164,6 +164,8 @@
      
 * If you want to go further
   Here are some additionally resources:
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-and-present-continuous.org][Present simple and present continuous]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-perfect-and-present-perfect-continuous.org][Present perfect and present perfect continuous]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + [[http://www.talkenglish.com/grammar/simple-tense.aspx][Talkenglish]]
   + [[https://youtu.be/_XP4le29BAM][Past Simple and Past Continuous]]
