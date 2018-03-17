@@ -135,8 +135,8 @@
    Read again the previous lessons.
 * If you want to go further
   Here are some resources:
-  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/seasons_of_the_year.org][Seasons of the year]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/seasons_of_the_year.org][Seasons of the year]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/day_of_the_week.org][Days of the week]]
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/day_of_the_week.org][Days of the week]]
   + [[https://youtu.be/lPeAo1hz8GA][Months of the Year]]
   + [[https://youtu.be/Fe9bnYRzFvk][The Singing Walrus]]
