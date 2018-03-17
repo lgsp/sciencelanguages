@@ -101,8 +101,8 @@
    Read again the previous lesson.
 * If you want to go further
   Here are some resources :
-  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/numbers.org][Numbers]]
-  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][Months of the year]]
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/numbers.org][Numbers]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][Months of the year]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + [[https://youtu.be/LIQsyHoLudQ][Days of the Week Song]]
   + [[https://youtu.be/mXMofxtDPUQ][Days of the Week Song]], the Singing Walrus
