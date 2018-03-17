@@ -186,7 +186,8 @@
   12. Diphthong vowel [ʊə], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
 * If you want to go further
   Here are some resources:
-  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/auxiliary_verbs.org][Auxiliary Verbs]] (Helping Verbs)
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/auxiliary_verbs.org][Auxiliary Verbs]] (Helping Verbs)
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/seasons_of_the_year.org][Seasons of the year]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + [[https://youtu.be/zEKLqgvUSDM][Expressing Time in English]]
   + [[https://youtu.be/fq2tRfHu5s8][Telling the Time in English]]
