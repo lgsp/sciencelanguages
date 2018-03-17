@@ -91,9 +91,9 @@
    Give an exemple for each 6 short vowels and each 4 long vowels.
 * If you want to go further
   Here are some resources:
-  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/hours.org][Hours]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/hours.org][Hours]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][Months of the year]]
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][Months of the year]]
   + [[https://youtu.be/8ZjpI6fgYSY][Seasons Song]]
   + [[https://youtu.be/owppK-GHPTU][Kids Vocabulary]]
   + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
