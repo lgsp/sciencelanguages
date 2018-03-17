@@ -121,6 +121,8 @@
      
 * If you want to go further
   Here are some additionally resources:
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-simple-and-past-continuous.org][Past simple and past continuous]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-perfect-and-past-perfect-continuous.org][Past perfect simple and past perfect continuous]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + [[https://youtu.be/XGw2-p2WuJk][mmmEnglish]]
   + [[https://youtu.be/8W2v-WWQrkA][Jamie Ray]]
