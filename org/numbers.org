@@ -2,7 +2,7 @@
 #+AUTHOR: Laurent Garnier
 
 * Digits
-  As in all languages there are ten digits:
+  As in all languages there are ten digits in English:
   | Digit | English | Français |
   |-------+---------+----------|
   |     0 | zero    | zéro     |
@@ -185,5 +185,5 @@ Here is my first game: [[https://lgsp.github.io/sciencelanguages/html/english/ha
    3. How many days are there in a year? three hundred sixty-five
 * If you want to go further
   Here are some resources :
-  + Next lesson:[[https://github.com/lgsp/sciencelanguages/blob/master/org/day_of_the_week.org][Days of the week]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/day_of_the_week.org][Days of the week]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
