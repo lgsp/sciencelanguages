@@ -13,7 +13,7 @@
   |   7 | Sunday    | dimanche |
 ** Exercise 1
    1. What day of the week is it today?
-   2. Write your habits for each day of the week. For example, Monday
+   2. Write your routine for each day of the week. For example, Monday
       I do the food shopping for the week. Tuesday I go to the
       gym. And so on and so on.
 * Review of the previous lesson
@@ -84,7 +84,7 @@
 * Solutions
 ** Exercise 1
    1. What day of the week is today? Today is Friday. 
-   2. Write your habits for each day of the week. For example, Monday
+   2. Write your routine for each day of the week. For example, Monday
       I work on my German skills. Tuesday I work on my Arabic
       skills. Wednesday I work on my Chinese skills. Thursday I work on my
       Spanish skills. Friday I work on my Hebrew skills. Saturday I work
