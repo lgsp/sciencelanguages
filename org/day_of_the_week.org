@@ -15,7 +15,7 @@
    1. What day of the week is it today?
    2. Write your routine for each day of the week. For example, Monday
       I do the food shopping for the week. Tuesday I go to the
-      gym. And so on and so on.
+      gym. And so on.
 * Review of the previous lesson
 ** Exercise 2
   In the previous lesson we saw numbers so let's check quickly if
@@ -44,7 +44,7 @@
      |----------+-----------|
      | [[https://en.oxforddictionaries.com/definition/saturday][Saturday]] | [[http://www.wordreference.com/enfr/saturday][/ˈsætədɪ/]] |
 ** Exercise 3   
-   Complete each table in order to get seven items like in the previous
+   Complete each table in order to get seven items as in the previous
    lesson.
 ** New short vowels
    + The short vowel [ʊ] as in:
@@ -58,7 +58,7 @@
      | [[https://en.oxforddictionaries.com/definition/book][book]]    | [[http://www.wordreference.com/enfr/book][/bʊk/]]     |
      | [[https://en.oxforddictionaries.com/definition/brook][brook]]   | [[http://www.wordreference.com/enfr/brook][/brʊk/]]    |
      | [[https://en.oxforddictionaries.com/definition/crook][crook]]   | [[http://www.wordreference.com/enfr/crook][/krʊk/]]    |
-   + The short vowel [ɒ]as in:
+   + The short vowel [ɒ] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -83,7 +83,7 @@
         
 * Solutions
 ** Exercise 1
-   1. What day of the week is today? Today is Friday. 
+   1. What day of the week is it today? Today is Friday. 
    2. Write your routine for each day of the week. For example, Monday
       I work on my German skills. Tuesday I work on my Arabic
       skills. Wednesday I work on my Chinese skills. Thursday I work on my
