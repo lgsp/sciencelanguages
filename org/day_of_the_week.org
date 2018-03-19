@@ -18,7 +18,7 @@
       gym. And so on.
 * Review of the previous lesson
 ** Exercise 2
-  In the previous lesson we saw numbers so let's check quickly if
+  In the previous lesson we saw numbers so let's quickly check if
   you are okay with them:
   1. Write today's date.
   2. Write today's ranking. For instance if today is Friday, the ranking is
