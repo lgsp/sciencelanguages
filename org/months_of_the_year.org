@@ -21,24 +21,24 @@
 
 ** Exercise 1
    1. In which month is Christmas Eve?
-   2. When do Christian Orthodox and Spanish christians celebrate Christmas?
-   3. What is the date of jokes?
+   2. When do Christian Orthodox and Spanish Christians celebrate Christmas?
+   3. What is the date for jokes?
    4. When is Valentine's Day?
    5. When does Spring start (in France)?
    6. Which month has the same spelling as a modal verb?
    7. Which names of months are derived from Roman Emperors' names?
    8. In which month do Germans celebrate beer?
-   9. When is the end of Summer (in France)?
+   9. When does Summer end (in France)?
 
 * Phonetics
 ** Review the short vowels
-   + The short vowel [æ] like in:
+   + The short vowel [æ] as in:
      
      | English | Phonetics    |
      |---------+--------------|
      | [[https://en.oxforddictionaries.com/definition/january][January]] | [[http://www.wordreference.com/enfr/january][/ˈdʒænjʊərɪ/]] |
 
-   + The short vowel [ɛ] like in:
+   + The short vowel [ɛ] as in:
 
      | English   | Phonetics   |
      |-----------+-------------|
@@ -47,7 +47,7 @@
      | [[https://en.oxforddictionaries.com/definition/november][November]]  | [[http://www.wordreference.com/enfr/november][/nəʊˈvɛmbə/]] |
      | [[https://en.oxforddictionaries.com/definition/december][December]]  | [[http://www.wordreference.com/enfr/december][/dɪˈsɛmbə/]]  |
       
-   + The short vowel [ə] like in:
+   + The short vowel [ə] as in:
 
      | English   | Phonetics    |
      |-----------+--------------|
@@ -60,20 +60,20 @@
      | [[https://en.oxforddictionaries.com/definition/november][November]]  | [[http://www.wordreference.com/enfr/november][/nəʊˈvɛmbə/]]  |
      | [[https://en.oxforddictionaries.com/definition/december][December]]  | [[http://www.wordreference.com/enfr/december][/dɪˈsɛmbə/]]   |
     
-   + The short vowel [ɒ] like in:
+   + The short vowel [ɒ] as in:
 
      | English | Phonetics  |
      |---------+------------|
      | [[https://en.oxforddictionaries.com/definition/october][October]] | [[http://www.wordreference.com/enfr/october][/ɒkˈtəʊbə/]] |
      
-   + The short vowel [ʊ] like in:
+   + The short vowel [ʊ] as in:
 
      | English | Phonetics |
      |---------+-----------|
      | [[https://en.oxforddictionaries.com/definition/good][good]]    | [[http://www.wordreference.com/enfr/good][/ɡʊd/]]     |
      
 
-   + The short vowel [ʌ] like in:
+   + The short vowel [ʌ] as in:
      
      | English | Phonetics |
      |---------+-----------|
@@ -81,10 +81,10 @@
      
 
 ** Exercise 2
-   Complete each table in order to get 7 items (one of them has
-   already 8 items).
+   Complete each table in order to get seven items (one of them already has
+   eight items.).
 ** Long vowels 
-   + The long vowel [iː] like in:
+   + The long vowel [iː] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -106,7 +106,7 @@
      | [[https://en.oxforddictionaries.com/definition/hard][hard]]    | [[http://www.wordreference.com/enfr/hard][/hɑːd/]]    |
      | [[https://en.oxforddictionaries.com/definition/arm][arm]]     | [[http://www.wordreference.com/enfr/arm][/ɑːm/]]     |
      | [[https://en.oxforddictionaries.com/definition/father][father]]  | [[http://www.wordreference.com/enfr/father][/ˈfɑːðə/]]  |
-   + The long vowel [ɔː] like in:
+   + The long vowel [ɔː] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -119,20 +119,20 @@
    
 * Solutions
 ** Exercise 1
-   1. In which month is there Christmas Eve? In December
-   2. When Christian Orthodox and Spanish celebrate Christmas? At the
+   1. In which month is Christmas Eve? Christmas Eve is in December
+   2. When do Christian Orthodox and Spanish Christians celebrate Christmas? At the
       beginning of January
-   3. What is the day of jokes? April the first (see [[https://en.wikipedia.org/wiki/April_Fools%2527_Day][April Fool's Day]])
+   3. What is the date for jokes? April the first (see [[https://en.wikipedia.org/wiki/April_Fools%2527_Day][April Fool's Day]])
    4. When is Valentine's Day?  February the fourteenth
-   5. When does Spring start? March the twenty first
+   5. When does Spring starts (in France)? March the twenty-first
    6. Which month has the same spelling as a modal verb? May
-   7. Which name of months derived frome Romans Emperor's names? July
+   7. Which name of months are derived from Roman Emperors' names? July
       from Julius Ceasar and August from Augustus
-   8. In which month Germans celebrate beers? October
-   9. When is the end of Summer? September the twenty first
+   8. In which month do Germans celebrate beer? October
+   9. When does Summer end (in France)? September the twenty-first
 
 ** Exercise 2
-   Read again the previous lessons.
+   Read the previous lessons again.
 * If you want to go further
   Here are some resources:
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/seasons_of_the_year.org][Seasons of the year]]
