@@ -1,0 +1,41 @@
+#+TITLE: Org compact manual
+#+AUTHOR: Laurent Garnier
+
+* Document structure
+** Vocabulary
+  + outline :: contour
+  + sheer :: pur
+  + drawer :: tiroir
+** Test subtree
+*** Test subsubtree
+    Bla blabla
+** Test subtree 2
+* Test tree
+* Déplacements
+  + C-c C-n :: prochain en-tête
+  + C-c C-p :: précédent en-tête
+  + C-c C-f :: prochain en-tête de même niveau
+  + C-c C-b :: précédent en-tête de même niveau 
+  + C-c C-u :: retour à l'en-tête précédent de plus haut niveau 
+* Structure d'édition
+  + M-RET :: insère un nouvel en-tête avec le même niveau que
+	     l'actuelle. Si le curseur est dans une liste, un nouvel
+	     élément est créé. Lorsque cette commande est utilisée au
+	     milieu d'une ligne, la ligne est découpée et le reste de
+	     la ligne devient le nouvel en-tête
+  + M-S-RET :: insère une nouvelle entrée TODO avec le même niveau que
+	       l'en-tête actuel
+  + TAB dans une nouvelle entrée, ou une entrée vide :: dans une
+       nouvelle entrée qui n'a pas encore de texte, =TAB= va parcourir
+       le cycle des niveaux raisonnables.
+  + M-left/right :: Promeut/rétrograde l'en-tête actuel d'un niveau
+  + M-S-left/right :: Promeut/rétrograde le sous-arbre actuel d'un
+		      niveau
+  + M-S-up/down :: Déplace le sous-arbre haut/bas (échange avec le
+		   sous-arbre précédent/suivant de même niveau)
+  + C-c C-w :: reclasse l'entrée ou la région à un emplacement
+               différent.
+  + C-x n s/w :: restreint le tampon au sous-arbre actuel / l'élargit
+                 à nouveau	       
+* Arbres clairsemés 
+  
