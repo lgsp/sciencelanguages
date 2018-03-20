@@ -1,0 +1,53 @@
+#+TITLE: 20 minutes quotidienne de recherches en russe
+#+AUTHOR: Laurent Garnier
+
+* Mardi 20 mars 2018
+** Alphabet Cyrillique
+   
+   | Majuscule, minuscule | Nom           | Equivalent en anglais  | Equivalent en français |
+   |----------------------+---------------+------------------------+------------------------|
+   | A a                  | a             | a as in father         |                        |
+   | Б б                  | be            | b as in bet            |                        |
+   | В в                  | ve            | v as in very           |                        |
+   | Г г                  | ge            | g as in get            |                        |
+   | Д д                  | de            | d as in dog            |                        |
+   | Е е                  | ye            | ye as in yes           |                        |
+   | Ё ё                  | yo            | yo as in York          |                        |
+   | Ж ж                  | zhe           | z as in azure          |                        |
+   | 3 з                  | ze            | z as in zoo            |                        |
+   | И и                  | i             | i as in visa           |                        |
+   | Й й                  | i kratkoye    | y as in boy            |                        |
+   | К к                  | ka            | k as in skate          |                        |
+   | Л л                  | el            | l as in lot            |                        |
+   | M м                  | em            | m as in Mike           |                        |
+   | H н                  | en            | n as in net            |                        |
+   | О о                  | o             | o as in ought          |                        |
+   | П п                  | pe            | p as in span           |                        |
+   | P p                  | er            | r as in better         |                        |
+   | С с                  | es            | s as in sun            |                        |
+   | T т                  | te            | t as in Tanya          |                        |
+   | У у                  | u             | u as in flu            |                        |
+   | Ф ф                  | ef            | f as in fun            |                        |
+   | X x                  | kha           | ch as in Bach          |                        |
+   | Ц ц                  | tse           | ts as in cats          |                        |
+   | Ч ч                  | che           | ch as in cheese        |                        |
+   | Ш ш                  | sha           | sh as in shoe          |                        |
+   | Щ щ                  | shcha         | shsh as in fresh sheen |                        |
+   | ъ                    | tvyordiy znak | no sound value         |                        |
+   | ы                    | yeri          | i as in vigor          |                        |
+   | ь                    | myagkiy znak  | no sound value         |                        |
+   | Э э                  | e oborotnoye  | e as in echo           |                        |
+   | Ю ю                  | yu            | yu as in Yukon         |                        |
+   | Я я                  | ya            | ya as in yacht         |                        |
+
+
+** Examples
+   + МБ :: "em-be" Мировoй бaнк = World Bank
+   + ЦБР :: "tse-be-er" Центрaльный бaнк России = Central Bank of Russia
+   + РФ :: "er-ef" Российская Федерaция = Russian Federation
+** Pronunciation
+*** Letters Similar to English Letters in Form and Pronunciation
+    
+    | Letter | Sound | Example | Translation | Approx |
+    |--------+-------+---------+-------------+--------|
+    |        |       |         |             |        |
