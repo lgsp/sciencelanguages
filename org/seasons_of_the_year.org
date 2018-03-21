@@ -10,41 +10,41 @@
   |      3 | Autumn (UK) / Fall (US) | Automne   |
   |      4 | Winter                  | Hiver     |
   
-* Months in it
+* Months in a year
 ** Spring
-   + Notrh hemisphere :: Spring starts March the twenty first and ends
-        June the twenty first.
-   + South hemisphere :: Spring starts September the twenty first and
-        ends December the twenty first.
+   + Northern Hemisphere :: Spring starts (in France) March the twenty-first and ends
+        June the twenty-first.
+   + Southern Hemisphere :: Spring starts September the twenty-first and
+        ends December the twenty-first.
 ** Summer
-   + Notrh hemisphere :: Summer starts June the twenty first, which is
-        the longest day of the year, and ends September the twenty first.
-   + South hemisphere :: Summer starts December the twenty first,
+   + Northern Hemisphere :: Summer starts (in France) June the twenty-first, which is
+        the longest day of the year, and ends September the twenty-first.
+   + Southern Hemisphere :: Summer starts December the twenty-first,
         which is the longest day of the year, and ends March the
-        twenty first.
+        twenty-first.
 ** Autumn (UK) / Fall (US)
-   + Notrh hemisphere :: Autumn (UK) / Fall (US) starts September the
-        twenty first, and ends December the twenty first.
-   + South hemisphere :: Autumn (UK) / Fall (US) starts March the
-        twenty first, and ends June the twenty first.
+   + Northern Hemisphere :: Autumn (UK) / Fall (US) starts September the
+        twenty-first, and ends December the twenty-first.
+   + Southern Hemisphere :: Autumn (UK) / Fall (US) starts March the
+        twenty-first, and ends June the twenty-first.
 ** Winter
-   + Notrh hemisphere :: Winter starts December the twenty first, and
-        ends March the twenty first.
-   + South hemisphere :: Winter starts June the twenty first,
-        and ends September the twenty first.
+   + Northern Hemisphere :: Winter starts December the twenty-first, and
+        ends March the twenty-first.
+   + Southern Hemisphere :: Winter starts June the twenty-first,
+        and ends September the twenty-first.
 
-* Countries without the four seasons system
-  Some countries do not share the four seasons system, for instance in
+* Countries without the four-season system
+  Some countries do not share the four-season system, for instance in
   India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
-  details). Also tropical areas have only two main different seasons
-  like in Caribbean sea (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or in
-  Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details). And obviously in desertic
-  areas things are different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
+  details). Also tropical areas have only two main seasons
+  like in the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or in
+  Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details). And in desert
+  areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
   details). 
   
 * Phonetics
 ** Long vowel  
-   The last one, the long vowel [uː] like in:
+   The last one, the long vowel [uː] as in:
    
    | English | Phonetics |
    |---------+-----------|
@@ -57,7 +57,7 @@
    | [[https://en.oxforddictionaries.com/definition/goose][goose]]   | [[http://www.wordreference.com/enfr/goose][/ɡuːs/]]    |
    
 ** Diphthong vowels   
-   + The diphthong vowel [ɪə] like in:
+   + The diphthong vowel [ɪə] as in:
 
      | English   | Phonetics   |
      |-----------+-------------|
@@ -81,17 +81,17 @@
         
 * Exercices
 ** Exercise 1
-   1. Could you give the list of the season by alphabetical order?
-   2. In which season belong February? Answer for North Hemisphere and
-      then for South hemisphere.
+   1. Could you give the list of the seasons in alphabetical order?
+   2. In which season does February belong? Answer for the Northern Hemisphere and
+      then for the Southern Hemisphere.
    3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
-      fourteenth to July the fifteenth. Which season it will be there?
+      fourteenth to July the fifteenth. Which season will it be there?
       And in New Zealand?
 ** Exercise 2
-   Give an exemple for each 6 short vowels and each 4 long vowels.
+   Give an example for each 6 short vowels and each 4 long vowels.
 * If you want to go further
   Here are some resources:
-  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/hours.org][Hours]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/hours.org][Time]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][Months of the year]]
   + [[https://youtu.be/8ZjpI6fgYSY][Seasons Song]]
@@ -99,25 +99,25 @@
   + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
 * Solutions
 ** Exercise 1
-   1. Could you give the list of the season by alphabetical order?
+   1. Could you give the list of the seasons in alphabetical order?
       Autumn (fall), Spring, Summer, Winter
-   2. In which season belong February? Answer for North Hemisphere and
-      then for South hemisphere.
-      + North Hemisphere :: February belong to Winter
-      + South Hemisphere :: February belong to Summer
+   2. In which season does February belong? Answer for the Northern Hemisphere and
+      then for the Southern Hemisphere.
+      + In the Northern Hemisphere :: February belongs to Winter
+      + In the Southern Hemisphere :: February belongs to Summer
    3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
-      fourteenth to July the fifteenth. Which season it will be there?
-      Summer like in other countries in the North Hemisphere.
-      And in New Zealand? Winter like other countries in the South Hemisphere.
+      fourteenth to July the fifteenth. Which season will it be there?
+      Summer like in other countries in the Northern Hemisphere.
+      And in New Zealand? Winter like other countries in the Southern Hemisphere.
 ** Exercice 2
-   1. Short vowel [ɛ] like in [[https://en.oxforddictionaries.com/definition/trend][trend]] ([[http://www.wordreference.com/enfr/Trend][/trɛnd/]]). For example: I don't like the
+   1. Short vowel [ɛ] as in [[https://en.oxforddictionaries.com/definition/trend][trend]] ([[http://www.wordreference.com/enfr/Trend][/trɛnd/]]). For example: I don't like the
       trend on this platform. (Je n'aime pas la tendance sur cette plate-forme.)
    2. Short vowel [æ] like in [[https://en.oxforddictionaries.com/definition/brand][brand]] ([[http://www.wordreference.com/enfr/brand][/brænd/]]). For example: I like
       this new brand. (J'aime cette nouvelle marque.)
    3. Short vowel [ʌ] like in [[https://en.oxforddictionaries.com/definition/money][money]] ([[http://www.wordreference.com/enfr/money][/ˈmʌnɪ/]]). For example: Time is
       money. (Le temps c'est de l'argent.)
    4. Short vowel [ʊ] like in [[https://en.oxforddictionaries.com/definition/foot][foot]] ([[http://www.wordreference.com/enfr/foot][/fʊt/]]). For example: Usually only
-      10% of people prefer to use their left foot in order to play
+      10% of people prefer to use their left foot to play
       football. (Habituellement seulement 10% des gens préfèrent
       utiliser leur pied gauche pour jouer au foot.) 
    5. Short vowel [ɒ] like in [[https://en.oxforddictionaries.com/definition/lock][lock]] ([[http://www.wordreference.com/enfr/lock][/lɒk/]]). For example: Don't forget
@@ -126,17 +126,17 @@
    6. Short vowel [ə] like in [[https://en.oxforddictionaries.com/definition/afraid][afraid]] ([[http://www.wordreference.com/enfr/afraid][/əˈfreɪd/]]). For example: Don't
       be afraid, I'll protect you. (N'aie pas peur, je te protègerai.)
    7. Long vowel [iː] like in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
-      become a father you become in charge to feed your
-      children. (Lorsque tu deviens père tu deviens responsable de
+      become a parent you become in charge of feeding your
+      children. (Lorsque tu deviens parent tu deviens responsable de
       nourrir tes enfants.)
-   8. Long vowel [ɑː] like in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I haven't
-      never notice a real difference between 1st and 2nd class in this
+   8. Long vowel [ɑː] like in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I have
+      never noticed a real difference between 1st and 2nd class in this
       train. (Je n'ai jamais remarqué de réelle différence entre la
       1ère et la 2de classe dans ce train.)
    9. Long vowel [ɔː] like in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
       rather walk instead of taking the bus. (Tu devrais plutôt
       marcher au lieu de prendre le bus.)
-  10. Long vowel [uː] like in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: That's very
-      surprising to observe how fast food become usual in France. (C'est
-      surprenant de voir comment la restauration rapide est devenue
+  10. Long vowel [uː] like in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
+      surprising to observe how quickly fast food has become usual in France. (C'est
+      surprenant de voir comment la restauration rapide est rapidement devenue
       une habitude en France.) 
