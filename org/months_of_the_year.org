@@ -6,7 +6,7 @@
   | Months | English   | Français  |       Number of days |
   |--------+-----------+-----------+----------------------|
   |      1 | January   | janvier   |                   31 |
-  |      2 | February  | février   | 28 (29 on leap year) |
+  |      2 | February  | février   | 28 (29 in leap year) |
   |      3 | March     | mars      |                   31 |
   |      4 | April     | avril     |                   30 |
   |      5 | May       | mai       |                   31 |
@@ -95,7 +95,7 @@
      | [[https://en.oxforddictionaries.com/definition/heat][heat]]    | [[http://www.wordreference.com/enfr/heat][/hiːt/]]    |
      | [[https://en.oxforddictionaries.com/definition/sea][sea]]     | [[http://www.wordreference.com/enfr/sea][/siː/]]     |
      | [[https://en.oxforddictionaries.com/definition/bee][bee]]     | [[http://www.wordreference.com/enfr/bee][/biː/]]     |
-   + The long vowel [ɑː] like in:
+   + The long vowel [ɑː]as in:
      
      | English | Phonetics |
      |---------+-----------|
