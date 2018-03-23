@@ -1,0 +1,106 @@
+\documentclass[12pt,a4paper]{book}
+
+\usepackage{fontspec}
+\setmainfont{Geneva} % Geneva, Helvetica, Helvetica Neue
+\usepackage{xunicode}
+\usepackage{polyglossia}
+\setmainlanguage{french}
+\setotherlanguage{english}
+
+\usepackage{dtk-logos}
+
+\usepackage[maxlevel=3]{csquotes}
+\usepackage{frcursive}
+\usepackage{pifont}
+\renewcommand{\footnoterule}{%
+\vspace*{0.2cm}%
+\ding{47}\hfill \centering Notes\hfill \ding{45}\vspace*{.2cm}\hrule\vspace*{.2cm}}
+
+
+\usepackage{subfloat}
+
+\usepackage{xcolor}
+\newcommand{\exEN}[1]{%
+  \textcolor{blue}{\textenglish{#1}}}
+\newcommand{\exFR}[1]{%
+  \textcolor{olive}{\textcursive{#1}}}
+
+\renewcommand{\mkcitation}[1]{\footnote{#1}}
+\renewcommand{\mktextquote}[6]{#1#2#6#4#3#5}
+
+\newcommand{\up}[1]{\textsuperscript{#1}}
+
+\usepackage{hyperref}
+\begin{document}
+\title{La phonétique anglaise comparée à la française avec \XeLaTeX}
+\hypersetup{
+ pdfauthor={Laurent Garnier},
+ pdftitle={45 Phonetic Sounds of English},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.3.1 (Org mode 9.1.6)}, 
+ pdflang={English}}
+\author{Laurent Garnier}
+
+\maketitle
+\tableofcontents
+
+\part{Introduction}
+
+\input{chap1-intro}
+
+
+\part{Phonétique du français}
+Ce qui m'a frappé lors de mes recherches en apprentissage des langues,
+et en particulier en ce qui concerne les ressources francophones,
+c'est que la phonétique du français n'est présentée que pour les
+étrangers. En effet, à part dans les travaux universitaires de
+chercheurs, il rare de voir des cours de langue qui commencent par
+présenter la phonétique du français avant de présenter celle de la
+langue cible, en l'occurrence ici l'anglais. C'est comme si on vous
+apprenait la grammaire anglaise sans que vous ne connaissiez votre
+propre grammaire ou pire, si on vous apprenez le vocabulaire anglais
+sans que vous ne sachiez les liaisons qu'il y existe entre les deux
+vocabulaire\footnote{Hélas c'est exactement le cas, il est très rare
+  de voir des gens présenter l'immense importance du nombre de mots
+  anglais d'origine française. Je ne saurais que trop vous recommander
+mes
+\href{https://tinycards.duolingo.com/decks/6VNKUdba/english-words-with-french-origin}{cartes
+  mémoires gratuites} et ce livre
+\href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni
+  soit qui mal y pense} qui en parle plus en profondeur.}.\par
+Puisque l'on est jamais mieux servi que par soi-même j'ai décidé
+d'agir ! Alors je souhaite corriger ça en commençant par vous
+présenter la phonétique de la langue que vous utilisez au
+quotidien\footnote{Au moins lorsque vous lirez ces lignes.}, le
+français\footnote{Et si vous voulez connaître son histoire je vous
+  recommande cette série de \href{https://www.youtube.com/watch?v=rHSIPt_ehvc&list=PLH2hhYn999aRfv2odG4SozTXCHbZaX_ji}{vidéo}}. Pour
+chaque son je vous proposerai trois exemples de mots qui le
+contiennent et pour chaque mot vous trouverez une phrase d'exemple
+l'illustrant en français et la traduction de cette phrase en
+anglais. En effet, le but de ce livre et de vous permettre
+d'apprivoiser la phonétique anglaise afin de découvrir ou de parfaire
+votre apprentissage de l'anglais. De façon un peu grossière ou
+simpliste je dirais que le français est fondamentalement une langue de
+l'écrit alors que l'anglais est plutôt une langue de l'oral.\par
+Bien sûr, je ne remets aucunement en cause la richesse de la
+littérature anglaise. Mon but est simplement de souligner l'extrême
+complexité de la langue anglaise parlée en comparaison avec le
+français.\par
+Mais avant ça je vous propose un très bref historique de la langue
+française.
+
+\input{chap2-histo-fr}
+
+\input{chap3-voyelles-fr}
+
+ 
+ \part{\exEN{English phonetics}}
+
+\input{chap5-vowels-en}
+
+\input{chap6-consonants-en}
+
+
+
+\end{document}
