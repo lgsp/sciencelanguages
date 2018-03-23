@@ -37,9 +37,7 @@
 * Countries without the four-season system
   Some countries do not share the four-season system, for instance in
   India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
-  details). Also tropical areas have only two main seasons
-  as in the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or in
-  Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details). And in desert
+  details). Also tropical areas, like the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details), have only two main seasons; and in desert
   areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
   details). 
   
@@ -82,7 +80,7 @@
         
 * Exercices
 ** Exercise 1
-   1. Could you give the list of the seasons in alphabetical order?
+   1. Can you give the list of the seasons in alphabetical order?
    2. In which season does February belong? Answer for the Northern Hemisphere and
       then for the Southern Hemisphere.
    3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
@@ -100,8 +98,8 @@
   + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
 * Solutions
 ** Exercise 1
-   1. Could you give the list of the seasons in alphabetical order?
-      Autumn (fall), Spring, Summer, Winter
+   1. Can you give the list of the seasons in alphabetical order?
+      Autumn (Fall), Spring, Summer, Winter
    2. In which season does February belong? Answer for the Northern Hemisphere and
       then for the Southern Hemisphere.
       + In the Northern Hemisphere :: February belongs to Winter
