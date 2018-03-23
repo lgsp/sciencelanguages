@@ -13,14 +13,14 @@
    5. What time is it please? It's five o'clock 5:00
    6. What's the time please? It's six o'clock 6:00
 ** Exercise 1
-   1. How do you spell 7:00?
-   2. How do you spell 8:00?
-   3. How do you spell 9:00?
-   4. How do you spell 10:00?
-   5. How do you spell 11:00?
-   6. How do you spell 12:00?
+   1. How do you say 7:00?
+   2. How do you say 8:00?
+   3. How do you say 9:00?
+   4. How do you say 10:00?
+   5. How do you say 11:00?
+   6. How do you say 12:00?
   
-* Before half 
+* Before half: use the word past 
   
   | Fractions | English      | Français             |
   |-----------+--------------+----------------------|
@@ -36,12 +36,12 @@
 
 ** Exercise 2
    1. How do you say 6:25?
-   2. How do you spell 7:07?
+   2. How do you say 7:07?
    3. How do you say 8:30?
-   4. How do you spell 9:15?
+   4. How do you say 9:15?
    5. How do you say 10:20?
 
-* After half
+* After half: use the word to
 
     | Fraction  | English    | Français       |
     |-----------+------------+----------------|
@@ -56,29 +56,27 @@
 
 ** Exercise 3
   1. How do you say 6:45?
-  2. How do you spell 7:47?
+  2. How do you say 7:47?
   3. How do you say 8:40?
-  4. How do you spell 9:55?
+  4. How do you say 9:55?
   5. How do you say 10:50?
 * Systems
 ** The 1 to 12 system
-   Traditionally, English speakers used the 1 to 12 system with to
-   latin abbreviation in order to specify wether the time is in the
-   morning or in the afternoon. 
+   Traditionally, English speakers used the 1 to 12 system with two
+   Latin abbreviations in order to specify wether the time is in the
+   morning (am stands for ante meridiem) or in the afternoon (pm stands for post meridiem). 
 *** Examples
-    1. What time is it please? It's six p.m (post meridiem), 6:00 p.m
-       (in the afternoon, and in this case in the evening depending to
-       the season)
-    2. What's the time please? It's quarter past four a.m (ante
-       meridiem), 4:15 a.m (in the morning, and in this case in the
-       night)
-    3. What time is it please? It's half past three p.m (post
-       meridiem), 3:30 p.m (in the afternoon)
-    4. What's the time please? It's six to ten a.m (ante meridiem),
-       9:54 a.m (in the morning)
+    1. What time is it please? It's six pm, 6:00 pm. 
+       Remark: You can also answer: It's six in the afternoon.
+    2. What's the time please? It's four fifteen am, 4:15 am. 
+       Remark: You can also say: It's quarter past four in the morning.
+    3. What time is it please? It's three thirty p.m , 3:30 pm.
+       Remark: You can also answer: It's half past three in the afternoon.
+    4. What's the time please? It's nine fifty four am, 9:54 am.
+       Remark: You can also say: It's six to ten in the morning. 
 ** The 0 to 23 system
    Nowadays with electronic devices everywhere people use the 0 to 23
-   system without latin abbreviation. 
+   system without the Latin abbreviations. 
 *** Examples 
     1. What time is it please? It's eighteen, 18:00
     2. What's the time please? It's quarter past four, 4:15
