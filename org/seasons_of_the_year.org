@@ -11,13 +11,14 @@
   |      4 | Winter                  | Hiver     |
   
 * Months in a year
+  Each time I'm referring to the Nothern Hemisphere I'm talking about France and each time I'm referring to the Southern Hemisphere I'm talking about New Zealand.
 ** Spring
-   + Northern Hemisphere :: Spring starts (in France) March the twenty-first and ends
+   + Northern Hemisphere :: Spring starts March the twenty-first and ends
         June the twenty-first.
    + Southern Hemisphere :: Spring starts September the twenty-first and
         ends December the twenty-first.
 ** Summer
-   + Northern Hemisphere :: Summer starts (in France) June the twenty-first, which is
+   + Northern Hemisphere :: Summer starts  June the twenty-first, which is
         the longest day of the year, and ends September the twenty-first.
    + Southern Hemisphere :: Summer starts December the twenty-first,
         which is the longest day of the year, and ends March the
@@ -37,7 +38,7 @@
   Some countries do not share the four-season system, for instance in
   India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
   details). Also tropical areas have only two main seasons
-  like in the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or in
+  as in the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or in
   Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details). And in desert
   areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
   details). 
@@ -69,7 +70,7 @@
      | [[https://en.oxforddictionaries.com/definition/here][here]]      | [[http://www.wordreference.com/enfr/here][/hɪə/]]       |
      | [[https://en.oxforddictionaries.com/definition/fear][fear]]      | [[http://www.wordreference.com/enfr/fear][/fɪə/]]       |
      | [[https://en.oxforddictionaries.com/definition/tear][tear]]      | [[http://www.wordreference.com/enfr/tear][/tɪə/]]       |
-   + The diphthong vowel [ʊə] like in:
+   + The diphthong vowel [ʊə] as in:
 
      | English | Phonetics  |
      |---------+------------|
@@ -107,36 +108,36 @@
       + In the Southern Hemisphere :: February belongs to Summer
    3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
       fourteenth to July the fifteenth. Which season will it be there?
-      Summer like in other countries in the Northern Hemisphere.
+      Summer as in other countries in the Northern Hemisphere.
       And in New Zealand? Winter like other countries in the Southern Hemisphere.
 ** Exercice 2
    1. Short vowel [ɛ] as in [[https://en.oxforddictionaries.com/definition/trend][trend]] ([[http://www.wordreference.com/enfr/Trend][/trɛnd/]]). For example: I don't like the
       trend on this platform. (Je n'aime pas la tendance sur cette plate-forme.)
-   2. Short vowel [æ] like in [[https://en.oxforddictionaries.com/definition/brand][brand]] ([[http://www.wordreference.com/enfr/brand][/brænd/]]). For example: I like
+   2. Short vowel [æ] as in [[https://en.oxforddictionaries.com/definition/brand][brand]] ([[http://www.wordreference.com/enfr/brand][/brænd/]]). For example: I like
       this new brand. (J'aime cette nouvelle marque.)
-   3. Short vowel [ʌ] like in [[https://en.oxforddictionaries.com/definition/money][money]] ([[http://www.wordreference.com/enfr/money][/ˈmʌnɪ/]]). For example: Time is
+   3. Short vowel [ʌ] as in [[https://en.oxforddictionaries.com/definition/money][money]] ([[http://www.wordreference.com/enfr/money][/ˈmʌnɪ/]]). For example: Time is
       money. (Le temps c'est de l'argent.)
-   4. Short vowel [ʊ] like in [[https://en.oxforddictionaries.com/definition/foot][foot]] ([[http://www.wordreference.com/enfr/foot][/fʊt/]]). For example: Usually only
+   4. Short vowel [ʊ] as in [[https://en.oxforddictionaries.com/definition/foot][foot]] ([[http://www.wordreference.com/enfr/foot][/fʊt/]]). For example: Usually only
       10% of people prefer to use their left foot to play
       football. (Habituellement seulement 10% des gens préfèrent
       utiliser leur pied gauche pour jouer au foot.) 
-   5. Short vowel [ɒ] like in [[https://en.oxforddictionaries.com/definition/lock][lock]] ([[http://www.wordreference.com/enfr/lock][/lɒk/]]). For example: Don't forget
+   5. Short vowel [ɒ] as in [[https://en.oxforddictionaries.com/definition/lock][lock]] ([[http://www.wordreference.com/enfr/lock][/lɒk/]]). For example: Don't forget
       to lock the door when you leave the house. (N'oublie pas de
       verrouiller la porte lorsque tu quittes la maison.)
-   6. Short vowel [ə] like in [[https://en.oxforddictionaries.com/definition/afraid][afraid]] ([[http://www.wordreference.com/enfr/afraid][/əˈfreɪd/]]). For example: Don't
+   6. Short vowel [ə] as in [[https://en.oxforddictionaries.com/definition/afraid][afraid]] ([[http://www.wordreference.com/enfr/afraid][/əˈfreɪd/]]). For example: Don't
       be afraid, I'll protect you. (N'aie pas peur, je te protègerai.)
-   7. Long vowel [iː] like in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
+   7. Long vowel [iː] as in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
       become a parent you become in charge of feeding your
       children. (Lorsque tu deviens parent tu deviens responsable de
       nourrir tes enfants.)
-   8. Long vowel [ɑː] like in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I have
+   8. Long vowel [ɑː] as in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I have
       never noticed a real difference between 1st and 2nd class in this
       train. (Je n'ai jamais remarqué de réelle différence entre la
       1ère et la 2de classe dans ce train.)
-   9. Long vowel [ɔː] like in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
+   9. Long vowel [ɔː] as in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
       rather walk instead of taking the bus. (Tu devrais plutôt
       marcher au lieu de prendre le bus.)
-  10. Long vowel [uː] like in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
+  10. Long vowel [uː] as in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
       surprising to observe how quickly fast food has become usual in France. (C'est
       surprenant de voir comment la restauration rapide est rapidement devenue
       une habitude en France.) 
