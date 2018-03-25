@@ -75,37 +75,37 @@
     4. What's the time please? It's nine fifty four am, 9:54 am.
        Remark: You can also say: It's six to ten in the morning. 
 ** The 0 to 23 system
-   Nowadays with electronic devices everywhere people use the 0 to 23
-   system without the Latin abbreviations. 
+   Nowadays electronic devices generally use the 0 to 23
+   system without the Latin abbreviations but people use both. 
 *** Examples 
-    1. What time is it please? It's eighteen, 18:00
-    2. What's the time please? It's quarter past four, 4:15
-    3. What time is it please? It's half past fifteen, 15:30
-    4. What's the time please? It's six to ten, 9:54
+    1. What time does the bus arrive? It arrives at eighteen hundred hours, 18:00
+    2. What time does the plane depart? It departs at zero four fifteen, 04:15
+    3. What time does the boat leave? It leaves fifteen thiry, 15:30
+    4. What time does the subway come in? It comes in twenty-one fifty-four, 21:54
 ** Without the half division
-   Nowadays with electronic devices everywhere people use a literal
+   Nowadays with electronic devices everywhere some people sometimes use a literal
    description of the numbers
 *** Examples 
-    1. What time is it please? It's eighteen, 18:00
-    2. What's the time please? It's four fifteen, 4:15
-    3. What time is it please? It's fifteen thirty, 15:30
-    4. What's the time please? It's nine fifty four, 9:54
+    1. What time do you start work? I start at four pm, 4:00 pm
+    2. What's the time please? It's four fifteen pm, 4:15 pm
+    3. What time did you leave the party? I left the party at three thirty am, 3:30 am
+    4. What time are you meeting? I am meeting at nine fifty five pm, 9:55 pm
 ** Exercise 4
    1. It's five forty five. Express it with the traditional system
-      (half division and latin abbreviation).
+      (half division and Latin abbreviation).
    2. It's ten to five p.m. Express it just by describing the numbers
-      without abbreviation.
+      without the abbreviation.
 * Noon and midnight
-  There also a specific case for twelve. Indeed a day spend 24 hours,
-  so 12 is the right middle. So before twelve, that's the morning and
-  after twelve that's the afternoon, because 12:00 p.m is called noon.
+  There are also a specific cases for twelve. A day last 24 hours,
+  so 12 is in the middle. Therefore before 12 is the morning and
+  after 12 is the afternoon, because 12:00 p.m is called noon or midday.
   12:00 a.m is called midnight (middle of the night).
 * Phonetics
 ** Exercise 5
    Give an example for each sound you've seen so far (6 short vowels,
    4 long vowels, and 2 diphthong vowels).
 ** Diphthong vowels
-   + The diphthong vowel [eɪ] like in:
+   + The diphthong vowel [eɪ] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -116,7 +116,7 @@
      | [[https://en.oxforddictionaries.com/definition/eight][eight]]   | [[http://www.wordreference.com/enfr/eight][/eɪt/]]     |
      | [[https://en.oxforddictionaries.com/definition/weight][weight]]  | [[http://www.wordreference.com/enfr/weight][/weɪt/]]    |
 
-   + The diphthong vowel [ɔɪ] like in:
+   + The diphthong vowel [ɔɪ] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -128,7 +128,7 @@
      | [[https://en.oxforddictionaries.com/definition/boy][boy]]     | [[http://www.wordreference.com/enfr/boy][/bɔɪ/]]     |
      | [[https://en.oxforddictionaries.com/definition/enjoy][enjoy]]   | [[http://www.wordreference.com/enfr/enjoy][/ɪnˈdʒɔɪ/]] |
      
-   + The diphthong vowel [aɪ] like in:
+   + The diphthong vowel [aɪ] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -144,12 +144,12 @@
    
 * Solutions
 ** Exercise 1
-   1. How do you spell 7:00? seven o'clock
-   2. How do you spell 8:00? eight o'clock
-   3. How do you spell 9:00? nine o'clock
-   4. How do you spell 10:00? ten o'clock
-   5. How do you spell 11:00? eleven o'clock
-   6. How do you spell 12:00? twelve o'clock
+   1. How do you say 7:00? seven o'clock
+   2. How do you say 8:00? eight o'clock
+   3. How do you say 9:00? nine o'clock
+   4. How do you say 10:00? ten o'clock
+   5. How do you say 11:00? eleven o'clock
+   6. How do you say 12:00? twelve o'clock
 ** Exercise 2
    1. How do you say 6:25? twenty five past six
    2. How do you spell 7:07? seven past seven
