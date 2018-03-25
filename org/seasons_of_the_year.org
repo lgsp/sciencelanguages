@@ -11,7 +11,7 @@
   |      4 | Winter                  | Hiver     |
   
 * Months in a year
-  Each time I'm referring to the Nothern Hemisphere I'm talking about France and each time I'm referring to the Southern Hemisphere I'm talking about New Zealand.
+  Each time I refer to the Nothern Hemisphere I'm talking about France and each time I'm referring to the Southern Hemisphere I'm talking about New Zealand.
 ** Spring
    + Northern Hemisphere :: Spring starts March the twenty-first and ends
         June the twenty-first.
@@ -125,7 +125,7 @@
    6. Short vowel [ə] as in [[https://en.oxforddictionaries.com/definition/afraid][afraid]] ([[http://www.wordreference.com/enfr/afraid][/əˈfreɪd/]]). For example: Don't
       be afraid, I'll protect you. (N'aie pas peur, je te protègerai.)
    7. Long vowel [iː] as in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
-      become a parent you become in charge of feeding your
+      become a parent you will be in charge of feeding your
       children. (Lorsque tu deviens parent tu deviens responsable de
       nourrir tes enfants.)
    8. Long vowel [ɑː] as in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I have
