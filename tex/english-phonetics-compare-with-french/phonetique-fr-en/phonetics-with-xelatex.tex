@@ -1,22 +1,26 @@
 \documentclass[12pt,a4paper]{book}
 
 \usepackage{fontspec}
-\setmainfont{Geneva} % Geneva, Helvetica, Helvetica Neue
+\setmainfont{Geneva} %% Geneva, Helvetica, Helvetica Neue
 \usepackage{xunicode}
 \usepackage{polyglossia}
 \setmainlanguage{french}
 \setotherlanguage{english}
+\setotherlanguage{latin}
+\renewenvironment{latin}{\begin{hyphenrules}{latin}}%%
+  {\end{hyphenrules}}
 
 \usepackage{dtk-logos}
-% \usepackage{draftwatermark}
+%% \usepackage{draftwatermark}
 
 \usepackage[maxlevel=3]{csquotes}
 \usepackage{frcursive}
 \usepackage{pifont}
-\renewcommand{\footnoterule}{%
-\vspace*{0.2cm}%
+\renewcommand{\footnoterule}{%%
+\vspace*{0.2cm}%%
 \ding{47}\hfill \centering Notes\hfill \ding{45}\vspace*{.2cm}\hrule\vspace*{.2cm}}
 
+\usepackage[french]{minitoc}
 
 \usepackage{subfloat}
 
@@ -66,10 +70,24 @@
 }
 
 % Sons écrits en transcription phonétiques
-\newcommand{\son}[1]{%
-  Le son \textcolor{red}{[#1]}
+\newcommand{\son}[2][Le son~]{%
+  #1\textcolor{red}{[#2]}
 }
 
+% Références à des sons
+% ancre
+\newcommand{\sonancre}[1]{%
+  \hypertarget{#1}{C'est le son~}%
+}
+% lien
+\newcommand{\sonref}[2]{%
+  \hyperlink{#1}{\son[~]{#2}}%
+}
+
+% Citations en latin
+\newcommand{\exLT}[1]{%
+  \textcolor{olive}{\textlatin{#1}}%
+}
 
 
 % Bla bla pour annoncer le nom du son
@@ -107,8 +125,9 @@
 %%%%%%%%%%%%%%%
 % Speech avant une section de voyelles anglaises
 %%%%%%%%%%%%%%%
-\newcommand{\speechvow}[1]{%
-  Il y en a #1 et pour chaque son, je vous proposerai au moins 4~%
+\newcommand{\speech}[2]{%
+  Il y a #1 #2 dans la langue anglaise et pour chaque son, je vous~%
+  proposerai au moins 4~%
   exemples. Pour chaque son je commencerai par vous donner sa définition~%
   technique\footnote{Ainsi que sa traduction, néanmoins il est important~%
     de prendre l'habitude d'éviter de traduire afin de~%
@@ -173,12 +192,15 @@
 % \SetWatermarkText{Laurent Garnier}
 
 \maketitle
+\dominitoc
 \tableofcontents
 
 
-\part{Introduction}
+%\part{Introduction}
 
-\input{chap1-intro}
+%\parttoc
+
+%\input{chap1-intro}
 
 
 \part{Phonétique du français}
@@ -221,13 +243,15 @@ français.\par
 Mais avant ça je vous propose un très bref historique de la langue
 française.
 
-\input{chap2-histo-fr}
+%\input{chap2-histo-fr}
 
-\input{chap3-voyelles-fr}
+%\input{chap3-voyelles-fr}
 
- 
+%\input{chap4-consonnes-fr}
+
 \part{English phonetics}
 
+\parttoc
 
 \input{chap5-vowels-en}
 
