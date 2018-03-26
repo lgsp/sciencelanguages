@@ -3,23 +3,26 @@
 
 * To be 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/be][here]].
-** Progressive form
+** Progressive (continuous) form
 *** Examples 
     1. You are reading this text. 
-    2. I was writing this text before I uploaded online.
+    2. I was writing this text before I uploaded it online.
 *** Exercise 1
-    Transform the following sentences in progressive form:
+    Change the following sentences into progressive (continuous) form:
     1. He teaches English.
     2. They played football yesterday.
 ** Passive voice
 *** Examples
-    1. Argentina were beaten by Germany in the final.
-    2. The vocabulary was well taught in the previous lesson.
+    1. Argentina was beaten by Germany in the final.
+    2. General examples were given in the previous lesson.
+    3. This course is written by me.
+    4. You are taught by me. 
 *** Exercise 2
-    Transform the following sentences in the passive voice:
-    1. You choose to join this course.
+    Change the following sentences into the passive voice:
+    1. You chose this course.
     2. I do these courses in order to share my English tips and tricks
        with you.
+    
 * To have 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/have][here]].
 ** Perfect tenses
