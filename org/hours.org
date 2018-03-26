@@ -63,17 +63,17 @@
 * Systems
 ** The 1 to 12 system
    Traditionally, English speakers used the 1 to 12 system with two
-   Latin abbreviations in order to specify wether the time is in the
-   morning (am stands for ante meridiem) or in the afternoon (pm stands for post meridiem). 
+   Latin abbreviations in order to specify whether the time is in the
+   morning (am stands for ante meridian) or in the afternoon (pm stands for post meridian). 
 *** Examples
     1. What time is it please? It's six pm, 6:00 pm. 
-       Remark: You can also answer: It's six in the afternoon.
+       Note: You can also answer: It's six in the afternoon.
     2. What's the time please? It's four fifteen am, 4:15 am. 
-       Remark: You can also say: It's quarter past four in the morning.
-    3. What time is it please? It's three thirty p.m , 3:30 pm.
-       Remark: You can also answer: It's half past three in the afternoon.
-    4. What's the time please? It's nine fifty four am, 9:54 am.
-       Remark: You can also say: It's six to ten in the morning. 
+       Note: You can also say: It's quarter past four in the morning.
+    3. What time is it please? It's three thirty pm , 3:30 pm.
+       Note: You can also answer: It's half past three in the afternoon.
+    4. What's the time please? It's nine fifty-four am, 9:54 am.
+       Note: You can also say: It's six minutes to ten in the morning. 
 ** The 0 to 23 system
    Nowadays electronic devices generally use the 0 to 23
    system without the Latin abbreviations but people use both. 
@@ -89,17 +89,17 @@
     1. What time do you start work? I start at four pm, 4:00 pm
     2. What's the time please? It's four fifteen pm, 4:15 pm
     3. What time did you leave the party? I left the party at three thirty am, 3:30 am
-    4. What time are you meeting? I am meeting at nine fifty five pm, 9:55 pm
+    4. What time are you meeting? I am meeting at nine fifty-five pm, 9:55 pm
 ** Exercise 4
-   1. It's five forty five. Express it with the traditional system
+   1. It's five forty-five. Express it with the traditional system
       (half division and Latin abbreviation).
-   2. It's ten to five p.m. Express it just by describing the numbers
+   2. It's ten to five pm. Express it just by describing the numbers
       without the abbreviation.
 * Noon and midnight
   There are also a specific cases for twelve. A day last 24 hours,
   so 12 is in the middle. Therefore before 12 is the morning and
-  after 12 is the afternoon, because 12:00 p.m is called noon or midday.
-  12:00 a.m is called midnight (middle of the night).
+  after 12 is the afternoon, because 12:00 pm is called noon or midday.
+  12:00 am is called midnight (middle of the night).
 * Phonetics
 ** Exercise 5
    Give an example for each sound you've seen so far (6 short vowels,
@@ -151,23 +151,23 @@
    5. How do you say 11:00? eleven o'clock
    6. How do you say 12:00? twelve o'clock
 ** Exercise 2
-   1. How do you say 6:25? twenty five past six
-   2. How do you spell 7:07? seven past seven
+   1. How do you say 6:25? twenty-five past six
+   2. How do you say 7:07? seven minutes past seven
    3. How do you say 8:30? half past thirty
-   4. How do you spell 9:15? quarter past nine
+   4. How do you say 9:15? quarter past nine
    5. How do you say 10:20? twenty past ten
 
 ** Exercise 3
   1. How do you say 6:45? quarter to six
-  2. How do you spell 7:47? thirteen to eight
+  2. How do you say 7:47? thirteen minutes to eight
   3. How do you say 8:40? twenty to nine 
-  4. How do you spell 9:55? five to ten 
+  4. How do you say 9:55? five to ten 
   5. How do you say 10:50? ten to eleven
 ** Exercise 4
    1. It's five forty five. Express it with the traditional system
-      (half division and latin abbreviation). It's quarter to six a.m,
+      (half division and latin abbreviation). It's quarter to six am,
       5:45 a.m
-   2. It's ten to five p.m. Express it just by describing the numbers
+   2. It's ten to five pm. Express it just by describing the numbers
       without abbreviation. It's seventeen, 17:00
 ** Exercise 5
    1. Short vowel [ɛ], for example: [[https://en.oxforddictionaries.com/definition/apprehend][apprehend]] ([[http://www.wordreference.com/enfr/apprehend][/ˌæprɪˈhɛnd/]])
