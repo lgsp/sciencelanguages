@@ -11,7 +11,7 @@
   |      4 | Winter                  | Hiver     |
   
 * Months in a year
-  Each time I refer to the Nothern Hemisphere I'm talking about France and each time I'm referring to the Southern Hemisphere I'm talking about New Zealand.
+  Each time I refer to the Northern Hemisphere I'm talking about France and each time I refer to the Southern Hemisphere I'm talking about New Zealand.
 ** Spring
    + Northern Hemisphere :: Spring starts March the twenty-first and ends
         June the twenty-first.
