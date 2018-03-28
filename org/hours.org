@@ -153,12 +153,12 @@
 ** Exercise 2
    1. How do you say 6:25? twenty-five past six
    2. How do you say 7:07? seven minutes past seven
-   3. How do you say 8:30? half past thirty
+   3. How do you say 8:30? half past eight
    4. How do you say 9:15? quarter past nine
    5. How do you say 10:20? twenty past ten
 
 ** Exercise 3
-  1. How do you say 6:45? quarter to six
+  1. How do you say 6:45? quarter to seven
   2. How do you say 7:47? thirteen minutes to eight
   3. How do you say 8:40? twenty to nine 
   4. How do you say 9:55? five to ten 
@@ -168,7 +168,7 @@
       (half division and latin abbreviation). It's quarter to six am,
       5:45 am
    2. It's ten to five pm. Express it just by describing the numbers
-      without abbreviation. It's seventeen, 17:00
+      without abbreviation. It's sixteen fifty, 16:50
 ** Exercise 5
    1. Short vowel [ɛ], for example: [[https://en.oxforddictionaries.com/definition/apprehend][apprehend]] ([[http://www.wordreference.com/enfr/apprehend][/ˌæprɪˈhɛnd/]])
    2. Short vowel [æ], for example: [[https://en.oxforddictionaries.com/definition/nap][nap]] ([[http://www.wordreference.com/enfr/nap][/næp/]]) 
