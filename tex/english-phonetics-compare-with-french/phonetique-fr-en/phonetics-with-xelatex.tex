@@ -12,6 +12,9 @@
 
 \usepackage{dtk-logos}
 %% \usepackage{draftwatermark}
+\usepackage{fancybox}
+
+\usepackage{xspace}
 
 \usepackage[maxlevel=3]{csquotes}
 \usepackage{frcursive}
@@ -26,6 +29,10 @@
 
 \usepackage[xetex, hyperref]{xcolor}
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% ENGLISH 
+%%%%%%%%%%%%%%%%%
 % Phrases en anglais
 \newcommand{\exEN}[1]{%
   \textcolor{blue}{\textenglish{#1}}%
@@ -59,9 +66,34 @@
   \end{center}%
 }
 
+% Liens vers le livre How The Ell Brain Learns
+\newcommand{\HTEBL}{%
+    ~\href{https://www.amazon.fr/gp/product/B00M0GDXN8/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00M0GDXN8&linkCode=as2&tag=wwwbecomefree-21&linkId=e782cf430858413ec9135fcef1644b20}{How The Ell Brain Learns}\xspace%
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% FRANÇAIS
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Traductions en français
 \newcommand{\exFR}[1]{%
   \textcolor{orange}{\textcursive{#1}}%
+}
+
+% Liens vers le livre Français Lycée
+\newcommand{\FL}{%
+  ~\href{https://www.amazon.fr/gp/product/2844100015/ref=as\_li\_tl?ie=UTF8\&camp=1642\&creative=6746\&creativeASIN=2844100015\&linkCode=as2\&tag=wwwbecomefree-21\&linkId=985f3a849fd44728e8480993cf2d5490}{français
+    lycée} de Pierre Brunel\xspace%
+}
+
+% Liens vers le livre Grévisse de l'Enseignant
+\newcommand{\GE}{%
+  ~\href{https://www.amazon.fr/gp/product/221010632X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=221010632X&linkCode=as2&tag=wwwbecomefree-21&linkId=c8c522ee07ffc9188dd9a768e39d88e0}{Grévisse
+    de l'enseignant}\xspace%
+}
+
+% Liens vers le livre
+\newcommand{\HSQMYP}{%
+  ~\href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni soit qui mal y pense}%
 }
 
 % Mots écrits en transcription phonétiques
@@ -89,6 +121,19 @@
   \textcolor{olive}{\textlatin{#1}}%
 }
 
+% Consultation Wikipédia
+\newcommand{\CW}[1]{%
+  \footnote{Consulter \href{#1}{Wikipédia} pour plus de détails.}%
+}
+
+% Son nom technique est
+\newcommand{\tn}[2]{% technic name
+  \par Son nom technique est~:%
+  \begin{center}%
+    \shadowbox{\textcolor{green}{\underline{\textcolor{magenta}{#1}}}}\CW{#2}.%
+  \end{center}%
+  
+}
 
 % Bla bla pour annoncer le nom du son
 \newcommand{\indicsound}{%
@@ -196,11 +241,11 @@
 \tableofcontents
 
 
-%\part{Introduction}
+\part{Introduction}
 
-%\parttoc
+\parttoc
 
-%\input{chap1-intro}
+\input{chap1-intro}
 
 
 \part{Phonétique du français}
@@ -213,7 +258,7 @@ présenter la phonétique du français avant de présenter celle de la
 langue cible, en l'occurrence ici l'anglais. C'est comme si on vous
 apprenait la grammaire anglaise sans que vous ne connaissiez votre
 propre grammaire ou pire, si on vous apprenez le vocabulaire anglais
-sans que vous ne sachiez les liaisons qu'il y existe entre les deux
+sans que vous ne sachiez les liaisons qu'il existe entre les deux
 vocabulaire\footnote{Hélas c'est exactement le cas, il est très rare
   de voir des gens présenter l'immense importance du nombre de mots
   anglais d'origine française. Je ne saurais que trop vous recommander
@@ -240,22 +285,22 @@ Bien sûr, je ne remets aucunement en cause la richesse de la
 littérature anglaise. Mon but est simplement de souligner l'extrême
 complexité de la langue anglaise parlée en comparaison avec le
 français.\par
-Mais avant ça je vous propose un très bref historique de la langue
-française.
 
 %\input{chap2-histo-fr}
 
-%\input{chap3-voyelles-fr}
+\input{chap3-voyelles-fr}
 
-%\input{chap4-consonnes-fr}
+\input{chap4-consonnes-fr}
 
 \part{English phonetics}
 
 \parttoc
 
-\input{chap5-vowels-en}
+%\input{chap5-hist-en}
 
-\input{chap6-consonants-en}
+\input{chap6-vowels-en}
+
+\input{chap7-consonants-en}
 
 
 \end{document}
