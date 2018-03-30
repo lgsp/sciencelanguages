@@ -12,31 +12,31 @@
   + They *are* happy to learn with me.
 
 * Other verbs
- For all the other verbs you just have to keep the verbal base, except
- for He/She/It where you need to add an 's'. Let's see some examples.
+ For all the other verbs you just have to keep the infinitive without 'to', except
+ for He/She/It where you need to add an 's' (except for modals but we'll dedicate a chapter on it just be patient). Let's see some examples.
 
 ** Examples
-   1. I (to work) *work* everyday, but my whife (to do) *does* not.
+   1. I (to work) *work* every day, but my wife (to do) *does* not.
    2. He (to learn) *learns* English by himself and she (to study)
       *studies* it at University.
-   3. I (to try) *try* to travel as much as I (to can) *can*.
-   4. My daughter (to try) *tries* to make new sounds everyday.
+   3. I (to try) *try* to travel as much as I (to wish) *wish*.
+   4. My daughter (to try) *tries* to make new sounds every day.
    5. Her mother (to cook) *cooks* very well and I (to like) *like*
       that.
 ** Exercise 1
-   Complete the following sentences with the verb in parenthesis using
+   Complete the following sentences with the verb in parentheses using
    the present simple.
    1. Usually I (to eat) my breakfast at 7:00 am.
-   2. She (to listen) to the music while she (to do) her homework.
+   2. She (to listen) to music while she (to do) her homework.
    3. You (to try) to do your exercises in each lesson.
-   4. People in the street usually (to walk) fast in NYC.
-   5. It (to make) sense to study everyday if you (to want) to improve
+   4. In NYC people in the street usually (to walk) fast.
+   5. It (to make) sense to study every day if you (to want) to improve
       your level.
 
 * Present continuous
 
   The construction of the present continuous or present progressive is
-  simple: to be + verbal base + ing
+  simple: to be + infinitive - to + ing
 
   Let's see some examples.
 
@@ -44,18 +44,18 @@
    1. I (to go) *am going* to show you the present continuous.
    2. You (to read) *are reading* this sentence right now.
    3. My daughter (to play) *is playing* with her mother.
-   4. My nephew (to do) *is doing* a good job with video games.
-   5. They (to live) *are living* the information era with tones of
-      internet of the things.
+   4. My nephew (to finish) *is finishing* his video game.
+   5. They (to live) *are living* in the information era with a lot of
+      connected objects.
 ** Exercise 2
-   Complete the following sentences with the verb in parenthesis using
+   Complete the following sentences with the verb in parentheses using
    the present continuous.
    1. I (to eat) my breakfast right now because it's 7:00 am.
-   2. Currently, she (to listen) to the music while she (to do) her homework.
+   2. Currently, she (to listen) to music while she (to do) her homework.
    3. Right now, you (to try) to do this exercise in this lesson.
    4. While I (to walk) in the street I can observe people.
-   5. After this I (to go) to explain you when you should use one tense
-      or another.
+   5. After this I (to go) to explain to you when you should use one tense
+      or the other.
 * When to use which one
 ** Present simple
 *** General truth, habit, and so on
