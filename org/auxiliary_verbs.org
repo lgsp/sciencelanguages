@@ -28,7 +28,7 @@
 ** Perfect tenses
 *** Present perfect
 **** Examples
-    1. I've been to South Africa yet.
+    1. I have not been to South Africa yet.
     2. She has done great work so far. / She has done *a* great job so far. (Usually natives use job.)
 **** Exercise 3
      Conjugate the verb between parentheses in the present perfect tense:
