@@ -60,7 +60,7 @@
 
 % Insertion des liens YouGlish
 \newcommand{\youglish}[1]{%
-\exEN{If you want more examples with the word ``#1'' click on the flags below:}%
+\exEN{If you want more examples with the word ``#1'' click on the \href{https://youtu.be/sYmJLFEowaY}{flags} below:}%
   \begin{center}%
     (\uks{https://youglish.com/search/#1/uk}\quad\uss{https://youglish.com/search/#1/us}\quad\aus{https://youglish.com/search/#1/aus})%
   \end{center}%
@@ -68,7 +68,7 @@
 
 % Liens vers le livre How The Ell Brain Learns
 \newcommand{\HTEBL}{%
-    ~\href{https://www.amazon.fr/gp/product/B00M0GDXN8/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00M0GDXN8&linkCode=as2&tag=wwwbecomefree-21&linkId=e782cf430858413ec9135fcef1644b20}{How The Ell Brain Learns}\xspace%
+    ~\href{https://amzn.to/2pSEAsm}{How The Ell Brain Learns}\xspace%
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -91,25 +91,28 @@
     de l'enseignant}\xspace%
 }
 
-% Liens vers le livre
+% Liens vers le livre Honni soit qui mal y pense
 \newcommand{\HSQMYP}{%
   ~\href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni soit qui mal y pense}%
 }
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Phonétique
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Mots écrits en transcription phonétiques
 \newcommand{\exPH}[1]{%
   \textcolor{red}{/#1/}
 }
 
 % Sons écrits en transcription phonétiques
-\newcommand{\son}[2][Le son~]{%
+\newcommand{\son}[2][Le \textcolor{red}{son}~]{%
   #1\textcolor{red}{[#2]}
 }
 
 % Références à des sons
 % ancre
 \newcommand{\sonancre}[1]{%
-  \hypertarget{#1}{C'est le son~}%
+  \hypertarget{#1}{C'est le \textcolor{red}{son}~}%
 }
 % lien
 \newcommand{\sonref}[2]{%
@@ -140,7 +143,7 @@
   Son nom indique la façon de le produire.%
   %
   \begin{itemize}%
-  \item \exEN{Click on the flags below in order to check how to produce the sound properly.}%
+  \item \exEN{Click on the flags below in order to check how to produce the sounds properly.}%
   \item \exFR{Cliquez sur les drapeaux ci-dessous afin de vérifier la façon de produire les sons correctement.}%
   \end{itemize}%
 }
@@ -171,33 +174,37 @@
 % Speech avant une section de voyelles anglaises
 %%%%%%%%%%%%%%%
 \newcommand{\speech}[2]{%
-  Il y a #1 #2 dans la langue anglaise et pour chaque son, je vous~%
-  proposerai au moins 4~%
-  exemples. Pour chaque son je commencerai par vous donner sa définition~%
+  Il y a \textcolor{green}{#1} \textcolor{red}{#2} dans la langue anglaise et pour chaque \textcolor{red}{son}, je vous~%
+  proposerai au moins \textcolor{green}{4}~%
+  exemples. Pour chaque \textcolor{red}{son} je commencerai par vous donner sa définition~%
   technique\footnote{Ainsi que sa traduction, néanmoins il est important~%
     de prendre l'habitude d'éviter de traduire afin de~%
     véritablement s'imprégner de la langue (ce conseil est valable pour~%
     l'apprentissage de n'importe quelle langue).} parce que cette dernière~%
-  explique la façon de produire le son. Vous aurez également deux liens~%
+  explique la façon de produire le \textcolor{red}{son}. Vous aurez également deux liens~%
   externes :%
   %
   \begin{enumerate}%
   \item Le premier lien\footnote{Accessible en cliquant sur le drapeau du~%
       Royaume Uni.} vous permettra de consulter une vidéo qui~%
     propose des exemples supplémentaires avec une prononciation~%
-    typiquement anglaise.%
+    typiquement anglaise\footnote{La prononciation appelée BBC accent
+      ou
+      \href{https://en.wikipedia.org/wiki/Received_Pronunciation}{Received
+        Pronunciation}.}.%
   \item Le second lien\footnote{Accessible en cliquant sur le drapeau~américain.}~%
     vous permettra de consulter une vidéo qui propose des~%
-    exemples supplémentaires avec une prononciation typiquement américaine.%
+    exemples supplémentaires avec une prononciation typiquement
+    américaine\footnote{Aussi appelée \href{https://en.wikipedia.org/wiki/General_American}{General American}.}.%
   \end{enumerate}%
   %
-  La structure de chaque section sera toujours la même pour chaque son :%
+  La structure de chaque section sera toujours la même pour chaque \textcolor{red}{son} :%
   \begin{enumerate}%
-  \item Des exemples de mots afin d'illustrer le son. Pour chaque mot~%
+  \item Des exemples de mots afin d'illustrer le \textcolor{red}{son}. Pour chaque mot~%
     vous disposerez d'un lien externe vers un dictionnaire~%
-    \exEN{anglais}-\exFR{français} qui vous proposera plusieurs prononciation, la~%
+    \exEN{anglais}-\exFR{français} qui vous proposera plusieurs prononciations, la~%
     phonétique, la traduction\footnote{En fait
-      plusieurs,~avec~parfois~plusieurs registres de langue (y compris l'argot).}, et enfin~%
+      plusieurs traductions,~avec~parfois~plusieurs registres de langue (y compris l'argot).}, et enfin~%
     plusieurs exemples (en \exEN{anglais} et \exFR{français}).%
   \item Une transcription du mot selon la norme de l'API ou IPA en~%
     anglais\footnote{À partir de maintenant on utilisera la terminologie~%
@@ -209,9 +216,9 @@
     vous trouverez au moins un lien externe\footnote{Parfois plusieurs,~%
       souvent vers des vidéos mais parfois vers des textes de chansons.}~%
     qui vous permettra de voir le mot ou groupe de mots utilisé(s) par~%
-    des locuteurs natifs\footnote{Souvent américains.}.%
+    des locuteurs natifs\footnote{Souvent américains mais pas toujours.}.%
   \item Des exemples complémentaires\footnote{Avec cette fois en bonus des~%
-      liens vers des prononciation typiquement australiennes en plus des~%
+      liens vers des prononciations typiquement australiennes en plus des~%
       prononciations anglaises et américaines.} avec cette fois la~%
     possibilité de voir le texte qui s'affiche à l'écran en temps réel\dots  %
   \end{enumerate}%
@@ -221,11 +228,11 @@
 \title{Introduction à la phonétique anglaise comparée à la française; rédigée avec \href{https://en.wikipedia.org/wiki/XeTeX}{\XeLaTeX}}
 \hypersetup{
  pdfauthor={Laurent Garnier},
- pdftitle={45 Phonetic Sounds of English},
+ pdftitle={Introduction à la phonétique},
  pdfkeywords={},
  pdfsubject={},
  pdfcreator={Emacs 25.3.1 (Org mode 9.1.6)}, 
- pdflang={English}}
+ pdflang={French}}
 \author{Laurent Garnier}
 
 
@@ -248,49 +255,49 @@
 \input{chap1-intro}
 
 
-\part{Phonétique du français}
-Ce qui m'a frappé lors de mes recherches en apprentissage des langues,
-et en particulier en ce qui concerne les ressources francophones,
-c'est que la phonétique du français n'est présentée que pour les
-étrangers. En effet, à part dans les travaux universitaires de
-chercheurs, il rare de voir des cours de langue qui commencent par
-présenter la phonétique du français avant de présenter celle de la
-langue cible, en l'occurrence ici l'anglais. C'est comme si on vous
-apprenait la grammaire anglaise sans que vous ne connaissiez votre
-propre grammaire ou pire, si on vous apprenez le vocabulaire anglais
-sans que vous ne sachiez les liaisons qu'il existe entre les deux
-vocabulaire\footnote{Hélas c'est exactement le cas, il est très rare
-  de voir des gens présenter l'immense importance du nombre de mots
-  anglais d'origine française. Je ne saurais que trop vous recommander
-mes
-\href{https://tinycards.duolingo.com/decks/6VNKUdba/english-words-with-french-origin}{cartes
-  mémoires gratuites} et ce livre
-\href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni
-  soit qui mal y pense} qui en parle plus en profondeur.}.\par
-Puisque l'on est jamais mieux servi que par soi-même j'ai décidé
-d'agir ! Alors je souhaite corriger ça en commençant par vous
-présenter la phonétique de la langue que vous utilisez au
-quotidien\footnote{Au moins lorsque vous lirez ces lignes.}, le
-français\footnote{Et si vous voulez connaître son histoire je vous
-  recommande cette série de \href{https://www.youtube.com/watch?v=rHSIPt_ehvc&list=PLH2hhYn999aRfv2odG4SozTXCHbZaX_ji}{vidéo}}. Pour
-chaque son je vous proposerai trois exemples de mots qui le
-contiennent et pour chaque mot vous trouverez une phrase d'exemple
-l'illustrant en français et la traduction de cette phrase en
-anglais. En effet, le but de ce livre et de vous permettre
-d'apprivoiser la phonétique anglaise afin de découvrir ou de parfaire
-votre apprentissage de l'anglais. De façon un peu grossière ou
-simpliste je dirais que le français est fondamentalement une langue de
-l'écrit alors que l'anglais est plutôt une langue de l'oral.\par
-Bien sûr, je ne remets aucunement en cause la richesse de la
-littérature anglaise. Mon but est simplement de souligner l'extrême
-complexité de la langue anglaise parlée en comparaison avec le
-français.\par
+% \part{Phonétique du français}
+% Ce qui m'a frappé lors de mes recherches en apprentissage des langues,
+% et en particulier en ce qui concerne les ressources francophones,
+% c'est que la phonétique du français n'est présentée que pour les
+% étrangers. En effet, à part dans les travaux universitaires de
+% chercheurs, il rare de voir des cours de langue qui commencent par
+% présenter la phonétique du français avant de présenter celle de la
+% langue cible, en l'occurrence ici l'anglais. C'est comme si on vous
+% apprenait la grammaire anglaise sans que vous ne connaissiez votre
+% propre grammaire ou pire, si on vous apprenez le vocabulaire anglais
+% sans que vous ne sachiez les liaisons qu'il existe entre les deux
+% vocabulaire\footnote{Hélas c'est exactement le cas, il est très rare
+%   de voir des gens présenter l'immense importance du nombre de mots
+%   anglais d'origine française. Je ne saurais que trop vous recommander
+% mes
+% \href{https://tinycards.duolingo.com/decks/6VNKUdba/english-words-with-french-origin}{cartes
+%   mémoires gratuites} et ce livre
+% \href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni
+%   soit qui mal y pense} qui en parle plus en profondeur.}.\par
+% Puisque l'on est jamais mieux servi que par soi-même j'ai décidé
+% d'agir ! Alors je souhaite corriger ça en commençant par vous
+% présenter la phonétique de la langue que vous utilisez au
+% quotidien\footnote{Au moins lorsque vous lirez ces lignes.}, le
+% français\footnote{Et si vous voulez connaître son histoire je vous
+%   recommande cette série de \href{https://www.youtube.com/watch?v=rHSIPt_ehvc&list=PLH2hhYn999aRfv2odG4SozTXCHbZaX_ji}{vidéo}}. Pour
+% chaque son je vous proposerai trois exemples de mots qui le
+% contiennent et pour chaque mot vous trouverez une phrase d'exemple
+% l'illustrant en français et la traduction de cette phrase en
+% anglais. En effet, le but de ce livre et de vous permettre
+% d'apprivoiser la phonétique anglaise afin de découvrir ou de parfaire
+% votre apprentissage de l'anglais. De façon un peu grossière ou
+% simpliste je dirais que le français est fondamentalement une langue de
+% l'écrit alors que l'anglais est plutôt une langue de l'oral.\par
+% Bien sûr, je ne remets aucunement en cause la richesse de la
+% littérature anglaise. Mon but est simplement de souligner l'extrême
+% complexité de la langue anglaise parlée en comparaison avec le
+% français.\par
 
 %\input{chap2-histo-fr}
 
-\input{chap3-voyelles-fr}
+%\input{chap3-voyelles-fr}
 
-\input{chap4-consonnes-fr}
+%\input{chap4-consonnes-fr}
 
 \part{English phonetics}
 
