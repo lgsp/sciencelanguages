@@ -1,6 +1,16 @@
 #+TITLE: Numbers
 #+AUTHOR: Laurent Garnier
 
+* Introduction
+  + Laurent :: Hi Stacy!
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today at 9 am?
+  + Stacy :: I'm fine since I woke up at 7!
+  + Laurent :: I guess it's because you to take care about your 3
+               kids.
+  + Stacy :: Yes, when you have kids you pay attention to the numbers.
+  + Laurent :: That's a good reason to dive into the lesson of the
+               day: NUMBERS!
 * Digits
   As in all languages there are ten digits in English:
 
