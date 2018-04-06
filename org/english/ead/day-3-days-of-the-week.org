@@ -2,6 +2,7 @@
 #+AUTHOR: Laurent Garnier
 
 * Days of the week
+
   | Day | English   | Français |
   |-----+-----------+----------|
   |   1 | Monday    | lundi    |
@@ -11,43 +12,44 @@
   |   5 | Friday    | vendredi |
   |   6 | Saturday  | samedi   |
   |   7 | Sunday    | dimanche |
-** Exercise 1
+
+* Exercise 1
    1. What day of the week is it today?
    2. Write your routine for each day of the week. For example, Monday
       I do the food shopping for the week. Tuesday I go to the
       gym. And so on.
-* Review of the previous lesson
-** Exercise 2
-  In the previous lesson we saw numbers so let's quickly check if
+* Exercise 2
+  In the [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][previous lesson]] we saw numbers so let's quickly check if
   you are okay with them:
   1. Write today's date.
   2. Write today's ranking. For instance if today is Friday, the ranking is
      fifth.
   3. How many weeks are there in a year?
 
-* Phonetics  
-** Short vowels review
-   + [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
+* Review 1: [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
      
      | English | Phonetics |
      |---------+-----------|
      | [[https://en.oxforddictionaries.com/definition/monday][Monday]]  | [[http://www.wordreference.com/enfr/monday][/ˈmʌndɪ/]]  |
      | [[https://en.oxforddictionaries.com/definition/sunday][Sunday]]  | [[http://www.wordreference.com/enfr/sunday][/ˈsʌndɪ/]]  |
-   + [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The short vowel {æ}]] as in:
+
+* Review 2: [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The short vowel {æ}]] as in:
 
      | English  | Phonetics |
      |----------+-----------|
      | [[https://en.oxforddictionaries.com/definition/saturday][Saturday]] | [[http://www.wordreference.com/enfr/saturday][/ˈsætədɪ/]] |
-   + [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The short vowel {ɛ}]] as in:
+
+* Review 3: [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The short vowel {ɛ}]] as in:
      
      | English   | Phonetics |
      |-----------+-----------|
      | [[https://en.oxforddictionaries.com/definition/wednesday][Wednesday]] | [[http://www.wordreference.com/enfr/wednesday][/ˈwɛnzdɪ/]] |
-** Exercise 3   
+
+* Exercise 3   
    Complete each table in order to get seven items as in the previous
    lesson.
-** New short vowels
-   + [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][The short vowel {ʊ}]] as in:
+
+* New sound 1: [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][The short vowel {ʊ}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -58,7 +60,8 @@
      | [[https://en.oxforddictionaries.com/definition/book][book]]    | [[http://www.wordreference.com/enfr/book][/bʊk/]]     |
      | [[https://en.oxforddictionaries.com/definition/brook][brook]]   | [[http://www.wordreference.com/enfr/brook][/brʊk/]]    |
      | [[https://en.oxforddictionaries.com/definition/crook][crook]]   | [[http://www.wordreference.com/enfr/crook][/krʊk/]]    |
-   + [[http://doyouspeakenglish.fr/open-back-rounded-vowel/][The short vowel {ɒ}]] as in:
+
+* New sound 2: [[http://doyouspeakenglish.fr/open-back-rounded-vowel/][The short vowel {ɒ}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -69,7 +72,8 @@
      | [[https://en.oxforddictionaries.com/definition/sausage][sausage]] | [[http://www.wordreference.com/enfr/sausage][/ˈsɒsɪdʒ/]] |
      | [[https://en.oxforddictionaries.com/definition/bottom][bottom]]  | [[http://www.wordreference.com/enfr/bottom][/ˈbɒtəm/]]  |
      | [[https://en.oxforddictionaries.com/definition/flop][flop]]    | [[http://www.wordreference.com/enfr/flop][/flɒp/]]    |
-   + [[http://doyouspeakenglish.fr/mid-central-vowel/][The short vowel {ə}]] as in:
+
+* New sound 3: [[http://doyouspeakenglish.fr/mid-central-vowel/][The short vowel {ə}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -81,23 +85,24 @@
      | [[https://en.oxforddictionaries.com/definition/further][further]] | [[http://www.wordreference.com/enfr/further][/ˈfɜːðə/]]  |
      | [[https://en.oxforddictionaries.com/definition/among][among]]   | [[http://www.wordreference.com/enfr/among][/əˈmʌŋ/]]   |
         
-* Solutions
-** Exercise 1
+* Solutions: Exercise 1
    1. What day of the week is it today? Today is Friday. 
    2. Write your routine for each day of the week. For example, Monday
       I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][German skills]]. Tuesday I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Arabic]]
       skills. Wednesday I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Chinese]] skills. Thursday I work on my
       [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Spanish]] skills. Friday I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0][Hebrew]] skills. Saturday I work
       on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAn0zUUPYsMDd8_1J_UtfRxh][Portuguese]] skills. Sunday I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB][Russian]] skills.
-** Exercise 2
-   In the previous lesson we saw numbers so let's check quickly if
+
+* Solutions: Exercise 2
+   In the [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][previous lesson]] we saw numbers so let's check quickly if
    you are okay with them:
   1. Write today's date. Today is the twenty-fifth.
   2. Write today's ranking. For instance if today is Friday, the ranking is
      fifth.
   3. How many weeks are there in a year? There are fifty-two weeks in a
      year.
-** Exercise 3
+
+* Solutions: Exercise 3
    Read the [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][previous lesson]] again.
 * If you want to go further
   Here are some resources :
