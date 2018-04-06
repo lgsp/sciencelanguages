@@ -129,7 +129,7 @@
    2. What year is this?
    3. How many days are there in a year?
 
-* [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
+* New sound 1: [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
 
     | English | Phonetics  |
     |---------+------------|
@@ -141,7 +141,7 @@
     | [[https://en.oxforddictionaries.com/definition/london][London]]  | [[http://www.wordreference.com/enfr/london][/ˈlʌndən/]]  |
     | [[https://en.oxforddictionaries.com/definition/love][love]]    | [[http://www.wordreference.com/enfr/love][/lʌv/]]      |
 
-* [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The short vowel {æ}]] as in:
+* New sound 2: [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The short vowel {æ}]] as in:
     
     | English | Phonetics |
     |---------+-----------|
@@ -153,7 +153,7 @@
     | [[https://en.oxforddictionaries.com/definition/hand][hand]]    | [[http://www.wordreference.com/enfr/hand][/hænd/]]    |
     | [[https://en.oxforddictionaries.com/definition/flat][flat]]    | [[http://www.wordreference.com/enfr/flat][/flæt/]]    |  
 
-* [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The short vowel {ɛ}]] as in: 
+* New sound 3: [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The short vowel {ɛ}]] as in: 
     
     | English | Phonetics |
     |---------+-----------|
