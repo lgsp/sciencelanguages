@@ -133,6 +133,10 @@
   |     900 | nine hundred          | neuf cents    |
   |   1,000 | one thousand          | mille         |
 
+  NOTE: every three digits we put a coma ',' in order to clarify the
+  order of digits. For decimal numbers English speakers use a decimal
+  point also called a period like in computer and calculator.
+
 * From one thousand to one billion
 
   | Numbers       | English              | Français           |
