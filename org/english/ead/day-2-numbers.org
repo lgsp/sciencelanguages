@@ -27,10 +27,9 @@
   |     8 | eight   | huit     |
   |     9 | nine    | neuf     |
 * Exercise 1
-   1. How do you say this phone number, digit by digit:
-     59-14-83-60-72
-   2. How do you say this phone number, digit by digit:
-     419-506-3827
+   1. How do you say this French phone number? 07-91-83-64-72
+   2. How do you say this [[https://youtu.be/1eKBS6EOtAo][American]] phone number? 549-552-2244
+   3. How do you say this [[https://youtu.be/fSB12yhjsVg][British]] phone number? [[https://youtu.be/fdG-gz-eOww][020-7946-0620]]
 * Ordinal number
    Let's imagine you're talking about the ranking of your favorite team:
    | Rank | English | Français                                      |
@@ -46,42 +45,56 @@
    |    9 | ninth   | neuvième                                      |
 
    Do you see a pattern? Just remember the first three by heart and
-   then add "th" at the end, but be careful with five and nine.
+   then add "th" at the end, but be careful with five and nine as it
+   showed below:
+
+   + fourth = four + th
+   + fifth = five - ve + f + th
+   + sixth = six + th
+   + seventh = seven + th
+   + eighth = eight - t + th
+   + nineth = nine - e + th
 
 * From ten to twenty
 
-  | Tenths | English                     | Français                                 |
-  |--------+-----------------------------+------------------------------------------|
-  |     10 | ten (tenth)                 | dix (dixième)                            |
-  |     11 | eleven (eleventh)           | onze (onzième)                           |
-  |     12 | twelve (twelfth)            | douze (douzième)                         |
-  |     13 | thirteen (thirteenth)       | treize (treizième)                       |
-  |     14 | fourteen (fourteenth)       | quatorze (quatorzième)                   |
-  |     15 | fifteen (fifteenth)         | quinze (quinzième)                       |
-  |     16 | sixteen (sixteenth)         | seize (seizième)                         |
-  |     17 | seventeen (seventeenth)     | dix-sept (dix-septième)                  |
-  |     18 | eighteen (eighteenth)       | dix-huit (dix-huitième)                  |
-  |     19 | nineteen (nineteenth)       | dix-neuf (dix-neuvième)                  |
-  |     20 | twenty (twentieth)          | vingt (vingtième)                        |
+  | Tenths | English                                  | Français                |
+  |--------+------------------------------------------+-------------------------|
+  |     10 | ten (tenth = ten + th)                   | dix (dixième)           |
+  |     11 | eleven (eleventh = eleven + th)          | onze (onzième)          |
+  |     12 | twelve (twelfth = twelve - ve + f + th)  | douze (douzième)        |
+  |     13 | thirteen (thirteenth = thirteen + th)    | treize (treizième)      |
+  |     14 | fourteen (fourteenth = fourteen + th)    | quatorze (quatorzième)  |
+  |     15 | fifteen (fifteenth = fifteen + th)       | quinze (quinzième)      |
+  |     16 | sixteen (sixteenth = sixteen + th)       | seize (seizième)        |
+  |     17 | seventeen (seventeenth = seventeen + th) | dix-sept (dix-septième) |
+  |     18 | eighteen (eighteenth = eighteen + th)    | dix-huit (dix-huitième) |
+  |     19 | nineteen (nineteenth = nineteen + th)    | dix-neuf (dix-neuvième) |
+  |     20 | twenty (twentieth = twenty - y + e + th) | vingt (vingtième)       |
 
 * From twenty to one hundred
 
-    | Tenths | English                     | Français                                 |
-    |--------+-----------------------------+------------------------------------------|
-    |     21 | twenty-one (twenty-first)   | vingt-et-un (vingt-et-unième)            |
-    |     22 | twenty-two (twenty-second)  | vingt-deux (vingt-deuxième)              |
-    |     23 | twenty-three (twenty-third) | vingt-trois (vingt-troisième)            |
-    |     30 | thirty (thirtieth)          | trente (trentième)                       |
-    |     40 | forty (fortieth)            | quarante (quarantième)                   |
-    |     50 | fifty (fiftieth)            | cinquante (cinquantième)                 |
-    |     60 | sixty (sixtieth)            | soixante (soixantième)                   |
-    |     70 | seventy (seventieth)        | soixante-dix (soixante-dixième)          |
-    |     80 | eighty (eightieth)          | quatre-vingt (quatre-vingtième)          |
-    |     90 | ninety (ninetieth)          | quatre-vingt-dix (quantre-vingt-dixième) |
+    | Tenths | English                      | Français                                 |
+    |--------+------------------------------+------------------------------------------|
+    |     21 | twenty-one (twenty-first)    | vingt-et-un (vingt-et-unième)            |
+    |     22 | twenty-two (twenty-second)   | vingt-deux (vingt-deuxième)              |
+    |     23 | twenty-three (twenty-third)  | vingt-trois (vingt-troisième)            |
+    |     2? | twenty-digit (twenty-digith) | vingt-chiffre (vingt-chiffreième)        |
+    |     30 | thirty (thirtieth)           | trente (trentième)                       |
+    |     3? | thirty-digit (thirty-digith) | trente-chiffre (trente-chiffreième)      |
+    |     40 | forty (fortieth)             | quarante (quarantième)                   |
+    |     4? | forty-digit (forty-digith)   | quarante-chiffre (quarante-chiffreième)  |
+    |     50 | fifty (fiftieth)             | cinquante (cinquantième)                 |
+    |     60 | sixty (sixtieth)             | soixante (soixantième)                   |
+    |     70 | seventy (seventieth)         | soixante-dix (soixante-dixième)          |
+    |     80 | eighty (eightieth)           | quatre-vingt (quatre-vingtième)          |
+    |     90 | ninety (ninetieth)           | quatre-vingt-dix (quantre-vingt-dixième) |
  
 * The nineteen hundreds 
-   In the last century we talked about decades like
-   this:
+   When talking about decades, use the following:
+   For the first ten years of any decade, people use various
+   descriptors such as 1904, '04, 20-04 (twenty-O-four).  
+   For the rest, people use teens, twenties (20s), thirties (30s),
+   etc. see below:
    + 20s: the twenties signifies the years between 1920 and 1929
    + 30s: the thirties signifies the years between 1930 and 1939
    + 40s: the forties signifies the years between 1940 and 1949
@@ -90,52 +103,51 @@
    + 70s: the seventies signifies the years between 1970 and 1979
    + 80s: the eighties signifies the years between 1980 and 1989
    + 90s: the nineties signifies the years between 1990 and 1999
-
+     
 * Exercise 2
-   1. How do you say 37? What's the ranking of November in the year?
+   1. How do you say 37? What number is the month of November?
    2. How do you say 43? Look at a map of Paris. Which district is Montmartre
-      located in? And write it as a ranking number (the district ranking).
+      located in? And write it as an ordinal number.
    3. How do you say 59? What's the name of the famous Hollywood
       studio with gold letters?
-   4. How do you say 61? What's the ranking of our millenium?
-   5. How do you say 75? If we look at the ranking position in the
-      solar system from the closest to the Sun (Mercury) to the furthest away
-      (Neptune), what's the ranking of planet Earth?
+   4. How do you say 61? What's the ordinal number for our millenium?
+   5. How do you say 75? What's the ordinal number of planet Earth in
+      our solar system?
 
 * From one hundred to one thousand
 
-  |     Numbers | English               | Français           |
-  |-------------+-----------------------+--------------------|
-  |         100 | one hundred           | cent               |
-  |         101 | one hundred and one   | cent-un            |
-  |         102 | one hundred and two   | cent-deux          |
-  |         200 | two hundred           | deux cents         |
-  |         201 | two hundred and one   | deux cent un       |
-  |         300 | three hundred         | trois cents        |
-  |         301 | three hundred and one | trois cent un      |
-  |         400 | four hundred          | quatre cents       |
-  |         500 | five hundred          | cinq cents         |
-  |         600 | six hundred           | six cents          |
-  |         700 | seven hundred         | sept cents         |
-  |         800 | eight hundred         | huit cents         |
-  |         900 | nine hundred          | neuf cents         |
-  |        1000 | one thousand          | mille              |
+  | Numbers | English               | Français      |
+  |---------+-----------------------+---------------|
+  |     100 | one hundred           | cent          |
+  |     101 | one hundred and one   | cent-un       |
+  |     102 | one hundred and two   | cent-deux     |
+  |     200 | two hundred           | deux cents    |
+  |     201 | two hundred and one   | deux cent un  |
+  |     300 | three hundred         | trois cents   |
+  |     301 | three hundred and one | trois cent un |
+  |     400 | four hundred          | quatre cents  |
+  |     500 | five hundred          | cinq cents    |
+  |     600 | six hundred           | six cents     |
+  |     700 | seven hundred         | sept cents    |
+  |     800 | eight hundred         | huit cents    |
+  |     900 | nine hundred          | neuf cents    |
+  |   1,000 | one thousand          | mille         |
 
 * From one thousand to one billion
 
-  |     Numbers | English               | Français           |
-  |-------------+-----------------------+--------------------|
-  |        1001 | one thousand one      | mille un           |
-  |        2000 | two thousand          | deux milles        |
-  |       10000 | ten thousand          | dix milles         |
-  |     1000000 | one hundred thousand  | cent milles        |
-  |    10000000 | one million           | un million         |
-  |   200000000 | twenty million        | vingt millions     |
-  |  9000000000 | nine hundred million  | neuf cent millions |
-  | 10000000000 | one billion           | un milliard        |
+  | Numbers       | English              | Français           |
+  |---------------+----------------------+--------------------|
+  | 1,001         | one thousand one     | mille un           |
+  | 2,000         | two thousand         | deux milles        |
+  | 10,000        | ten thousand         | dix milles         |
+  | 100,000       | one hundred thousand | cent milles        |
+  | 1,000,000     | one million          | un million         |
+  | 20,000,000    | twenty million       | vingt millions     |
+  | 900,000,000   | nine hundred million | neuf cent millions |
+  | 1,000,000,000 | one billion          | un milliard        |
  
 * Exercise 3
-   1. How old is the Earth (round up by billion)?
+   1. How old is the Earth (round up to the billionth)?
    2. What year is this?
    3. How many days are there in a year?
 
@@ -176,13 +188,17 @@
     | [[https://en.oxforddictionaries.com/definition/bend][bend]]    | [[http://www.wordreference.com/enfr/bend][/bɛnd/]]    |
 
 * Solutions: Exercice 1
-     1. How do you say this phone number, digit by digit:
-        59-14-83-60-72
-	five, nine, one, four, eight, three, six, zero, seven, two
-	Native English speakers use also "o" like the letter in "olive" instead of "zero".
-     2. How do you say this phone number, digit by digit:
-        419-506-3827
-	four, one, nine, five, zero, three, eight, two, seven
+   1. How do you say this French phone number? 07-91-83-64-72
+      + Answer :: zero seven, ninety-one, eighty-three, sixty-four, seventy-two
+   2. How do you say this [[https://youtu.be/1eKBS6EOtAo][American]] phone number? 549-552-2244
+      + Answer :: five, four, nine, five, five, two, two, two, four, four.
+      + Variation :: five, four, nine, five, five, two, twenty-two, forty-four.
+      + Conclusion :: We say it both ways in the US; the second comes
+                      into play if we're being talking more casually.
+   3. How do you say this [[https://youtu.be/fSB12yhjsVg][British]] phone number? [[https://youtu.be/fdG-gz-eOww][020-7946-0620]]
+      Answer: oh two oh, seven nine four six, oh six two oh
+      Variant: oh two oh, seventy-nine, forty-six, oh six, twenty
+      
 * Solutions: Exercise 2
    1. How do you say 37? thirty-seven
       What's the ranking of November? eleventh
@@ -193,19 +209,19 @@
    3. How do you spell 59? fifty-nine
       What's the name of the famous Hollywood studio with gold
       letters?
-      The Twentieth Century Fox
+      Twentieth Century Fox
    4. How do you say 61? sixty-one
       What's the ranking of our millenium? We are currently in the third millenium
    5. How do you spell 75? seventy-five
       If we look at the ranking position in the solar system from the closest to the Sun (Mercury) to the furthest away
       (Neptune), what's the ranking of planet Earth? 
       Earth is the third planet from the sun. Fun fact: there was a
-      funny TV show during the 90s titled: [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][Third Rock from the Sun]].
+      funny TV show during the 90s entitled: [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][Third Rock from the Sun]].
 * Solutions: Exercise 3
-   1. How old is the Earth (round to billion)? five billion (you can
+   1. How old is the Earth (round up to the billionth)? five billion (you can
       check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]])
    2. What year is this? two thousand eighteen
-   3. How many days are there in a year? three hundred sixty-five
+   3. How many days are there in a year? three hundred and sixty-five
 * If you want to go further
   Here are some resources :
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Days of the week]]
