@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{book}
+\documentclass[12pt,a4paper, xetex, hyperref]{book}
 
 \usepackage{fontspec}
 \setmainfont{Geneva} %% Geneva, Helvetica, Helvetica Neue
@@ -12,6 +12,8 @@
 
 \usepackage{dtk-logos}
 %% \usepackage{draftwatermark}
+\usepackage{pdfpages} % pour inclure des docs pdf
+
 \usepackage{fancybox}
 
 \usepackage{xspace}
@@ -27,7 +29,7 @@
 
 \usepackage{subfloat}
 
-\usepackage[xetex, hyperref]{xcolor}
+\usepackage{xcolor}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -64,6 +66,12 @@
   \begin{center}%
     (\uks{https://youglish.com/search/#1/uk}\quad\uss{https://youglish.com/search/#1/us}\quad\aus{https://youglish.com/search/#1/aus})%
   \end{center}%
+}
+
+% Liens vers mon blog www.doyouspeakenglish.fr
+\newcommand{\dyse}[1]{%
+  \footnote{Consultez mon
+    article complet sur ce son en cliquant sur \url{http://doyouspeakenglish.fr/#1}}%
 }
 
 % Liens vers le livre How The Ell Brain Learns
@@ -105,8 +113,8 @@
 }
 
 % Sons écrits en transcription phonétiques
-\newcommand{\son}[2][Le \textcolor{red}{son}~]{%
-  #1\textcolor{red}{[#2]}
+\newcommand{\son}[2][Le~]{%
+  #1\textcolor{red}{son~[#2]}
 }
 
 % Références à des sons
@@ -138,14 +146,35 @@
   
 }
 
-% Bla bla pour annoncer le nom du son
-\newcommand{\indicsound}{%
-  Son nom indique la façon de le produire.%
-  %
+% Flags
+\newcommand{\flags}{%
   \begin{itemize}%
   \item \exEN{Click on the flags below in order to check how to produce the sounds properly.}%
   \item \exFR{Cliquez sur les drapeaux ci-dessous afin de vérifier la façon de produire les sons correctement.}%
   \end{itemize}%
+}
+
+% Bla bla pour annoncer le nom du son
+\newcommand{\indicsound}{%
+  Son nom indique la façon de le produire.%
+  \flags%
+}
+
+% Diphthongs
+% #1 : voyelle de gauche #2 : voyelle de droite
+% #3 : diphtongue résultante
+% #4 : lien url vers l'article de blog
+% #5 : liens éventuels vers les sons élémentaires
+\newcommand{\diph}[5]{
+  Cette diphtongue est la combinaison\footnote{#5} de la voyelle\son[~]{#1} et de la %
+  voyelle\son[~]{#2}. D'une certaine manière on peut écrire <<~l'équation~>>~:%
+  \begin{center}%
+    \shadowbox{\son[~]{#1} + \son[~]{#2} = \son[~]{#3}}%
+  \end{center}%
+  Consultez mon article de
+  \href{http://doyouspeakenglish.fr/#4}{blog}\footnote{Consulter
+    l'article de blog \url{http://doyouspeakenglish.fr/#4}} sur le sujet pour en savoir plus.%
+    \flags%
 }
 
 \renewcommand{\mkcitation}[1]{\footnote{#1}}
@@ -186,14 +215,16 @@
   %
   \begin{enumerate}%
   \item Le premier lien\footnote{Accessible en cliquant sur le drapeau du~%
-      Royaume Uni.} vous permettra de consulter une vidéo qui~%
+      Royaume Uni.} vous permettra de consulter un article de mon blog
+    avec (au moins) une vidéo qui~%
     propose des exemples supplémentaires avec une prononciation~%
     typiquement anglaise\footnote{La prononciation appelée BBC accent
       ou
       \href{https://en.wikipedia.org/wiki/Received_Pronunciation}{Received
         Pronunciation}.}.%
   \item Le second lien\footnote{Accessible en cliquant sur le drapeau~américain.}~%
-    vous permettra de consulter une vidéo qui propose des~%
+    vous permettra de consulter un article de mon blog avec (au moins)
+    une vidéo qui propose des~%
     exemples supplémentaires avec une prononciation typiquement
     américaine\footnote{Aussi appelée \href{https://en.wikipedia.org/wiki/General_American}{General American}.}.%
   \end{enumerate}%
@@ -225,7 +256,10 @@
 }
   
 \begin{document}
-\title{Introduction à la phonétique anglaise comparée à la française; rédigée avec \href{https://en.wikipedia.org/wiki/XeTeX}{\XeLaTeX}}
+% \title{Introduction à la phonétique anglaise; rédigée avec
+% \href{https://en.wikipedia.org/wiki/XeTeX}{\XeLaTeX}}
+\includepdf{titlepage2018}
+
 \hypersetup{
  pdfauthor={Laurent Garnier},
  pdftitle={Introduction à la phonétique},
@@ -243,7 +277,7 @@
 % \SetWatermarkScale{0.75}
 % \SetWatermarkText{Laurent Garnier}
 
-\maketitle
+%\maketitle
 \dominitoc
 \tableofcontents
 
@@ -299,7 +333,7 @@
 
 %\input{chap4-consonnes-fr}
 
-\part{English phonetics}
+%\part{English phonetics}
 
 \parttoc
 
