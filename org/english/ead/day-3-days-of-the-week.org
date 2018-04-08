@@ -1,6 +1,17 @@
 #+TITLE: Days of the week
 #+AUTHOR: Laurent Garnier
 
+* Introduction
+  + Laurent :: Hi Stacy!
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today? You can't say "as a Monday" because
+               today is Tuesday!
+  + Stacy :: You're right! But you know, as an American I'm positive
+             every day even Monday.
+  + Laurent :: Yes, and that's one the reason I like the American
+               mindset. Let's dive into the lesson of the day: DAYS OF
+               THE WEEK!
+
 * Days of the week
 
   | Day | English   | Français |
@@ -103,11 +114,21 @@
      year.
 
 * Solutions: Exercise 3
-   Read the [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][previous lesson]] again.
-* If you want to go further
-  Here are some resources :
+   Read the
+   [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][previous
+   lesson]] again.
+* Others lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][Numbers]]
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][Months of the year]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-  + [[https://youtu.be/LIQsyHoLudQ][Days of the Week Song]]
-  + [[https://youtu.be/mXMofxtDPUQ][Days of the Week Song]], the Singing Walrus
+* If you want to go further
+  Here are some resources :
+** YouTube videos  
+   + [[https://youtu.be/4aEsu3EU88k][Where do the names of the days of the week come from?]] - Canadian
+   + [[https://youtu.be/R4--oTBJB6Q][The Norse Gods' Names in the English Days of the Week]] - American
+   + [[https://youtu.be/2ZexFXEc2Ok][Norse Gods and Days of the Week in English]] - British
+   + [[https://youtu.be/JEyuQd-zMeg][Where do the Days of the Week Get Their Names]]
+** Websites
+   + [[https://en.wikipedia.org/wiki/Names_of_the_days_of_the_week][Wikipedia]]
+   + [[https://www.crowl.org/Lawrence/time/days.html][crowl]]
+   + [[https://owlcation.com/humanities/Days-Origin-Names-Greensleeves][owlcation]]
