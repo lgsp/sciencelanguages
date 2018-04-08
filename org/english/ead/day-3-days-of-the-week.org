@@ -119,7 +119,7 @@
    lesson]] again.
 * Others lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][Numbers]]
-  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][Months of the year]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-4-months-of-the-year.org][Months of the Year]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
 * If you want to go further
   Here are some resources :
