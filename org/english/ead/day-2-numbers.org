@@ -236,7 +236,13 @@
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
 * If you want to go further
   Here are some resources : 
+** YouTube videos
   + [[https://youtu.be/uEGYX8UAsK4][How to Say Numbers in English]] - American English
   + [[https://youtu.be/QrsFohyz_LU][How to write numbers in English]] - Canadian English
   + [[https://youtu.be/IU_eBp1UT8Y][Numbers in English]] - British
   + [[https://youtu.be/YBbBbY4qvv4][British Numbers confuse Americans]] - Numberphile
+  + [[https://youtu.be/cZH0YnFpjwU][A brief history of numerical systems]]
+  + [[https://youtu.be/wDREk6wNZSs][10 Words Derived From Numbers]] British
+** Websites
+   + [[https://ask.metafilter.com/205805/Where-did-numbers-get-their-names][Where did numbers get their names?]]
+   + [[https://en.wikipedia.org/wiki/English_numerals][Wikipedia]]
