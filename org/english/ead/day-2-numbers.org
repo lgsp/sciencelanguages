@@ -68,7 +68,7 @@
   |     17 | seventeen (seventeenth = seventeen + th) | dix-sept (dix-septième) |
   |     18 | eighteen (eighteenth = eighteen + th)    | dix-huit (dix-huitième) |
   |     19 | nineteen (nineteenth = nineteen + th)    | dix-neuf (dix-neuvième) |
-  |     20 | twenty (twentieth = twenty - y + e + th) | vingt (vingtième)       |
+  |     20 | twenty (twentieth = twenty - y + ie + th) | vingt (vingtième)       |
 
 * From twenty to one hundred
 
