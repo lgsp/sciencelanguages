@@ -132,9 +132,9 @@
   |     900 | nine hundred          | neuf cents    |
   |   1,000 | one thousand          | mille         |
 
-  NOTE: every three digits we put a coma as in 2,018 in order to clarify the
+  NOTE: Every three digits we put a coma as in 2,018 in order to clarify the
   order of digits. For decimal numbers English speakers use a decimal
-  point also called a period like in computer and calculator.
+  point also called a period just like you would see when typing on computer or using an electronic calculator.
 
 * From one thousand to one billion
 
@@ -149,10 +149,9 @@
   | 900,000,000   | nine hundred million | neuf cent millions |
   | 1,000,000,000 | one billion          | un milliard        |
 
-  NOTE: every three digits we put a coma as in 7,000,000 people on
+  NOTE: Every three digits we put a coma as in 7,000,000 people on
   Earth in order to clarify the order of digits. For decimal numbers
-  English speakers use a decimal point also called a period like in
-  computer and calculator as in 3.14, an approximation of \pi number.
+  English speakers use a decimal point also called a period  just like you would see when typing on computer or using an electronic calculator as in 3.14, an approximation of \pi number.
  
 * Exercise 3
    1. How old is the Earth (round to the nearest billionth)?
