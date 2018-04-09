@@ -45,8 +45,7 @@
    |    9 | ninth   | neuvième                                      |
 
    Do you see a pattern? Memorise the first three words: first, second, third; and
-   for the rest add "th" at the end of the number. Look the processs it
-   shown below:
+   for the rest, add "th" at the end of the number. See below:
 
    + fourth = four + th
    + fifth = five - ve + f + th
