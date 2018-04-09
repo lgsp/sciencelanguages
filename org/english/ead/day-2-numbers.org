@@ -104,14 +104,17 @@
    + 90s: the nineties signifies the years between 1990 and 1999
      
 * Exercise 2
-   1. How do you say 37? What number is the month of November?
-   2. How do you say 43? Look at a map of Paris. Which district is Montmartre
-      located in? And write it as an ordinal number.
-   3. How do you say 59? What's the name of the famous Hollywood
-      studio with gold letters?
-   4. How do you say 61? What's the ordinal number for our millenium?
-   5. How do you say 75? What's the ordinal number of planet Earth in
-      our solar system?
+   1.  + How do you say 37? 
+       + What number is the month of November?
+   2. + How do you say 43? 
+      + Look at a map of Paris. 
+      + Which district is Montmartre located in? (Watch this [[https://youtu.be/9OLxLK_R6jQ][video]].) And write it as an ordinal number.
+   3. + How do you say 59? 
+      + What's the name of the famous Hollywood studio with gold letters?
+   4. + How do you say 61? 
+      + What's the ordinal number for our millenium?
+   5. + How do you say 75? 
+      + What's the ordinal number of planet Earth in our solar system?
 
 * From one hundred to one thousand
 
@@ -206,23 +209,22 @@
       + Variant :: oh two oh, seventy-nine, forty-six, oh six, twenty
       
 * Solutions: Exercise 2
-   1. How do you say 37? thirty-seven.
-      What number is the month of November? eleventh.
-   2. How do you say 43? forty-three.
-      Look at a map of Paris. Which district is Montmartre located in? And write it as an ordinal number.
-      Montmartre is located in the eighteenth district of Paris.
-   3. How do you say 59? fifty-nine.
-      What's the name of the famous Hollywood studio with gold
-      letters?
-      Twentieth Century Fox.
-   4. How do you say 61? sixty-one.
-      What's the ordinal number for our millenium? We are currently in the third millenium.
-   5. How do you say 75? seventy-five.
-      What's the ordinal number of Planet Earth? 
-      Earth is the third planet from the sun. Fun fact: There was a
-      funny TV show during the 90s entitled [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][Third Rock from the Sun]].
+   1. + How do you say 37? thirty-seven.
+      + What number is the month of November? eleventh.
+   2. + How do you say 43? forty-three.
+      + Look at a map of Paris. Which district is Montmartre located in? And write it as an ordinal number.
+        Montmartre is located in the eighteenth district of Paris.
+   3. + How do you say 59? fifty-nine.
+      + What's the name of the famous Hollywood studio with gold
+        letters? Twentieth Century Fox.
+   4. + How do you say 61? sixty-one.
+      + What's the ordinal number for our millenium? We are currently in the third millenium.
+   5. + How do you say 75? seventy-five.
+      + What's the ordinal number of Planet Earth? 
+        Earth is the third planet from the sun. Fun fact: There was a
+        funny TV show during the 90s entitled [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][Third Rock from the Sun]].
 * Solutions: Exercise 3
-   1. How old is the Earth (round up to the billionth)? five billion (you can
+   1. How old is the Earth (round to the nearest billionth)? five billion (you can
       check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]]).
    2. What year is this? two thousand eighteen.
    3. How many days are there in a year? three hundred and sixty-five.
