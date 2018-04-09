@@ -219,11 +219,9 @@
    4. How do you say 61? sixty-one.
       What's the ranking of our millenium? We are currently in the third millenium.
    5. How do you spell 75? seventy-five.
-      If we look at the ranking position in the solar system from the closest to the Sun (Mercury) to the furthest away
-      (Neptune), what's the ranking of planet Earth? 
-      Earth is the third planet from the sun. 
-      + Fun fact :: there was a
-      funny TV show during the 90s entitled: [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][Third Rock from the Sun]].
+      What's the ordinal number of Planet Earth? 
+      Earth is the third planet from the sun. Fun fact: There was a
+      funny TV show during the 90s entitled [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][Third Rock from the Sun]].
 * Solutions: Exercise 3
    1. How old is the Earth (round up to the billionth)? five billion (you can
       check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]]).
