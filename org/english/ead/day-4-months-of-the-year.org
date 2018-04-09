@@ -7,7 +7,7 @@
   + Laurent :: How are you today? 
   + Stacy :: I'm fine and you?
   + Laurent :: I'm fine too because April is a nice month. And next
-               month a lot of events will come in France.
+               month, a lot of events will come in France.
   + Stacy :: Yes, you're right. There will be the Festival de Cannes.
   + Laurent :: But this year is special because in June there will be
                the Football World Cup in Russia. So let's talk about
