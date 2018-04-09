@@ -38,20 +38,22 @@
      fifth.
   3. How many weeks are there in a year?
 
-* Review 1: [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
+* Review sounds from [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][lesson 1]]
+
+  + [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
      
      | English | Phonetics |
      |---------+-----------|
      | [[https://en.oxforddictionaries.com/definition/monday][Monday]]  | [[http://www.wordreference.com/enfr/monday][/ˈmʌndɪ/]]  |
      | [[https://en.oxforddictionaries.com/definition/sunday][Sunday]]  | [[http://www.wordreference.com/enfr/sunday][/ˈsʌndɪ/]]  |
 
-* Review 2: [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The short vowel {æ}]] as in:
+ + [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The short vowel {æ}]] as in:
 
      | English  | Phonetics |
      |----------+-----------|
      | [[https://en.oxforddictionaries.com/definition/saturday][Saturday]] | [[http://www.wordreference.com/enfr/saturday][/ˈsætədɪ/]] |
 
-* Review 3: [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The short vowel {ɛ}]] as in:
++ [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The short vowel {ɛ}]] as in:
      
      | English   | Phonetics |
      |-----------+-----------|
