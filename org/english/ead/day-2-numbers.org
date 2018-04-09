@@ -230,7 +230,7 @@
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Days of the week]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
 * If you want to go further
-  Here are some resources : 
+  Here are some additional resources : 
 ** YouTube videos
   + [[https://youtu.be/uEGYX8UAsK4][How to Say Numbers in English]] - American English
   + [[https://youtu.be/QrsFohyz_LU][How to write numbers in English]] - Canadian English
