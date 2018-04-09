@@ -44,9 +44,9 @@
    |    8 | eighth  | huitième                                      |
    |    9 | ninth   | neuvième                                      |
 
-   Do you see a pattern? Just remember the first three by heart and
-   then add "th" at the end, but be careful with five and nine as it
-   showed below:
+   Do you see a pattern? Memorise the first three words: first, second, third; and
+   for the rest add "th" at the end of the number. Look the processs it
+   shown below:
 
    + fourth = four + th
    + fifth = five - ve + f + th
