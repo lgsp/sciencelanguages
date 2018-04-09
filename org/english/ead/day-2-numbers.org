@@ -193,7 +193,7 @@
     | [[https://en.oxforddictionaries.com/definition/letter][letter]]  | [[http://www.wordreference.com/enfr/letter][/ˈlɛtə/]]   |
     | [[https://en.oxforddictionaries.com/definition/bend][bend]]    | [[http://www.wordreference.com/enfr/bend][/bɛnd/]]    |
 
-* Solutions: Exercice 1
+* Solutions: Exercise 1
    1. How do you say this French phone number? 07-91-83-64-72
       + Answer :: zero seven, ninety-one, eighty-three, sixty-four, seventy-two
    2. How do you say this [[https://youtu.be/1eKBS6EOtAo][American]] phone number? 549-552-2244
@@ -202,32 +202,33 @@
       + Conclusion :: We say it both ways in the US; the second comes
                       into play if we're being talking more casually.
    3. How do you say this [[https://youtu.be/fSB12yhjsVg][British]] phone number? [[https://youtu.be/fdG-gz-eOww][020-7946-0620]]
-      Answer: oh two oh, seven nine four six, oh six two oh
-      Variant: oh two oh, seventy-nine, forty-six, oh six, twenty
+      + Answer :: oh two oh, seven nine four six, oh six two oh
+      + Variant :: oh two oh, seventy-nine, forty-six, oh six, twenty
       
 * Solutions: Exercise 2
-   1. How do you say 37? thirty-seven
-      What's the ranking of November? eleventh
-   2. How do you say 43? forty-three
+   1. How do you say 37? thirty-seven.
+      What's the ranking of November? eleventh.
+   2. How do you say 43? forty-three.
       Look at a map of Paris. Which district Montmartre is located in? And write
       it as a ranking number (the district ranking).
       Montmartre is located in the eighteenth district of Paris.
-   3. How do you spell 59? fifty-nine
+   3. How do you spell 59? fifty-nine.
       What's the name of the famous Hollywood studio with gold
       letters?
-      Twentieth Century Fox
-   4. How do you say 61? sixty-one
-      What's the ranking of our millenium? We are currently in the third millenium
-   5. How do you spell 75? seventy-five
+      Twentieth Century Fox.
+   4. How do you say 61? sixty-one.
+      What's the ranking of our millenium? We are currently in the third millenium.
+   5. How do you spell 75? seventy-five.
       If we look at the ranking position in the solar system from the closest to the Sun (Mercury) to the furthest away
       (Neptune), what's the ranking of planet Earth? 
-      Earth is the third planet from the sun. Fun fact: there was a
+      Earth is the third planet from the sun. 
+      + Fun fact :: there was a
       funny TV show during the 90s entitled: [[https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun][Third Rock from the Sun]].
 * Solutions: Exercise 3
    1. How old is the Earth (round up to the billionth)? five billion (you can
-      check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]])
-   2. What year is this? two thousand eighteen
-   3. How many days are there in a year? three hundred and sixty-five
+      check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]]).
+   2. What year is this? two thousand eighteen.
+   3. How many days are there in a year? three hundred and sixty-five.
 * Other lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Days of the week]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
