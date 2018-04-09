@@ -156,7 +156,7 @@
   computer and calculator as in 3.14, an approximation of \pi number.
  
 * Exercise 3
-   1. How old is the Earth (round up to the billionth)?
+   1. How old is the Earth (round to the nearest billionth)?
    2. What year is this?
    3. How many days are there in a year?
 
