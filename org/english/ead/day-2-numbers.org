@@ -209,7 +209,7 @@
    1. How do you say 37? thirty-seven.
       What's the ranking of November? eleventh.
    2. How do you say 43? forty-three.
-      Look at a map of Paris. Which district Montmartre is located in? And write
+      Look at a map of Paris. Which district is Montmartre located in? And write
       it as a ranking number (the district ranking).
       Montmartre is located in the eighteenth district of Paris.
    3. How do you spell 59? fifty-nine.
