@@ -93,8 +93,7 @@
   Complete each table in order to get seven items (one of them already has
   eight items.).
 
-* New sound 1
-  + [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][The long vowel {iː}]] as in:
+* New sound 1: [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][The long vowel {iː}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -106,8 +105,7 @@
      | [[https://en.oxforddictionaries.com/definition/sea][sea]]     | [[http://www.wordreference.com/enfr/sea][/siː/]]     |
      | [[https://en.oxforddictionaries.com/definition/bee][bee]]     | [[http://www.wordreference.com/enfr/bee][/biː/]]     |
 
-* New sound 2
-  + [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][The long vowel {ɑː}]] as in:
+* New sound 2: [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][The long vowel {ɑː}]] as in:
      
      | English | Phonetics |
      |---------+-----------|
@@ -119,8 +117,7 @@
      | [[https://en.oxforddictionaries.com/definition/arm][arm]]     | [[http://www.wordreference.com/enfr/arm][/ɑːm/]]     |
      | [[https://en.oxforddictionaries.com/definition/father][father]]  | [[http://www.wordreference.com/enfr/father][/ˈfɑːðə/]]  |
 
-* New sound 3
-  + [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][The long vowel {ɔː}]] as in:
+* New sound 3: [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][The long vowel {ɔː}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
