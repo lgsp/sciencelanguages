@@ -207,17 +207,16 @@
       
 * Solutions: Exercise 2
    1. How do you say 37? thirty-seven.
-      What's the ranking of November? eleventh.
+      What number is the month of November? eleventh.
    2. How do you say 43? forty-three.
-      Look at a map of Paris. Which district is Montmartre located in? And write
-      it as a ranking number (the district ranking).
+      Look at a map of Paris. Which district is Montmartre located in? And write it as an ordinal number.
       Montmartre is located in the eighteenth district of Paris.
    3. How do you say 59? fifty-nine.
       What's the name of the famous Hollywood studio with gold
       letters?
       Twentieth Century Fox.
    4. How do you say 61? sixty-one.
-      What's the ranking of our millenium? We are currently in the third millenium.
+      What's the ordinal number for our millenium? We are currently in the third millenium.
    5. How do you say 75? seventy-five.
       What's the ordinal number of Planet Earth? 
       Earth is the third planet from the sun. Fun fact: There was a
