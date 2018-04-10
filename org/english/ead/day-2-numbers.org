@@ -226,7 +226,7 @@
 * Solutions: Exercise 3
    1. How old is the Earth (round to the nearest billionth)? five billion (you can
       check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]]).
-   2. What year is this? two thousand eighteen.
+   2. What year is this? two thousand eighteen or twenty-eighteen.
    3. How many days are there in a year? three hundred and sixty-five.
 * Other lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Days of the week]]
