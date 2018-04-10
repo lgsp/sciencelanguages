@@ -52,7 +52,7 @@
    + sixth = six + th
    + seventh = seven + th
    + eighth = eight - t + th
-   + nineth = nine - e + th
+   + ninth = nine - e + th
 
 * From ten to twenty
 
