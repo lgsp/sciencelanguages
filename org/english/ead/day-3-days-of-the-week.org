@@ -100,8 +100,7 @@
    1. What day of the week is it today? Today is Friday. 
    2. Write your routine for each day of the week. For example:
       + On Mondays, I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][German skills]].
-      + On Tuesdays, I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Arabic]]
-      skills.
+      + On Tuesdays, I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Arabic]] skills.
       + On Wednesdays, I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Chinese]] skills. 
       + On Thursdays, I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Spanish]] skills.
       + On Fridays, I work on my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0][Hebrew]] skills.
