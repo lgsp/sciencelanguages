@@ -27,7 +27,7 @@
 * Exercise 1
    1. What day of the week is it today?
    2. Write your routine for each day of the week. For example:
-      + On Mondays, I do the food shopping for the week. 
+      + On Mondays, I buy groceries for the week. 
       + On Tuesdays, I go to the gym. 
       + And so on.
 * Exercise 2
