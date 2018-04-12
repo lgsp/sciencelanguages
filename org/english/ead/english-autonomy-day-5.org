@@ -1,0 +1,148 @@
+#+TITLE: Seasons of the Year
+#+AUTHOR: Laurent Garnier
+
+* Introduction
+  + Laurent :: Hi Stacy!
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today?
+  + Stacy :: I'm fine thanks and you?
+  + Laurent :: I'm fine because it is the beginning of Spring.
+  + Stacy :: Yeah! I like Spring too because it is sunnier than
+             Winter.
+  + Laurent :: Yeah! And it is cooler than Summer. Let's talk about
+               the lesson of the day: SEASONS OF THE YEAR!
+* Seasons
+  
+  | Season | English                 | Français  |
+  |--------+-------------------------+-----------|
+  |      1 | Spring                  | Printemps |
+  |      2 | Summer                  | Eté       |
+  |      3 | Autumn (UK) / Fall (US) | Automne   |
+  |      4 | Winter                  | Hiver     |
+  
+* Seasons in a Year
+  Each time I refer to the Northern Hemisphere I'm talking about France and each time I refer to the Southern Hemisphere I'm talking about New Zealand.
+** Spring
+   + Northern Hemisphere :: Spring starts March the twenty-first and ends
+        June the twenty-first.
+   + Southern Hemisphere :: Spring starts September the twenty-first and
+        ends December the twenty-first.
+** Summer
+   + Northern Hemisphere :: Summer starts  June the twenty-first, which is
+        the longest day of the year, and ends September the twenty-first.
+   + Southern Hemisphere :: Summer starts December the twenty-first,
+        which is the longest day of the year, and ends March the
+        twenty-first.
+** Autumn (UK) / Fall (US)
+   + Northern Hemisphere :: Autumn (UK) / Fall (US) starts September the
+        twenty-first, and ends December the twenty-first.
+   + Southern Hemisphere :: Autumn (UK) / Fall (US) starts March the
+        twenty-first, and ends June the twenty-first.
+** Winter
+   + Northern Hemisphere :: Winter starts December the twenty-first, and
+        ends March the twenty-first.
+   + Southern Hemisphere :: Winter starts June the twenty-first,
+        and ends September the twenty-first.
+
+* Countries without the Four-Season System
+  Some countries do not share the four-season system, for instance in
+  India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
+  details). Also tropical areas, like the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details), have only two main seasons; and in desert areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
+  details). 
+  
+* New Sound 1: [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][the Long Vowel {uː}]] as in:
+   
+   | English | Phonetics |
+   |---------+-----------|
+   | [[https://en.oxforddictionaries.com/definition/few][few]]     | [[http://www.wordreference.com/enfr/few][/fjuː/]]    |
+   | [[https://en.oxforddictionaries.com/definition/boot][boot]]    | [[http://www.wordreference.com/enfr/boot][/buːt/]]    |
+   | [[https://en.oxforddictionaries.com/definition/lose][lose]]    | [[http://www.wordreference.com/enfr/lose][/luːz/]]    |
+   | [[https://en.oxforddictionaries.com/definition/gloomy][gloomy]]  | [[http://www.wordreference.com/enfr/gloomy][/ˈɡluːmɪ/]] |
+   | [[https://en.oxforddictionaries.com/definition/fruit][fruit]]   | [[http://www.wordreference.com/enfr/fruit][/fruːt/]]   |
+   | [[https://en.oxforddictionaries.com/definition/chew][chew]]    | [[http://www.wordreference.com/enfr/chew][/tʃuː/]]    |
+   | [[https://en.oxforddictionaries.com/definition/goose][goose]]   | [[http://www.wordreference.com/enfr/goose][/ɡuːs/]]    |
+   
+* New Sound 2: [[http://doyouspeakenglish.fr/diphthong-6-7/][the Diphthong Vowel {ɪə}]] as in:
+
+     | English   | Phonetics   |
+     |-----------+-------------|
+     | [[https://en.oxforddictionaries.com/definition/near][near]]      | [[http://www.wordreference.com/enfr/near][/nɪə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/ear][ear]]       | [[http://www.wordreference.com/enfr/ear][/ɪə/]]        |
+     | [[https://en.oxforddictionaries.com/definition/clear][clear]]     | [[http://www.wordreference.com/enfr/clear][/klɪə/]]      |
+     | [[https://en.oxforddictionaries.com/definition/weird][weird]]     | [[http://www.wordreference.com/enfr/weird][/wɪəd/]]      |
+     | [[https://en.oxforddictionaries.com/definition/disappear][disappear]] | [[http://www.wordreference.com/enfr/disappear][/ˌdɪsəˈpɪə/]] |
+     | [[https://en.oxforddictionaries.com/definition/here][here]]      | [[http://www.wordreference.com/enfr/here][/hɪə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/fear][fear]]      | [[http://www.wordreference.com/enfr/fear][/fɪə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/tear][tear]]      | [[http://www.wordreference.com/enfr/tear][/tɪə/]]       |
+
+* New Sound 3: [[http://doyouspeakenglish.fr/diphthong-8/][the Diphthong Vowel {ʊə}]] as in:
+
+     | English | Phonetics  |
+     |---------+------------|
+     | [[https://en.oxforddictionaries.com/definition/cure][cure]]    | [[http://www.wordreference.com/enfr/cure][/kjʊə/]]     |
+     | [[https://en.oxforddictionaries.com/definition/pure][pure]]    | [[http://www.wordreference.com/enfr/pure][/pjʊə/]]     |
+     | [[https://en.oxforddictionaries.com/definition/tourist][tourist]] | [[http://www.wordreference.com/enfr/tourist][/ˈtʊərɪst/]] |
+     | [[https://en.oxforddictionaries.com/definition/tour][tour]]    | [[http://www.wordreference.com/enfr/tour][/tʊə/]]      |
+     | [[https://en.oxforddictionaries.com/definition/contour][contour]] | [[http://www.wordreference.com/enfr/contour][/ˈkɒntʊə/]]  |
+        
+* Exercise 1
+   1. Can you give the list of the seasons in alphabetical order?
+   2. In which season does February belong? Answer for the Northern
+      Hemisphere and then for the Southern Hemisphere.
+   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
+      fourteenth to July the fifteenth. Which season will it be there?
+      And in New Zealand?
+* Exercise 2
+   Give an example for each 6 short vowels and each 4 long vowels.
+* Other lessons
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/hours.org][Time]]
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-4-months-of-the-year.org][Months of the Year]]
+* If you want to go further
+  Here are some additional resources:
+  + [[https://youtu.be/8ZjpI6fgYSY][Seasons Song]]
+  + [[https://youtu.be/owppK-GHPTU][Kids Vocabulary]]
+  + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
+* Solutions
+** Exercise 1
+   1. Can you give the list of the seasons in alphabetical order?
+      Autumn (Fall), Spring, Summer, Winter
+   2. In which season does February belong? Answer for the Northern Hemisphere and
+      then for the Southern Hemisphere.
+      + In the Northern Hemisphere :: February belongs to Winter
+      + In the Southern Hemisphere :: February belongs to Summer
+   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
+      fourteenth to July the fifteenth. Which season will it be there?
+      Summer as in other countries in the Northern Hemisphere.
+      And in New Zealand? Winter like other countries in the Southern Hemisphere.
+** Exercice 2
+   1. Short vowel [ɛ] as in [[https://en.oxforddictionaries.com/definition/trend][trend]] ([[http://www.wordreference.com/enfr/Trend][/trɛnd/]]). For example: I don't like the
+      trend on this platform. (Je n'aime pas la tendance sur cette plate-forme.)
+   2. Short vowel [æ] as in [[https://en.oxforddictionaries.com/definition/brand][brand]] ([[http://www.wordreference.com/enfr/brand][/brænd/]]). For example: I like
+      this new brand. (J'aime cette nouvelle marque.)
+   3. Short vowel [ʌ] as in [[https://en.oxforddictionaries.com/definition/money][money]] ([[http://www.wordreference.com/enfr/money][/ˈmʌnɪ/]]). For example: Time is
+      money. (Le temps c'est de l'argent.)
+   4. Short vowel [ʊ] as in [[https://en.oxforddictionaries.com/definition/foot][foot]] ([[http://www.wordreference.com/enfr/foot][/fʊt/]]). For example: Usually only
+      10% of people prefer to use their left foot to play
+      football. (Habituellement seulement 10% des gens préfèrent
+      utiliser leur pied gauche pour jouer au foot.) 
+   5. Short vowel [ɒ] as in [[https://en.oxforddictionaries.com/definition/lock][lock]] ([[http://www.wordreference.com/enfr/lock][/lɒk/]]). For example: Don't forget
+      to lock the door when you leave the house. (N'oublie pas de
+      verrouiller la porte lorsque tu quittes la maison.)
+   6. Short vowel [ə] as in [[https://en.oxforddictionaries.com/definition/afraid][afraid]] ([[http://www.wordreference.com/enfr/afraid][/əˈfreɪd/]]). For example: Don't
+      be afraid, I'll protect you. (N'aie pas peur, je te protègerai.)
+   7. Long vowel [iː] as in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
+      become a parent you will be in charge of feeding your
+      children. (Lorsque tu deviens parent tu deviens responsable de
+      nourrir tes enfants.)
+   8. Long vowel [ɑː] as in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I have
+      never noticed a real difference between 1st and 2nd class in this
+      train. (Je n'ai jamais remarqué de réelle différence entre la
+      1ère et la 2de classe dans ce train.)
+   9. Long vowel [ɔː] as in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
+      rather walk instead of taking the bus. (Tu devrais plutôt
+      marcher au lieu de prendre le bus.)
+  10. Long vowel [uː] as in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
+      surprising to observe how quickly fast food has become usual in France. (C'est
+      surprenant de voir comment la restauration rapide est rapidement devenue
+      une habitude en France.) 
