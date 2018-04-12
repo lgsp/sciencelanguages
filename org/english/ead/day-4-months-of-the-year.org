@@ -117,7 +117,7 @@
      | [[https://en.oxforddictionaries.com/definition/arm][arm]]     | [[http://www.wordreference.com/enfr/arm][/ɑːm/]]     |
      | [[https://en.oxforddictionaries.com/definition/father][father]]  | [[http://www.wordreference.com/enfr/father][/ˈfɑːðə/]]  |
 
-* New sound 3: [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][The long vowel {ɔː}]] as in:
+* New sound 3: [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][The long vowel {ɔː}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
