@@ -147,7 +147,7 @@
 * Other lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/tree/master/org/english/ead/day-5-seasons-of-the-year.org][Seasons of the Year]]
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Days of the Week]]
-  + + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
 * If you want to go further
   Here are some addtionnal resources:
 ** YouTube
