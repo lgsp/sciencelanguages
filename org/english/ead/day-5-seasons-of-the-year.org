@@ -20,7 +20,7 @@
   |      3 | Autumn (UK) / Fall (US) | Automne   |
   |      4 | Winter                  | Hiver     |
   
-* Seasons in a Year
+* Seasons of the Year
   Each time I refer to the Northern Hemisphere I'm talking about France and each time I refer to the Southern Hemisphere I'm talking about New Zealand.
 ** Spring
    + Northern Hemisphere :: Spring starts March the twenty-first and ends
