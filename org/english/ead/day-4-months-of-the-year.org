@@ -1,4 +1,4 @@
-#+TITLE: Months of the year 
+#+TITLE: Months of the Year 
 #+AUTHOR: Laurent Garnier
 
 * Introduction
@@ -11,7 +11,7 @@
   + Laurent :: Yes. This happens every year in France. But this year the French are excited to support their national team at the Football World Cup in Russia, which will happen in June. 
   + Stacy :: So let's talk about the months of the year!
 
-* Months of the year 
+* Months of the Year 
   
   | Months | English   | Français  |       Number of days |
   |--------+-----------+-----------+----------------------|
@@ -39,7 +39,7 @@
    8. In which month do Germans celebrate beer?
    9. When does summer end (in France)?
      
-* Review sounds from [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][lesson 1]]
+* Review Sounds from [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][Lesson 1]]
   + [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
      
      | English | Phonetics |
@@ -61,7 +61,7 @@
      | [[https://en.oxforddictionaries.com/definition/november][November]]  | [[http://www.wordreference.com/enfr/november][/nəʊˈvɛmbə/]] |
      | [[https://en.oxforddictionaries.com/definition/december][December]]  | [[http://www.wordreference.com/enfr/december][/dɪˈsɛmbə/]]  |
      
-* Review sounds from [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][lesson 2]]
+* Review Sounds from [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Lesson 2]]
   + [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][The short vowel {ʊ}]] as in:
 
      | English | Phonetics |
@@ -91,7 +91,7 @@
   Complete each table in order to get seven items (one of them already has
   eight items).
 
-* New sound 1: [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][The long vowel {iː}]] as in:
+* New Sound 1: [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][The Long Vowel {iː}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -103,7 +103,7 @@
      | [[https://en.oxforddictionaries.com/definition/sea][sea]]     | [[http://www.wordreference.com/enfr/sea][/siː/]]     |
      | [[https://en.oxforddictionaries.com/definition/bee][bee]]     | [[http://www.wordreference.com/enfr/bee][/biː/]]     |
 
-* New sound 2: [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][The long vowel {ɑː}]] as in:
+* New Sound 2: [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][The Long Vowel {ɑː}]] as in:
      
      | English | Phonetics |
      |---------+-----------|
@@ -115,7 +115,7 @@
      | [[https://en.oxforddictionaries.com/definition/arm][arm]]     | [[http://www.wordreference.com/enfr/arm][/ɑːm/]]     |
      | [[https://en.oxforddictionaries.com/definition/father][father]]  | [[http://www.wordreference.com/enfr/father][/ˈfɑːðə/]]  |
 
-* New sound 3: [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][The long vowel {ɔː}]] as in:
+* New Sound 3: [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][The Long Vowel {ɔː}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -142,11 +142,11 @@
 * Solutions: Exercise 2
    Read the [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][previous]] [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][lessons]] again.
 
-* Other lessons
+* Other Lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/tree/master/org/english/ead/day-5-seasons-of-the-year.org][Seasons of the Year]]
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Days of the Week]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-* If you want to go further
+* If You Want To Go Further
   Here are some addtionnal resources:
 ** YouTube
    + [[https://youtu.be/XLYG0K-pXWo][How did the months get their names?]]
