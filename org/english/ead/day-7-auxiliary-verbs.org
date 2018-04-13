@@ -168,7 +168,7 @@
    1. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
    2. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
    3. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
-  4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]]) 
+   4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]]) 
 ** Diphthongs
   1. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
   2. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
