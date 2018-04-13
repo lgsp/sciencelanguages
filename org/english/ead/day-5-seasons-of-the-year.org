@@ -144,7 +144,7 @@
    3. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]] as in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
       rather walk instead of taking the bus. (Tu devrais plutôt
       marcher au lieu de prendre le bus.)
-  4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]] as in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
+   4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]] as in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
       surprising to observe how quickly fast food has become usual in France. (C'est
       surprenant de voir comment la restauration rapide est rapidement devenue
       une habitude en France.) 
