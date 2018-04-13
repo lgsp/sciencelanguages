@@ -44,7 +44,7 @@
    + Southern Hemisphere :: Winter starts June the twenty-first
         and ends September the twenty-first.
 
-* Countries without the Four-Season System
+* Countries Without The Four-Season System
   Some countries do not share the four-season system, for instance in
   India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
   details). Also tropical areas, like the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details), have only two main seasons; in desert areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
@@ -93,12 +93,13 @@
       fourteenth to July the fifteenth. Which season will it be there?
       And in New Zealand?
 * Exercise 2
-   Give an example for each 6 short vowels and each 4 long vowels.
-* Other lessons
+   1. Give an example for each 6 short vowels.
+   2. Give an example for each 4 long vowels.
+* Other Lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-6-time.org][Time]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-4-months-of-the-year.org][Months of the Year]]
-* If you want to go further
+* If You Want To Go Further
   Here are some additional resources:
   + [[https://youtu.be/DD_8Jm5pTLk][Reasons for the seasons]]
   + [[https://youtu.be/WgHmqv_-UbQ][Why Do We Have Different Seasons?]] 
@@ -115,6 +116,7 @@
       Summer as in other countries in the Northern Hemisphere.
       And in New Zealand? Winter like other countries in the Southern Hemisphere.
 * Solutions: Exercice 2
+** Short Vowels
    1. [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][Short vowel {ɛ}]] as in [[https://en.oxforddictionaries.com/definition/trend][trend]] ([[http://www.wordreference.com/enfr/Trend][/trɛnd/]]). For example: I don't like the
       trend on this platform. (Je n'aime pas la tendance sur cette plate-forme.)
    2. [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][Short vowel {æ}]] as in [[https://en.oxforddictionaries.com/definition/brand][brand]] ([[http://www.wordreference.com/enfr/brand][/brænd/]]). For example: I like
@@ -130,18 +132,19 @@
       verrouiller la porte lorsque tu quittes la maison.)
    6. [[http://doyouspeakenglish.fr/mid-central-vowel/][Short vowel {ə}]] as in [[https://en.oxforddictionaries.com/definition/afraid][afraid]] ([[http://www.wordreference.com/enfr/afraid][/əˈfreɪd/]]). For example: Don't
       be afraid, I'll protect you. (N'aie pas peur, je te protègerai.)
-   7. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]] as in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
+** Long Vowels
+   1. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]] as in [[https://en.oxforddictionaries.com/definition/feed][feed]] ([[http://www.wordreference.com/enfr/feed][/fiːd/]]). For example: When you
       become a parent you will be in charge of feeding your
       children. (Lorsque tu deviens parent tu deviens responsable de
       nourrir tes enfants.)
-   8. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]] as in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I have
+   2. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]] as in [[https://en.oxforddictionaries.com/definition/class][class]] ([[http://www.wordreference.com/enfr/class][/klɑːs/]]). For example: I have
       never noticed a real difference between 1st and 2nd class in this
       train. (Je n'ai jamais remarqué de réelle différence entre la
       1ère et la 2de classe dans ce train.)
-   9. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]] as in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
+   3. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]] as in [[https://en.oxforddictionaries.com/definition/walk][walk]] ([[http://www.wordreference.com/enfr/walk][/wɔːk/]]). For example: You should
       rather walk instead of taking the bus. (Tu devrais plutôt
       marcher au lieu de prendre le bus.)
-  10. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]] as in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
+  4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]] as in [[https://en.oxforddictionaries.com/definition/food][food]] ([[http://www.wordreference.com/enfr/food][/fuːd/]]). For example: It's very
       surprising to observe how quickly fast food has become usual in France. (C'est
       surprenant de voir comment la restauration rapide est rapidement devenue
       une habitude en France.) 
