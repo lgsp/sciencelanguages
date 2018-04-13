@@ -89,7 +89,7 @@
      
 * Exercise 2
   Complete each table in order to get seven items (one of them already has
-  eight items.).
+  eight items).
 
 * New sound 1: [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][The long vowel {iː}]] as in:
 
@@ -132,7 +132,7 @@
       beginning of January
    3. What is the date for Fool's Day? April first (see [[https://en.wikipedia.org/wiki/April_Fools%2527_Day][April Fool's Day]])
    4. When is Valentine's Day?  February fourteenth
-   5. When does spring starts (in France)? March twenty-first
+   5. When does spring start (in France)? March twenty-first
    6. Which month has the same spelling as a modal verb? May
    7. Which names of the months are derived from Roman Emperors' names? July
       from Julius Ceasar and August from Augustus
