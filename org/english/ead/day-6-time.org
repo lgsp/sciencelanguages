@@ -20,19 +20,19 @@
    5. How do you say 11:00?
    6. How do you say 12:00?
   
-* Before Half: Use the Word Past 
+* Before Half: Use the Word PAST 
   
   | Fractions | English      | Français             |
   |-----------+--------------+----------------------|
-  | 1/2       | half past    | et demie             |
-  | 1/4       | quarter past | et quart ou un quart |
+  | 1/2       | half *past*    | et demie             |
+  | 1/4       | quarter *past* | et quart ou un quart |
   
 * Examples
-   1. What's the time please? It's quarter past one, 1:15
-   2. What time is it please? It's half past two, 2:30
-   3. What's the time please? It's five past three, 3:05
-   4. What time is it please? It's ten past four, 4:10
-   5. What's the time please? It's twenty past five, 5:20
+   1. What's the time please? It's quarter *past* one, 1:15
+   2. What time is it please? It's half *past* two, 2:30
+   3. What's the time please? It's five *past* three, 3:05
+   4. What time is it please? It's ten *past* four, 4:10
+   5. What's the time please? It's twenty *past* five, 5:20
 
 * Exercise 2
    1. How do you say 6:25?
@@ -41,18 +41,18 @@
    4. How do you say 9:15?
    5. How do you say 10:20?
 
-* After Half: Use the Word to
+* After Half: Use the Word TO
 
     | Fraction  | English    | Français       |
     |-----------+------------+----------------|
-    | 1/4       | quarter to | moins le quart |
+    | 1/4       | quarter *to* | moins le quart |
    
 * Examples
-   1. What time is it please? It's twenty to twelve, 11:40
-   2. What's the time please? It's quarter to three, 2:45
-   3. What time is it please? It's twenty five to four, 3:35
-   4. What's the time please? It's ten to six, 5:50
-   5. What time is it please? It's five to seven, 6:55
+   1. What time is it please? It's twenty *to* twelve, 11:40
+   2. What's the time please? It's quarter *to* three, 2:45
+   3. What time is it please? It's twenty five *to* four, 3:35
+   4. What's the time please? It's ten *to* six, 5:50
+   5. What time is it please? It's five *to* seven, 6:55
 
 * Exercise 3
   1. How do you say 6:45?
@@ -102,8 +102,10 @@
   12:00 am is called midnight (middle of the night).
 
 * Exercise 5
-   Give an example for each sound you've seen so far (6 short vowels,
-   4 long vowels, and 2 diphthong vowels).
+   Give an example for each sound you've seen so far:
+   + 6 short vowels
+   + 4 long vowels
+   + 2 diphthong vowels
 
 * The [[http://doyouspeakenglish.fr/diphthong-1-7/][diphthong vowel {eɪ}]] as in:
 
@@ -169,18 +171,21 @@
       without abbreviation. It's sixteen fifty, 16:50
 
 * Solutions: Exercise 5
+** Short Vowels
    1. [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][Short vowel {ɛ}]], for example: [[https://en.oxforddictionaries.com/definition/apprehend][apprehend]] ([[http://www.wordreference.com/enfr/apprehend][/ˌæprɪˈhɛnd/]])
    2. [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][Short vowel {æ}]], for example: [[https://en.oxforddictionaries.com/definition/nap][nap]] ([[http://www.wordreference.com/enfr/nap][/næp/]]) 
    3. [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][Short vowel {ʌ}]], for example: [[https://en.oxforddictionaries.com/definition/but][but]] ([[http://www.wordreference.com/enfr/but][/bʌt/]]) 
    4. [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][Short vowel {ʊ}]], for example: [[https://en.oxforddictionaries.com/definition/hood][hood]] ([[http://www.wordreference.com/enfr/hood][/hʊd/]])
    5. [[http://doyouspeakenglish.fr/open-back-rounded-vowel/][Short vowel {ɒ}]], for example: [[https://en.oxforddictionaries.com/definition/lob][lob]] ([[http://www.wordreference.com/enfr/lob][/lɒb/]]) 
    6. [[http://doyouspeakenglish.fr/mid-central-vowel/][Short vowel {ə}]], for example: [[https://en.oxforddictionaries.com/definition/attend][attend]] ([[http://www.wordreference.com/enfr/attend][/əˈtɛnd/]])
-   7. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
-   8. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
-   9. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
-  10. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]])  
-  11. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
-  12. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
+** Long Vowels
+   1. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
+   2. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
+   3. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
+   4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]])  
+** Diphthongs
+  1. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
+  2. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
 
 * Other Lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-7-auxiliary-verbs.org][Auxiliary Verbs]] (Helping Verbs)
