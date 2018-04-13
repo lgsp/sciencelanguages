@@ -100,8 +100,8 @@
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-4-months-of-the-year.org][Months of the Year]]
 * If you want to go further
   Here are some additional resources:
-  + [[https://youtu.be/8ZjpI6fgYSY][Seasons Song]]
-  + [[https://youtu.be/owppK-GHPTU][Kids Vocabulary]]
+  + [[https://youtu.be/DD_8Jm5pTLk][Reasons for the seasons]]
+  + [[https://youtu.be/WgHmqv_-UbQ][Why Do We Have Different Seasons?]] 
   + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
 * Solutions
 ** Exercise 1
