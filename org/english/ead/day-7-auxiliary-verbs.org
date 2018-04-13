@@ -1,7 +1,7 @@
 #+TITLE: Auxiliary Verbs (Helping Verbs)
 #+AUTHOR: Laurent Garnier
 
-* To be 
+* To Be 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/be][here]].
 * Progressive (continuous) form
 ** Examples 
@@ -11,7 +11,7 @@
     Change the following sentences into progressive (continuous) form:
     1. He teaches English.
     2. They played football yesterday.
-* Passive voice
+* Passive Voice
 ** Examples
     1. Argentina was beaten by Germany in the final.
     2. General examples were given in the previous lesson.
@@ -23,10 +23,10 @@
     2. I do these courses in order to share my English tips and tricks
        with you.
     
-* To have 
+* To Have 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/have][here]].
 
-* Present perfect
+* Present Perfect
 ** Examples
     1. I have not been to South Africa yet.
     2. She has done great work so far. / She has done *a* great job so far. (Usually natives use job.)
@@ -34,7 +34,7 @@
      Conjugate the verb between parentheses in the present perfect tense:
      1. I (to make) some mistakes so far. 
      2. He (to play) for Arsenal for four years.
-* Past perfect    
+* Past Perfect    
 ** Examples
     1. I had never been to America before the age of fifteen.
     2. She had worked in this laboratory until she finished her PhD last year.
@@ -43,7 +43,7 @@
      1. I (to make) some mistakes before I checked the previous lesson
         yesterday. 
      2. He (to play) for Arsenal for four years, before retiring last year.
-* To do 
+* To Do 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/do][here]].
 * Questions
 ** Examples
@@ -55,7 +55,7 @@
     1. He likes football.
     2. They work on Sunday.
     3. I bought this book yesterday.
-* Short answers
+* Short Answers
 ** Examples
     1. Do you know the Capital of Peru? Yes I do.
     2. Does he go to England? Yes he does.
@@ -171,11 +171,11 @@
   13. [[http://doyouspeakenglish.fr/diphthong-1-7/][Diphthong vowel {eɪ}]], as in [[https://en.oxforddictionaries.com/definition/place][place]] ([[http://www.wordreference.com/enfr/place][/pleɪs/]])
   14. [[http://doyouspeakenglish.fr/diphthong-2-7/][Diphthong vowel {ɔɪ}]], as in [[https://en.oxforddictionaries.com/definition/boil][boil]] ([[http://www.wordreference.com/enfr/boil][/bɔɪl/]])
   15. [[http://doyouspeakenglish.fr/diphthong-3-7/][Diphthong vowel {aɪ}]], as in [[https://en.oxforddictionaries.com/definition/fry][fry]] ([[http://www.wordreference.com/enfr/fry][/fraɪ/]])
-* Other lessons
+* Other Lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-6-time.org][Time]]
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-and-present-continuous.org][Present simple and present continuous]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-* If you want to go further
+* If You Want To Go Further
   Here are some additional resources:
 
   + [[https://youtu.be/nmVN-5oOGy0][English Jade]]
