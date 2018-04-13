@@ -182,11 +182,11 @@
   11. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
   12. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
 
-* Other lessons
+* Other Lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-7-auxiliary-verbs.org][Auxiliary Verbs]] (Helping Verbs)
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-5-seasons-of-the-year.org][Seasons of the year]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-* If you want to go further
+* If You Want To Go Further
   Here are some additional resources:
   + [[https://youtu.be/5TbUxGZtwGI][Time: The History & Future of Everything]]
   + [[https://youtu.be/URK9Z2G71j8][A Brief History of Timekeeping]]
