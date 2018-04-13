@@ -5,9 +5,8 @@
   + Laurent :: Hi Stacy!
   + Stacy :: Salut Laurent !
   + Laurent :: How are you today? 
-  + Stacy :: I'm fine and you?
-  + Laurent :: I'm fine too because April is a nice month. And next
-               month, a lot of events will come in France.
+  + Stacy :: I'm fantastic, thanks. And you?
+  + Laurent :: I'm fine, too, because April is a nice month. And, next month, a lot will be happening in France.
   + Stacy :: Yes, you're right. There will be the Festival de Cannes.
   + Laurent :: Yes. This happens every year in France. But this year the French are excited to support their national team at the Football World Cup in Russia, which will happen in June. 
   + Stacy :: So let's talk about the months of the year!
