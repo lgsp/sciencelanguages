@@ -1,0 +1,182 @@
+#+TITLE: Auxiliary Verbs (Helping Verbs)
+#+AUTHOR: Laurent Garnier
+
+* To be 
+  You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/be][here]].
+* Progressive (continuous) form
+** Examples 
+    1. You are reading this text. 
+    2. I was writing this text before I uploaded it online.
+* Exercise 1
+    Change the following sentences into progressive (continuous) form:
+    1. He teaches English.
+    2. They played football yesterday.
+* Passive voice
+** Examples
+    1. Argentina was beaten by Germany in the final.
+    2. General examples were given in the previous lesson.
+    3. This course is written by me.
+    4. You are taught by me. 
+* Exercise 2
+    Change the following sentences into the passive voice:
+    1. You chose this course.
+    2. I do these courses in order to share my English tips and tricks
+       with you.
+    
+* To have 
+  You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/have][here]].
+
+* Present perfect
+** Examples
+    1. I have not been to South Africa yet.
+    2. She has done great work so far. / She has done *a* great job so far. (Usually natives use job.)
+* Exercise 3
+     Conjugate the verb between parentheses in the present perfect tense:
+     1. I (to make) some mistakes so far. 
+     2. He (to play) for Arsenal for four years.
+* Past perfect    
+** Examples
+    1. I had never been to America before the age of fifteen.
+    2. She had worked in this laboratory until she finished her PhD last year.
+* Exercise 4
+     Conjugate the verb between parentheses in the past perfect tense:
+     1. I (to make) some mistakes before I checked the previous lesson
+        yesterday. 
+     2. He (to play) for Arsenal for four years, before retiring last year.
+* To do 
+  You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/do][here]].
+* Questions
+** Examples
+    1. Does she speak English?
+    2. Do you like this course?
+    3. Did you learn English at school?
+* Exercise 5
+    Change these sentences into questions:
+    1. He likes football.
+    2. They work on Sunday.
+    3. I bought this book yesterday.
+* Short answers
+** Examples
+    1. Do you know the Capital of Peru? Yes I do.
+    2. Does he go to England? Yes he does.
+    3. Did you go to the cinema last night? Yes I did.
+* Exercise 6
+    Give the short answers to these questions:
+    1. Do you understand what I've written so far?
+    2. Does he explain well in this lesson?
+    3. Did he do all this work alone?
+* Negation
+** Examples
+    1. I like this movie. => I do not (don't) like this movie.
+    2. She cooks very well. => She does not (doesn't) cook very well.
+    3. He played for Newcastle. => He did not (didn't) play for Newcastle.
+* Exercise 7
+    Negate the following sentences:
+    1. You work hard every day.
+    2. He plays very well.
+    3. They ate out twice last week. 
+* Emphasis
+** Examples
+    1. Do you like this movie? Yes I do like this movie. (do is optional, but here, its presence shows the insistance)
+    2. Does she play the guitar? Yes she does play the guitar.
+    3. Did we work together before? Yes we did work together five years ago.
+* Exercise 8
+    Answer with emphasis:
+    1. Do you work on Sunday?
+    2. Does he insist on auxiliary verbs in this lesson?
+    3. Did you like the previous lesson?
+
+* Exercise 9
+   Give an example for each sound that you've seen so far (6 short
+   vowels, 4 long vowels, 5 diphthong vowels).
+
+* The [[http://doyouspeakenglish.fr/diphthong-4-7/][Diphthong Vowel {əʊ}]] as in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/no][no]]      | [[http://www.wordreference.com/enfr/no][/nəʊ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/don't][don't]]   | [[http://www.wordreference.com/enfr/don't][/dəʊnt/]]   |
+     | [[https://en.oxforddictionaries.com/definition/stone][stone]]   | [[http://www.wordreference.com/enfr/stone][/stəʊn/]]   |
+     | [[https://en.oxforddictionaries.com/definition/alone][alone]]   | [[http://www.wordreference.com/enfr/alone][/əˈləʊn/]]  |
+     | [[https://en.oxforddictionaries.com/definition/hole][hole]]    | [[http://www.wordreference.com/enfr/hole][/həʊl/]]    |
+     | [[https://en.oxforddictionaries.com/definition/bowl][bowl]]    | [[http://www.wordreference.com/enfr/bowl][/bəʊl/]]    |
+     | [[https://en.oxforddictionaries.com/definition/chrome][chrome]]  | [[http://www.wordreference.com/enfr/chrome][/krəʊm/]]   |
+     
+* The [[http://doyouspeakenglish.fr/diphthong-5-7/][Diphthong Vowel {aʊ}]] as in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/mouth][mouth]]   | [[http://www.wordreference.com/enfr/mouth][/maʊθ/]]    |
+     | [[https://en.oxforddictionaries.com/definition/house][house]]   | [[http://www.wordreference.com/enfr/house][/haʊs/]]    |
+     | [[https://en.oxforddictionaries.com/definition/brown][brown]]   | [[http://www.wordreference.com/enfr/brown][/braʊn/]]   |
+     | [[https://en.oxforddictionaries.com/definition/couch][couch]]   | [[http://www.wordreference.com/enfr/couch][/kaʊtʃ/]]   |
+     | [[https://en.oxforddictionaries.com/definition/foul][foul]]    | [[http://www.wordreference.com/enfr/foul][/faʊl/]]    |
+
+* Solutions: Exercise 1
+    Change the following sentences into progressive form:
+    1. He teaches English. => He is teaching English.
+    2. They played football yesterday. => They were playing football
+       yesterday.
+* Solutions: Exercise 2
+    Change the following sentences into the passive voice:
+    1. You chose this course. => This course was chosen by you.
+    2. I do these courses in order to share my English tips and tricks
+       with you. => These courses are done by me in order to share my
+       English tips and tricks with you.
+    3. The dog is biting the man. => The man is being beaten by the dog.
+* Solutions: Exercise 3
+     Conjugate the verb between parentheses in the present perfect tense:
+     1. I have made ('ve made) some mistakes so far. 
+     2. He has played ('s played) for Arsenal for four years.
+* Solutions: Exercise 4
+     Conjugate the verb between parentheses in the past perfect tense:
+     1. I had made ('d made) some mistakes before I checked the previous lesson
+        yesterday. 
+     2. He had played ('d played) for Arsenal for four years, before retiring last year.
+* Solutions: Exercise 5
+    Change these sentences into questions:
+    1. He likes football. => Does he like football?
+    2. They work on Sundays. => Do they work on Sundays?
+    3. I bought this book yesterday. => When did you buy this book?
+* Solutions: Exercise 6
+    Give the short answers to these questions:
+    1. Do you understand what I've written so far? Yes I do.
+    2. Does he explain well in this lesson? Yes he does.
+    3. Did he do all this work alone? No he didn't.
+* Solutions: Exercise 7
+    Negate the following sentences:
+    1. You work hard every day. => You do not (don't) work hard every day.
+    2. He plays very well. => He does not (doesn't) play very well.
+    3. They ate out twice last week. => They did not (didn't) eat out
+       twice last week.
+* Solutions: Exercise 8
+    Answer with emphasis:
+    1. Do you work on Sunday? => Yes I do work on Sunday.
+    2. Does he insist on auxiliary verbs in this lesson? => Yes he does
+       insist on auxiliary verbs in this lesson.
+    3. Did you like the previous lesson? => Yes I did like the previous lesson.
+* Solutions: Exercise 9
+   1. [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][Short vowel {ɛ}]], for example: [[https://en.oxforddictionaries.com/definition/apprehend][apprehend]] ([[http://www.wordreference.com/enfr/apprehend][/ˌæprɪˈhɛnd/]])
+   2. [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][Short vowel {æ}]], for example: [[https://en.oxforddictionaries.com/definition/nap][nap]] ([[http://www.wordreference.com/enfr/nap][/næp/]]) 
+   3. [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][Short vowel {ʌ}]], for example: [[https://en.oxforddictionaries.com/definition/but][but]] ([[http://www.wordreference.com/enfr/but][/bʌt/]]) 
+   4. [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][Short vowel {ʊ}]], for example: [[https://en.oxforddictionaries.com/definition/hood][hood]] ([[http://www.wordreference.com/enfr/hood][/hʊd/]])
+   5. [[http://doyouspeakenglish.fr/open-back-rounded-vowel/][Short vowel {ɒ}]], for example: [[https://en.oxforddictionaries.com/definition/lob][lob]] ([[http://www.wordreference.com/enfr/lob][/lɒb/]]) 
+   6. [[http://doyouspeakenglish.fr/mid-central-vowel/][Short vowel {ə}]], for example: [[https://en.oxforddictionaries.com/definition/attend][attend]] ([[http://www.wordreference.com/enfr/attend][/əˈtɛnd/]])
+   7. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
+   8. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
+   9. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
+  10. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]])  
+  11. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
+  12. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
+  13. [[http://doyouspeakenglish.fr/diphthong-1-7/][Diphthong vowel {eɪ}]], as in [[https://en.oxforddictionaries.com/definition/place][place]] ([[http://www.wordreference.com/enfr/place][/pleɪs/]])
+  14. [[http://doyouspeakenglish.fr/diphthong-2-7/][Diphthong vowel {ɔɪ}]], as in [[https://en.oxforddictionaries.com/definition/boil][boil]] ([[http://www.wordreference.com/enfr/boil][/bɔɪl/]])
+  15. [[http://doyouspeakenglish.fr/diphthong-3-7/][Diphthong vowel {aɪ}]], as in [[https://en.oxforddictionaries.com/definition/fry][fry]] ([[http://www.wordreference.com/enfr/fry][/fraɪ/]])
+* Other lessons
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-6-time.org][Time]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-and-present-continuous.org][Present simple and present continuous]]
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
+* If you want to go further
+  Here are some additional resources:
+
+  + [[https://youtu.be/nmVN-5oOGy0][English Jade]]
+  + [[https://youtu.be/A2ncygNMaFo][mmmEnglish]]
