@@ -1,7 +1,7 @@
-#+TITLE: How to tell the time in English?
+#+TITLE: How to Tell the Time in English?
 #+AUTHOR: Laurent Garnier
 
-* Full hours
+* Full Hours
 
   For full hours you just add o'clock (of the clock) after the
   number. 
@@ -20,7 +20,7 @@
    5. How do you say 11:00?
    6. How do you say 12:00?
   
-* Before half: use the word past 
+* Before Half: Use the Word Past 
   
   | Fractions | English      | Français             |
   |-----------+--------------+----------------------|
@@ -41,7 +41,7 @@
    4. How do you say 9:15?
    5. How do you say 10:20?
 
-* After half: use the word to
+* After Half: Use the Word to
 
     | Fraction  | English    | Français       |
     |-----------+------------+----------------|
@@ -61,7 +61,7 @@
   4. How do you say 9:55?
   5. How do you say 10:50?
 
-* The 1 to 12 system
+* The 1 to 12 System
    Traditionally, English speakers used the 1 to 12 system with two
    Latin abbreviations in order to specify whether the time is in the
    morning (am stands for ante meridian) or in the afternoon (pm stands for post meridian). 
@@ -74,7 +74,7 @@
        Note: You can also answer: It's half past three in the afternoon.
     4. What's the time please? It's nine fifty-four am, 9:54 am.
        Note: You can also say: It's six minutes to ten in the morning. 
-* The 0 to 23 system
+* The 0 to 23 System
    Nowadays electronic devices generally use the 0 to 23
    system without the Latin abbreviations but people use both. 
 * Examples 
@@ -82,7 +82,7 @@
     2. What time does the plane depart? It departs at zero four fifteen, 04:15
     3. What time does the boat leave? It leaves fifteen thiry, 15:30
     4. What time does the subway come in? It comes in twenty-one fifty-four, 21:54
-* Without the half division
+* Without the Half Division
    Nowadays with electronic devices everywhere some people sometimes use a literal
    description of the numbers
 * Examples 
@@ -95,7 +95,7 @@
       (half division and Latin abbreviation).
    2. It's ten to five pm. Express it just by describing the numbers
       without the abbreviation.
-* Noon and midnight
+* Noon and Midnight
   There are also a specific cases for twelve. A day last 24 hours,
   so 12 is in the middle. Therefore before 12 is the morning and
   after 12 is the afternoon, because 12:00 pm is called noon or midday.
