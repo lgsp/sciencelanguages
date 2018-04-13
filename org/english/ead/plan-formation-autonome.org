@@ -1,0 +1,541 @@
+#+TITLE: Plan de la présentation de mes formations
+#+AUTHOR: Laurent Garnier
+
+* Jour 1
+  Intro: presentation of the course and phonetic sounds and stress
+     + [[https://youtu.be/JwTDPu2TE6k][Sounds of English]] < 4'
+     + [[https://youtu.be/XlSeYt6PN6s][IPA]] Vowels < 9'
+     + [[https://youtu.be/b08tyfNfL7M][Sounds of the Alphabet]] < 10'
+     + [[https://youtu.be/bIBSjVw0j_I][Phonetic, Spelling and Sound in English]] < 16'
+     + [[https://youtu.be/NzHVmX1pnc8][The Alphabet & Letter Sounds]] < 7'
+     + [[https://www.youtube.com/watch?v=NzHVmX1pnc8&list=PL9BB1D7256440E08B][Playlist]] 12 videos
+     + [[https://www.youtube.com/watch?v=bIBSjVw0j_I&list=PLPtv7iQCOy9qmCWyWUUA0cuIjyKUMR5wR][Playlist]] 20 videos
+     + L'accent tonique en anglais [[https://youtu.be/580zORPK98A]]
+     + Word Stress [[https://youtu.be/65AgbiwQ6ko]]
+     + Syllable stress [[https://youtu.be/XAIoSYqzGkY][mmmEnglish]]
+     + Learning advanced English and How to Speak without Thinking or
+       Translating [[https://youtu.be/XjT29tOmXlc][To Fluency]]
+     + Weekly technic: [[https://youtu.be/EvwwRUpWSrg][Speak English With Tiffani]]
+     + 14 sons typiquement anglais qu'on n'a pas en français :
+       [[https://bilingueanglais.com/blog/855/sons-anglais/][Bilingue Anglais]]
+  
+* Jour 2
+  Les nombres :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/numbers.org][numbers]] 
+  + [[https://youtu.be/e0dJWfQHF8Y][The Big Numbers Song]] 
+  + [[https://youtu.be/QrsFohyz_LU][6 common mistakes]] 
+* Jour 3
+  Les jours de la semaine :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/day_of_the_week.org][days of the week]] 
+  + [[https://youtu.be/LIQsyHoLudQ][TheLearningStation]] 
+  + [[https://youtu.be/mXMofxtDPUQ][The Singing Walrus]]
+
+* Jour 4
+  Les mois de l'année :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/months_of_the_year.org][months of the year]]
+  + [[https://youtu.be/lPeAo1hz8GA][TheLearningStation]] 
+  + [[https://youtu.be/Fe9bnYRzFvk][The Singing Walrus]]
+* Jour 5
+  Les saisons de l'année :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/seasons_of_the_year.org][Seasons of the Year]]
+  + [[https://youtu.be/8ZjpI6fgYSY][Seasons Song Video]] 
+* Jour 6
+  Les temps, l'heure :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/hours.org][Time]]
+  + [[https://youtu.be/zEKLqgvUSDM][Expressing Time in English]] 
+  + [[https://youtu.be/fq2tRfHu5s8][Telling the Time in English]] 
+  + [[https://youtu.be/IBBQXBhSNUs][How to Tell Time]] [[https://youtu.be/ub62GCUMZZo][Telling the time in English]]
+* Jour 7
+  Les auxiliaires :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/auxiliary_verbs.org][Auxiliary Verbs]] (helping verbs)
+  + [[https://youtu.be/nmVN-5oOGy0][Auxilary]]
+  + [[https://youtu.be/A2ncygNMaFo][Helping verbs]] 
+  + do :: simple tenses
+  + be :: continuous tenses
+  + have :: perfect tenses
+* Jour 8
+  Le présent simple et le présent continu :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-and-present-continuous.org][Present Simple and Present Continuous]]
+  + [[https://youtu.be/AEBRIBtq7q0][Anglo-link]] 
+  + [[https://youtu.be/X8lu4_5F0hg][present simple]] 
+  + [[https://youtu.be/rjWd8U-6jbA][present continuous]] 
+* Jour 9
+  Le passé simple et passé continu :
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-simple-and-past-continuous.org][past simple and past continuous]]
+  + [[https://youtu.be/_XP4le29BAM][englishgrammarspot]] 
+  + [[https://youtu.be/LtVkKpBWy54][MrSkypeLessons]]
+  + [[https://youtu.be/e0q24_bB_54][Rebecca]] 
+  + [[https://youtu.be/6IilS4SEqyA][JamesESL]]
+* Jour 10
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-perfect-and-present-perfect-continuous.org][Present perfect and present perfect continuous]]
+  + [[https://youtu.be/7ZWXtyavnMw][JamesESL]]
+  + [[https://youtu.be/TVVn9MddtmM][mmmEnglish]]
+  + present perfect :: [[https://youtu.be/XGw2-p2WuJk][Sep 2017]], [[https://youtu.be/8W2v-WWQrkA][Apr 2017]] 
+  + present perfect continuous :: [[https://youtu.be/xBfpZISWnEs][Jun 2016]], [[https://youtu.be/kLxnRQZrhc0][Anglo-link]]
+* Jour 11
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-perfect-and-past-perfect-continuous.org][Past perfect and past perfect continuous]]
+  + [[https://youtu.be/7Mni3yDpIWo][Ronnie]] 
+  + [[https://youtu.be/9QU5bqql8Kg][Rebecca]] 
+* Jour 12
+  Future simple and Future continuous :
+  + [[https://youtu.be/48kdsro9rzM][Anglo-link]] 
+  + [[https://youtu.be/0-6ZBRkZKWI][Emma]] 
+  + [[https://youtu.be/N6ejjMWsFfg][Ronnie]] 
+  + [[https://youtu.be/J5pjf1n0viE][Gabby]]
+* Jour 13 
+  Future perfect and Future perfect continuous
+  + [[https://youtu.be/48kdsro9rzM][Anglo-link]] 
+  + [[https://youtu.be/vThJYl2nIxE][Anglopod]] 
+  + [[https://youtu.be/V7guoyHZ2L8][Holmwood]] 
+  + [[https://youtu.be/VEEpOoeY4ic][LearAmericanEnglishOnline]] 
+* Jour 14
+  Conditional present and conditional present progressive
+  + [[https://youtu.be/h-Np7dmvw0U][Anglo-link]] 
+  + [[https://youtu.be/hk1AvFgOsSo][Adam ]] 
+* Jour 15
+  Conditional perfect and conditional perfect progressive
+  + [[https://youtu.be/BEfuEu_wBBg][iswearenglish]] 
+  + [[https://youtu.be/2sRQaDzY9IY][LearnAmericanEnglishOnline]]
+  + [[https://youtu.be/bYcdBDJNLf0][Alex]]
+* Jour 16
+  Present subjunctive and past subjunctive
+  + [[https://youtu.be/-vefS0B1DIY][Adam]]
+  + [[https://youtu.be/Lp_PPRbcsCQ][Papa teach]] 
+  + [[https://youtu.be/BdmBd0NuoqM][Adam]] (writing)
+* Jour 17 
+  Past perfect subjunctive and imperative
+  + past perfect subjunctive :: [[https://youtu.be/InNKXBAcf04][iswearenglish]] [[https://youtu.be/BdmBd0NuoqM][Adam]] [[https://youtu.be/Rf9LhIDjKDw][Jun 2015]] 
+  + imperative :: [[https://youtu.be/qi2l1poRkfQ][JamesESL]] [[https://youtu.be/lDtaFNLov4Y][Alex]]
+* Jour 18
+  Part of the speech 
+** Part 1.1
+   + Noun ::  [[https://youtu.be/8sBYpxaDOPo][Learn English Lab]] [[https://youtu.be/YFUztCn_ldU][Crown Academy]] 
+   + Adjective ::  [[https://youtu.be/ZtbGbH64mJs][mmmEnglish]]  [[https://youtu.be/PfIpyLOJJXE][Crown Academy]] 
+* Jour 19
+  Part of the speech
+** Part 1.2
+   + Verb ::  [[https://youtu.be/XbLDYuTrTGI][English Pro]] [[https://youtu.be/jVBRti8-vg8][Brightstorm]] 
+   + Adverb ::  [[https://youtu.be/Yd_BOav7TRE][Anglo-link]] [[https://youtu.be/0HPKwhngB-U][Ronnie]] [[https://youtu.be/9PgFbTK2jUI][englishgrammarspot]] [[https://youtu.be/ZIA_Gp1RFWU][JamesESL]] 
+* Jour 20
+  Part of the speech
+** Part 1.3
+   + Pronoun ::  [[https://youtu.be/ZCrAJB4VohA][Learn English Lab]] [[https://youtu.be/_IK_0sIsfxg][Ronnie]] [[https://youtu.be/S-sv1XtYtBM][skoolplusplus]]
+* Jour 21
+  Part of the speech
+** Part 1.4
+   Final review of part 1
+* Jour 22
+  Part of the speech
+** Part 2.1
+   + Preposition ::  [[https://youtu.be/sN5H7YTo_IQ][JamesESL]] [[https://youtu.be/1cmF_VT_NV8][English Pro]] [[https://youtu.be/Hk5L6ny8fEU][Anglo-link]] [[https://youtu.be/XzkbcWh8s4w][mmmEnglish]]
+                    [[https://youtu.be/k8JRYf8vy2A][mmmEnglish]]
+   + Conjunction ::  [[https://youtu.be/-FdEaeD1MdY][Learn English Lab]] [[https://youtu.be/XYYUXskbX_c][JamesESL]] [[https://youtu.be/GrV5ziqPJtQ][Build your vocab]]
+* Jour 23
+  Part of the speech
+** Part 2.2
+   + Article ::  [[https://youtu.be/Cc5i5jnqM4g][Let's Talk]] [[https://youtu.be/3zJQoQLCeNo][Ronnie]] [[https://youtu.be/8CiA9BCRPBk][JamesESL]] [[https://youtu.be/uU-RbEEolw0][mmmEnglish]]
+   + Interjection ::  [[https://youtu.be/ybdrlkzCkyY][Lucy]] [[https://youtu.be/ERXmYiFD0tc][Gill]]
+* Jour 24
+  Part of the speech
+** Part 2.3
+   + Determiner ::  [[https://youtu.be/hu9b9mbpxuw][Joyce Gatchalian]] [[https://youtu.be/wdv59REiNZQ][Primary English Lab]]
+* Jour 25
+  Part of the speech
+** Part 2.4
+   Final review of part 2
+* Jour 26
+  Number and Gender
+* Jour 27
+  Irregular verbs with songs, emotional approach
+** Part [1/4]
+   First song:  [[https://youtu.be/gZzKe1BC2XU][song 1]] 
+* Jour 28
+  Irregular verbs with songs, emotional approach
+** Part [2/4]
+   Second song:  [[https://youtu.be/LmdK2PKoC9w][song 2]]
+* Jour 29
+  Irregular verbs with songs, emotional approach
+** Part [3/4]
+   Third song:  [[https://youtu.be/OfEm3iEgRDQ][song 3]]
+* Jour 30
+  Irregular verbs with songs, emotional approach
+** Part [4/4]
+   Fourth song:  [[https://youtu.be/ZdkHpxJ60b0][song 4]]
+* Jour 31
+  Irregular verbs by (logical) groups, analytical approach
+** Part [1/3]
+   Group 1:  [[https://youtu.be/fPTKESyRZs0][video 1]]
+* Jour 32
+  Irregular verbs by (logical) groups, analytical approach
+** Part [2/3]
+   Group 2:  [[https://youtu.be/fPTKESyRZs0][video 1]]
+* Jour 33
+  Irregular verbs by (logical) groups, analytical approach
+** Part [3/3]
+   Group 3:  [[https://youtu.be/Tl36XffSQ1o][video 2]]
+* Jour 34
+  Countries where English is spoken
+** Part [1/5]
+   Europe:  [[https://youtu.be/lxYhpoIgeQk][Countries and Capitals]]
+* Jour 35
+  Countries where English is spoken
+** Part [2/5]
+   America: 
+* Jour 36
+  Countries where English is spoken
+** Part [3/5]
+   Oceania
+* Jour 38
+  Countries where English is spoken
+** Part [4/5]
+   Commonwealth
+* Jour 39
+  Countries where English is spoken
+** Part [5/5]
+   Rest of the world
+* Jour 40 
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [1/8]
+   Identity: the foundations of British culture
+*** Geography
+    Britain: what is it and what does it look like?
+*** History
+**** Come in, make yourself at home
+     Celts, Saxons, Vikings and Normans
+**** The split personality takes shape
+**** The modern age
+     Empire, slavery and sacrifice
+*** Language and belonging
+**** Language lessons    
+     How the British talk
+**** Being British
+     I wish I'd never asked
+* Jour 41
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [2/8]
+   Literature and philosophy
+*** Literature  
+*** Philosophy
+
+* Jour 42
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [3/8]
+   Art, architecture and design
+*** Art and design 
+*** Architecture
+* Jour 43
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [4/8]
+   Performing arts
+*** Music
+*** Theatre, dance and comedy
+* Jour 44
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [5/8]
+   Cinema, photography and fashion
+*** Cinema
+*** Photography
+*** Fashion
+* Jour 45
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [6/8]
+   Media and communications
+*** Media
+*** Communications
+* Jour 46
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [7/8]
+   Food and drink
+*** Food
+*** Drink
+* Jour 47
+  Speak the culture Britain Be Fluent in British Life and Culture
+** Part [8/8]
+| Living Culture: the State Of Modern Britain | Divided Loyalties  |
+| How Britain Takes Its Religion              | Unwritten Rules    |
+| Cashing In                                  | Law And Order      |
+| Testing Times                               | Cricket To Conkers |
+| TimeOut: holidays, festivals and free time                       |
+* Jour 48
+  British or American English?
+
+  Word and Grammar Patterns
+** Verbs [1/17]
+*** Derivation   
+*** Form
+*** Verb phrases
+*** Functions
+* Jour 49
+  British or American English?
+
+  Word and Grammar Patterns
+** Determiners [2/17]
+*** Definite article
+*** Indefinite article
+*** Possessive construction
+*** No determiner versus some determiner
+*** Predeterminers and postdeterminers
+* Jour 50
+  British or American English?
+
+  Word and Grammar Patterns
+** Nouns [3/17]
+*** Derivation
+*** Form 
+*** Function
+*** Names and titles
+*** Genitive constructions
+* Jour 51
+  British or American English?
+
+  Word and Grammar Patterns
+** Pronouns [4/17]
+
+| Personal      | Impersonal |
+| Demonstrative | Relative   |
+| Interrogative | Indefinite |
+| Expletive     | Case       |
+
+* Jour 52
+  British or American English?
+
+  Word and Grammar Patterns
+** Adjectives [5/17]
+*** Derivation
+*** Frequency and collocation
+*** Comparison
+*** Adjective order
+
+* Jour 53
+  British or American English?
+
+  Word and Grammar Patterns
+** Adverbs [6/17]
+*** General
+*** Disjuncts
+*** Comparison
+*** Adverb order
+*** Adverbial particles
+
+* Jour 54
+  British or American English?
+
+  Word and Grammar Patterns
+** Qualifiers [7/17]
+*** Modifying adjectives or adverbs
+*** Modifying prepositional phrases
+*** Modifying comparative structures
+* Jour 55
+  British or American English?
+
+  Word and Grammar Patterns
+** Prepositions [8/17]
+*** Choice of preposition 
+*** Omission of any preposition 
+*** Omission of the prepositional object
+*** Prepositional phrase versus noun adjunct
+*** Order of numbers with by
+* Jour 56
+  British or American English?
+
+  Word and Grammar Patterns
+** Conjunctions [9/17]
+*** Coordinating conjunctions
+*** Subordinating conjunctions
+* Jour 57
+  British or American English?
+
+  Word and Grammar Patterns
+** Interjections [10/17]
+* Jour 58
+  British or American English?
+
+  Word and Grammar Patterns
+** Complementation [11/17]
+*** Complementation of verbs 
+*** Complementation of nouns 
+*** Complementation of adjectives 
+*** Complementation of adverbs
+* Jour 59
+  British or American English?
+
+  Word and Grammar Patterns
+** Mandative constructions [12/17]
+*** Mandative present indicative
+*** Mandative past indicative
+
+* Jour 60
+  British or American English?
+
+  Word and Grammar Patterns
+** Expanded predicates [13/17]
+*** Five "light" verbs in British and American
+*** Modification and complementation of the expanded predicate noun
+*** Other expanded-predicate-like constructions
+
+* Jour 61
+  British or American English?
+
+  Word and Grammar Patterns
+** Concord [14/17]
+*** Verb and pronoun concord with collective nouns
+*** Verb concord in other problematical cases
+
+* Jour 62
+  British or American English?
+
+  Word and Grammar Patterns
+** Propredicates [15/17]
+*** Propredicate /do/
+*** Complements of propredicates
+* Jour 63
+  British or American English?
+
+  Word and Grammar Patterns
+** Tag questions [16/17]
+*** Canonical form
+*** Anomalous forms
+*** Frequency of use 
+*** Rhetorical uses
+*** Other forms and uses
+* Jour 64
+  British or American English?
+
+  Word and Grammar Patterns
+** Miscellaneous [17/17]
+*** Focus
+*** Phatic language
+*** Numbers
+*** Dates
+* Jour 65
+** Part [1/5]
+   Ireland: Chronology of Major Events
+* Jour 66
+** Part [2/5]
+   Ireland from the Celts to 1800
+* Jour 67
+** Part [3/5]
+   Ireland from 1800 to 1949
+* Jour 68
+** Part [4/5]
+   The Ulster Problem
+* Jour 69
+** Part [5/5]
+   Great Figures of Irish History
+* Jour 70
+** Part [1/17]  
+   USA: Chronology of Major Events
+* Jour 71
+** Part [2/17]  
+   The Birth of the American Nation
+* Jour 72
+** Part [3/17]  
+   The Civil War and the Reconstruction
+* Jour 73
+** Part [4/17]  
+   The First Half of the 20th Century
+* Jour 74
+** Part [5/17]  
+   The USA from 1945 to the Nineties
+* Jour 75
+** Part [6/17]  
+   Demography and Economy in the USA
+* Jour 76
+** Part [7/17]  
+   Politics in the USA
+* Jour 77
+** Part [8/17]  
+   The American Society
+* Jour 78
+** Part [9/17]  
+   Cultural Life in the USA
+* Jour 79
+** Part [10/17]  
+   Immigration to the United States
+* Jour 80
+** Part [11/17]  
+   The Black Minority in the USA 1
+* Jour 81
+** Part [12/17]  
+   The Black Minority in the USA 2
+* Jour 82
+** Part [13/17]  
+   The American Indians
+* Jour 83
+** Part [14/17]  
+   McCarthyism
+* Jour 84
+** Part [15/17]  
+   Founding Myths of the United States
+* Jour 85
+** Part [16/17]  
+   Great Figures of American History 1
+* Jour 86
+** Part [17/17]  
+   Great Figures of American History 2
+* Jour 87
+** Part [1/2]
+   South Africa
+* Jour 88
+** Part [2/2]
+   South Africa
+* Jour 89
+  India
+* Jour 90
+  Australia, New Zealand
+* Jour 90
+  Canada
+* Références utilisées pour autonome en 90 jours
+  + [[https://amzn.to/2GHBEbP]] speak
+  + [[https://amzn.to/2GNj7ek]] grammar in
+  + [[https://amzn.to/2pWBzXf]] British or American English
+  + [[https://amzn.to/2J97OLK]] language hoax
+  + [[https://amzn.to/2Eb1MGN]] anglais débutant
+  + [[https://amzn.to/2J7J8mK]] the joy of phonetics
+  + [[https://amzn.to/2GNtLSe]] help your kids with English
+* Prix de la formation débutant
+  Après le 2 avril 270€ avant le 2 avril 90€ soit 1€ par jour pour 1
+  vidéo par jour pendant 90 jours
+* Prix de la formation intermédiaire
+  Après le 2 avril 500€ avant le 2 avril 150€ soit moins de 2€ par
+  jour pour 2 vidéos par jour pendant 90 jours
+* Prix de la formation avancée
+  Après le 2 avril 750€ avant le 2 avril 250€ soit moins de 3€ par
+  jour pour 3 vidéos par jour pendant 90 jours
+* Bonus pour la formation autonome en anglais en 90 jours
+** Adult talk
+   + dating ::
+   + sex ::
+   + slang ::
+** All tenses
+   All tenses [[https://youtu.be/U304CZiFgO0][JamesESL]]  [[https://youtu.be/84jVz0D-KkY][Anglo-link]] [[https://youtu.be/A6Mk_ool1Dg][Solex]] [[https://youtu.be/dbRb7iw9T9k][English Pro]]
+** Blockchain technologies
+** Jokes
+
+* Références utilisées pour VB et VE
+    + [[https://amzn.to/2Gq7oi5]] Honni soit qui mal y pense
+* Formation vocabulaire brut 
+  Après le 2 avril 90€ avant le 2 avril 30€ soit 1€ pour 1 vidéo par
+  jour par jour pendant
+  30 jours
+* Formation vocabulaire enrichi
+  Après le 2 avril 180€ avant le 2 avril 60€ soit 2€ par jour pour 2
+  vidéos par jour pendant 30 jours
+* Bonus pour VB et VE
+  Je vous offre mon livre sur la phonétique anglaise.
+* Références pour les formations XeLaTeX
+  + [[https://amzn.to/2pVB5kT]] the LaTeX companion
+  + [[https://amzn.to/2pVh0v6]]  A beginner's book of TeX
+  + [[https://amzn.to/2EbPA8w]]  LaTeX cookbook
+* Formation apprendre à écrire son livre avec XeLaTeX version débutant
+  Après le 2 avril 900€ avant le 2 avril 300€ soit 10€ par jour
+  pour 1 vidéo par jour pendant 30 jours + 1 coaching par semaine
+* Formation apprendre à écrire son livre avec XeLaTeX version intermédiaire
+  Après le 2 avril 1 800€ avant le 2 avril 500€ soit moins de 20€ par jour
+  pour 2 vidéos par jour pendant 30 jours + 1 coaching par semaine
+* Formation apprendre à écrire son livre avec XeLaTeX version avancé
+  Après le 2 avril 2 700€ avant le 2 avril 800€ soit moins de 30€ par jour
+  pour 3 vidéos par jour pendant 30 jours + 1 coaching par semaine
+* Bonus
+  Je vous offre mon livre sur la phonétique anglaise ainsi que son code source.
+
