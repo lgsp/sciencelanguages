@@ -95,7 +95,7 @@
 * Exercise 2
    Give an example for each 6 short vowels and each 4 long vowels.
 * Other lessons
-  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/hours.org][Time]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-6-time.org][Time]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-4-months-of-the-year.org][Months of the Year]]
 * If you want to go further
