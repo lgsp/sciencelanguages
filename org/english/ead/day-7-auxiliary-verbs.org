@@ -87,8 +87,9 @@
     3. Did you like the previous lesson?
 
 * Exercise 9
-   Give an example for each sound that you've seen so far (6 short
-   vowels, 4 long vowels, 5 diphthong vowels).
+   1. Give an example for each short vowel. There are six short vowels.
+   2. Give an example for each long vowel. There are four long vowels.
+   3. Give an example for each diphthong vowels. The are eight diphthongs but we've seen only five so far.  
 
 * The [[http://doyouspeakenglish.fr/diphthong-4-7/][Diphthong Vowel {əʊ}]] as in:
 
@@ -156,21 +157,24 @@
        insist on auxiliary verbs in this lesson.
     3. Did you like the previous lesson? => Yes I did like the previous lesson.
 * Solutions: Exercise 9
+** Short Vowels
    1. [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][Short vowel {ɛ}]], for example: [[https://en.oxforddictionaries.com/definition/apprehend][apprehend]] ([[http://www.wordreference.com/enfr/apprehend][/ˌæprɪˈhɛnd/]])
    2. [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][Short vowel {æ}]], for example: [[https://en.oxforddictionaries.com/definition/nap][nap]] ([[http://www.wordreference.com/enfr/nap][/næp/]]) 
    3. [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][Short vowel {ʌ}]], for example: [[https://en.oxforddictionaries.com/definition/but][but]] ([[http://www.wordreference.com/enfr/but][/bʌt/]]) 
    4. [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][Short vowel {ʊ}]], for example: [[https://en.oxforddictionaries.com/definition/hood][hood]] ([[http://www.wordreference.com/enfr/hood][/hʊd/]])
    5. [[http://doyouspeakenglish.fr/open-back-rounded-vowel/][Short vowel {ɒ}]], for example: [[https://en.oxforddictionaries.com/definition/lob][lob]] ([[http://www.wordreference.com/enfr/lob][/lɒb/]]) 
    6. [[http://doyouspeakenglish.fr/mid-central-vowel/][Short vowel {ə}]], for example: [[https://en.oxforddictionaries.com/definition/attend][attend]] ([[http://www.wordreference.com/enfr/attend][/əˈtɛnd/]])
-   7. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
-   8. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
-   9. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
-  10. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]])  
-  11. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
-  12. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
-  13. [[http://doyouspeakenglish.fr/diphthong-1-7/][Diphthong vowel {eɪ}]], as in [[https://en.oxforddictionaries.com/definition/place][place]] ([[http://www.wordreference.com/enfr/place][/pleɪs/]])
-  14. [[http://doyouspeakenglish.fr/diphthong-2-7/][Diphthong vowel {ɔɪ}]], as in [[https://en.oxforddictionaries.com/definition/boil][boil]] ([[http://www.wordreference.com/enfr/boil][/bɔɪl/]])
-  15. [[http://doyouspeakenglish.fr/diphthong-3-7/][Diphthong vowel {aɪ}]], as in [[https://en.oxforddictionaries.com/definition/fry][fry]] ([[http://www.wordreference.com/enfr/fry][/fraɪ/]])
+** Long Vowels   
+   1. [[http://doyouspeakenglish.fr/clear-front-unrounded-vowel/][Long vowel {iː}]], for example: [[https://en.oxforddictionaries.com/definition/breed][breed]] ([[http://www.wordreference.com/enfr/breed][/briːd/]])
+   2. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
+   3. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
+  4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]]) 
+ ** Diphthongs
+  1. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
+  2. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
+  3. [[http://doyouspeakenglish.fr/diphthong-1-7/][Diphthong vowel {eɪ}]], as in [[https://en.oxforddictionaries.com/definition/place][place]] ([[http://www.wordreference.com/enfr/place][/pleɪs/]])
+  4. [[http://doyouspeakenglish.fr/diphthong-2-7/][Diphthong vowel {ɔɪ}]], as in [[https://en.oxforddictionaries.com/definition/boil][boil]] ([[http://www.wordreference.com/enfr/boil][/bɔɪl/]])
+  5. [[http://doyouspeakenglish.fr/diphthong-3-7/][Diphthong vowel {aɪ}]], as in [[https://en.oxforddictionaries.com/definition/fry][fry]] ([[http://www.wordreference.com/enfr/fry][/fraɪ/]])
 * Other Lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-6-time.org][Time]]
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-and-present-continuous.org][Present simple and present continuous]]
