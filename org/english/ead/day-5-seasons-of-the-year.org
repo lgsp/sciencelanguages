@@ -47,7 +47,7 @@
 * Countries without the Four-Season System
   Some countries do not share the four-season system, for instance in
   India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
-  details). Also tropical areas, like the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details), have only two main seasons; and in desert areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
+  details). Also tropical areas, like the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details), have only two main seasons; in desert areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
   details). 
   
 * New Sound 1: [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][the Long Vowel {uː}]] as in:
