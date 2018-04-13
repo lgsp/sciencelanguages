@@ -1,4 +1,4 @@
-#+TITLE: Days of the week
+#+TITLE: Days of the Week
 #+AUTHOR: Laurent Garnier
 
 * Introduction
@@ -12,7 +12,7 @@
                mindset. Let's dive into the lesson of the day: DAYS OF
                THE WEEK!
 
-* Days of the week
+* Days of the Week
 
   | Day | English   | Français |
   |-----+-----------+----------|
@@ -35,7 +35,7 @@
   1. Write today's date.
   2. How many weeks are there in a year?
 
-* Review sounds from [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][lesson 1]]
+* Review Sounds from [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][Lesson 1]]
 
   + [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
      
@@ -60,7 +60,7 @@
    Complete each table in order to get seven items as in the previous
    lesson.
 
-* New sound 1: [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][The short vowel {ʊ}]] as in:
+* New Sound 1: [[http://doyouspeakenglish.fr/near-close-near-back-rounded-vowel/][The Short Vowel {ʊ}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -72,7 +72,7 @@
      | [[https://en.oxforddictionaries.com/definition/brook][brook]]   | [[http://www.wordreference.com/enfr/brook][/brʊk/]]    |
      | [[https://en.oxforddictionaries.com/definition/crook][crook]]   | [[http://www.wordreference.com/enfr/crook][/krʊk/]]    |
 
-* New sound 2: [[http://doyouspeakenglish.fr/open-back-rounded-vowel/][The short vowel {ɒ}]] as in:
+* New Sound 2: [[http://doyouspeakenglish.fr/open-back-rounded-vowel/][The Short Vowel {ɒ}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -84,7 +84,7 @@
      | [[https://en.oxforddictionaries.com/definition/bottom][bottom]]  | [[http://www.wordreference.com/enfr/bottom][/ˈbɒtəm/]]  |
      | [[https://en.oxforddictionaries.com/definition/flop][flop]]    | [[http://www.wordreference.com/enfr/flop][/flɒp/]]    |
 
-* New sound 3: [[http://doyouspeakenglish.fr/mid-central-vowel/][The short vowel {ə}]] as in:
+* New Sound 3: [[http://doyouspeakenglish.fr/mid-central-vowel/][The Short Vowel {ə}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -117,13 +117,13 @@
    Read the
    [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][previous
    lesson]] again.
-* Others lessons
+* Others Lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-2-numbers.org][Numbers]]
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-4-months-of-the-year.org][Months of the Year]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-* If you want to go further
+* If You Want To Go Further
   Here are some additional resources :
-** YouTube videos  
+** YouTube Videos  
    + [[https://youtu.be/4aEsu3EU88k][Where do the names of the days of the week come from?]] - Canadian
    + [[https://youtu.be/R4--oTBJB6Q][The Norse Gods' Names in the English Days of the Week]] - American
    + [[https://youtu.be/2ZexFXEc2Ok][Norse Gods and Days of the Week in English]] - British
