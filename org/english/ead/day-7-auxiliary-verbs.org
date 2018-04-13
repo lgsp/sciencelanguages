@@ -89,7 +89,7 @@
 * Exercise 9
    1. Give an example for each short vowel. There are six short vowels.
    2. Give an example for each long vowel. There are four long vowels.
-   3. Give an example for each diphthong vowels. The are eight diphthongs but we've seen only five so far.  
+   3. Give an example for each diphthong vowels. There are eight diphthongs but we've seen only five so far.  
 
 * The [[http://doyouspeakenglish.fr/diphthong-4-7/][Diphthong Vowel {əʊ}]] as in:
 
@@ -169,7 +169,7 @@
    2. [[http://doyouspeakenglish.fr/open-back-unrounded-vowel/][Long vowel {ɑː}]], for example: [[https://en.oxforddictionaries.com/definition/past][past]] ([[http://www.wordreference.com/enfr/past][/pɑːst/]]) 
    3. [[http://doyouspeakenglish.fr/open-mid-back-rounded-vowel/][Long vowel {ɔː}]], for example: [[https://en.oxforddictionaries.com/definition/flaw][flaw]] ([[http://www.wordreference.com/enfr/flaw][/flɔː/]]) 
   4. [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][Long vowel {uː}]], for example: [[https://en.oxforddictionaries.com/definition/blue][blue]] ([[http://www.wordreference.com/enfr/blue][/bluː/]]) 
- ** Diphthongs
+** Diphthongs
   1. [[http://doyouspeakenglish.fr/diphthong-6-7/][Diphthong vowel {ɪə}]], for example: [[https://en.oxforddictionaries.com/definition/rear][rear]] ([[http://www.wordreference.com/enfr/rear][/rɪə/]])
   2. [[http://doyouspeakenglish.fr/diphthong-8/][Diphthong vowel {ʊə}]], for example: [[https://en.oxforddictionaries.com/definition/sure][sure]] ([[http://www.wordreference.com/enfr/sure][/ʃʊə/]])
   3. [[http://doyouspeakenglish.fr/diphthong-1-7/][Diphthong vowel {eɪ}]], as in [[https://en.oxforddictionaries.com/definition/place][place]] ([[http://www.wordreference.com/enfr/place][/pleɪs/]])
