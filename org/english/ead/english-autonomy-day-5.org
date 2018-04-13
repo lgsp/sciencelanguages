@@ -5,11 +5,11 @@
   + Laurent :: Hi Stacy!
   + Stacy :: Salut Laurent !
   + Laurent :: How are you today?
-  + Stacy :: I'm fine thanks and you?
-  + Laurent :: I'm fine because it is the beginning of Spring.
-  + Stacy :: Yeah! I like Spring too because it is sunnier than
-             Winter.
-  + Laurent :: Yeah! And it is cooler than Summer. Let's talk about
+  + Stacy :: I'm fine, thanks. And you?
+  + Laurent :: I'm fine because it is the beginning of spring.
+  + Stacy :: Yeah! I like spring too because it is sunnier than
+             winter.
+  + Laurent :: Yeah! And it is cooler than summer. Let's talk about
                the lesson of the day: SEASONS OF THE YEAR!
 * Seasons
   
@@ -21,7 +21,7 @@
   |      4 | Winter                  | Hiver     |
   
 * Seasons in a Year
-  Each time I refer to the Northern Hemisphere I'm talking about France and each time I refer to the Southern Hemisphere I'm talking about New Zealand.
+  Each time I refer to Northern Hemisphere I'm talking about France and each time I refer to the Southern Hemisphere I'm talking about New Zealand.
 ** Spring
    + Northern Hemisphere :: Spring starts March the twenty-first and ends
         June the twenty-first.
@@ -29,19 +29,19 @@
         ends December the twenty-first.
 ** Summer
    + Northern Hemisphere :: Summer starts  June the twenty-first, which is
-        the longest day of the year, and ends September the twenty-first.
+        the longest day of the year and ends September the twenty-first.
    + Southern Hemisphere :: Summer starts December the twenty-first,
-        which is the longest day of the year, and ends March the
+        which is the longest day of the year and ends March the
         twenty-first.
 ** Autumn (UK) / Fall (US)
    + Northern Hemisphere :: Autumn (UK) / Fall (US) starts September the
-        twenty-first, and ends December the twenty-first.
+        twenty-first and ends December the twenty-first.
    + Southern Hemisphere :: Autumn (UK) / Fall (US) starts March the
-        twenty-first, and ends June the twenty-first.
+        twenty-first and ends June the twenty-first.
 ** Winter
-   + Northern Hemisphere :: Winter starts December the twenty-first, and
+   + Northern Hemisphere :: Winter starts December the twenty-first and
         ends March the twenty-first.
-   + Southern Hemisphere :: Winter starts June the twenty-first,
+   + Southern Hemisphere :: Winter starts June the twenty-first
         and ends September the twenty-first.
 
 * Countries without the Four-Season System
@@ -86,7 +86,7 @@
      | [[https://en.oxforddictionaries.com/definition/contour][contour]] | [[http://www.wordreference.com/enfr/contour][/ˈkɒntʊə/]]  |
         
 * Exercise 1
-   1. Can you give the list of the seasons in alphabetical order?
+   1. Can you list of the seasons in alphabetical order?
    2. In which season does February belong? Answer for the Northern
       Hemisphere and then for the Southern Hemisphere.
    3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
@@ -105,7 +105,7 @@
   + [[https://youtu.be/XkQo0uxQTCI][Seasons on Earth]]
 * Solutions
 ** Exercise 1
-   1. Can you give the list of the seasons in alphabetical order?
+   1. Can you list of the seasons in alphabetical order?
       Autumn (Fall), Spring, Summer, Winter
    2. In which season does February belong? Answer for the Northern Hemisphere and
       then for the Southern Hemisphere.
