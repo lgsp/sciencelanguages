@@ -30,7 +30,7 @@
    1. How do you say this French phone number? 07-91-83-64-72
    2. How do you say this [[https://youtu.be/1eKBS6EOtAo][American]] phone number? 549-552-2244
    3. How do you say this [[https://youtu.be/fSB12yhjsVg][British]] phone number? [[https://youtu.be/fdG-gz-eOww][020-7946-0620]]
-* Ordinal number
+* Ordinal Number
    Let's imagine you're talking about the ranking of your favorite team:
    | Rank | English | Français                                      |
    |------+---------+-----------------------------------------------|
@@ -54,7 +54,7 @@
    + eighth = eight - t + th
    + ninth = nine - e + th
 
-* From ten to twenty
+* From Ten To Twenty
 
   | Tenths | English                                  | Français                |
   |--------+------------------------------------------+-------------------------|
@@ -70,7 +70,7 @@
   |     19 | nineteen (nineteenth = nineteen + th)    | dix-neuf (dix-neuvième) |
   |     20 | twenty (twentieth = twenty - y + ie + th) | vingt (vingtième)       |
 
-* From twenty to one hundred
+* From Twenty To One Hundred
 
     | Tenths | English                      | Français                                 |
     |--------+------------------------------+------------------------------------------|
@@ -116,7 +116,7 @@
    5. + How do you say 75? 
       + What's the ordinal number of planet Earth in our solar system?
 
-* From one hundred to one thousand
+* From One Hundred To One Thousand
 
   | Numbers | English               | Français      |
   |---------+-----------------------+---------------|
@@ -139,7 +139,7 @@
   order of digits. For decimal numbers, English speakers use a decimal
   point, also called a period, just like you would see when typing on a computer or using an electronic calculator.
 
-* From one thousand to one billion
+* From One Thousand To One Billion
 
   | Numbers       | English              | Français           |
   |---------------+----------------------+--------------------|
@@ -160,7 +160,7 @@
    2. What year is this?
    3. How many days are there in a year?
 
-* New sound 1: [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The short vowel {ʌ}]] as in:
+* New Sound 1: [[http://doyouspeakenglish.fr/open-mid-back-unrounded-vowel/][The Short Vowel {ʌ}]] as in:
 
     | English | Phonetics  |
     |---------+------------|
@@ -172,7 +172,7 @@
     | [[https://en.oxforddictionaries.com/definition/london][London]]  | [[http://www.wordreference.com/enfr/london][/ˈlʌndən/]]  |
     | [[https://en.oxforddictionaries.com/definition/love][love]]    | [[http://www.wordreference.com/enfr/love][/lʌv/]]      |
 
-* New sound 2: [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The short vowel {æ}]] as in:
+* New Sound 2: [[http://doyouspeakenglish.fr/near-open-front-unrounded-vowel/][The Short Vowel {æ}]] as in:
     
     | English | Phonetics |
     |---------+-----------|
@@ -184,7 +184,7 @@
     | [[https://en.oxforddictionaries.com/definition/hand][hand]]    | [[http://www.wordreference.com/enfr/hand][/hænd/]]    |
     | [[https://en.oxforddictionaries.com/definition/flat][flat]]    | [[http://www.wordreference.com/enfr/flat][/flæt/]]    |  
 
-* New sound 3: [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The short vowel {ɛ}]] as in: 
+* New Sound 3: [[http://doyouspeakenglish.fr/open-mid-front-unrounded-vowel/][The Short Vowel {ɛ}]] as in: 
     
     | English | Phonetics |
     |---------+-----------|
@@ -228,12 +228,12 @@
       check it on [[https://en.wikipedia.org/wiki/Age_of_the_Earth][Wikipedia]]).
    2. What year is this? two thousand eighteen or twenty-eighteen.
    3. How many days are there in a year? three hundred and sixty-five.
-* Other lessons
+* Other Lessons
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-3-days-of-the-week.org][Days of the week]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
-* If you want to go further
+* If You Want To Go Further
   Here are some additional resources: 
-** YouTube videos
+** YouTube Videos
   + [[https://youtu.be/uEGYX8UAsK4][How to Say Numbers in English]] - American English
   + [[https://youtu.be/QrsFohyz_LU][How to write numbers in English]] - Canadian English
   + [[https://youtu.be/IU_eBp1UT8Y][Numbers in English]] - British
