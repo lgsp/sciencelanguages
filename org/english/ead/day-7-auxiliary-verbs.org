@@ -3,7 +3,7 @@
 
 * To Be 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/be][here]].
-* Progressive (continuous) form
+* Progressive (Continuous) Form
 ** Examples 
     1. You are reading this text. 
     2. I was writing this text before I uploaded it online.
