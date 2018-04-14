@@ -1,6 +1,17 @@
 #+TITLE: How to Tell the Time in English?
 #+AUTHOR: Laurent Garnier
 
+* Introduction
+  + Laurent :: Hi Stacy! 
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today at 9 am?
+  + Stacy :: I'm fine, thanks. And you?
+  + Laurent :: I'm fine too, thanks. You know I usually get up before 6 am.
+  + Stacy :: Do you go to bed at 9 pm?
+  + Laurent :: No! But I usually go to bed before midnight. 
+  + Stacy :: Interesting because I thought your technique was to go to bed always at the same time.
+  + Laurent :: You know, time is always changing so that's the reason why we'll talk about: HOW TO TELL THE TIME IN ENGLISH!
+  
 * Full Hours
 
   For full hours you just add o'clock (of the clock) after the
