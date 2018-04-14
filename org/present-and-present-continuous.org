@@ -12,7 +12,7 @@
   + Stacy :: What?!
   + Laurent :: I'm joking. Let's dig into the lesson of the day: PRESENT SIMPLE AND PRESENT CONTINUOUS!
   
-* Review the verb to be
+* Review The Verb To Be
 
   To be is the only irregular verb in present simple tense.
 
@@ -22,7 +22,7 @@
   + You *are* not alone.
   + They *are* happy to learn with me.
 
-* Other verbs
+* Other Verbs
  For all the other verbs you just have to keep the infinitive without 'to', except
  for He/She/It where you need to add an 's' (except for modals but we'll dedicate a chapter on it just be patient). Let's see some examples.
 
@@ -34,7 +34,7 @@
    4. My daughter (to try) *tries* to make new sounds every day.
    5. Her mother (to cook) *cooks* very well and I (to like) *like*
       that.
-** Exercise 1
+* Exercise 1
    Complete the following sentences with the verb in parentheses using
    the present simple.
    1. Usually I (to eat) my breakfast at 7:00 am.
@@ -44,7 +44,7 @@
    5. It (to make) sense to study every day if you (to want) to improve
       your level.
 
-* Present continuous
+* Present Continuous Also Called Present Progressive
 
   The construction of the present continuous or present progressive is
   simple: to be + infinitive - to + ing
@@ -58,7 +58,7 @@
    4. My nephew (to finish) *is finishing* his video game.
    5. They (to live) *are living* in the information era with a lot of
       connected objects.
-** Exercise 2
+* Exercise 2
    Complete the following sentences with the verb in parentheses using
    the present continuous.
    1. I (to eat) my breakfast right now because it's 7:00 am.
@@ -67,18 +67,18 @@
    4. While I (to walk) in the street I can observe people.
    5. After this I (to go) to explain to you when you should use one tense
       or the other.
-* When to use which one
-** Present simple
-*** General truth, habit, and so on
+* When To Use Which One
+** Present Simple
+*** General Truth, Habit, and so on
    The present simple expresses a general truth, a habit, a persistant
    fact.
 **** Examples
     1. Women live longer than men.
     2. I try to express myself in the language of the country I live.
     3. I always like to learn new languages.
-**** Exercise 3
+* Exercise 3
     Write 3 sentences using the present simple.
-*** Other cases
+*** Other Cases
     + Comments in live (on TV, radio,...)
     + Newspaper titles
     + Movie script
@@ -88,26 +88,26 @@
      2. Prime Minister visits new station.
      3. The detective appears at the door. He knocks. Lisa rises,
         pauses a moment. She crosses the room to open the door.
-**** Exercise 4
+* Exercise 4
      Write an example for each case.
-** Present continuous 
+** Present Continuous or Present Progressive 
    The present continuous expresses an action or a fact that is
    happening right now, currently, at the moment we talk about it.
 *** Examples
     1. Be careful! Taxi cabs in London don't care about pedestrians.
     2. What are you doing? I am studying English.
-*** Exercise 5 
+* Exercise 5 
     Write 2 examples using present continuous.
-*** Verbs that almost never use present continuous
+*** Verbs That Almost Never Use Present Continuous
     Some verbs describe the result rather the action itself.
 
     agree, believe, belong, consist, contain, depend, deserve, doubt,
     hate, include, know, like, love, matter, mean, need, own, possess,
     prefer, recognize, remember, seem, suppose, understand, want, wish
-*** Exercise 6
+* Exercise 6
     Write 5 examples using 5 differents verbs from this list.
-* Phonetics
-** Exercice 7
+
+* Exercice 7
    Fill the tabs in order to get 7 items.
 
   + The diphtong vowel [ɪə] like in:
@@ -128,8 +128,7 @@
     | [[https://en.oxforddictionaries.com/definition/there][there]]   | [[www.wordreference.com/enfr/there][/ðɛə/]]     |
     
 
-* Solutions
-** Exercise 1
+* Solutions: Exercise 1
    Complete the following sentences with the verb in parenthesis using
    the present simple.
    1. Usually I *eat* my breakfast at 7:00 am.
@@ -138,7 +137,7 @@
    4. People in the street usually *walk* fast in NYC.
    5. It *makes* sense to study everyday if you *want* to improve
       your level.
-** Exercise 2
+* Solutions: Exercise 2
    Complete the following sentences with the verb in parenthesis using
    the present continuous.
    1. I *am eating* my breakfast right now because it's 7:00 am.
@@ -147,27 +146,28 @@
    4. While I *am walking* in the street I can observe people.
    5. After this I *am going* to explain you when you should use one tense
       or another.
-** Exercise 3
+* Solutions: Exercise 3
     Write 3 sentences using the present simple.
 
     1. I love to learn languages.
     2. [[https://youtu.be/eDW_yAwaHnc][People are strange]].
     3. [[https://youtu.be/_eF75YR5Ijw][She is everything I need]].
-** Exercise 4
+* Solutions: Exercise 4
      1. Federer does his service. And it's an ace again!
      2. Today Macron receives Merkel.
      3. My name is Bond, James Bond. And then the bad guy arrives.
-** Exercise 5 
+* Solutions: Exercise 5 
     1. Right now I am thinking about the material I am creating for
        you.
     2. It's going to be a great day because the sun is shining.
-** Exercise 6
+* Solutions: Exercise 6
     1. My wife always agrees with me.
     2. Do you believe what's happening?
     3. [[https://youtu.be/uAhzBVALop4][I belong to you, and you belong to me]].
     4. This exercise consists in applying all the things you've
        learned so far.
     5. This course contains a lot of references.
+ * What The Hell Is That?   
     6. Your improvement depends on your will power.
     7. You deserve this award because you've worked hard.
     8. [[https://www.goodreads.com/quotes/7840-doubt-thou-the-stars-are-fire-doubt-that-the-sun][Doubt truth to be a liar]].
@@ -188,7 +188,7 @@
        immediately.
    22. What do you want right now?
    23. What do you wish to eat now?
-** Exercice 7
+* Solutions: Exercice 7
    Fill the tabs in order to get 7 items.
 
   + The diphtong vowel [ɪə] like in:
@@ -216,11 +216,13 @@
     | [[https://en.oxforddictionaries.com/definition/there][there]]   | [[www.wordreference.com/enfr/there][/ðɛə/]]     |
     | [[https://en.oxforddictionaries.com/definition/where][where]]   | [[http://www.wordreference.com/enfr/where][/wɛə/]]     |
 
-* If you want to go further
-  Here are some additionally resources:
+* Other Lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/auxiliary_verbs.org][Auxilary Verbs]]
   + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-simple-and-past-continuous.org][Past simple and past continuous]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
+* If You Want To Go Further
+  Here are some additional resources:
+  
   + [[https://youtu.be/AEBRIBtq7q0][Anglo-link]]
   + [[https://youtu.be/X8lu4_5F0hg][Crown Academy of English]]: present simple
   + [[https://youtu.be/rjWd8U-6jbA][Crown Academy of English]]: present continuous
