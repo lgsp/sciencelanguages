@@ -107,7 +107,7 @@
    + 4 long vowels
    + 2 diphthong vowels
 
-* The [[http://doyouspeakenglish.fr/diphthong-1-7/][diphthong vowel {eɪ}]] as in:
+* The [[http://doyouspeakenglish.fr/diphthong-1-7/][Diphthong Vowel {eɪ}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -118,7 +118,7 @@
      | [[https://en.oxforddictionaries.com/definition/eight][eight]]   | [[http://www.wordreference.com/enfr/eight][/eɪt/]]     |
      | [[https://en.oxforddictionaries.com/definition/weight][weight]]  | [[http://www.wordreference.com/enfr/weight][/weɪt/]]    |
 
-* The [[http://doyouspeakenglish.fr/diphthong-2-7/][diphthong vowel {ɔɪ}]] as in:
+* The [[http://doyouspeakenglish.fr/diphthong-2-7/][Diphthong Vowel {ɔɪ}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
@@ -130,7 +130,7 @@
      | [[https://en.oxforddictionaries.com/definition/boy][boy]]     | [[http://www.wordreference.com/enfr/boy][/bɔɪ/]]     |
      | [[https://en.oxforddictionaries.com/definition/enjoy][enjoy]]   | [[http://www.wordreference.com/enfr/enjoy][/ɪnˈdʒɔɪ/]] |
      
-* The [[http://doyouspeakenglish.fr/diphthong-3-7/][diphthong vowel {aɪ}]] as in:
+* The [[http://doyouspeakenglish.fr/diphthong-3-7/][Diphthong Vowel {aɪ}]] as in:
 
      | English | Phonetics |
      |---------+-----------|
