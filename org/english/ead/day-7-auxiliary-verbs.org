@@ -1,6 +1,16 @@
 #+TITLE: Auxiliary Verbs (Helping Verbs)
 #+AUTHOR: Laurent Garnier
 
+* Introduction
+  + Laurent :: Hi Stacy!
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today?
+  + Stacy :: Fine, thanks. And you?
+  + Laurent :: Fine too, thanks. You know, I'm not a biblical person but if I remember that starts like: "At the beginning there was the verb". 
+  + Stacy :: Yeah, I know that intro. What's your point?
+  + Laurent :: My point is that they did not specify which verb to use... so it is not very helping.
+  + Stacy :: Oh, perhaps you mean that you are concerned about HELPING VERBS!
+  + Laurent :: Exactly! Today we are going to talk about HELPING VERBS also called AUXILIARY VERBS!
 * To Be 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/be][here]].
 * Progressive (Continuous) Form
