@@ -1,4 +1,4 @@
-\chapter{Comment lire se livre}\label{chap:howto}
+\chapter{Comment lire ce livre ?}\label{chap:howto}
 \newpage
 \minitoc
 \newpage
@@ -6,7 +6,7 @@
 \section{Au commencement était le\dots lien}\label{sec:link}
 
 Ceci est un \href{https://youtu.be/K88qlGcd7Ek}{lien}
-URL\footnote{Voir Wikipédia :
+\hypertarget{url}{URL}\footnote{Voir Wikipédia :
   \url{https://fr.wikipedia.org/wiki/Uniform_Resource_Locator} si vous
   souhaitez en savoir plus tout de suite, sinon voir
   page~\pageref{sec:side} (et ça c'est un lien interne).} qui va vous diriger vers une vidéo qui
@@ -17,7 +17,7 @@ devriez avoir compris comment les
 \href{https://fr.wikipedia.org/wiki/Uniform_Resource_Locator}{liens
   URL} sont représentés dans ce document. Les \hyperlink{linkin}{liens internes} \hypertarget{retour}{sont}\label{retour}
 représentés de la même manière que ça\footnote{Ceci est une note de
-  bas de page.}. Oui les notes de bas de page\footnote{Très fréquente
+  bas de page et ceci est un \hyperlink{linkin}{lien interne}.}. Oui les notes de bas de page\footnote{Très fréquente
   et très utile dans ce livre.} sont des liens internes au
 document. Il y aura également d'autres liens cliquables comme par
 exemple les tables des matières\footnote{Oui il y en a plusieurs.}.
@@ -29,11 +29,12 @@ qui vous permettra de sauter ou de revenir sur une section de
 chapitre que vous souhaitez cibler en particulier. Ce document est
 très similaire à un site web de par sa structure de réseau (de
 nombreux éléments divers sont liés les uns aux autres). Il faut savoir
-que le langage \TeX{}\CW{https://fr.wikipedia.org/wiki/TeX} est un
-langage de marquage de texte ou \underline{langage balisé} au même
-titre que le langage HTML\CW{https://fr.wikipedia.org/wiki/Langage_de_balisage\#Langage_HTML} qui sert à écrire toutes les pages Web
+que le langage \href{https://fr.wikipedia.org/wiki/TeX}{\TeX} est un langage de
+marquage de texte ou \underline{langage balisé} au même titre que le
+langage \href{https://fr.wikipedia.org/wiki/Langage_de_balisage\#Langage_HTML}{HTML}
+qui sert à écrire toutes les pages  \href{https://fr.wikipedia.org/wiki/World_Wide_Web}{Web}
 que vous consultez sur Internet. Bien que la connexion ne soit pas
-directe, il faut savoir que le langage \TeX{} est antérieur au langage
+directe, il est notable que le langage \TeX{} est antérieur au langage
 HTML et qu'il était initialement utilisé majoritairement par les
 milieux scientifiques universitaires\dots les mêmes milieux qui ont
 fait naître Internet et le langage HTML. En ce sens Donald
@@ -41,22 +42,32 @@ Knuth\footnote{L'\href{https://fr.wikipedia.org/wiki/Donald_Knuth}{inventeur} du
 Tim Berners Lee\footnote{L'\href{https://fr.wikipedia.org/wiki/Tim_Berners-Lee}{inventeur} du Web.}.
 
 Ne serait-il pas plus simple de décrire ces liens en parlant de leurs
-couleurs et de leur apparence générale ? Probablement, mais il se
-trouve que la magie de
-\href{https://en.wikipedia.org/wiki/XeTeX}{\XeLaTeX} ou de \LaTeX{} ou
-des descendants de \TeX{} en général consiste à permettre au concepteur
-de séparer sens et forme.
+couleurs et de leur apparence générale ?
+
+Probablement, mais il se trouve que la magie de \TeX{} et de ses
+descendants comme par exemple
+\href{https://fr.wikipedia.org/wiki/LaTeX}{\LaTeX}\footnote{Prononcer
+  << la
+  \href{https://fr.wikipedia.org/wiki/Th\%C3\%A8que_(sport)}{thèque}
+  >> comme le sport.} ou encore 
+\href{https://en.wikipedia.org/wiki/XeTeX}{\XeLaTeX} (que j'ai utilisé
+pour composer ce document), consiste à
+permettre au concepteur du document de séparer sens et forme. 
 
 Cela signifie que j'ai précisé à l'ordinateur une commande spéciale
 pour lui indiquer que je veux que tel ou tel mot ou groupe de mots
-soit un lien URL par exemple. Ce qui me permet de cibler des
-catégories de mots récurrents (au sens logique) comme par exemple tous
-les liens internes, tous les liens externes\dots 
+soit un \hyperlink{url}{lien} URL\footnote{Voir section~\ref{sec:link}
+  page~\pageref{sec:link}.} par exemple ou un lien interne. Ce qui me
+permet de cibler des catégories de mots récurrents (au sens logique)
+comme par exemple tous les liens internes, tous les liens
+externes\footnote{Vous en verrez d'autres applications dans la
+  section~\ref{sec:side} page~\pageref{sec:side}}\dots 
 
 Ensuite au début du document, dans la rubrique des paramétrages, je
 peux choisir à loisir les différentes formes que prendront ces
 commandes. Par conséquent, toute l'apparence du document peut être
-modifiée en << raffale >> si j'ose dire, en une seule fois. Et au
+modifiée en << raffale >> si j'ose dire, en une seule
+fois\footnote{Grâce à ce qu'on appelle des \href{http://www.tuteurs.ens.fr/logiciels/latex/macros.html}{macros}.}. Et au
 moment où j'écris ces lignes je n'ai pas encore arrêté mon choix quant
 à la forme que je souhaite qu'elle prenne\footnote{Je parle de la
   forme de l'apparence du document donc c'est bien un féminin
@@ -68,13 +79,15 @@ expliquer le fonctionnement des liens dans ce livre.
 
 \section{De quel côté de la Manche ? de l'Atlantique ?}\label{sec:side}
 
-Et j'aurais pu poursuivre avec l'océan Indien pour rester sur les
-frontières maritimes. Oui dans cette section nous allons parler du
-codage pour faire la distinction entre les mots en \exEN{English} et
-ceux en \exFR{Français}. En fait, cette distinction de couleur sera
-faite lorsqu'il s'agira de traduire\footnote{Néanmoins, l'auteur de ce
-  document s'est parfois laissé aller à abuser un petit peu de cette
-  récréation artistique.}.
+Et j'aurais pu poursuivre avec l'océan Pacifique et/ou l'océan Indien
+pour rester sur les frontières maritimes qui sont nombreuses entre la
+francophonie et le monde anglophone. Oui dans cette section nous
+allons parler du codage pour faire la distinction entre les mots en
+\exEN{English} et ceux en \exFR{Français}.
+
+En fait, cette distinction de couleur sera faite lorsqu'il s'agira de
+traduire\footnote{Néanmoins, l'auteur de ce document s'est parfois 
+  laissé aller à abuser un petit peu de cette récréation artistique.}.
 
 Par exemple :
 \begin{itemize}
@@ -104,7 +117,97 @@ savoir comment faire pour y revenir.}.
 \section{Et les sons dans tout ça ?}\label{sec:phonetics}
 
 Le but de ce livre étant de traiter de la phonétique anglaise, les
-sons seront omniprésent. D'ailleurs même si je vous ai expliqué page~\pageref{sec:side}
+sons seront omniprésent. D'ailleurs même si je vous ai expliqué dans
+la section~\ref{sec:side} page~\pageref{sec:side} que j'avais établi un code
+couleur pour faire la distinction entre les mots, expressions ou
+phrases en \exEN{English} et leurs traductions en \exFR{Français}.
+
+Et bien il se trouve que j'ai également établi un code couleur pour
+les \textcolor{teal}{sons}. Alors il faut bien distinguer, par exemple
+le\son[~]{e} comme dans le mot français \exFR{beauté} de la
+description phonétique, par exemple, du verbe anglais \exEN{do}, qui
+s'écrit phonétiquement \exPH{duː}. Techniquement parlant, la
+description phonétique d'un mot est un assemblage de
+\textcolor{teal}{sons}\footnote{Un \textcolor{teal}{son} est appelé un
+<<~phone~>> alors qu'un assemblage de \textcolor{teal}{sons} est un <<~
+phonème~>> (je suis sûr que ce soir vous dormirez plus instruit).}.
+
+Attention également à ne pas apprendre par c{\oe}ur les symboles de
+l'alphabet phonétique international. La phonétique telle que je
+l'introduis ici n'est qu'un guide, une aide à la <<~bonne~>>
+prononciation.
+
+En effet, comme en français, en anglais il y a des accents selon qu'on
+est à Londres, Manchester, Glasgow, Dublin, NYC,\dots Par conséquent
+la transcription fidèle et rigoureuse des \textcolor{teal}{sons}
+impliquerait beaucoup trop de combinaison et serait quasiment
+impossible à mémoriser.
+
+Je dois vous faire une confession, je ne suis pas linguiste. Et je
+suppose que vous non plu sinon vous ne seriez pas en train de lire ce
+livre.
+
+C'est précisément pour cette raison que ce livre est abondamment
+fourni en liens externes afin que vous puissiez \underline{entendre}
+les \textcolor{teal}{sons} plutôt que de chercher à mémoriser leur
+représentation phonétique.
+
+\newpage
+
+\section{À qui s'adresse ce livre ?}\label{sec:for-who}
+
+Habituellement, les bons auteurs\footnote{Ils sont un peu comme les
+  \href{https://www.amazon.fr/gp/product/B0103QW256/ref=as_li_tl?ie=UTF8\&camp=1642\&creative=6746\&creativeASIN=B0103QW256\&linkCode=as2\&tag=wwwbecomefree-21\&linkId=0a96fb10b5f781c84d66ef5b92ea65b6}{bons
+    chasseurs}.}, définissent clairement leur cible de marché avant
+d'écrire leur livre\dots et ben moi pas. Je suis probablement pas
+(encore) un bon auteur. Initialement j'ai écrit ce livre parce que je
+ne trouvais pas ce que je cherchais. Il est très fastidieux de trouver
+des ressources fiables concernant ce sujet et surtout en français. De
+plus l'harmonisation des symboles phonétiques n'est pas encore
+totalement réalisée comme vous pourrez le voir par exemple dans les
+sections :
+
+\tdm{c}{sone}{sonae}{sonenv}{sonenvlong}{sonalong}{enenvomegaenv}{omegaenvenenv}{eeteenv}
+  
+
+Alors que vous soyez débutant, étudiant ou éventuellement professeur,
+dans tous les cas vous gagnerez un temps
+considérable\footnote{Croyez-moi, ça prend \underline{beaucoup} de
+temps pour parcourir le web et sélectionner les bonnes informations.}
+et en plus vous disposerez d'une source intarissable d'exemples
+vidéos. Donc je pense en toute modestie que ce livre sera un outil
+efficace pour quiconque souhaite améliorer ses compétences orales en anglais.
+
+\newpage
+
+\section{À qui ne s'adresse pas ce livre ?}\label{sec:for-not-who}
+
+Pour être totalement honnête je n'ai envie d'exclure
+personne. Néanmoins, il paraît qu'on ne peut pas plaire à tout le
+monde. Donc il y aura sans doute des gens qui n'aimeront pas ce
+livre. Sachez que je n'ai rien contre les gens qui n'aiment pas mon
+travail. Comme dit dans la section~\ref{sec:for-who}
+page~\pageref{sec:for-who}, je pense sincèrement que ce livre sera
+utile même aux professeurs parce qu'il est une agrégation de beaucoup
+d'outils efficaces réalisés par des professionnels essentiellement
+anglophones.
+
+Si pour une quelconque raison ce livre ne vous plaisez pas alors je
+vous serais gré de m'en faire savoir la ou les raison(s) en m'écrivant un mail
+via le formulaire de contact sur mon \href{http://doyouspeakenglish.fr/contact/}{blog}\footnote{Dont l'adresse est
+  la suivante : \url{http://doyouspeakenglish.fr/contact/}}. De cette
+façon je pourrais savoir comment améliorer l'ouvrage. Naturellement si
+vous reperiez une ou des erreurs merci également de me les signaler
+via la même procédure.
+
+Dans tous les cas je vous souhaite un bon courage car l'apprentissage
+de l'anglais oral est un véritable défi et j'espère que les outils que
+je mets à votre disposition vous aideront à le relever de la plus
+belle des manières.
+
+\begin{center}
+  \exEN{Good luck!}
+\end{center}
 
 \newpage
 \minitoc
