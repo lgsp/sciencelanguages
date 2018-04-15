@@ -1,3 +1,4 @@
+
 \documentclass[12pt,a4paper, xetex, hyperref]{book}
 
 \usepackage{fontspec}
@@ -6,6 +7,7 @@
 \usepackage{polyglossia}
 \setmainlanguage{french}
 \setotherlanguage{english}
+\setotherlanguage[variant=ancient]{greek}
 \setotherlanguage{latin}
 \renewenvironment{latin}{\begin{hyphenrules}{latin}}%%
   {\end{hyphenrules}}
@@ -154,6 +156,34 @@
 % lien
 \newcommand{\sonref}[2]{%
   \hyperlink{#1}{\son[~]{#2}}%
+}
+
+% Mini-table des matières ciblées
+\newcommand{\tdm}[9]{%
+  % #1 Type colonnes : lcr (left center right)
+  % #2 ref ligne 1, colonne 1 ici sone
+  % #3 ref ligne 1, colonne 2 ici sonae
+  % #4 ref ligne 2, colonne 1 ici sonenv
+  % #5 ref ligne 2, colonne 2 ici sonenvlong
+  % #6 ref ligne 3, colonne 1 ici sonalong
+  % #7 ref ligne 3, colonne 2 ici enenvomegaenv
+  % #8 ref ligne 4, colonne 1 ici omegaenvenenv
+  % #9 ref ligne 4, colonne 2 ici eeteenv
+  \begin{center}
+  \begin{tabular}{#1||#1}
+    \ref{sec:#2} page~\pageref{sec:#2}
+    & \ref{sec:#3} page~\pageref{sec:#3} \\
+    \\
+    \ref{sec:#4} page~\pageref{sec:#4}
+    & \ref{sec:#5} page~\pageref{sec:#5} \\
+    \\
+    \ref{sec:#6} page~\pageref{sec:#6}
+    & \ref{sec:#7} page~\pageref{sec:#7} \\
+    \\
+    \ref{sec:#8} page~\pageref{sec:#8}
+    & \ref{sec:#9} page~\pageref{sec:#9} 
+  \end{tabular}
+\end{center}
 }
 
 % Citations en latin
