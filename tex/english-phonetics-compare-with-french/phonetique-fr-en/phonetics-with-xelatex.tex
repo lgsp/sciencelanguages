@@ -15,6 +15,18 @@
 \usepackage{pdfpages} % pour inclure des docs pdf
 
 \usepackage{fancybox}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% remove uppercase in headers
+\usepackage{fancyhdr}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\itshape\nouppercase{\rightmark}}
+\fancyhead[RE]{\itshape\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0pt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage{xspace}
 
@@ -109,12 +121,12 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Mots écrits en transcription phonétiques
 \newcommand{\exPH}[1]{%
-  \textcolor{red}{/#1/}
+  \textcolor{teal}{/#1/}
 }
 
 % Sons écrits en transcription phonétiques
 \newcommand{\son}[2][Le~]{%
-  #1\textcolor{red}{son~[#2]}
+  #1\textcolor{teal}{son~[#2]}
 }
 
 % Présentation du nom du son avec les liens vers le blog et vers
@@ -220,14 +232,14 @@
 % Speech avant une section de voyelles anglaises
 %%%%%%%%%%%%%%%
 \newcommand{\speech}[2]{%
-  Il y a \textcolor{green}{#1} \textcolor{red}{#2} dans la langue anglaise et pour chaque \textcolor{red}{son}, je vous~%
+  Il y a \textcolor{green}{#1} \textcolor{teal}{#2} dans la langue anglaise et pour chaque \textcolor{teal}{son}, je vous~%
   proposerai au moins \textcolor{green}{4}~%
-  exemples. Pour chaque \textcolor{red}{son} je commencerai par vous donner sa définition~%
+  exemples. Pour chaque \textcolor{teal}{son} je commencerai par vous donner sa définition~%
   technique\footnote{Ainsi que sa traduction, néanmoins il est important~%
     de prendre l'habitude d'éviter de traduire afin de~%
     véritablement s'imprégner de la langue (ce conseil est valable pour~%
     l'apprentissage de n'importe quelle langue).} parce que cette dernière~%
-  explique la façon de produire le \textcolor{red}{son}. Vous aurez également deux liens~%
+  explique la façon de produire le \textcolor{teal}{son}. Vous aurez également deux liens~%
   externes :%
   %
   \begin{enumerate}%
@@ -246,9 +258,9 @@
     américaine\footnote{Aussi appelée \href{https://en.wikipedia.org/wiki/General_American}{General American}.}.%
   \end{enumerate}%
   %
-  La structure de chaque section sera toujours la même pour chaque \textcolor{red}{son} :%
+  La structure de chaque section sera toujours la même pour chaque \textcolor{teal}{son} :%
   \begin{enumerate}%
-  \item Des exemples de mots afin d'illustrer le \textcolor{red}{son}. Pour chaque mot~%
+  \item Des exemples de mots afin d'illustrer le \textcolor{teal}{son}. Pour chaque mot~%
     vous disposerez d'un lien externe vers un dictionnaire~%
     \exEN{anglais}-\exFR{français} qui vous proposera plusieurs prononciations, la~%
     phonétique, la traduction\footnote{En fait
@@ -298,13 +310,14 @@
 \dominitoc
 \tableofcontents
 
-
+\frontmatter
 \part{Introduction}
 
 \parttoc
 
-\input{chap1-intro}
+\input{chap0-how-to-read-this-book}
 
+\input{chap1-intro}
 
 % \part{Phonétique du français}
 % Ce qui m'a frappé lors de mes recherches en apprentissage des langues,
@@ -352,6 +365,7 @@
 
 %\part{English phonetics}
 
+\mainmatter
 \parttoc
 
 %\input{chap5-hist-en}
@@ -360,6 +374,7 @@
 
 \input{chap7-consonants-en}
 
+\backmatter
 
 \end{document}
 
