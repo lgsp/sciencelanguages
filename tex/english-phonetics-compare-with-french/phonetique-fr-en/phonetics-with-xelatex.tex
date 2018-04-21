@@ -32,7 +32,11 @@
 
 \usepackage{xspace}
 
-\usepackage[maxlevel=3]{csquotes}
+\usepackage{graphicx}
+\usepackage{tikzpagenodes}
+
+\usepackage[maxlevel=3, autostyle=true, french=guillemets*,%
+            autopunct=true]{csquotes}
 \usepackage{frcursive}
 \usepackage{pifont}
 \renewcommand{\footnoterule}{%%
@@ -74,6 +78,18 @@
   \end{center}
 }
 
+% Liens pour les drapeaux cliquables à droites au dessus du titre
+% de la section
+% LRCF: Left Right Corner Flags
+% #1: link 1, #2: link 2
+\newcommand{\LRCF}[2]{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \node[anchor=east,inner sep=0pt] at (current page text
+    area.east|-0,3cm) {\uks{#1}\quad \uss{#2}};
+  \end{tikzpicture}
+
+}
+
 % Insertion des liens YouGlish
 \newcommand{\youglish}[1]{%
 \exEN{For more examples with the word ``#1'' click on the \href{https://youtu.be/sYmJLFEowaY}{flags} below:}%
@@ -113,6 +129,15 @@
     de l'enseignant}\xspace%
 }
 
+% Longues citations : #1 largeur #2 source #3 punct 
+% \newenvironment{\bigquote}[1]
+%  {\begin{center}%
+%     \shadowbox{%
+%       \begin{minipage}{#1\textwidth}\end{minipage}}%
+%  }%
+%  {\end{center}}
+    
+
 % Liens vers le livre Honni soit qui mal y pense
 \newcommand{\HSQMYP}{%
   ~\href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni soit qui mal y pense}%
@@ -121,16 +146,27 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Phonétique
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Mots écrits en transcription phonétiques
-\newcommand{\exPH}[1]{%
+% Mots écrits en transcription phonétiques (donc PHONèMes)
+\newcommand{\phonm}[1]{%
   \textcolor{teal}{/#1/}
 }
 
-% Sons écrits en transcription phonétiques
-\newcommand{\son}[2][Le~]{%
-  #1\textcolor{teal}{son~[#2]}
+% Son isolé ou phone
+\newcommand{\phon}[1]{%
+  \textcolor{teal}{[#1]}
 }
 
+% Sons écrits en transcription phonétiques
+\newcommand{\son}{%
+  \textcolor{teal}{son}
+}
+
+% Notations
+\newcommand{\notation}{%
+  \begin{center}
+    {\Large Attention aux \hyperlink{notation}{notations} !}
+  \end{center}
+}
 % Présentation du nom du son avec les liens vers le blog et vers
 % wikipédia
 % \newcommand[7]{\sn}{% sound name
@@ -292,20 +328,20 @@
   \begin{enumerate}%
   \item Des exemples de mots afin d'illustrer le \textcolor{teal}{son}. Pour chaque mot~%
     vous disposerez d'un lien externe vers un dictionnaire~%
-    \exEN{anglais}-\exFR{français} qui vous proposera plusieurs prononciations, la~%
+    \exEN{english}-\exFR{français} qui vous proposera plusieurs prononciations, la~%
     phonétique, la traduction\footnote{En fait
       plusieurs traductions,~avec~parfois~plusieurs registres de langue (y compris l'argot).}, et enfin~%
-    plusieurs exemples (en \exEN{anglais} et \exFR{français}).%
+    plusieurs exemples (en \exEN{english} et leurs traductions en \exFR{français}).%
   \item Une transcription du mot selon la norme de l'API ou IPA en~%
     anglais\footnote{À partir de maintenant on utilisera la terminologie~%
       anglaise.} avec un lien externe vers un dictionnaire~%
-    \exEN{anglais}-\exEN{anglais} qui vous fournira une définition\footnote{En fait~%
+    \exEN{english}-\exEN{english} qui vous fournira une définition\footnote{En fait~%
       plusieurs selon les sens du mot.}, des exemples d'utilisation du~%
     mot, l'origine du mot, et enfin sa phonétique anglaise.%
   \item Des exemples de phrases utilisant le mot. Dans chaque phrase~%
-    vous trouverez au moins un lien externe\footnote{Parfois plusieurs,~%
+    vous trouverez au moins deux liens externes\footnote{Parfois plusieurs,~%
       souvent vers des vidéos mais parfois vers des textes de chansons.}~%
-    qui vous permettra de voir le mot ou groupe de mots utilisé(s) par~%
+    qui vous permettront de voir le mot ou groupe de mots utilisé(s) par~%
     des locuteurs natifs\footnote{Souvent américains mais pas toujours.}.%
   \item Des exemples complémentaires\footnote{Avec cette fois en bonus des~%
       liens vers des prononciations typiquement australiennes en plus des~%
