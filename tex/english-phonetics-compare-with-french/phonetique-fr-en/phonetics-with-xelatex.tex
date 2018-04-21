@@ -78,17 +78,17 @@
   \end{center}
 }
 
-% Liens pour les drapeaux cliquables à droites au dessus du titre
+% Liens pour les drapeaux cliquables à droite au dessus du titre
 % de la section
-% LRCF: Left Right Corner Flags
-% #1: link 1, #2: link 2
-\newcommand{\LRCF}[2]{%
+% RCLF: Right Corner Linked Flags
+% #1: sound 1, #2: link 1, #3: sound 2, #4: link 2
+\newcommand{\RCLF}[4]{%
   \begin{tikzpicture}[remember picture,overlay]
     \node[anchor=east,inner sep=0pt] at (current page text
-    area.east|-0,3cm) {\uks{#1}\quad \uss{#2}};
+    area.east|-0,3cm) {#1$\Rightarrow$ \uks{#2}\quad #3$\Rightarrow$ \uss{#4}};
   \end{tikzpicture}
-
 }
+
 
 % Insertion des liens YouGlish
 \newcommand{\youglish}[1]{%
@@ -261,15 +261,15 @@
 % #4 : lien url vers l'article de blog
 % #5 : liens éventuels vers les sons élémentaires
 \newcommand{\diph}[5]{
-  Cette diphtongue est la combinaison\footnote{#5} de la voyelle\son[~]{#1} et de la %
-  voyelle\son[~]{#2}. D'une certaine manière on peut écrire <<~l'équation~>>~:%
+  Cette diphtongue est la combinaison\footnote{#5} de la voyelle
+  \phon{#1} et de la voyelle \phon{#2}. D'une certaine manière on peut
+  écrire <<~l'équation~>>~:%
   \begin{center}%
-    \shadowbox{\son[~]{#1} + \son[~]{#2} = \son[~]{#3}}%
+    \shadowbox{\phon{#1} + \phon{#2} = \phon{#3}}%
   \end{center}%
   Consultez mon article de
   \href{http://doyouspeakenglish.fr/#4}{blog}\footnote{Consulter
     l'article de blog \url{http://doyouspeakenglish.fr/#4}} sur le sujet pour en savoir plus.%
-    \flags%
 }
 
 \renewcommand{\mkcitation}[1]{\footnote{#1}}
@@ -433,12 +433,16 @@
 
 \mainmatter
 \parttoc
+\listoffigures
+\listoftables
 
 %\input{chap5-hist-en}
 
 \input{chap6-vowels-en}
 
 \input{chap7-consonants-en}
+
+\input{chap-8-conclusion-en}
 
 \backmatter
 
