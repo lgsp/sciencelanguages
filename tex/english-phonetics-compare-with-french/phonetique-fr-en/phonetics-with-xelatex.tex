@@ -15,6 +15,7 @@
 \usepackage{dtk-logos}
 %% \usepackage{draftwatermark}
 \usepackage{pdfpages} % pour inclure des docs pdf
+%\usepackage{appendix}
 
 \usepackage{fancybox}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -104,6 +105,23 @@
     article complet sur ce son en cliquant sur \url{http://doyouspeakenglish.fr/#1}}%
 }
 
+% Liens vers le livre Anglais débutant
+\newcommand{\ad}{%
+  ~\href{https://amzn.to/2F5OhZa}{Anglais débutant 1 leçon par jour pendant 3 mois}\xspace%
+}
+
+% Liens vers le livre Bescherelle l'anglais pour tous
+\newcommand{\besch}{%
+  ~\href{https://amzn.to/2HiDBfI}{Bescherelle l'anglais pour tous}\xspace%
+}
+
+% Liens vers les sons de l'alphabet
+% #1 : lettre, #2 : lien interne, #3 : phonétique
+\newcommand{\letr}[3]{%
+  \oxford{#1} \hyperlink{#2}{\wordref{#1}{#3}}
+}
+
+
 % Liens vers le livre How The Ell Brain Learns
 \newcommand{\HTEBL}{%
     ~\href{https://amzn.to/2pSEAsm}{How The Ell Brain Learns}\xspace%
@@ -150,6 +168,24 @@
 \newcommand{\phonm}[1]{%
   \textcolor{teal}{/#1/}
 }
+
+% Liens vers wordreference
+\newcommand{\wordref}[2]{%
+  \href{http://www.wordreference.com/enfr/#1}{\phonm{#2}}
+}
+
+% Liens vers oxforddictionnaries
+\newcommand{\oxford}[1]{%
+  \href{https://en.oxforddictionaries.com/definition/#1}{\exEN{#1}}
+}
+
+% Liens vers cambridge
+\newcommand{\cambridge}[1]{%
+  \href{https://dictionary.cambridge.org/fr/dictionnaire/anglais/#1}%
+  {\exEN{#1}}
+}
+
+
 
 % Son isolé ou phone
 \newcommand{\phon}[1]{%
@@ -260,8 +296,9 @@
 % #3 : diphtongue résultante
 % #4 : lien url vers l'article de blog
 % #5 : liens éventuels vers les sons élémentaires
-\newcommand{\diph}[5]{
-  Cette diphtongue est la combinaison\footnote{#5} de la voyelle
+% #6 : l'ancre
+\newcommand{\diph}[6]{
+  \hypertarget{#6}{Cette diphtongue} est la combinaison\footnote{#5} de la voyelle
   \phon{#1} et de la voyelle \phon{#2}. D'une certaine manière on peut
   écrire <<~l'équation~>>~:%
   \begin{center}%
@@ -445,6 +482,8 @@
 \input{chap-8-conclusion-en}
 
 \backmatter
+
+\input{annexes}
 
 \end{document}
 
