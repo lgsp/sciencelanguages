@@ -9,6 +9,7 @@
 \setotherlanguage{english}
 \setotherlanguage[variant=ancient]{greek}
 \setotherlanguage{latin}
+\setotherlanguage{german}
 \renewenvironment{latin}{\begin{hyphenrules}{latin}}%%
   {\end{hyphenrules}}
 
@@ -37,13 +38,14 @@
 \usepackage{tikzpagenodes}
 
 \usepackage[maxlevel=3, autostyle=true, french=guillemets*,%
-            autopunct=true]{csquotes}
+            english=american, autopunct=true]{csquotes}
 \usepackage{frcursive}
 \usepackage{pifont}
 \renewcommand{\footnoterule}{%%
 \vspace*{0.2cm}%%
 \ding{47}\hfill \centering Notes\hfill \ding{45}\vspace*{.2cm}\hrule\vspace*{.2cm}}
 
+\usepackage{shorttoc}
 \usepackage[french]{minitoc}
 
 \usepackage{subfloat}
@@ -125,6 +127,17 @@
 % Liens vers le livre How The Ell Brain Learns
 \newcommand{\HTEBL}{%
     ~\href{https://amzn.to/2pSEAsm}{How The Ell Brain Learns}\xspace%
+}
+
+% Liens vers le livre a critical introduction to phonetics
+\newcommand{\lodge}{%
+  \href{https://amzn.to/2K45eHn}{A Critical Introduction to Phonetics} de \textsc{Ken Lodge}
+}
+
+% Liens vers le livre a manual of english phonetics and phonology
+\newcommand{\bs}{%
+  \href{https://amzn.to/2HV8BzG}{A Manual of English Phonetics and
+    Phonology} de \textsc{Paul Burleigh} et \textsc{Peter Skandera}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -242,19 +255,24 @@
   % #8 ref ligne 4, colonne 1 ici omegaenvenenv
   % #9 ref ligne 4, colonne 2 ici eeteenv
   \begin{center}
-  \begin{tabular}{#1||#1}
-    \ref{sec:#2} page~\pageref{sec:#2}
-    & \ref{sec:#3} page~\pageref{sec:#3} \\
-    \\
-    \ref{sec:#4} page~\pageref{sec:#4}
-    & \ref{sec:#5} page~\pageref{sec:#5} \\
-    \\
-    \ref{sec:#6} page~\pageref{sec:#6}
-    & \ref{sec:#7} page~\pageref{sec:#7} \\
-    \\
-    \ref{sec:#8} page~\pageref{sec:#8}
-    & \ref{sec:#9} page~\pageref{sec:#9} 
-  \end{tabular}
+    \begin{table}[h]
+      \centering
+      \begin{tabular}{#1||#1}
+        \ref{sec:#2} page~\pageref{sec:#2}
+        & \ref{sec:#3} page~\pageref{sec:#3} \\
+        \\
+        \ref{sec:#4} page~\pageref{sec:#4}
+        & \ref{sec:#5} page~\pageref{sec:#5} \\
+        \\
+        \ref{sec:#6} page~\pageref{sec:#6}
+        & \ref{sec:#7} page~\pageref{sec:#7} \\
+        \\
+        \ref{sec:#8} page~\pageref{sec:#8}
+        & \ref{sec:#9} page~\pageref{sec:#9} 
+      \end{tabular}
+      \caption{Liste des symboles problématiques}
+      \label{tab:notations}
+    \end{table}
 \end{center}
 }
 
@@ -388,6 +406,7 @@
 }
   
 \begin{document}
+
 % \title{Introduction à la phonétique anglaise; rédigée avec
 % \href{https://en.wikipedia.org/wiki/XeTeX}{\XeLaTeX}}
 \includepdf{titlepage2018}
@@ -411,10 +430,11 @@
 
 %\maketitle
 \dominitoc
-\tableofcontents
+\shorttoc{Sommaire}{0}
+
 
 \frontmatter
-\part{Introduction}
+\part{À propos de ce livre}
 
 \parttoc
 
@@ -422,6 +442,10 @@
 
 \input{chap1-intro}
 
+\newpage
+\listoffigures
+\listoftables
+\newpage
 % \part{Phonétique du français}
 % Ce qui m'a frappé lors de mes recherches en apprentissage des langues,
 % et en particulier en ce qui concerne les ressources francophones,
@@ -470,10 +494,12 @@
 
 \mainmatter
 \parttoc
-\listoffigures
-\listoftables
 
 %\input{chap5-hist-en}
+
+\part{Un peu de linguistique pour les non linguistes comme moi}
+
+\input{chap5-def-ling}
 
 \input{chap6-vowels-en}
 
@@ -481,9 +507,13 @@
 
 \input{chap-8-conclusion-en}
 
-\backmatter
+\appendix
 
 \input{annexes}
+
+\backmatter
+
+\tableofcontents
 
 \end{document}
 
