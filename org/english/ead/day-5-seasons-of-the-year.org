@@ -21,33 +21,33 @@
   |      4 | Winter                  | Hiver     |
   
 * Seasons of the Year
-  Each time I refer to the Northern Hemisphere I'm talking about France and each time I refer to the Southern Hemisphere I'm talking about New Zealand.
+  Each time I refer to the Northern Hemisphere, I'm talking about France, and each time I refer to the Southern Hemisphere, I'm talking about New Zealand.
 ** Spring
-   + Northern Hemisphere :: Spring starts March the twenty-first and ends
-        June the twenty-first.
-   + Southern Hemisphere :: Spring starts September the twenty-first and
-        ends December the twenty-first.
+   + Northern Hemisphere :: Spring starts March twenty-first and ends
+        June twenty-first.
+   + Southern Hemisphere :: Spring starts September twenty-first and
+        ends December twenty-first.
 ** Summer
-   + Northern Hemisphere :: Summer starts  June the twenty-first, which is
-        the longest day of the year and ends September the twenty-first.
-   + Southern Hemisphere :: Summer starts December the twenty-first,
-        which is the longest day of the year and ends March the
+   + Northern Hemisphere :: Summer starts  June twenty-first, which is
+        the longest day of the year and ends September twenty-first.
+   + Southern Hemisphere :: Summer starts December twenty-first,
+        which is the longest day of the year and ends March
         twenty-first.
 ** Autumn (UK) / Fall (US)
-   + Northern Hemisphere :: Autumn (UK) / Fall (US) starts September the
-        twenty-first and ends December the twenty-first.
-   + Southern Hemisphere :: Autumn (UK) / Fall (US) starts March the
-        twenty-first and ends June the twenty-first.
+   + Northern Hemisphere :: Autumn (UK) / Fall (US) starts September 
+        twenty-first and ends December twenty-first.
+   + Southern Hemisphere :: Autumn (UK) / Fall (US) starts March
+        twenty-first and ends June twenty-first.
 ** Winter
    + Northern Hemisphere :: Winter starts December the twenty-first and
         ends March the twenty-first.
    + Southern Hemisphere :: Winter starts June the twenty-first
         and ends September the twenty-first.
 
-* Countries Without The Four-Season System
-  Some countries do not share the four-season system, for instance in
+* Countries Without the Four-Season System
+  Some countries do not share the four-season system. For instance, in
   India there are six major climatic subtypes (see [[https://en.wikipedia.org/wiki/Climate_of_India][Wikipedia]] for more
-  details). Also tropical areas, like the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details), have only two main seasons; in desert areas it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
+  details). Also tropical areas, like the Caribbean (see [[https://en.wikipedia.org/wiki/Caribbean][Wikipedia]] for more details) or Polynesia (see [[https://en.wikipedia.org/wiki/Polynesia][Wikipedia]] for more details), have only two main seasons; in desert areas, it is different as well (see [[https://en.wikipedia.org/wiki/Desert][Wikipedia]] for more
   details). 
   
 * New Sound 1: [[http://doyouspeakenglish.fr/close-back-rounded-vowel/][the Long Vowel {uː}]] as in:
@@ -89,8 +89,8 @@
    1. Can you list of the seasons in alphabetical order?
    2. In which season does February belong? Answer for the Northern
       Hemisphere and then for the Southern Hemisphere.
-   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
-      fourteenth to July the fifteenth. Which season will it be there?
+   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June
+      fourteenth to July fifteenth. Which season will it be there?
       And in New Zealand?
 * Exercise 2
    1. Give an example for each 6 short vowels.
@@ -111,8 +111,8 @@
       then for the Southern Hemisphere.
       + In the Northern Hemisphere :: February belongs to Winter
       + In the Southern Hemisphere :: February belongs to Summer
-   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June the
-      fourteenth to July the fifteenth. Which season will it be there?
+   3. [[https://en.wikipedia.org/wiki/2018_FIFA_World_Cup][The FIFA World Cup 2018]] will be in Russia from June
+      fourteenth to July fifteenth. Which season will it be there?
       Summer as in other countries in the Northern Hemisphere.
       And in New Zealand? Winter like other countries in the Southern Hemisphere.
 * Solutions: Exercice 2
