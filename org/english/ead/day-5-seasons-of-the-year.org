@@ -7,7 +7,7 @@
   + Laurent :: How are you today?
   + Stacy :: I'm fine, thanks. And you?
   + Laurent :: I'm fine because it is the beginning of spring.
-  + Stacy :: Yeah! I like spring too because it is sunnier than
+  + Stacy :: Yeah! I like spring, too, because it is sunnier than
              winter.
   + Laurent :: Yeah! And it is cooler than summer. Let's talk about
                the lesson of the day: SEASONS OF THE YEAR!
@@ -39,10 +39,10 @@
    + Southern Hemisphere :: Autumn (UK) / Fall (US) starts March
         twenty-first and ends June twenty-first.
 ** Winter
-   + Northern Hemisphere :: Winter starts December the twenty-first and
-        ends March the twenty-first.
-   + Southern Hemisphere :: Winter starts June the twenty-first
-        and ends September the twenty-first.
+   + Northern Hemisphere :: Winter starts December twenty-first and
+        ends March twenty-first.
+   + Southern Hemisphere :: Winter starts June  twenty-first
+        and ends September  twenty-first.
 
 * Countries Without the Four-Season System
   Some countries do not share the four-season system. For instance, in
