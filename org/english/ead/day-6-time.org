@@ -4,25 +4,25 @@
 * Introduction
   + Laurent :: Hi Stacy! 
   + Stacy :: Salut Laurent !
-  + Laurent :: How are you today at 9 am?
-  + Stacy :: I'm fine, thanks. And you?
-  + Laurent :: I'm fine too, thanks. You know I usually get up before 6 am.
+  + Laurent :: How are you doing today at 9 am?
+  + Stacy :: I'm great, thank you. And you?
+  + Laurent :: I'm fine, too, thank you. You know, I usually get up before 6 am.
   + Stacy :: Do you go to bed at 9 pm?
-  + Laurent :: No! But I usually go to bed before midnight. 
-  + Stacy :: Interesting because I thought your technique was to go to bed always at the same time.
-  + Laurent :: You know, time is always changing so that's the reason why we are going to talk about: HOW TO TELL THE TIME IN ENGLISH!
+  + Laurent :: No, but I usually go to bed before midnight. 
+  + Stacy :: That's interesting, because I thought your technique was to always go to bed at the same time.
+  + Laurent :: You know, time is always changing, so that's the reason why we are going to talk about: HOW TO TELL THE TIME IN ENGLISH!
   
 * Full Hours
 
-  For full hours you just add o'clock (of the clock) after the
+  For full hours, you add o'clock (of the clock) after the
   number. 
 * Examples
-   1. What time is it please? It's one o'clock 1:00
-   2. What's the time please? It's two o'clock 2:00
-   3. What time is it please? It's three o'clock 3:00
-   4. What's the time please? It's four o'clock 4:00
-   5. What time is it please? It's five o'clock 5:00
-   6. What's the time please? It's six o'clock 6:00
+   1. What time is it, please? It's one o'clock 1:00
+   2. What's the time, please? It's two o'clock 2:00
+   3. What time is it, please? It's three o'clock 3:00
+   4. What's the time, please? It's four o'clock 4:00
+   5. What time is it, please? It's five o'clock 5:00
+   6. What's the time, please? It's six o'clock 6:00
 * Exercise 1
    1. How do you say 7:00?
    2. How do you say 8:00?
@@ -39,11 +39,11 @@
   | 1/4       | quarter *past* | et quart ou un quart |
   
 * Examples
-   1. What's the time please? It's quarter *past* one, 1:15
-   2. What time is it please? It's half *past* two, 2:30
-   3. What's the time please? It's five *past* three, 3:05
-   4. What time is it please? It's ten *past* four, 4:10
-   5. What's the time please? It's twenty *past* five, 5:20
+   1. What's the time, please? It's quarter *past* one, 1:15
+   2. What time is it, please? It's half *past* two, 2:30
+   3. What's the time, please? It's five *past* three, 3:05
+   4. What time is it, please? It's ten *past* four, 4:10
+   5. What's the time, please? It's twenty *past* five, 5:20
 
 * Exercise 2
    1. How do you say 6:25?
@@ -59,11 +59,11 @@
     | 1/4       | quarter *to* | moins le quart |
    
 * Examples
-   1. What time is it please? It's twenty *to* twelve, 11:40
-   2. What's the time please? It's quarter *to* three, 2:45
-   3. What time is it please? It's twenty five *to* four, 3:35
-   4. What's the time please? It's ten *to* six, 5:50
-   5. What time is it please? It's five *to* seven, 6:55
+   1. What time is it, please? It's twenty *to* twelve, 11:40
+   2. What's the time, please? It's quarter *to* three, 2:45
+   3. What time is it, please? It's twenty five *to* four, 3:35
+   4. What's the time, please? It's ten *to* six, 5:50
+   5. What time is it, please? It's five *to* seven, 6:55
 
 * Exercise 3
   1. How do you say 6:45?
@@ -75,15 +75,15 @@
 * The 1 to 12 System
    Traditionally, English speakers used the 1 to 12 system with two
    Latin abbreviations in order to specify whether the time is in the
-   morning (am stands for ante meridian) or in the afternoon (pm stands for post meridian). 
+   morning (am stands for /ante meridian/) or in the afternoon (pm stands for /post meridian/). 
 * Examples
-    1. What time is it please? It's six pm, 6:00 pm. 
+    1. What time is it, please? It's six pm, 6:00 pm. 
        Note: You can also answer: It's six in the afternoon.
-    2. What's the time please? It's four fifteen am, 4:15 am. 
+    2. What's the time, please? It's four fifteen am, 4:15 am. 
        Note: You can also say: It's quarter past four in the morning.
-    3. What time is it please? It's three thirty pm , 3:30 pm.
+    3. What time is it, please? It's three thirty pm , 3:30 pm.
        Note: You can also answer: It's half past three in the afternoon.
-    4. What's the time please? It's nine fifty-four am, 9:54 am.
+    4. What's the time, please? It's nine fifty-four am, 9:54 am.
        Note: You can also say: It's six minutes to ten in the morning. 
 * The 0 to 23 System
    Nowadays electronic devices generally use the 0 to 23
@@ -94,11 +94,11 @@
     3. What time does the boat leave? It leaves fifteen thiry, 15:30
     4. What time does the subway come in? It comes in twenty-one fifty-four, 21:54
 * Without the Half Division
-   Nowadays with electronic devices everywhere some people sometimes use a literal
-   description of the numbers
+   Nowadays, with electronic devices everywhere, some people sometimes use a literal
+   description of the numbers.
 * Examples 
     1. What time do you start work? I start at four pm, 4:00 pm
-    2. What's the time please? It's four fifteen pm, 4:15 pm
+    2. What's the time, please? It's four fifteen pm, 4:15 pm
     3. What time did you leave the party? I left the party at three thirty am, 3:30 am
     4. What time are you meeting? I am meeting at nine fifty-five pm, 9:55 pm
 * Exercise 4
@@ -107,10 +107,10 @@
    2. It's ten to five pm. Express it just by describing the numbers
       without the abbreviation.
 * Noon and Midnight
-  There are also a specific cases for twelve. A day last 24 hours,
-  so 12 is in the middle. Therefore before 12 is the morning and
-  after 12 is the afternoon, because 12:00 pm is called noon or midday.
-  12:00 am is called midnight (middle of the night).
+  There are also specific cases for twelve. A day lasts 24 hours,
+  so 12 is in the middle. Therefore, before 12 is considered the morning, and
+  after 12 is considered the afternoon, and 12:00 pm is called noon or midday.
+  12:00 am is called midnight or the middle of the night.
 
 * Exercise 5
    Give an example for each sound you've seen so far:
