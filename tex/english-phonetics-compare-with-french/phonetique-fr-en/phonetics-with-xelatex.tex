@@ -35,8 +35,18 @@
 
 \usepackage{xspace}
 
-\usepackage{graphicx}
+\usepackage{tikz}
 \usepackage{tikzpagenodes}
+
+% Paquets indispensables pour bclogo
+\usepackage{graphicx}
+\usepackage[tikz]{mdframed} % pour la coupure des boîtes
+% \usepackage{xkeyval}
+% \usepackage{ifthen}
+% \usepackage{ifpdf}
+% \usepackage{etoolbox}
+
+% \usepackage[tikz]{bclogo}
 
 \usepackage[maxlevel=3, autostyle=true, french=guillemets*,%
             english=american, autopunct=true]{csquotes}
@@ -55,285 +65,7 @@
 
 \usepackage{xcolor}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%% ENGLISH 
-%%%%%%%%%%%%%%%%%
-% Phrases en anglais
-\newcommand{\exEN}[1]{%
-  \textcolor{blue}{\textenglish{#1}}%
-}
-
-\newcommand{\uks}[1]{% uk sound
-  \href{#1}{\includegraphics[width=0.5cm, height=0.3cm]{../img/union-jack-mini}}%
-}
-
-
-\newcommand{\uss}[1]{% us sound
-  \href{#1}{\includegraphics[width=0.5cm, height=0.3cm]{../img/us-flag-mini}}%
-}
-
-\newcommand{\aus}[1]{% australian sound
-  \href{#1}{\includegraphics[width=0.5cm, height=0.3cm]{../img/aussie-flag-mini}}%
-}
-
-% Liens vers les bonnes prononciations phonétiques
-\newcommand{\properukus}[2]{%
-  \begin{center}
-    (\uks{#1}\quad \uss{#2})
-  \end{center}
-}
-
-% Liens pour les drapeaux cliquables à droite au dessus du titre
-% de la section
-% RCLF: Right Corner Linked Flags
-% #1: sound 1, #2: link 1, #3: sound 2, #4: link 2
-\newcommand{\RCLF}[4]{%
-  \begin{tikzpicture}[remember picture,overlay]
-    \node[anchor=east,inner sep=0pt] at (current page text
-    area.east|-0,3cm) {#1$\Rightarrow$ \uks{#2}\quad #3$\Rightarrow$ \uss{#4}};
-  \end{tikzpicture}
-}
-
-
-% Insertion des liens YouGlish
-\newcommand{\youglish}[1]{%
-\exEN{For more examples with the word ``#1'' click on the \href{https://youtu.be/sYmJLFEowaY}{flags} below:}%
-  \begin{center}%
-    (\uks{https://youglish.com/search/#1/uk}\quad\uss{https://youglish.com/search/#1/us}\quad\aus{https://youglish.com/search/#1/aus})%
-  \end{center}%
-}
-
-% Liens vers mon blog www.doyouspeakenglish.fr
-\newcommand{\dyse}[1]{%
-  \footnote{Consultez mon
-    article complet sur ce son en cliquant sur \url{http://doyouspeakenglish.fr/#1}}%
-}
-
-% Liens vers le livre Anglais débutant
-\newcommand{\ad}{%
-  ~\href{https://amzn.to/2F5OhZa}{Anglais débutant 1 leçon par jour pendant 3 mois}\xspace%
-}
-
-% Liens vers le livre Bescherelle l'anglais pour tous
-\newcommand{\besch}{%
-  ~\href{https://amzn.to/2HiDBfI}{Bescherelle l'anglais pour tous}\xspace%
-}
-
-% Liens vers les sons de l'alphabet
-% #1 : lettre, #2 : lien interne, #3 : phonétique
-\newcommand{\letr}[3]{%
-  \oxford{#1} \hyperlink{#2}{\wordref{#1}{#3}}
-}
-
-
-% Liens vers le livre How The Ell Brain Learns
-\newcommand{\HTEBL}{%
-    ~\href{https://amzn.to/2pSEAsm}{How The Ell Brain Learns}\xspace%
-}
-
-% Liens vers le livre a critical introduction to phonetics
-\newcommand{\lodge}{%
-  \href{https://amzn.to/2K45eHn}{A Critical Introduction to Phonetics} de \textsc{Ken Lodge}
-}
-
-% Liens vers le livre a manual of english phonetics and phonology
-\newcommand{\bs}{%
-  \href{https://amzn.to/2HV8BzG}{A Manual of English Phonetics and
-    Phonology} de \textsc{Paul Burleigh} et \textsc{Peter Skandera}
-}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% FRANÇAIS
-%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Traductions en français
-\newcommand{\exFR}[1]{%
-  \textcolor{orange}{\textcursive{#1}}%
-}
-
-% Liens vers le livre Français Lycée
-\newcommand{\FL}{%
-  ~\href{https://www.amazon.fr/gp/product/2844100015/ref=as\_li\_tl?ie=UTF8\&camp=1642\&creative=6746\&creativeASIN=2844100015\&linkCode=as2\&tag=wwwbecomefree-21\&linkId=985f3a849fd44728e8480993cf2d5490}{français
-    lycée} de Pierre Brunel\xspace%
-}
-
-% Liens vers le livre Grévisse de l'Enseignant
-\newcommand{\GE}{%
-  ~\href{https://www.amazon.fr/gp/product/221010632X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=221010632X&linkCode=as2&tag=wwwbecomefree-21&linkId=c8c522ee07ffc9188dd9a768e39d88e0}{Grévisse
-    de l'enseignant}\xspace%
-}
-
-% Longues citations : #1 largeur #2 source #3 punct 
-% \newenvironment{\bigquote}[1]
-%  {\begin{center}%
-%     \shadowbox{%
-%       \begin{minipage}{#1\textwidth}\end{minipage}}%
-%  }%
-%  {\end{center}}
-    
-
-% Liens vers le livre Honni soit qui mal y pense
-\newcommand{\HSQMYP}{%
-  ~\href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni soit qui mal y pense}%
-}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Phonétique
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Mots écrits en transcription phonétiques (donc PHONèMes)
-\newcommand{\phonm}[1]{%
-  \textcolor{teal}{/#1/}
-}
-
-% Liens vers wordreference
-\newcommand{\wordref}[2]{%
-  \href{http://www.wordreference.com/enfr/#1}{\phonm{#2}}
-}
-
-% Liens vers oxforddictionnaries
-\newcommand{\oxford}[1]{%
-  \href{https://en.oxforddictionaries.com/definition/#1}{\exEN{#1}}
-}
-
-% Liens vers cambridge
-\newcommand{\cambridge}[1]{%
-  \href{https://dictionary.cambridge.org/fr/dictionnaire/anglais/#1}%
-  {\exEN{#1}}
-}
-
-
-
-% Son isolé ou phone
-\newcommand{\phon}[1]{%
-  \textcolor{teal}{[#1]}
-}
-
-% Sons écrits en transcription phonétiques
-\newcommand{\son}{%
-  \textcolor{teal}{son}
-}
-
-% Notations
-\newcommand{\notation}{%
-  \begin{center}
-    {\Large Attention aux \hyperlink{notation}{notations} !}
-  \end{center}
-}
-% Présentation du nom du son avec les liens vers le blog et vers
-% wikipédia
-% \newcommand[7]{\sn}{% sound name
-%   Ce \textcolor{red}{son} a pour nom technique\dyse{#1} :% #1: lien
-%                                 % vers le blog
-%   %
-%   \begin{itemize}%
-%   \item \exEN{#2\CW{#3}.}% #2: sound name, #3: wiki EN
-%   \item \exFR{#4\CW{#5}.}% #4: nom du son, #5: wiki FR sinon blog voir
-%                          % package ifthen pour gérer ça
-%   \end{itemize}%
-%   %
-%   \indicsound%
-%   %
-%   \properukus{#6}{#7}% #6: UK YT, #7: US YT
-% }
-
-% Références à des sons
-% ancre
-\newcommand{\sonancre}[1]{%
-  \hypertarget{#1}{C'est le \textcolor{red}{son}~}%
-}
-% lien
-\newcommand{\sonref}[2]{%
-  \hyperlink{#1}{\son[~]{#2}}%
-}
-
-% Mini-table des matières ciblées
-\newcommand{\tdm}[9]{%
-  % #1 Type colonnes : lcr (left center right)
-  % #2 ref ligne 1, colonne 1 ici sone
-  % #3 ref ligne 1, colonne 2 ici sonae
-  % #4 ref ligne 2, colonne 1 ici sonenv
-  % #5 ref ligne 2, colonne 2 ici sonenvlong
-  % #6 ref ligne 3, colonne 1 ici sonalong
-  % #7 ref ligne 3, colonne 2 ici enenvomegaenv
-  % #8 ref ligne 4, colonne 1 ici omegaenvenenv
-  % #9 ref ligne 4, colonne 2 ici eeteenv
-  \begin{center}
-    \begin{table}[h]
-      \centering
-      \begin{tabular}{#1||#1}
-        \ref{sec:#2} page~\pageref{sec:#2}
-        & \ref{sec:#3} page~\pageref{sec:#3} \\
-        \\
-        \ref{sec:#4} page~\pageref{sec:#4}
-        & \ref{sec:#5} page~\pageref{sec:#5} \\
-        \\
-        \ref{sec:#6} page~\pageref{sec:#6}
-        & \ref{sec:#7} page~\pageref{sec:#7} \\
-        \\
-        \ref{sec:#8} page~\pageref{sec:#8}
-        & \ref{sec:#9} page~\pageref{sec:#9} 
-      \end{tabular}
-      \caption{Liste des symboles problématiques}
-      \label{tab:notations}
-    \end{table}
-\end{center}
-}
-
-% Citations en latin
-\newcommand{\exLT}[1]{%
-  \textcolor{olive}{\textlatin{#1}}%
-}
-
-% Consultation Wikipédia
-\newcommand{\CW}[1]{%
-  \footnote{Consulter \href{#1}{Wikipédia} pour plus de détails.}%
-}
-
-% Son nom technique est
-\newcommand{\tn}[2]{% technic name
-  \par Son nom technique est~:%
-  \begin{center}%
-    \shadowbox{\textcolor{green}{\underline{\textcolor{magenta}{#1}}}}\CW{#2}.%
-  \end{center}%
-  
-}
-
-% Flags
-\newcommand{\flags}{%
-  \begin{itemize}%
-  \item \exEN{Click on the flags below to check how to produce the sounds.}%
-  \item \exFR{Cliquez sur les drapeaux ci-dessous afin de vérifier la façon de produire les sons correctement.}%
-  \end{itemize}%
-}
-
-% Bla bla pour annoncer le nom du son
-\newcommand{\indicsound}{%
-  Son nom indique la façon de le produire.%
-  \flags%
-}
-
-% Diphthongs
-% #1 : voyelle de gauche #2 : voyelle de droite
-% #3 : diphtongue résultante
-% #4 : lien url vers l'article de blog
-% #5 : liens éventuels vers les sons élémentaires
-% #6 : l'ancre
-\newcommand{\diph}[6]{
-  \hypertarget{#6}{Cette diphtongue} est la combinaison\footnote{#5} de la voyelle
-  \phon{#1} et de la voyelle \phon{#2}. D'une certaine manière on peut
-  écrire <<~l'équation~>>~:%
-  \begin{center}%
-    \shadowbox{\phon{#1} + \phon{#2} = \phon{#3}}%
-  \end{center}%
-  Consultez mon article de
-  \href{http://doyouspeakenglish.fr/#4}{blog}\footnote{Consulter
-    l'article de blog \url{http://doyouspeakenglish.fr/#4}} sur le sujet pour en savoir plus.%
-}
-
-\renewcommand{\mkcitation}[1]{\footnote{#1}}
-\renewcommand{\mktextquote}[6]{#1#2#6#4#3#5}
-
-\newcommand{\up}[1]{\textsuperscript{#1}}
+\input{macros}
 
 \usepackage{hyperref, graphicx}
 
@@ -352,61 +84,7 @@
   }%
 \fi
   
-%%%%%%%%%%%%%%%
-% Speech avant une section de voyelles anglaises
-%%%%%%%%%%%%%%%
-\newcommand{\speech}[2]{%
-  Il y a \textcolor{green}{#1} \textcolor{teal}{#2} dans la langue anglaise et pour chaque \textcolor{teal}{son}, je vous~%
-  proposerai au moins \textcolor{green}{4}~%
-  exemples. Pour chaque \textcolor{teal}{son} je commencerai par vous donner sa définition~%
-  technique\footnote{Ainsi que sa traduction, néanmoins il est important~%
-    de prendre l'habitude d'éviter de traduire afin de~%
-    véritablement s'imprégner de la langue (ce conseil est valable pour~%
-    l'apprentissage de n'importe quelle langue).} parce que cette dernière~%
-  explique la façon de produire le \textcolor{teal}{son}. Vous aurez également deux liens~%
-  externes :%
-  %
-  \begin{enumerate}%
-  \item Le premier lien\footnote{Accessible en cliquant sur le drapeau du~%
-      Royaume Uni.} vous permettra de consulter un article de mon blog
-    avec (au moins) une vidéo qui~%
-    propose des exemples supplémentaires avec une prononciation~%
-    typiquement anglaise\footnote{La prononciation appelée BBC accent
-      ou
-      \href{https://en.wikipedia.org/wiki/Received_Pronunciation}{Received
-        Pronunciation}.}.%
-  \item Le second lien\footnote{Accessible en cliquant sur le drapeau~américain.}~%
-    vous permettra de consulter un article de mon blog avec (au moins)
-    une vidéo qui propose des~%
-    exemples supplémentaires avec une prononciation typiquement
-    américaine\footnote{Aussi appelée \href{https://en.wikipedia.org/wiki/General_American}{General American}.}.%
-  \end{enumerate}%
-  %
-  La structure de chaque section sera toujours la même pour chaque \textcolor{teal}{son} :%
-  \begin{enumerate}%
-  \item Des exemples de mots afin d'illustrer le \textcolor{teal}{son}. Pour chaque mot~%
-    vous disposerez d'un lien externe vers un dictionnaire~%
-    \exEN{english}-\exFR{français} qui vous proposera plusieurs prononciations, la~%
-    phonétique, la traduction\footnote{En fait
-      plusieurs traductions,~avec~parfois~plusieurs registres de langue (y compris l'argot).}, et enfin~%
-    plusieurs exemples (en \exEN{english} et leurs traductions en \exFR{français}).%
-  \item Une transcription du mot selon la norme de l'API ou IPA en~%
-    anglais\footnote{À partir de maintenant on utilisera la terminologie~%
-      anglaise.} avec un lien externe vers un dictionnaire~%
-    \exEN{english}-\exEN{english} qui vous fournira une définition\footnote{En fait~%
-      plusieurs selon les sens du mot.}, des exemples d'utilisation du~%
-    mot, l'origine du mot, et enfin sa phonétique anglaise.%
-  \item Des exemples de phrases utilisant le mot. Dans chaque phrase~%
-    vous trouverez au moins deux liens externes\footnote{Parfois plusieurs,~%
-      souvent vers des vidéos mais parfois vers des textes de chansons.}~%
-    qui vous permettront de voir le mot ou groupe de mots utilisé(s) par~%
-    des locuteurs natifs\footnote{Souvent américains mais pas toujours.}.%
-  \item Des exemples complémentaires\footnote{Avec cette fois en bonus des~%
-      liens vers des prononciations typiquement australiennes en plus des~%
-      prononciations anglaises et américaines.} avec cette fois la~%
-    possibilité de voir le texte qui s'affiche à l'écran en temps réel\dots  %
-  \end{enumerate}%
-}
+
   
 \begin{document}
 
@@ -437,6 +115,7 @@
 
 
 \frontmatter
+
 \part{À propos de ce livre}
 
 \parttoc
@@ -449,66 +128,27 @@
 \listoffigures
 \listoftables
 \newpage
-% \part{Phonétique du français}
-% Ce qui m'a frappé lors de mes recherches en apprentissage des langues,
-% et en particulier en ce qui concerne les ressources francophones,
-% c'est que la phonétique du français n'est présentée que pour les
-% étrangers. En effet, à part dans les travaux universitaires de
-% chercheurs, il rare de voir des cours de langue qui commencent par
-% présenter la phonétique du français avant de présenter celle de la
-% langue cible, en l'occurrence ici l'anglais. C'est comme si on vous
-% apprenait la grammaire anglaise sans que vous ne connaissiez votre
-% propre grammaire ou pire, si on vous apprenez le vocabulaire anglais
-% sans que vous ne sachiez les liaisons qu'il existe entre les deux
-% vocabulaire\footnote{Hélas c'est exactement le cas, il est très rare
-%   de voir des gens présenter l'immense importance du nombre de mots
-%   anglais d'origine française. Je ne saurais que trop vous recommander
-% mes
-% \href{https://tinycards.duolingo.com/decks/6VNKUdba/english-words-with-french-origin}{cartes
-%   mémoires gratuites} et ce livre
-% \href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni
-%   soit qui mal y pense} qui en parle plus en profondeur.}.\par
-% Puisque l'on est jamais mieux servi que par soi-même j'ai décidé
-% d'agir ! Alors je souhaite corriger ça en commençant par vous
-% présenter la phonétique de la langue que vous utilisez au
-% quotidien\footnote{Au moins lorsque vous lirez ces lignes.}, le
-% français\footnote{Et si vous voulez connaître son histoire je vous
-%   recommande cette série de \href{https://www.youtube.com/watch?v=rHSIPt_ehvc&list=PLH2hhYn999aRfv2odG4SozTXCHbZaX_ji}{vidéo}}. Pour
-% chaque son je vous proposerai trois exemples de mots qui le
-% contiennent et pour chaque mot vous trouverez une phrase d'exemple
-% l'illustrant en français et la traduction de cette phrase en
-% anglais. En effet, le but de ce livre et de vous permettre
-% d'apprivoiser la phonétique anglaise afin de découvrir ou de parfaire
-% votre apprentissage de l'anglais. De façon un peu grossière ou
-% simpliste je dirais que le français est fondamentalement une langue de
-% l'écrit alors que l'anglais est plutôt une langue de l'oral.\par
-% Bien sûr, je ne remets aucunement en cause la richesse de la
-% littérature anglaise. Mon but est simplement de souligner l'extrême
-% complexité de la langue anglaise parlée en comparaison avec le
-% français.\par
-
-%\input{chap2-histo-fr}
-
-%\input{chap3-voyelles-fr}
-
-%\input{chap4-consonnes-fr}
-
-%\part{English phonetics}
 
 \mainmatter
 \parttoc
 
-%\input{chap5-hist-en}
-
-\part{Un peu de linguistique pour les non linguistes comme moi}
+\part{Un peu de linguistique pour les non linguistes}
 
 \input{chap5-def-ling}
 
+\part{Vowel sounds}\label{part:vow}
+
 \input{chap6-vowels-en}
+
+\part{Consonant sounds}\label{part:conson}
 
 \input{chap7-consonants-en}
 
+\part{Conclusion}\label{part:conc}
+
 \input{chap-8-conclusion-en}
+
+\part{Annexes}\label{part:annexe}
 
 \appendix
 
