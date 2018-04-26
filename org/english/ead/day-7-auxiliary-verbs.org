@@ -7,8 +7,8 @@
   + Laurent :: How are you today?
   + Stacy :: Fine, thanks. And you?
   + Laurent :: Fine too, thanks. You know, I'm not a biblical person but if I remember that starts like: "At the beginning there was the verb". 
-  + Stacy :: Yeah, I know that intro. What's your point?
-  + Laurent :: My point is that they did not specify which verb to use... so it is not very helping.
+  + Stacy :: Maybe in the French version?  What do you mean?
+  + Laurent :: I mean that the Bible did not specify which verb to use … so it was clearly not a helping verb.
   + Stacy :: Oh, perhaps you mean that you are concerned about HELPING VERBS!
   + Laurent :: Exactly! Today we are going to talk about HELPING VERBS also called AUXILIARY VERBS!
 * To Be 
@@ -32,6 +32,7 @@
     1. You chose this course.
     2. I do these courses in order to share my English tips and tricks
        with you.
+    3. The dog is biting the man.   
     
 * To Have 
   You can find all the tenses for this verb [[https://fr.bab.la/conjugaison/anglais/have][here]].
@@ -42,7 +43,7 @@
     2. She has done great work so far. / She has done *a* great job so far. (Usually natives use job.)
 * Exercise 3
      Conjugate the verb between parentheses in the present perfect tense:
-     1. I (to make) some mistakes so far. 
+     1. I (to make) already some mistakes with this assignment. 
      2. He (to play) for Arsenal for four years.
 * Past Perfect    
 ** Examples
@@ -73,7 +74,7 @@
 * Exercise 6
     Give the short answers to these questions:
     1. Do you understand what I've written so far?
-    2. Does he explain well in this lesson?
+    2. Does he clearly explain today's lesson?
     3. Did he do all this work alone?
 * Negation
 ** Examples
@@ -90,6 +91,7 @@
     1. Do you like this movie? Yes I do like this movie. (do is optional, but here, its presence shows the insistance)
     2. Does she play the guitar? Yes she does play the guitar.
     3. Did we work together before? Yes we did work together five years ago.
+    4. Did I see you at the ballgame yesterday?  Yes, I did indeed go to the ballgame yesterday.
 * Exercise 8
     Answer with emphasis:
     1. Do you work on Sunday?
@@ -137,7 +139,7 @@
     3. The dog is biting the man. => The man is being beaten by the dog.
 * Solutions: Exercise 3
      Conjugate the verb between parentheses in the present perfect tense:
-     1. I have made ('ve made) some mistakes so far. 
+     1. I have already made ('ve already made) some mistakes with this assignment. 
      2. He has played ('s played) for Arsenal for four years.
 * Solutions: Exercise 4
      Conjugate the verb between parentheses in the past perfect tense:
@@ -152,7 +154,7 @@
 * Solutions: Exercise 6
     Give the short answers to these questions:
     1. Do you understand what I've written so far? Yes I do.
-    2. Does he explain well in this lesson? Yes he does.
+    2. Does he clearly explain today's lesson? Yes he does.
     3. Did he do all this work alone? No he didn't.
 * Solutions: Exercise 7
     Negate the following sentences:
