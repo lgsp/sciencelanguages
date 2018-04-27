@@ -1,0 +1,219 @@
+#+TITLE: Present Perfect Simple and Present Perfect Continuous
+#+AUTHOR: Laurent Garnier
+
+* Introduction
+  + Laurent :: Hi Stacy!
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today?
+  + Stacy :: Fantastic, thanks. And you?
+  + Laurent :: As usual, actually I *have never been* an extravert guy.
+  + Stacy :: Oh really?! What a surprise!
+  + Laurent :: Don't be ironic. *Have you ever been* to other
+               countries of Europe? 
+  + Stacy :: Of course! I *have visited* UK, Italy...
+  + Laurent :: Stop! I *have just been thinking* that it's time to dig
+               into the lesson of the day: PRESENT PERFECT SIMPLE AND
+               PRESENT PERFECT CONTINUOUS!
+
+* Review the Verb to Have at Present Simple Tense
+
+  + I *have* a lot of English books in my private library.
+  + You *have* probably different habits than me.
+  + This course *has* a lot of examples.
+  + You *have* the choice to do the exercises or not.
+  + They *have* the opportunity to follow this course.
+
+* Rules
+** Present Perfect Simple
+*** How to Form It?
+    + Rule :: have + past participle
+    + Examples :: 
+      1. I *have made* some lessons so far.
+      2. You *have followed* this course so far. 
+      3. She *has visited* NYC for a week.
+*** When to Use It?
+    + To express breaking news :: A plane *has crashed* in the
+         Atlantic Ocean.
+    + To express the present result of a past action :: John can't
+         come with us because he has broken his arm.
+** Present Perfect Continuous 
+*** How to Form It?
+    + Rule :: have + been + verb + ing
+    + Examples :: 
+      1. I *have been making* this lesson so far (because I'm
+         continuing).
+      2. You *have been reading* this course so far (because you are
+         still doing it).
+      3. He *has been doing* a good job so far.
+*** When to Use It?
+    + When you can still see trace about an action :: It's been
+         raining.
+    + To express that an action has just been finished :: I'm tired
+         because I've been working all the day. 
+* Regular Verbs
+ For all the regular verbs you just have to keep the verbal base and
+ to add 'ed' at the end in order to get the past participle. Let's see some examples.
+
+** Examples
+   1. I (to work) *have worked* for hours.
+   2. He (to learn) *has learned* English since Middleschool.
+   3. *Have* you ever (to try) *tried* to travel as much as possible for
+      a month?
+   4. What (to visit) *have* they *visited* since the beginning of
+      your trip?
+   5. Where (to travel) *have* you *traveled* for a month?
+** Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the present perfect simple.
+   1. Have you (to plan) your trip?
+   2. She (to listen) to the music for hours.
+   3. Have they (to try) to do the exercises.
+   4. We (to finish) to play since 7 p.m.
+   5. They (to visit) India for a month.
+
+* Irregular Verbs
+  In English there are a lot of irregular verbs. Because of that I've
+  decided to do specific lessons on these verbs. So right now I will
+  just show you some of them. Don't focus it currently. Be patient
+  we'll study them carfully, later.
+
+** Examples  
+   1. Where (to go) *have* you *gone* since yesterday?
+   2. We (to eat) *have eaten* some pizza.
+   3. They (to come) *have come* back from their trip in the U.S.A for
+      a month.
+   4. How long (to make) *have* you *been making* this object?
+   5. How many glasses (to drink) *have* you *drunk*?
+** Exercise 2
+   1. You (to be) really helpful today.
+   2. We (to cut) some wood for hours.
+   3. She (to eat) a pizza.
+   4. How long you (to grow) your beard?
+   5. I (to forget) my keys at the hotel.
+* Exercise 3
+   Fill the tabs in order to get 7 items in each one:
+   + The [[http://doyouspeakenglish.fr/voiceless-alveolar-stop-t/][Consonant {t}]] as in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/taste][taste]]   | [[http://www.wordreference.com/enfr/taste][/teɪst/]]   |
+     | [[https://en.oxforddictionaries.com/definition/tempt][tempt]]   | [[http://www.wordreference.com/enfr/tempt][/tɛmpt/]]   |
+     | [[https://en.oxforddictionaries.com/definition/tent][tent]]    | [[http://www.wordreference.com/enfr/tent][/tɛnt/]]    |
+     | [[https://en.oxforddictionaries.com/definition/torrent][torrent]] | [[http://www.wordreference.com/enfr/torrent][/ˈtɒrənt/]] |
+     |         |           |
+
+   + The [[http://doyouspeakenglish.fr/voiced-alveolar-stop-d/][Consonant {d}]] as in:
+
+     | English | Phonetics   |
+     |---------+-------------|
+     | [[https://en.oxforddictionaries.com/definition/dad][dad]]     | [[http://www.wordreference.com/enfr/dad][/dæd/]]       |
+     | [[https://en.oxforddictionaries.com/definition/day][day]]     | [[http://www.wordreference.com/enfr/day][/deɪ/]]       |
+     | [[https://en.oxforddictionaries.com/definition/despite][despite]] | [[http://www.wordreference.com/enfr/despite][/dɪˈspaɪt/]]  |
+     | [[https://en.oxforddictionaries.com/definition/disable][disable]] | [[http://www.wordreference.com/enfr/disable][/dɪsˈeɪbəl/]] |
+     |         |             |
+
+   + The [[http://doyouspeakenglish.fr/voiceless-velar-stop-k/][Consonant {k}]] as in:
+
+     | English      | Phonetics      |
+     |--------------+----------------|
+     | [[https://en.oxforddictionaries.com/definition/architecture][architecture]] | [[http://www.wordreference.com/enfr/architecture][/ˈɑːkɪˌtɛktʃə/]] |
+     | [[https://en.oxforddictionaries.com/definition/cash][cash]]         | [[http://www.wordreference.com/enfr/cash][/kæʃ/]]          |
+     | [[https://en.oxforddictionaries.com/definition/kiwi][kiwi]]         | [[http://www.wordreference.com/enfr/kiwi][/ˈkiːwiː/]]      |
+     | [[https://en.oxforddictionaries.com/definition/quick][quick]]        | [[http://www.wordreference.com/enfr/quick][/kwɪk/]]         |
+     |              |                |
+
+   + The [[http://doyouspeakenglish.fr/voiced-velar-stop-g/][Consonant {g}]] as in:
+     
+     | English  | Phonetics  |
+     |----------+------------|
+     | [[https://en.oxforddictionaries.com/definition/garbage][garbage]]  | [[http://www.wordreference.com/enfr/garbage][/ˈɡɑːbɪdʒ/]] |
+     | [[https://en.oxforddictionaries.com/definition/girl][girl]]     | [[http://www.wordreference.com/enfr/girl][/ɡɜːl/]]     |
+     | [[https://en.oxforddictionaries.com/definition/gorgeous][gorgeous]] | [[http://www.wordreference.com/enfr/gorgeous][/ˈɡɔːdʒəs/]] |
+     | [[https://en.oxforddictionaries.com/definition/ground][ground]]   | [[http://www.wordreference.com/enfr/ground][/ɡraʊnd/]]   |
+     |          |            |
+
+* Other Lessons     
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-9-past-simple-and-continuous.org][Past Simple and Past Continuous]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-perfect-and-past-perfect-continuous.org][Past perfect simple and past perfect continuous]]
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
+
+* If you want to go further
+  Here are some additionally resources:
+  + [[https://youtu.be/XGw2-p2WuJk][mmmEnglish]]
+  + [[https://youtu.be/8W2v-WWQrkA][Jamie Ray]]
+  + [[https://youtu.be/WA2-8kITZWs][To Fluency]]
+  + [[https://youtu.be/hg5ZYavBEc0][Write to Top]]
+  + [[https://youtu.be/8di0ChJQz-s][Alex]]
+  + [[https://youtu.be/xBfpZISWnEs][Anglo-link]]
+  + [[https://youtu.be/kLxnRQZrhc0][Anglo-link]]
+  + [[https://youtu.be/7ZWXtyavnMw][JamesESL]]
+
+* Solutions: Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the present perfect simple.
+   1. Have you (to plan) *planned* your trip?
+   2. She (to listen) *has listenned* to the music for hours.
+   3. Have they (to try) *tried* to do the exercises.
+   4. We (to finish) *have finished* to play since 7 p.m.
+   5. They (to visit) *have visited* India for a month.
+
+* Solutions: Exercise 2
+   1. You (to be) *have been* really helpful today.
+   2. We (to cut) *have cut* some wood for hours.
+   3. She (to eat) *has eaten* a pizza.
+   4. How long *have* you (to grow) *grown* your beard?
+   5. I (to forget) *have forgotten* my keys at the hotel.
+* Solutions: Exercise 3
+   Fill the tabs in order to get 7 items in each one:
+   + The [[http://doyouspeakenglish.fr/voiceless-alveolar-stop-t/][Consonant {t}]] as in:
+
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/taste][taste]]   | [[http://www.wordreference.com/enfr/taste][/teɪst/]]   |
+     | [[https://en.oxforddictionaries.com/definition/tempt][tempt]]   | [[http://www.wordreference.com/enfr/tempt][/tɛmpt/]]   |
+     | [[https://en.oxforddictionaries.com/definition/tent][tent]]    | [[http://www.wordreference.com/enfr/tent][/tɛnt/]]    |
+     | [[https://en.oxforddictionaries.com/definition/torrent][torrent]] | [[http://www.wordreference.com/enfr/torrent][/ˈtɒrənt/]] |
+     | [[https://en.oxforddictionaries.com/definition/train][train]]   | [[http://www.wordreference.com/enfr/train][/treɪn/]]   |
+     | [[https://en.oxforddictionaries.com/definition/tire][tire]]    | [[http://www.wordreference.com/enfr/tire][/ˈtaɪə/]]   |
+     | [[https://en.oxforddictionaries.com/definition/tough][tough]]   | [[http://www.wordreference.com/enfr/tough][/tʌf/]]     |
+    
+
+   + The [[http://doyouspeakenglish.fr/voiced-alveolar-stop-d/][Consonant {d}]] as in:
+
+     | English | Phonetics   |
+     |---------+-------------|
+     | [[https://en.oxforddictionaries.com/definition/dad][dad]]     | [[http://www.wordreference.com/enfr/dad][/dæd/]]       |
+     | [[https://en.oxforddictionaries.com/definition/day][day]]     | [[http://www.wordreference.com/enfr/day][/deɪ/]]       |
+     | [[https://en.oxforddictionaries.com/definition/despite][despite]] | [[http://www.wordreference.com/enfr/despite][/dɪˈspaɪt/]]  |
+     | [[https://en.oxforddictionaries.com/definition/disable][disable]] | [[http://www.wordreference.com/enfr/disable][/dɪsˈeɪbəl/]] |
+     | [[https://en.oxforddictionaries.com/definition/dry][dry]]     | [[http://www.wordreference.com/enfr/dry][/draɪ/]]      |
+     | [[https://en.oxforddictionaries.com/definition/duty][duty]]    | [[http://www.wordreference.com/enfr/duty][/ˈdjuːtɪ/]]   |
+     | [[https://en.oxforddictionaries.com/definition/drug][drug]]    | [[http://www.wordreference.com/enfr/drug][/drʌɡ/]]      |
+     
+
+   + The [[http://doyouspeakenglish.fr/voiceless-velar-stop-k/][Consonant {k}]] as in:
+
+     | English      | Phonetics      |
+     |--------------+----------------|
+     | [[https://en.oxforddictionaries.com/definition/architecture][architecture]] | [[http://www.wordreference.com/enfr/architecture][/ˈɑːkɪˌtɛktʃə/]] |
+     | [[https://en.oxforddictionaries.com/definition/cash][cash]]         | [[http://www.wordreference.com/enfr/cash][/kæʃ/]]          |
+     | [[https://en.oxforddictionaries.com/definition/kiwi][kiwi]]         | [[http://www.wordreference.com/enfr/kiwi][/ˈkiːwiː/]]      |
+     | [[https://en.oxforddictionaries.com/definition/quick][quick]]        | [[http://www.wordreference.com/enfr/quick][/kwɪk/]]         |
+     | [[https://en.oxforddictionaries.com/definition/headache][headache]]     | [[http://www.wordreference.com/enfr/headache][/ˈhɛdˌeɪk/]]     |
+     | [[https://en.oxforddictionaries.com/definition/kick][kick]]         | [[http://www.wordreference.com/enfr/kick][/kɪk/]]          |
+     | [[https://en.oxforddictionaries.com/definition/cottage][cottage]]      | [[http://www.wordreference.com/enfr/cottage][/ˈkɒtɪdʒ/]]      |
+     
+
+   + The [[http://doyouspeakenglish.fr/voiced-velar-stop-g/][Consonant {g}]] as in:
+     
+     | English  | Phonetics  |
+     |----------+------------|
+     | [[https://en.oxforddictionaries.com/definition/garbage][garbage]]  | [[http://www.wordreference.com/enfr/garbage][/ˈɡɑːbɪdʒ/]] |
+     | [[https://en.oxforddictionaries.com/definition/girl][girl]]     | [[http://www.wordreference.com/enfr/girl][/ɡɜːl/]]     |
+     | [[https://en.oxforddictionaries.com/definition/gorgeous][gorgeous]] | [[http://www.wordreference.com/enfr/gorgeous][/ˈɡɔːdʒəs/]] |
+     | [[https://en.oxforddictionaries.com/definition/ground][ground]]   | [[http://www.wordreference.com/enfr/ground][/ɡraʊnd/]]   |
+     | [[https://en.oxforddictionaries.com/definition/good][good]]     | [[http://www.wordreference.com/enfr/good][/ɡʊd/]]      |
+     | [[https://en.oxforddictionaries.com/definition/green][green]]    | [[http://www.wordreference.com/enfr/green][/ɡriːn/]]    |
+     | [[https://en.oxforddictionaries.com/definition/gore][gore]]     | [[http://www.wordreference.com/enfr/gore][/ɡɔː/]]      |
+     
+     
