@@ -14,7 +14,7 @@
   + Stacy :: Why do you stop?
   + Laurent :: Because it's time to dig into the lesson of the day:
                PAST SIMPLE AND PAST CONTINUOUS!
-* Review the verb to be at past tense
+* Review the Verb to Be at Past Tense
 
   To be is the only irregular verb in past simple tense.
 
@@ -24,7 +24,7 @@
   + You *were* a lot of people to follow my previous lessons.
   + They *were* happy to tell me that last year.
 
-* Regular verbs
+* Regular Verbs
  For all the regular verbs you just have to keep the verbal base and
  to add 'ed' at the end. Let's see some examples.
 
@@ -48,7 +48,7 @@
    5. It (to work) when I (to try) this machine two days ago, you (to
       want) to do the same before I (to warn) you yesterday.
 
-* Irregular verbs
+* Irregular Verbs
   In English there are a lot of irregular verbs. Because of that I've
   decided to do specific lessons on these verbs. So right now I will
   just show you some of them. Don't focus it currently. Be patient
@@ -71,7 +71,7 @@
       week with us, and then they (to leave) us for going to South
       Africa.
    5. So you (to go) to the cinema with your brother last Wednesday.
-* Past continuous
+* Past Continuous
 
   The construction of the past continuous or past progressive is
   simple: to be (past simple) + verbal base + ing
@@ -96,9 +96,9 @@
    4. While I (to walk) in the street I can observe people.
    5. After this I (to go) to explain you when you should use one tense
       or another.
-* When to use which one
-** Past simple
-*** Talking about a finished past
+* When to Use Which One?
+** Past Simple
+*** Talking About a Finished Past
    The past simple is the most used form for talking about a finished
    past. 
 **** Examples
@@ -107,7 +107,7 @@
     3. I was really bad in English class.
 **** Exercise 4
     Write 3 sentences using the past simple.
-*** Mandatory after past markers
+*** Mandatory After Past Markers
     Here are some keywords that indicates past simple is required:
     when, ago, yesterday, last time...
 **** Examples
@@ -116,7 +116,7 @@
      3. They were the best players *when* they won the world cup.
 **** Exercise 5
      Write an example with each word.
-*** Writing a story in the past
+*** Writing a Story in the Past
     We use it in order to describe a story in the past.
 **** Example
      She got home and went straight to the bathroom. She looked around
@@ -130,7 +130,7 @@
      We always went to the museum with my mother when I was a kid. 
 **** Exercise 7
      Write your own example.
-*** Hypothetical states
+*** Hypothetical States
     After keywords like: if, it's time, I'd rather, I wish... simple
     past describe an hypothetical state.
 **** Examples
@@ -143,7 +143,7 @@
      2. _It's time_ you (to earn) your salary.
      3. _I'd rather_ they (to finish) later.
      4. _I wish_ you (to win) this game.
-** Past continuous 
+** Past Continuous 
    The past continuous expresses an action or a fact that is
    happening during the past. 
 *** Examples
