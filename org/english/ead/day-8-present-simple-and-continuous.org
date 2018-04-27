@@ -1,0 +1,228 @@
+#+TITLE: Present simple and present continuous
+#+AUTHOR: Laurent Garnier
+
+* Introduction
+  + Laurent :: Hi Stacy!
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today?
+  + Stacy :: Fine, thanks. And you?
+  + Laurent :: Fine, thanks. I am always happy when we are talking together.
+  + Stacy :: Yes, me too.
+  + Laurent :: Actually, it is a lie.
+  + Stacy :: What?!
+  + Laurent :: I'm joking. Let's dig into the lesson of the day: PRESENT SIMPLE AND PRESENT CONTINUOUS!
+  
+* Review The Verb To Be
+
+  To be is the only irregular verb in present simple tense.
+
+  + I *am* an irregular verb. 
+  + You *are* forced to deal with it.
+  + That *is* the way it *is*.
+  + You *are* not alone.
+  + They *are* happy to learn with me.
+
+* Other Verbs
+ For all the other verbs you just have to keep the infinitive without 'to', except
+ for He/She/It where you need to add an 's' (except for modals but we'll dedicate a chapter on it just be patient). Let's see some examples.
+
+* Examples
+   1. I (to work) *work* every day, but my wife (to do) *does* not.
+   2. He (to learn) *learns* English by himself and she (to study)
+      *studies* it at University.
+   3. I (to try) *try* to travel as much as I (to wish) *wish*.
+   4. My daughter (to try) *tries* to make new sounds every day.
+   5. Her mother (to cook) *cooks* very well and I (to like) *like*
+      that.
+* Exercise 1
+   Complete the following sentences with the verb in parentheses using
+   the present simple.
+   1. Usually I (to eat) my breakfast at 7:00 am.
+   2. She (to listen) to music while she (to do) her homework.
+   3. You (to try) to do your exercises in each lesson.
+   4. In NYC people in the street usually (to walk) fast.
+   5. It (to make) sense to study every day if you (to want) to improve
+      your level.
+
+* Present Continuous Also Called Present Progressive
+
+  The construction of the present continuous or present progressive is
+  simple: to be + infinitive - to + ing
+
+  Let's see some examples.
+
+* Examples
+   1. I (to go) *am going* to show you the present continuous.
+   2. You (to read) *are reading* this sentence right now.
+   3. My daughter (to play) *is playing* with her mother.
+   4. My nephew (to finish) *is finishing* his video game.
+   5. They (to live) *are living* in the information era with a lot of
+      connected objects.
+* Exercise 2
+   Complete the following sentences with the verb in parentheses using
+   the present continuous.
+   1. I (to eat) my breakfast right now because it's 7:00 am.
+   2. Currently, she (to listen) to music while she (to do) her homework.
+   3. Right now, you (to try) to do this exercise in this lesson.
+   4. While I (to walk) in the street I can observe people.
+   5. After this I (to go) to explain to you when you should use one tense
+      or the other.
+* When To Use Which One
+** Present Simple
+*** General Truth, Habit, and so on
+   The present simple expresses a general truth, a habit, a persistant
+   fact.
+**** Examples
+    1. Women live longer than men.
+    2. I try to express myself in the language of the country I live.
+    3. I always like to learn new languages.
+**** Exercise 3
+    Write 3 sentences using the present simple.
+*** Other Cases
+    + Comments in live (on TV, radio,...)
+    + Newspaper titles
+    + Movie script
+**** Examples
+     1. Ronaldo dribbles the last defender and then he shoots and
+        scores!
+     2. Prime Minister visits new station.
+     3. The detective appears at the door. He knocks. Lisa rises,
+        pauses a moment. She crosses the room to open the door.
+**** Exercise 4
+     Write an example for each case.
+** Present Continuous or Present Progressive 
+   The present continuous expresses an action or a fact that is
+   happening right now, currently, at the moment we talk about it.
+*** Examples
+    1. Be careful! Taxi cabs in London don't care about pedestrians.
+    2. What are you doing? I am studying English.
+*** Exercise 5 
+    Write 2 examples using present continuous.
+*** Verbs That Almost Never Use Present Continuous
+    Some verbs describe the result rather the action itself.
+
+    agree, believe, belong, consist, contain, depend, deserve, doubt,
+    hate, include, know, like, love, matter, mean, need, own, possess,
+    prefer, recognize, remember, seem, suppose, understand, want, wish
+* Exercise 6
+    Write 5 examples using 5 differents verbs from this list.
+
+* Exercise 7
+   Fill the tabs in order to get 7 items.
+
+  + [[http://doyouspeakenglish.fr/diphthong-6-7/][The diphtong vowel {ɪə}]] as in:
+
+    | English | Phonetics |
+    |---------+-----------|
+    | [[https://en.oxforddictionaries.com/definition/weird][weird]]   | [[http://www.wordreference.com/enfr/weird][/wɪəd/]]    |
+    | [[https://en.oxforddictionaries.com/definition/fear][fear]]    | [[http://www.wordreference.com/enfr/fear][/fɪə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/beer][beer]]    | [[http://www.wordreference.com/enfr/beer][/bɪə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/fierce][fierce]]  | [[http://www.wordreference.com/enfr/fierce][/fɪəs/]]    |
+  + The [[http://doyouspeakenglish.fr/diphthong-7-7/][diphtong vowel {eə}]] (also written [ɛə]) as in:
+    
+    | English | Phonetics |
+    |---------+-----------|
+    | [[https://en.oxforddictionaries.com/definition/bear][bear]]    | [[http://www.wordreference.com/enfr/bear][/bɛə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/care][care]]    | [[http://www.wordreference.com/enfr/care][/kɛə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/chair][chair]]   | [[http://www.wordreference.com/enfr/chair][/tʃɛə/]]    |
+    | [[https://en.oxforddictionaries.com/definition/there][there]]   | [[www.wordreference.com/enfr/there][/ðɛə/]]     |
+    
+
+* Solutions: Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the present simple.
+   1. Usually I *eat* my breakfast at 7:00 am.
+   2. She *listens* to the music while she *does* her homework.
+   3. You *try* to do your exercises in each lesson.
+   4. People in the street usually *walk* fast in NYC.
+   5. It *makes* sense to study everyday if you *want* to improve
+      your level.
+* Solutions: Exercise 2
+   Complete the following sentences with the verb in parenthesis using
+   the present continuous.
+   1. I *am eating* my breakfast right now because it's 7:00 am.
+   2. Currently, she *is listening* to the music while she *is doing* her homework.
+   3. Right now, you *are trying* to do this exercise in this lesson.
+   4. While I *am walking* in the street I can observe people.
+   5. After this I *am going* to explain you when you should use one tense
+      or another.
+* Solutions: Exercise 3
+    Write 3 sentences using the present simple.
+
+    1. I love to learn languages.
+    2. [[https://youtu.be/eDW_yAwaHnc][People are strange]].
+    3. [[https://youtu.be/_eF75YR5Ijw][She is everything I need]].
+* Solutions: Exercise 4
+     1. Federer does his service. And it's an ace again!
+     2. Today Macron receives Merkel.
+     3. My name is Bond, James Bond. And then the bad guy arrives.
+* Solutions: Exercise 5 
+    1. Right now I am thinking about the material I am creating for
+       you.
+    2. It's going to be a great day because the sun is shining.
+* Solutions: Exercise 6
+    1. My wife always agrees with me.
+    2. Do you believe what's happening?
+    3. [[https://youtu.be/uAhzBVALop4][I belong to you, and you belong to me]].
+    4. This exercise consists in applying all the things you've
+       learned so far.
+    5. This course contains a lot of references.
+ * What The Hell Is That?   
+    6. Your improvement depends on your will power.
+    7. You deserve this award because you've worked hard.
+    8. [[https://www.goodreads.com/quotes/7840-doubt-thou-the-stars-are-fire-doubt-that-the-sun][Doubt truth to be a liar]].
+    9. Right now, I hate you because of what've youve done.
+   10. Do you include this fact in your analysis?
+   11. [[https://youtu.be/DeZOzkHEQAw][You know nothing, Jon Snow]].
+   12. [[https://youtu.be/CZzW6_hR068][P.S. I love you]].
+   13. Does it matter?
+   14. Currently, what I mean is simple. 
+   15. [[https://youtu.be/NZiEqhrIL_k][I need you]].
+   16. [[https://youtu.be/PYsEo4TTTtM][I own you]].
+   17. [[https://youtu.be/wUdfblJEAY8][Seven signs of Emotional Intelligence: Which of these do you
+       possess?]] 
+   18. I [[https://youtu.be/35zlUQUCxQk][prefer]] not talking to you right now.
+   19. Do you recognize this person?
+   20. I don't remember when is your birthday.
+   21. As soon as I formulate my thoughts she understands me
+       immediately.
+   22. What do you want right now?
+   23. What do you wish to eat now?
+* Solutions: Exercise 7
+   Fill the tabs in order to get 7 items.
+
+  + The [[http://doyouspeakenglish.fr/diphthong-6-7/][diphtong vowel {ɪə}]] as in:
+
+    | English | Phonetics  |
+    |---------+------------|
+    | [[https://en.oxforddictionaries.com/definition/weird][weird]]   | [[http://www.wordreference.com/enfr/weird][/wɪəd/]]     |
+    | [[https://en.oxforddictionaries.com/definition/fear][fear]]    | [[http://www.wordreference.com/enfr/fear][/fɪə/]]      |
+    | [[https://en.oxforddictionaries.com/definition/beer][beer]]    | [[http://www.wordreference.com/enfr/beer][/bɪə/]]      |
+    | [[https://en.oxforddictionaries.com/definition/fierce][fierce]]  | [[http://www.wordreference.com/enfr/fierce][/fɪəs/]]     |
+    | [[https://en.oxforddictionaries.com/definition/series][series]]  | [[http://www.wordreference.com/enfr/series][/ˈsɪəriːz/]] |
+    | [[https://en.oxforddictionaries.com/definition/ear][ear]]     | [[http://www.wordreference.com/enfr/ear][/ɪə/]]       |
+    | [[https://en.oxforddictionaries.com/definition/here][here]]    | [[http://www.wordreference.com/enfr/here][/hɪə/]]      |
+    
+
+  + The [[http://doyouspeakenglish.fr/diphthong-7-7/][diphtong vowel {eə}]] (also written [ɛə]) as in:
+    
+    | English | Phonetics |
+    |---------+-----------|
+    | [[https://en.oxforddictionaries.com/definition/air][air]]     | [[http://www.wordreference.com/enfr/air][/ɛə/]]      |
+    | [[https://en.oxforddictionaries.com/definition/bear][bear]]    | [[http://www.wordreference.com/enfr/bear][/bɛə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/care][care]]    | [[http://www.wordreference.com/enfr/care][/kɛə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/chair][chair]]   | [[http://www.wordreference.com/enfr/chair][/tʃɛə/]]    |
+    | [[https://en.oxforddictionaries.com/definition/fair][fair]]    | [[http://www.wordreference.com/enfr/fair][/fɛə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/there][there]]   | [[www.wordreference.com/enfr/there][/ðɛə/]]     |
+    | [[https://en.oxforddictionaries.com/definition/where][where]]   | [[http://www.wordreference.com/enfr/where][/wɛə/]]     |
+
+* Other Lessons
+  + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-7-auxiliary-verbs.org][Auxiliary Verbs (Helphing Verbs)]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-simple-and-past-continuous.org][Past simple and past continuous]]
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
+* If You Want To Go Further
+  Here are some additional resources:
+  
+  + [[https://youtu.be/AEBRIBtq7q0][Anglo-link]]
+  + [[https://youtu.be/X8lu4_5F0hg][Crown Academy of English]]: present simple
+  + [[https://youtu.be/rjWd8U-6jbA][Crown Academy of English]]: present continuous
