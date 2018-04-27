@@ -189,7 +189,7 @@
   5. [[http://doyouspeakenglish.fr/diphthong-3-7/][Diphthong vowel {aɪ}]], as in [[https://en.oxforddictionaries.com/definition/fry][fry]] ([[http://www.wordreference.com/enfr/fry][/fraɪ/]])
 * Other Lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-6-time.org][Time]]
-  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-and-present-continuous.org][Present simple and present continuous]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-8-present-simple-and-continuous.org][Present simple and present continuous]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
 * If You Want To Go Further
   Here are some additional resources:
