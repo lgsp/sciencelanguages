@@ -1,0 +1,181 @@
+#+TITLE: Past Perfect Simple and Past Perfect Continuous
+#+AUTHOR: Laurent Garnier
+     
+* Introduction
+  + Laurent :: Hi Stacy!
+  + Stacy :: Salut Laurent !
+  + Laurent :: How are you today?
+  + Stacy :: Fantastic, thanks. And you?
+  + Laurent :: As usual, actually as far as I can remember in my past,
+               I *had never been* an extravert guy.
+  + Stacy :: Oh really?! What a surprise!
+  + Laurent :: Don't be ironic. Have you ever been to other countries
+               of Europe before this current journey? 
+  + Stacy :: Of course! When I came to England X years ago, I *had visited* UK, Italy...
+  + Laurent :: Stop! When I asked the question previously, just after,
+               I *had just been thinking* that it's time to dig
+               into the lesson of the day: PAST PERFECT SIMPLE AND
+               PAST PERFECT CONTINUOUS!
+
+* Review the Verb to Have at Past Simple Tense
+
+  + I *had* a lot of English books in my private library last year.
+  + You *had* probably different habits last year.
+  + This course *had* a lot of draft before.
+  + You *had* the choice to do the exercises or not but now you have
+    to do them.
+  + They *had* the opportunity to follow this course before the
+    application finished.
+
+* Rules
+** Past Perfect Simple
+*** How to Form It?
+    + Rule :: had + past participle
+    + Examples :: 
+      1. He *had walked* too much and he felt exhausted.
+      2. I didn't to read this book because I *had* already *seen* the
+         film about it.
+      3. She wouldn't have married him if you *had warned* her.
+*** When to Use It?
+    + To express a result in the past :: I didn't learn English in
+         books because I *had* already *learned* it by traveling.
+** Past Perfect Continuous 
+*** How to Form It?
+    + Rule :: had + been + verb + ing
+    + Examples :: 
+      1. I *had been making* this lesson before I stopped because
+         somebody called me.
+      2. Sarah went to the doctor last week. She *hadn't been feeling*
+         well for some time.
+      3. At last the train arrived. *I'd been wainting* for 15 minutes.
+*** When to Use It?
+    + You can say that something *had been happening* for a period of
+      time before something else happened.
+** Examples
+   1. When you arrived at the party, I wasn't there. I (to go) *had gone* home.
+   2. When the kids came into the house, their clothes were dirty,
+      their hair was untidy and one of them had a black eye. They (to
+      fight) *had been fighting*.
+   3. The woman sitting next to me on the plane was very nervous. She
+      (to fly) *hadn't flown* before.
+   4. I didn't know who you were. I (to meet) *had* never *met* you before.
+   5. We (to play) *had been playing* tennis for about half an hour
+      when it started to rain heavily.  
+** Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the past perfect simple.
+   1. At last the metro arrived. We (to wait) for 15 minutes.
+   2. When we got home last night, we found that somebody (to break)
+      into the flat.
+   3. He was very tired when he got home. He (to work) hard all day.
+   4. Was Kelly there when you arrived? No, she (to leave) already.
+   5. Sarah was out of breath. She (to run).
+* Exercise 2
+   Fill the tabs in order to get 7 items in each one:
+   + The [[http://doyouspeakenglish.fr/glottal-stop/][Glottal Stop {?}]] also written ['] as in:
+
+     | English    | Phonetics     |
+     |------------+---------------|
+     | [[https://en.oxforddictionaries.com/definition/apartment][apartment]]  | [[https://tophonetics.com/][/əˈpɑːtmənt/]]  |
+     | [[https://en.oxforddictionaries.com/definition/butter][butter]]     | [[http://www.wordreference.com/enfr/butter][/ˈbʌtə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/department][department]] | [[http://www.wordreference.com/enfr/department][/dɪˈpɑːtmənt/]] |
+     | [[https://en.oxforddictionaries.com/definition/football][football]]   | [[http://www.wordreference.com/enfr/football][/ˈfʊtˌbɔːl/]]   |
+     
+   + The [[http://doyouspeakenglish.fr/voiceless-labiodental-fricative-f/][Consonant {f}]] as in:
+
+     | English | Phonetics  |
+     |---------+------------|
+     | [[https://en.oxforddictionaries.com/definition/fail][fail]]    | [[http://www.wordreference.com/enfr/fail][/feɪl/]]     |
+     | [[https://en.oxforddictionaries.com/definition/female][female]]  | [[http://www.wordreference.com/enfr/female][/ˈfiːmeɪl/]] |
+     | [[https://en.oxforddictionaries.com/definition/fit][fit]]     | [[http://www.wordreference.com/enfr/fit][/fɪt/]]      |
+     | [[https://en.oxforddictionaries.com/definition/font][font]]    | [[http://www.wordreference.com/enfr/font][/fɒnt/]]     |
+     
+
+
+   + The [[http://doyouspeakenglish.fr/voiced-labiodental-fricative-v/][Consonant {v}]] as in:
+
+     | English | Phonetics  |
+     |---------+------------|
+     | [[https://en.oxforddictionaries.com/definition/value][value]]   | [[http://www.wordreference.com/enfr/value][/ˈvæljuː/]]  |
+     | [[https://en.oxforddictionaries.com/definition/vehicle][vehicle]] | [[http://www.wordreference.com/enfr/vehicle][/ˈviːɪkəl/]] |
+     | [[https://en.oxforddictionaries.com/definition/victory][victory]] | [[http://www.wordreference.com/enfr/victory][/ˈvɪktərɪ/]] |
+     |         |            |
+     
+   + The [[http://doyouspeakenglish.fr/voiceless-dental-fricative/][Consonant {θ}]] as in:
+     
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/thanks][thanks]]  | [[http://www.wordreference.com/enfr/thanks][/θæŋks/]]   |
+     | [[https://en.oxforddictionaries.com/definition/theme][theme]]   | [[http://www.wordreference.com/enfr/theme][/θiːm/]]    |
+     | [[https://en.oxforddictionaries.com/definition/thing][thing]]   | [[http://www.wordreference.com/enfr/thing][/θɪŋ/]]     |
+     |         |           |
+     
+* Other Lessons
+  + Previous Lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-10-present-perfect-and-present-perfect-continuous.org][Present Perfect Simple and Present Perfect Continuous]]
+  + Next Lesson:
+  + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
+* If you want to go further
+  Here are some additionally resources:
+  + [[https://youtu.be/7Mni3yDpIWo][Ronnie]]
+  + [[https://youtu.be/9QU5bqql8Kg][Rebecca]]
+
+* Solutions: Exercise 1
+   Complete the following sentences with the verb in parenthesis using
+   the past perfect simple.
+   1. At last the metro arrived. We *had been waiting* for 15 minutes.
+   2. When we got home last night, we found that somebody *had broken*
+      into the flat.
+   3. He was very tired when he got home. He *had been working* hard all day.
+   4. Was Kelly there when you arrived? No, she *had* already *left*.
+   5. Sarah was out of breath. She *had been running*.
+
+* Solutions: Exercise 2
+   Fill the tabs in order to get 7 items in each one:
+   + The [[http://doyouspeakenglish.fr/glottal-stop/][Glottal stop {?}]] also written ['] as in:
+
+     | English    | Phonetics     |
+     |------------+---------------|
+     | [[https://en.oxforddictionaries.com/definition/apartment][apartment]]  | [[https://tophonetics.com/][/əˈpɑːtmənt/]]  |
+     | [[https://en.oxforddictionaries.com/definition/butter][butter]]     | [[http://www.wordreference.com/enfr/butter][/ˈbʌtə/]]       |
+     | [[https://en.oxforddictionaries.com/definition/department][department]] | [[http://www.wordreference.com/enfr/department][/dɪˈpɑːtmənt/]] |
+     | [[https://en.oxforddictionaries.com/definition/football][football]]   | [[http://www.wordreference.com/enfr/football][/ˈfʊtˌbɔːl/]]   |
+     |            |               |
+
+     The glottal stop is oftenly use in English dialects as you can
+     see [[https://www.thoughtco.com/glottal-stop-phonetics-1690901][here]].
+     
+   + The [[http://doyouspeakenglish.fr/voiceless-labiodental-fricative-f/][Consonant {f}]] as in:
+
+     | English   | Phonetics    |
+     |-----------+--------------|
+     | [[https://en.oxforddictionaries.com/definition/fail][fail]]      | [[http://www.wordreference.com/enfr/fail][/feɪl/]]       |
+     | [[https://en.oxforddictionaries.com/definition/female][female]]    | [[http://www.wordreference.com/enfr/female][/ˈfiːmeɪl/]]   |
+     | [[https://en.oxforddictionaries.com/definition/fit][fit]]       | [[http://www.wordreference.com/enfr/fit][/fɪt/]]        |
+     | [[https://en.oxforddictionaries.com/definition/font][font]]      | [[http://www.wordreference.com/enfr/font][/fɒnt/]]       |
+     | [[https://en.oxforddictionaries.com/definition/friend][friend]]    | [[http://www.wordreference.com/enfr/friend][/frɛnd/]]      |
+     | [[https://en.oxforddictionaries.com/definition/fantastic][fantastic]] | [[http://www.wordreference.com/enfr/fantastic][/fænˈtæstɪk/]] |
+     | [[https://en.oxforddictionaries.com/definition/famous][famous]]    | [[http://www.wordreference.com/enfr/famous][/ˈfeɪməs/]]    |
+     
+   + The [[http://doyouspeakenglish.fr/voiced-labiodental-fricative-v/][Consonant {v}]] as in:
+
+     | English   | Phonetics    |
+     |-----------+--------------|
+     | [[https://en.oxforddictionaries.com/definition/value][value]]     | [[http://www.wordreference.com/enfr/value][/ˈvæljuː/]]    |
+     | [[https://en.oxforddictionaries.com/definition/vehicle][vehicle]]   | [[http://www.wordreference.com/enfr/vehicle][/ˈviːɪkəl/]]   |
+     | [[https://en.oxforddictionaries.com/definition/victory][victory]]   | [[http://www.wordreference.com/enfr/victory][/ˈvɪktərɪ/]]   |
+     | [[https://en.oxforddictionaries.com/definition/victim][victim]]    | [[http://www.wordreference.com/enfr/victim][/ˈvɪktɪm/]]    |
+     | [[https://en.oxforddictionaries.com/definition/vehemence][vehemence]] | [[http://www.wordreference.com/enfr/vehemence][/ˈviːɪməns/]]  |
+     | [[https://en.oxforddictionaries.com/definition/violence][violence]]  | [[http://www.wordreference.com/enfr/violence][/ˈvaɪələns/]]  |
+     | [[https://en.oxforddictionaries.com/definition/volatile][volatile]]  | [[http://www.wordreference.com/enfr/volatile][/ˈvɒləˌtaɪl/]] |
+          
+   + The [[http://doyouspeakenglish.fr/voiceless-dental-fricative/][Consonant {θ}]] as in:
+     
+     | English | Phonetics |
+     |---------+-----------|
+     | [[https://en.oxforddictionaries.com/definition/thanks][thanks]]  | [[http://www.wordreference.com/enfr/thanks][/θæŋks/]]   |
+     | [[https://en.oxforddictionaries.com/definition/theme][theme]]   | [[http://www.wordreference.com/enfr/theme][/θiːm/]]    |
+     | [[https://en.oxforddictionaries.com/definition/thing][thing]]   | [[http://www.wordreference.com/enfr/thing][/θɪŋ/]]     |
+     | [[https://en.oxforddictionaries.com/definition/theory][theory]]  | [[http://www.wordreference.com/enfr/theory][/ˈθɪərɪ/]]  |
+     | [[https://en.oxforddictionaries.com/definition/therapy][therapy]] | [[http://www.wordreference.com/enfr/therapy][/ˈθɛrəpɪ/]] |
+     | [[https://en.oxforddictionaries.com/definition/throat][throat]]  | [[http://www.wordreference.com/enfr/throat][/θrəʊt/]]   |
+     | [[https://en.oxforddictionaries.com/definition/through][through]] | [[http://www.wordreference.com/enfr/through][/θruː/]]    |
