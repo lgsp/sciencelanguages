@@ -197,7 +197,7 @@
 
 * Other Lessons
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-7-auxiliary-verbs.org][Auxiliary Verbs (Helphing Verbs)]]
-  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/past-simple-and-past-continuous.org][Past simple and past continuous]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-9-past-simple-and-continuous.org][Past simple and past continuous]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
 * If You Want To Go Further
   Here are some additional resources:
