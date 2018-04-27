@@ -1,4 +1,4 @@
-#+TITLE: Present Simple and Sresent Continuous
+#+TITLE: Present Simple and Present Continuous
 #+AUTHOR: Laurent Garnier
 
 * Introduction
