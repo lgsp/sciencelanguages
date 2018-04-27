@@ -1,4 +1,4 @@
-#+TITLE: Past simple and past continuous
+#+TITLE: Past Simple and Past Continuous
 #+AUTHOR: Laurent Garnier
 
 * Introduction
@@ -176,7 +176,7 @@
 
 * Other Lessons     
   + Previous lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ead/day-8-present-simple-and-continuous.org][Present Simple and Present Continuous]]
-  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-perfect-and-present-perfect-continuous.org][Present perfect and present perfect continuous]]
+  + Next lesson: [[https://github.com/lgsp/sciencelanguages/blob/master/org/present-perfect-and-present-perfect-continuous.org][Present Perfect and Present Perfect Continuous]]
   + [[https://github.com/lgsp/sciencelanguages/blob/master/org/english/ebook-45englishsounds.org][My book]] about phonetics
 
 * Vocabulary
