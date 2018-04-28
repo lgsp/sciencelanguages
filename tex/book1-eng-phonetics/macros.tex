@@ -10,7 +10,6 @@
   \href{#1}{\includegraphics[width=0.5cm, height=0.3cm]{../img/union-jack-mini}}%
 }
 
-
 \newcommand{\uss}[1]{% us sound
   \href{#1}{\includegraphics[width=0.5cm, height=0.3cm]{../img/us-flag-mini}}%
 }
@@ -52,16 +51,6 @@
     article complet sur ce son en cliquant sur \url{http://doyouspeakenglish.fr/#1}}%
 }
 
-% Liens vers le livre Anglais débutant
-\newcommand{\ad}{%
-  ~\href{https://amzn.to/2F5OhZa}{Anglais débutant 1 leçon par jour pendant 3 mois}\xspace%
-}
-
-% Liens vers le livre Bescherelle l'anglais pour tous
-\newcommand{\besch}{%
-  ~\href{https://amzn.to/2HiDBfI}{Bescherelle l'anglais pour tous}\xspace%
-}
-
 % Liens vers les sons de l'alphabet
 % #1 : lettre, #2 : lien interne, #3 : phonétique
 \newcommand{\letr}[3]{%
@@ -76,25 +65,26 @@
 
 % Liens vers le livre a critical introduction to phonetics
 \newcommand{\lodge}{%
-  \href{https://amzn.to/2K45eHn}{\exEN{A Critical Introduction to Phonetics}} de \textsc{Ken Lodge}
+  \href{https://amzn.to/2K45eHn}{\exEN{A Critical Introduction to Phonetics}}\xspace
 }
 
 % Liens vers le livre a manual of english phonetics and phonology
 \newcommand{\bs}{%
   \href{https://amzn.to/2HV8BzG}{\exEN{A Manual of English Phonetics and
-    Phonology}} de \textsc{Paul Burleigh} et \textsc{Peter Skandera}
+    Phonology}}\xspace %de \textsc{Paul Burleigh} et \textsc{Peter Skandera}
 }
 
 % Liens vers le livre Collins Practical Phonology and Phonetics
 \newcommand{\cpp}{%
-  \href{https://amzn.to/2HsmuUR}{\exEN{Pratical Phonetics and Phonology}} de
-  \textsc{Beverley S. Collins}
+  \href{https://amzn.to/2HsmuUR}{\exEN{Pratical Phonetics and
+      Phonology}}\xspace
+  %de \textsc{Beverley S. Collins}
 }
 
 % Liens vers le livre Ogden Phonetics
 \newcommand{\ogden}{%
-  \href{https://amzn.to/2Kc0NKE}{\exEN{An Introduction to English Phonetics}}
-  de \textsc{Richard Ogden}
+  \href{https://amzn.to/2Kc0NKE}{\exEN{An Introduction to English Phonetics}}\xspace
+  %de \textsc{Richard Ogden}
 }
 
 % Epigraphes maison
@@ -113,6 +103,34 @@
 \newcommand{\exFR}[1]{%
   \textcolor{orange}{\textcursive{#1}}%
 }
+
+% Liens vers le livre Français Lycée
+\newcommand{\FL}{%
+  ~\href{https://amzn.to/2vWXuUu}{\exFR{français lycée}}\xspace%
+  %de Pierre Brunel\xspace%
+}
+
+% Liens vers le livre Grévisse de l'Enseignant
+\newcommand{\GE}{%
+  ~\href{https://amzn.to/2I0vT9J}{\exFR{Grévisse de l'enseignant}}\xspace%
+}
+
+% Liens vers le livre Honni soit qui mal y pense
+\newcommand{\HSQMYP}{%
+  ~\href{https://amzn.to/2Fp3KUq}{\exFR{Honni soit qui mal y pense}}%
+}
+
+% Liens vers le livre Anglais débutant
+\newcommand{\ad}{%
+  ~\href{https://amzn.to/2F5OhZa}{\exFR{Anglais débutant 1 leçon par
+      jour pendant 3 mois}}\xspace%
+}
+
+% Liens vers le livre Bescherelle l'anglais pour tous
+\newcommand{\besch}{%
+  ~\href{https://amzn.to/2HiDBfI}{\exFR{Bescherelle l'anglais pour tous}}\xspace%
+}
+
 
 % \newcommand{\blocFR}[2]{%
 %   \begin{bclogo}[couleur=blue!30, arrond=0.1, logo=\bcdfrance]{#1}
@@ -203,17 +221,6 @@
   roundcorner=10pt%
 }
 
-% Liens vers le livre Français Lycée
-\newcommand{\FL}{%
-  ~\href{https://www.amazon.fr/gp/product/2844100015/ref=as\_li\_tl?ie=UTF8\&camp=1642\&creative=6746\&creativeASIN=2844100015\&linkCode=as2\&tag=wwwbecomefree-21\&linkId=985f3a849fd44728e8480993cf2d5490}{français
-    lycée} de Pierre Brunel\xspace%
-}
-
-% Liens vers le livre Grévisse de l'Enseignant
-\newcommand{\GE}{%
-  ~\href{https://www.amazon.fr/gp/product/221010632X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=221010632X&linkCode=as2&tag=wwwbecomefree-21&linkId=c8c522ee07ffc9188dd9a768e39d88e0}{Grévisse
-    de l'enseignant}\xspace%
-}
 
 % Longues citations : #1 largeur #2 source #3 punct 
 % \newenvironment{\bigquote}[1]
@@ -224,10 +231,6 @@
 %  {\end{center}}
     
 
-% Liens vers le livre Honni soit qui mal y pense
-\newcommand{\HSQMYP}{%
-  ~\href{https://www.amazon.fr/gp/product/225315444X/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=225315444X&linkCode=as2&tag=wwwbecomefree-21&linkId=5317e7b0e063b4d6c7c676b11420e49d}{Honni soit qui mal y pense}%
-}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Phonétique
@@ -253,7 +256,19 @@
   {\exEN{#1}}
 }
 
+% Exemple de mot avec Oxford
+\newcommand{\exMotOx}[2]{%
+  Le mot \exEN{\href{http://www.wordreference.com/enfr/#1}{#1}} qui
+  s'écrit phonétiquement
+  \href{https://en.oxforddictionaries.com/definition/#1}{\phonm{#2}}
+}
 
+% Exemple de mot avec Cambridge
+\newcommand{\exMotCam}[2]{%
+  Le mot \exEN{\href{http://www.wordreference.com/enfr/#1}{#1}} qui
+  s'écrit phonétiquement
+  \href{https://dictionary.cambridge.org/fr/dictionnaire/anglais/#1}{\phonm{#2}}
+}
 
 % Son isolé ou phone
 \newcommand{\phon}[1]{%
@@ -371,7 +386,7 @@
 % #5 : liens éventuels vers les sons élémentaires
 % #6 : l'ancre
 \newcommand{\diph}[6]{
-  \hypertarget{#6}{Cette diphtongue} est la combinaison\footnote{#5} de la voyelle
+  \hypertarget{#6}{Cette \gls{diph}} est la combinaison\footnote{#5} de la voyelle
   \phon{#1} et de la voyelle \phon{#2}. D'une certaine manière on peut
   écrire <<~l'équation~>>~:%
   \begin{center}%
@@ -406,15 +421,14 @@
       Royaume Uni.} vous permettra de consulter un article de mon blog
     avec (au moins) une vidéo qui~%
     propose des exemples supplémentaires avec une prononciation~%
-    typiquement anglaise\footnote{La prononciation appelée BBC accent
-      ou
-      \href{https://en.wikipedia.org/wiki/Received_Pronunciation}{Received
-        Pronunciation}.}.%
+    typiquement anglaise qu'on appelle l'accent \acrfull{rp}\footnote{La
+      prononciation appelée BBC accent ou
+      \href{https://en.wikipedia.org/wiki/Received_Pronunciation}{\acrlong{rp}}.}.%
   \item Le second lien\footnote{Accessible en cliquant sur le drapeau~américain.}~%
     vous permettra de consulter un article de mon blog avec (au moins)
     une vidéo qui propose des~%
     exemples supplémentaires avec une prononciation typiquement
-    américaine\footnote{Aussi appelée \href{https://en.wikipedia.org/wiki/General_American}{General American}.}.%
+    américaine qu'on appelle l'accent \acrfull{ga}\footnote{Aussi appelée \href{https://en.wikipedia.org/wiki/General_American}{\acrlong{ga}}.}.%
   \end{enumerate}%
   %
   La structure de chaque section sera toujours la même pour chaque \textcolor{teal}{son} :%
@@ -422,15 +436,15 @@
   \item Des exemples de mots afin d'illustrer le \textcolor{teal}{son}. Pour chaque mot~%
     vous disposerez d'un lien externe vers un dictionnaire~%
     \exEN{english}-\exFR{français} qui vous proposera plusieurs prononciations, la~%
-    phonétique, la traduction\footnote{En fait
+    \gls{phon}, la traduction\footnote{En fait
       plusieurs traductions,~avec~parfois~plusieurs registres de langue (y compris l'argot).}, et enfin~%
     plusieurs exemples (en \exEN{english} et leurs traductions en \exFR{français}).%
-  \item Une transcription du mot selon la norme de l'API ou IPA en~%
+  \item Une transcription du mot selon la norme de l'\acrshort{api} ou \acrshort{ipa} en~%
     anglais\footnote{À partir de maintenant on utilisera la terminologie~%
       anglaise.} avec un lien externe vers un dictionnaire~%
     \exEN{english}-\exEN{english} qui vous fournira une définition\footnote{En fait~%
       plusieurs selon les sens du mot.}, des exemples d'utilisation du~%
-    mot, l'origine du mot, et enfin sa phonétique anglaise.%
+    mot, l'origine du mot, et enfin sa \gls{phon} anglaise.%
   \item Des exemples de phrases utilisant le mot. Dans chaque phrase~%
     vous trouverez au moins deux liens externes\footnote{Parfois plusieurs,~%
       souvent vers des vidéos mais parfois vers des textes de chansons.}~%
