@@ -95,6 +95,74 @@
   }%
 \fi
   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%% GLOSSAIRE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[acronym, toc]{glossaries}
+%\usepackage{glossaries-french}
+
+\makeglossaries
+
+\newglossaryentry{diph}
+{
+  name=diphtongue,
+  description={Une diphtongue est un assemblage de deux voyelles
+    prononcées de façon consécutive au sein d'une même syllabe (on
+    l'appelle aussi voyelle double)}
+}
+
+\newglossaryentry{linguist}
+{
+  name=linguiste,
+  description={Chercheur en linguistique}
+}
+
+\newglossaryentry{linguistic}
+{
+  name=linguistique,
+  description={La linguistique est une science qui couvre de nombreux
+    domaines relatifs à l'étude langage parlé ou écrit}
+}
+
+\newglossaryentry{monoph}
+{
+  name=monophtongue,
+  description={Une voyelle monophtongue est une voyelle constituée
+    d'un seul phone (un seul son)}
+}
+
+\newglossaryentry{pho}
+{
+  name=phone,
+  description={Un phone est l'unité de base en phonétique, il s'agit
+    d'un son comme par exemple une voyelle monophtongue}
+}
+
+\newglossaryentry{phon}
+{
+  name=phonétique,
+  description={La phonétique est une branche de la linguistique qui
+    s'occupe de l'étude de la production sonore du langage. Elle-même
+    se divise en trois branches dont la phonétique articulatoire qui
+    est l'objet d'étude principal de ce livre}
+}
+
+\newglossaryentry{phonm}
+{
+  name=phonème,
+  description={Un phonème est un ensemble de sons ou phones}
+}
+
+
+\newacronym{api}{API}{Alphabet Phonétique International}
+\newacronym{ga}{GA}{General American}
+\newacronym{ipa}{IPA}{International Phonetics Alphabet}
+\newacronym{rp}{RP}{Received Pronunciation}
+\newacronym{toefl}{TOEFL}{Test Of English as a Foreign Language}
+\newacronym{toeic}{TOEIC}{Test Of English for International Communication}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
   
 \begin{document}
@@ -127,13 +195,6 @@
 
 \frontmatter
 
-% \begin{savequote}[80mm]
-% \exEN{``Rewards and punishments are the lowest form of education.''}
-% \qauthor{\href{https://en.wikipedia.org/wiki/Zhuang_Zhou}{Zhuangzi}}
-% \exFR{<<~Les récompenses et les punitions sont les pires formes
-%       d'éducation.~>>}
-% \qauthor{\href{https://fr.wikipedia.org/wiki/Tchouang-tseu}{Tchouang-Tseu}}
-% \end{savequote}
 
 \renewcommand{\epigraphflush}{flushleft}
 \epigraphhead[500]{%
@@ -151,7 +212,7 @@
 
    \input{chap0-how-to-read-this-book}
 
-   \input{chap1-intro}
+   \input{part1-chap1-intro}
 
    \newpage
    \listoffigures
@@ -169,7 +230,7 @@
 
     Bon, avant toute chose il est important de rappeler\footnote{Comme je
       l'avais déjà dit page~\pageref{sec:phonetics}.} que je ne suis pas
-    un linguiste professionnel. À vrai dire, avant d'écrire ce livre on
+    un \gls{linguist} professionnel. À vrai dire, avant d'écrire ce livre on
     peut dire que je n'avais absolument aucune connaissance du sujet. Mais
     il se trouve que mon goût pour apprendre les langues étrangères m'a
     amené à approfondir la question. Et comme je n'ai pas envie de dire de
@@ -227,11 +288,11 @@
       \exEN{a}, \exEN{e}, \exEN{i}, \exEN{o} et \exEN{u}, et non pas 6
       comme en \exFR{français}, parce que le \exEN{y} n'est pas  considéré
       comme une voyelle écrite par les anglophones.
-    \item D'autre part, en phonétique on s'intéresse aux sons et non pas aux
+    \item D'autre part, en \gls{phon} on s'intéresse aux sons et non pas aux
       lettres, par conséquent lorsqu'on parlera de voyelle cela
       sous-entendra toujours\footnote{Sauf mention explicite du
         contraire.} que l'on parle de \underline{voyelle sonore}. En
-      effet, la phonétique étant la science de la production sonore du
+      effet, la \gls{phon} étant la science de la production sonore du
       langage cela ne ferait pas sens de s'intéresser aux lettres qui sont
       indépendantes de la physique du son et de la biologie de notre anatomie.
     \end{enumerate}
@@ -241,14 +302,14 @@
     :
     
     \begin{quote}
-      La phonétique (du grec « phônê » qui signifie la « voix », le «
-      son ») est une branche de la linguistique qui étudie les sons
+      La \gls{phon} (du grec « phônê » qui signifie la « voix », le «
+      son ») est une branche de la \gls{linguistic} qui étudie les sons
       utilisés dans la communication parlée. À la différence de la
-      phonologie, qui étudie comment sont agencés les phonèmes d'une
-      langue pour former des mots, la phonétique concerne les sons
-      eux-mêmes (les unités phonétiques, les « phones »), leur
+      phonologie, qui étudie comment sont agencés les \glspl{phonm} d'une
+      langue pour former des mots, la \gls{phon} concerne les sons
+      eux-mêmes (les unités \glspl{phon}, les « \glspl{pho} »), leur
       production, leur variation plutôt que leur contexte. La
-      sémantique ne fait donc pas partie de ce niveau d'analyse linguistique.
+      sémantique ne fait donc pas partie de ce niveau d'analyse \gls{linguistic}.
     \end{quote}
 
     Un \textcolor{teal}{son} de
@@ -337,7 +398,7 @@
       \begin{figure}[h]
         \centering
         \includegraphics[scale=.75]{../img/cpp/sonority-cpp}
-        \caption{Sonorité, source : \cpp}
+        \caption{Sonorité, source :~\cite{collins}}
         \label{fig:eng-cons}
       \end{figure}
     \end{center}
@@ -346,7 +407,7 @@
       \begin{figure}[h]
         \centering
         \includegraphics[scale=.75]{../img/cpp/consonant-cpp}
-        \caption{Consonnes de l'anglais, source : \cpp}
+        \caption{Consonnes de l'anglais, source :~\cite{collins}}
         \label{fig:eng-cons}
       \end{figure}
     \end{center}
@@ -520,6 +581,16 @@
     \end{savequote}
     
     \input{part6-g}
+
+%    \clearpage
+
+    \input{part6-h}
+
+    \input{part6-i}
+
+    \input{part6-j}
+
+    
 
 \backmatter
 
