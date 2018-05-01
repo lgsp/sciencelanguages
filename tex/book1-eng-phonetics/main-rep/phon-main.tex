@@ -1,0 +1,606 @@
+\documentclass[12pt,a4paper, xetex, hyperref]{book}
+
+\usepackage{fontspec}
+\setmainfont{Geneva} %% Geneva, Helvetica, Helvetica Neue
+\usepackage{xunicode}
+\usepackage{polyglossia}
+\setmainlanguage{french}
+\setotherlanguage{english}
+\setotherlanguage[variant=ancient]{greek}
+\setotherlanguage{latin}
+\setotherlanguage{german}
+\setotherlanguage{chinese}
+\renewenvironment{latin}{\begin{hyphenrules}{latin}}%%
+  {\end{hyphenrules}}
+
+
+\usepackage{dtk-logos}
+%% \usepackage{draftwatermark}
+\usepackage{pdfpages} % pour inclure des docs pdf
+%\usepackage{appendix}
+
+\usepackage{fancybox}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% remove uppercase in headers
+\usepackage{fancyhdr}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[LO]{\itshape\nouppercase{\rightmark}}
+\fancyhead[RE]{\itshape\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0pt}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{xspace}
+
+\usepackage{tikz}
+\usepackage{tikzpagenodes}
+
+% Paquets indispensables pour bclogo
+\usepackage{graphicx}
+\usepackage[tikz]{mdframed} % pour la coupure des boîtes
+% \usepackage{xkeyval}
+% \usepackage{ifthen}
+% \usepackage{ifpdf}
+% \usepackage{etoolbox}
+
+% \usepackage[tikz]{bclogo}
+
+\usepackage[%
+            maxlevel=3,%
+            autostyle=true,%
+            french=guillemets*,%
+            english=american,%
+            autopunct=true%
+            ]{csquotes}
+
+\usepackage{quotchap}            
+\usepackage{epigraph}
+\usepackage{epipart}            
+
+\usepackage{verbatim}
+
+\usepackage{frcursive}
+\usepackage{pifont}
+\renewcommand{\footnoterule}{%%
+\vspace*{0.2cm}%%
+\ding{47}\hfill \centering Notes\hfill \ding{45}\vspace*{.2cm}\hrule\vspace*{.2cm}}
+
+\usepackage{shorttoc}
+\usepackage[french]{minitoc}
+
+\usepackage{subfloat}
+
+\usepackage{xcolor}
+
+\input{macros}
+
+\usepackage{hyperref, graphicx}
+\hypersetup{
+ pdfauthor={Laurent Garnier},
+ pdftitle={Introduction à la phonétique anglaise},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.3.1 (Org mode 9.1.6)}, 
+ pdflang={French},
+ colorlinks=true,
+ citecolor=green,
+ linkcolor=red,
+ urlcolor=cyan
+}
+
+
+% For details about the code below go there: https://bit.ly/2G30wai
+\ifxetex
+  \usepackage{letltxmacro}
+  \setlength{\XeTeXLinkMargin}{1pt}
+  \LetLtxMacro\SavedIncludeGraphics\includegraphics
+  \def\includegraphics#1#{% #1 catches optional stuff (star/opt. arg.)
+    \IncludeGraphicsAux{#1}%
+  }%
+  \newcommand*{\IncludeGraphicsAux}[2]{%
+    \XeTeXLinkBox{%
+      \SavedIncludeGraphics#1{#2}%
+    }%
+  }%
+\fi
+  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%% GLOSSAIRE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[acronym, numberedsection, toc]{glossaries}
+%\usepackage{glossaries-french}
+
+\makeglossaries
+
+\newglossaryentry{diph}
+{
+  name=diphtongue,
+  description={Une diphtongue est un assemblage de deux voyelles
+    prononcées de façon consécutive au sein d'une même syllabe (on
+    l'appelle aussi voyelle double)}
+}
+
+\newglossaryentry{linguist}
+{
+  name=linguiste,
+  description={Chercheur en linguistique}
+}
+
+\newglossaryentry{linguistic}
+{
+  name=linguistique,
+  description={La linguistique est une science qui couvre de nombreux
+    domaines relatifs à l'étude du langage parlé ou écrit}
+}
+
+\newglossaryentry{monoph}
+{
+  name=monophtongue,
+  description={Une voyelle monophtongue est une voyelle constituée
+    d'un seul phone (un seul son)}
+}
+
+\newglossaryentry{pho}
+{
+  name=phone,
+  description={Un phone est l'unité de base en phonétique, il s'agit
+    d'un son comme par exemple une voyelle monophtongue}
+}
+
+\newglossaryentry{phon}
+{
+  name=phonétique,
+  description={La phonétique est une branche de la linguistique qui
+    s'occupe de l'étude de la production sonore du langage. Elle-même
+    se divise en trois branches dont la phonétique articulatoire qui
+    est l'objet d'étude principal de ce livre}
+}
+
+\newglossaryentry{phonm}
+{
+  name=phonème,
+  description={Un phonème est un ensemble de sons ou phones}
+}
+
+
+\newacronym{api}{API}{Alphabet Phonétique International}
+\newacronym{ga}{GA}{General American}
+\newacronym{ipa}{IPA}{International Phonetics Alphabet}
+\newacronym{rp}{RP}{Received Pronunciation}
+\newacronym{toefl}{TOEFL}{Test Of English as a Foreign Language}
+\newacronym{toeic}{TOEIC}{Test Of English for International Communication}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  
+\begin{document}
+
+% \title{Introduction à la phonétique anglaise; rédigée avec
+% \href{https://en.wikipedia.org/wiki/XeTeX}{\XeLaTeX}}
+\includepdf{titlepage2018}
+
+
+\author{Laurent Garnier}
+
+
+
+% \SetWatermarkColor{green}
+% \SetWatermarkLightness{0.85}
+% \SetWatermarkFontSize{3.5cm}
+% \SetWatermarkScale{0.75}
+% \SetWatermarkText{Laurent Garnier}
+
+%\maketitle
+\dominitoc
+\shorttoc{Sommaire}{0}
+
+
+\frontmatter
+
+
+\renewcommand{\epigraphflush}{flushleft}
+\epigraphhead[500]{%
+  \begin{epigraphs}%
+    \qitem{\exEN{``Rewards and punishments are the lowest form of education.''}}{\href{https://en.wikipedia.org/wiki/Zhuang_Zhou}{Zhuangzi}}%
+    \qitem{\exFR{<<~Les récompenses et les punitions sont les pires formes
+     d'éducation.~>>}}{\href{https://fr.wikipedia.org/wiki/Tchouang-tseu}{Tchouang-Tseu}}%
+  \end{epigraphs}%
+}
+\part{À propos de ce livre}
+
+   \renewcommand{\epigraphflush}{flushright}
+
+   \parttoc
+
+   \input{part1/part1-chap0-how-to-read-this-book}
+
+   \input{part1/part1-chap1-intro}
+
+   \newpage
+   \listoffigures
+   \listoftables
+   \newpage
+
+   \mainmatter
+   \parttoc
+
+\part{Un peu de linguistique pour les non linguistes}
+
+    \newpage
+    \minitoc
+    \newpage
+
+    Bon, avant toute chose il est important de rappeler\footnote{Comme je
+      l'avais déjà dit page~\pageref{sec:phonetics}.} que je ne suis pas
+    un \gls{linguist} professionnel. À vrai dire, avant d'écrire ce livre on
+    peut dire que je n'avais absolument aucune connaissance du sujet. Mais
+    il se trouve que mon goût pour apprendre les langues étrangères m'a
+    amené à approfondir la question. Et comme je n'ai pas envie de dire de
+    bêtises je vais laisser la parole aux professionnels en me contentant
+    de les citer, de les paraphraser et de vous transmettre ce que j'en ai
+    compris. Par conséquent, celles et ceux qui voudraient aller plus loin
+    sont vivement encouragés à le faire en se procurant les ouvrages cités
+    qui sont très riches en informations. Pour les autres, il y a deux
+    possibilités :
+    
+    \begin{enumerate}
+    \item Vous n'avez pas envie d'apprendre de nouvelles choses théoriques
+      et vous souhaitez directement passer à la pratique. Pas de problème
+      ! Dans ce cas il vous suffit d'aller directement à la partie
+      suivante page~\pageref{part:vow} pour les voyelles et
+      page~\pageref{part:conson} pour les consonnes.
+    \item Si comme moi vous aimez comprendre les choses sans forcément
+      devenir un expert du domaine. Dans ce cas bienvenue dans cette
+      partie où j'essaierai de vous communiquer la joie de la découverte
+      et ma nouvelle passion pour ce domaine si riche et prometteur.  
+    \end{enumerate}
+
+    \begin{savequote}[80mm]
+      \exEN{'Love all, trust a few, do wrong to none.'}
+      \qauthor{\href{https://en.wikipedia.org/wiki/William_Shakespeare}{William Shakespeare}}
+      \exFR{<<~Aimez tout le monde, faites confiance à quelques-uns, ne
+        faites de mal à personne.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/William_Shakespeare}{William Shakespeare}}
+    \end{savequote}
+
+    \input{part2/part2-chap1-phon}
+
+    \begin{savequote}[80mm]
+      \exEN{"I don't focus on what I'm up against. I focus on my goals
+        and I try to ignore the rest."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Venus_Williams}{Venus
+        Williams}}
+      \exFR{<<~Je ne me concentre pas sur ce contre quoi je suis. Je
+        me concentre sur mes objectifs et j'essaie d'ignorer le reste.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Venus_Williams}{Venus
+          Williams}}
+    \end{savequote}
+
+    \input{part2/part2-chap2-ling}
+
+    
+\part{Vowel sounds}\label{part:vow}
+
+    
+    J'attire votre attention sur 2 points importants afin d'éviter toute
+    confusion :
+
+    \begin{enumerate}
+    \item D'une part, en anglais il n'y a que 5 voyelles écrites :
+      \exEN{a}, \exEN{e}, \exEN{i}, \exEN{o} et \exEN{u}, et non pas 6
+      comme en \exFR{français}, parce que le \exEN{y} n'est pas  considéré
+      comme une voyelle écrite par les anglophones.
+    \item D'autre part, en \gls{phon} on s'intéresse aux sons et non pas aux
+      lettres, par conséquent lorsqu'on parlera de voyelle cela
+      sous-entendra toujours\footnote{Sauf mention explicite du
+        contraire.} que l'on parle de \underline{voyelle sonore}. En
+      effet, la \gls{phon} étant la science de la production sonore du
+      langage cela ne ferait pas sens de s'intéresser aux lettres qui sont
+      indépendantes de la physique du son et de la biologie de notre anatomie.
+    \end{enumerate}
+
+    Selon
+    \href{https://fr.wikipedia.org/wiki/Phon\%C3\%A9tique}{Wikipédia}
+    :
+    
+    \begin{quote}
+      La \gls{phon} (du grec « phônê » qui signifie la « voix », le «
+      son ») est une branche de la \gls{linguistic} qui étudie les sons
+      utilisés dans la communication parlée. À la différence de la
+      phonologie, qui étudie comment sont agencés les \glspl{phonm} d'une
+      langue pour former des mots, la \gls{phon} concerne les sons
+      eux-mêmes (les unités \glspl{phon}, les « \glspl{pho} »), leur
+      production, leur variation plutôt que leur contexte. La
+      sémantique ne fait donc pas partie de ce niveau d'analyse \gls{linguistic}.
+    \end{quote}
+
+    Un \textcolor{teal}{son} de
+    \textcolor{teal}{voyelle}\CW{https://en.wikipedia.org/wiki/English_phonology\#Vowels} 
+    est fait en façonnant l'air comme il quitte la bouche. Nous
+    utilisons les articulateurs pour façonner l'air --- les lèvres, la
+    mâchoire, la langue. L'\exEN{anglais} britannique utilise 12
+    positions de la bouche\footnote{Vous pouvez les voir et les
+      entendre en consultant ce
+      \href{https://pronunciationstudio.com/vowel02/}{site}.}.   
+
+    Pour accéder à une banque de \textcolor{teal}{sons} de
+    \textcolor{teal}{voyelles} avec la figure~\ref{fig:ipa-vowels} ci-dessous rendez-vous sur
+    la page \url{https://en.wikipedia.org/wiki/Vowel\#Audio_samples}.
+
+    \begin{center}
+      \begin{figure}[h]
+        \centering
+        \includegraphics[scale=.5]{../img/IPA_vowel_chart_2005}
+        \caption{\href{https://en.wikipedia.org/wiki/Vowel\#Audio_samples}{\exEN{IPA Vowels}}}
+        \label{fig:ipa-vowels}
+      \end{figure}
+    \end{center}
+
+    \begin{savequote}[80mm]
+      \exEN{"Great things in business are never done by one
+        person. They're done by a team of people."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Steve_Jobs}{Steve Jobs}}
+      \exFR{<<~Les grandes choses dans les affaires ne sont jamais
+        faites par une personne. Elles sont faites par une équipe de gens.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Steve_Jobs}{Steve Jobs}}
+    \end{savequote}
+    
+    \input{part3/part3-chap3-front-vowels}
+
+    \begin{savequote}[80mm]
+      \exEN{"My mama always used to tell me: 'If you can't find
+        something to live for, you better find something to die for.'"}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Tupac_Shakur}{Tupac Shakur}}
+      \exFR{<<~Ma mère me disait toujours : <<si tu ne peux pas
+        trouver une raison de vivre, tu ferais mieux de trouver une
+        raison de mourir.>>~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Tupac_Shakur}{Tupac
+        Shakur}}
+    \end{savequote}
+
+    \input{part3/part3-chap4-centre-vowels}
+    
+    \begin{savequote}[80mm]
+      \exEN{"Memories of our lives, of our works and our deeds will
+        continue in others."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Rosa_Parks}{Rosa Parks}}
+      \exFR{<<~Les mémoires de nos vies, de nos {\oe}uvres et nos
+        actes continueront à travers les autres.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Rosa_Parks}{Rosa Parks}}
+    \end{savequote}
+    
+    \input{part3/part3-chap5-back-vowels}
+
+    \begin{savequote}[80mm]
+      \exEN{"I wanted to write for all children, even those kids who
+        might see language as a threatening thing, even if English is
+        their second language."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Ursula_Dubosarsky}{Ursula
+        Dubosarsky}}
+      \exFR{<<~Je voulais écrire pour tous les enfants, même ceux qui
+        pourraient considérer la langue comme une menace, même si
+        l'anglais est leur deuxième langue.~>>} 
+      \qauthor{\href{https://en.wikipedia.org/wiki/Ursula_Dubosarsky}{Ursula
+          Dubosarsky}}
+    \end{savequote}
+    
+
+    \input{part3/part3-chap6-diphtong}
+    
+\part{Consonant sounds}\label{part:conson}
+
+    Un \son de
+    \textcolor{teal}{consonne}\CW{https://en.wikipedia.org/wiki/English_phonology\#Consonants}
+    est fait en bloquant l'air quand il quitte la
+    bouche. Nous utilisons la langue, les lèvres, les dents, la bouche et
+    la gorge pour bloquer l'air. Certains sons utilisent la voix
+    (exprimé), d'autres seulement l'air (sans voix).
+
+    \begin{center}
+      \begin{figure}[h]
+        \centering
+        \includegraphics[scale=.75]{../img/cpp/sonority-cpp}
+        \caption{Sonorité, source :~\cite{collins}}
+        \label{fig:eng-cons}
+      \end{figure}
+    \end{center}
+
+    \begin{center}
+      \begin{figure}[h]
+        \centering
+        \includegraphics[scale=.75]{../img/cpp/consonant-cpp}
+        \caption{Consonnes de l'anglais, source :~\cite{collins}}
+        \label{fig:eng-cons}
+      \end{figure}
+    \end{center}
+
+    \begin{savequote}[80mm]
+      \exEN{'It's all to do with the training: you can do a lot if
+        you're properly trained.'}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Elizabeth_II}{Queen
+          Elizabeth II}}
+      \exFR{<<~Tout est lié à la formation : vous pouvez faire
+        beaucoup si vous êtes correctement formé.~>>}
+      \qauthor{\href{https://fr.wikipedia.org/wiki/\%C3\%89lisabeth_II}{Elisabeth
+        II reine d'Angleterre}}
+    \end{savequote}
+
+    \input{part4/part4-chap7-plosive}
+
+    \begin{savequote}[80mm]
+      \exEN{"Choose rather to be strong of soul than strong of body."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Pythagoras}{Pythagoras}}
+      \exFR{<<~Choisissez d'être fort de l'esprit plutôt que fort du corps.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Pythagore}{Pythagore}}
+    \end{savequote}
+
+    \input{part4/part4-chap8-fricative}
+
+    \begin{savequote}[80mm]
+      \exEN{"A hair divides what is false and true."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Omar_Khayyam}{Omar Khayyam}}
+      \exFR{<<~Il n'y a qu'un fil entre le vrai et le faux.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Omar_Khayyam}{Omar Khayyam}}
+    \end{savequote}
+
+    \input{part4/part4-chap9-affricate}
+
+    \begin{savequote}[80mm]
+      \exEN{"The Universe is under no obligation to make sense to you."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson}{Neil deGrasse Tyson}}
+      \exFR{<<~L'univers n'a aucune obligation d'être compréhensible pour vous.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Neil_deGrasse_Tyson}{Neil
+        deGrasse Tyson}}
+    \end{savequote}
+
+    \input{part4/part4-chap10-nasal}
+
+    \begin{savequote}[80mm]
+      \exEN{"Early childhood education is the key to the betterment of
+        society."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Maria_Montessori}{Maria Montessori}}
+      \exFR{<<~L'éducation de la petite enfance est la clé de
+        l'amélioration de la société.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Maria_Montessori}{Maria
+        Montessori}}
+    \end{savequote}
+
+    \input{part4/part4-chap11-approximant}
+
+    
+\part{Conclusion}\label{part:conc}
+
+    \begin{savequote}[80mm]
+      \exEN{"Everyone thinks of changing the world but no one thinks of
+        changing himself."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Leo_Tolstoy}{Leo Tolstoy}}
+      \exFR{<<~Tout le monde veut changer le monde mais personne ne
+        pense à se changer lui-même.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/L\%C3\%A9on_Tolsto\%C3\%AF}{Léon Tolstoï}}
+    \end{savequote}
+  
+    \input{part5/part5-chap12-what-u-ve-done}
+
+    \begin{savequote}[80mm]
+      \exEN{"Friendship is always a sweet responsability, never an opportunity."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Kahlil_Gibran}{Khalil Gibran}}
+      \exFR{<<~L'amitié est une responsabilité douce, jamais une opportunité.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Gibran_Khalil_Gibran}{Khalil
+        Gibran}}
+    \end{savequote}
+  
+    \input{part5/part5-chap13-advices-add}
+
+    \begin{savequote}[80mm]
+      \exEN{"If you can't tolerate critics, don't do anything new or interesting."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Jeff_Bezos}{Jeff Bezos}}
+      \exFR{<<~Si vous nos pouvez pas tolérer les critiques, ne faites
+        rien de nouveau ou d'intéressant.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Jeff_Bezos}{Jeff Bezos}}
+    \end{savequote}
+  
+    \input{part5/part5-chap14-other-proj}
+
+    \begin{savequote}[80mm]
+      \exEN{"Violence is the last refuge of the incompetent."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Isaac_Asimov}{Isaac Asimov}}
+      \exFR{<<~La violence est le dernier refuge des incompétents.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Isaac_Asimov}{Isaac Asimov}}
+    \end{savequote}
+  
+    \input{part5/part5-chap15-appendix-words}
+    
+\part{Annexes}\label{part:annexe}
+
+    \appendix
+
+    \begin{savequote}[80mm]
+      \exEN{"It's not what you look at that matters, it's what you see."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Henry_David_Thoreau}{Henry David Thoreau}}
+      \exFR{<<~Ce n'est pas ce que vous regardez qui compte, c'est ce
+        que vous voyez.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Henry_David_Thoreau}{Henry David Thoreau}}
+    \end{savequote}
+    
+    \input{part6/part6-a}
+
+    \begin{savequote}[80mm]
+      \exEN{"It is far better to be alone, than to be in bad company."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/George_Washington}{George Washington}}
+      \exFR{<<~Mieux vaut être seul que mal accompagné.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/George_Washington}{George Washington}}
+    \end{savequote}
+    
+    \input{part6/part6-b}
+
+    \begin{savequote}[80mm]
+      \exEN{"It is not a lack of love, but a lack of friendship that
+        makes unhappy marriages."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Friedrich_Nietzsche}{Friedrich Nietzsche}}
+      \exFR{<<~Ce n'est pas un manque d'amour, mais un manque d'amitié
+        qui rend les mariages malheureux.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Friedrich_Nietzsche}{Friedrich Nietzsche}}
+    \end{savequote}
+    
+    \input{part6/part6-c}
+
+    \begin{savequote}[80mm]
+      \exEN{"Life is an adventure, it's not a package tour."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Eckhart_Tolle}{Eckhart Tolle}}
+      \exFR{<<~La vie est une aventure, ce n'est pas un séjour organisé.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Eckhart_Tolle}{Eckhart Tolle}}
+    \end{savequote}
+    
+    \input{part6/part6-d}
+
+    \begin{savequote}[80mm]
+      \exEN{"Be kind whenever possible. It is always possible."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Dalai_Lama}{Dalai Lama}}
+      \exFR{<<~Soyez gentil chaque fois que possible. Cela est
+        toujours possible.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Dala\%C3\%AF-lama}{Dalai Lama}}
+    \end{savequote}
+    
+    \input{part6/part6-e}
+
+    \begin{savequote}[80mm]
+      \exEN{"Science is a way of thinking much more than it is a body
+        of knowledge."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Carl_Sagan}{Carl Sagan}}
+      \exFR{<<~La science est beaucoup plus une façon de penser qu'un
+        ensemble de connaissances.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Carl_Sagan}{Carl Sagan}}
+    \end{savequote}
+    
+    \input{part6/part6-f}
+
+    \begin{savequote}[80mm]
+      \exEN{"Knowledge will give you power, but character respect."}
+      \qauthor{\href{https://en.wikipedia.org/wiki/Bruce_Lee}{Bruce Lee}}
+      \exFR{<<~La connaissance vous donnera le pouvoir, mais le
+        caractère le respect.~>>} 
+      \qauthor{\href{https://fr.wikipedia.org/wiki/Bruce_Lee}{Bruce Lee}}
+    \end{savequote}
+    
+    \input{part6/part6-g}
+
+    \clearpage
+
+    \input{part6/part6-h}
+
+    \input{part6/part6-i}
+
+    \input{part6/part6-j}
+
+    
+
+\backmatter
+
+\tableofcontents
+
+\end{document}
+
