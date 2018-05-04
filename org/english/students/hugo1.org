@@ -1,0 +1,87 @@
+#+TITLE: Hugo's mail
+#+AUTHOR: Laurent Garnier
+
+* The original mail part [1/3]
+
+  Hey, my name is Hugo, I from Neuilly-plaisance, I’m going to am 18
+  years old the April 19th and I'm students to Clemenceau school at
+  Villemomble. My hobbies are the sport: soccer and body
+  building. But, I dislocate my shoulder because I did a bike
+  accident, so I can’t do a body building until may. My passion also
+  are the mathematics and the economy, that ‘why I follow the news and
+  I can to speak with you.   
+
+* The original mail part [2/3]
+
+  I took some English lesson because I don’t speak English very well and
+  I have bad mark between 7 and 13. Besides, I have a “BAC” at the end
+  of this year and I will want a good mark in order to have a
+  “mention”. So, you understand the English is my difficulty and without
+  those lesson, I think that I won’t can a “mention”. I find the English
+  in French education (school) is badly teach because since that I’m in
+  school, my level doesn’t increase. Hardly anyone know really the
+  English grammar and lot of student do many errors. That ‘why I took
+  some English lesson.   
+
+* The original mail part [3/3]
+
+  I have many difficulties especially in pronunciation because the
+  English accent is really difficult to learn it. Then, I also have
+  difficulties in grammar especially with the word “to, at, that…”
+  (the word untranslatable in French).
+
+  I hope that you understand and that you can help me.
+
+* Corrections part [1/3]
+
+  Hey, my name is Hugo, I *am* from Neuilly-plaisance, I’m going to *be* 18
+  years old April *the* 19th and I'm *a* student *at* Clemenceau's school at
+  Villemomble. My hobbies are *sports*: soccer and body building. But,
+  I *dislocated* my shoulder because I *had* a bike accident, so I can’t do
+  body building *anymore* until may. My *passions are also mathematics
+  and economics*, that's *the reason* why I follow the news *in order to be able to talk about it* with you.    
+
+
+
+* Corrections part [2/3]
+
+  I took some English *lessons* because I don’t speak English very well and
+  I have bad *marks* between 7 and 13. Besides, I have *the* “BAC” at the end
+  of this year and I *would like*  good *marks* in order to have a
+  “mention” (*distinction*). So, you understand English is *one of my problems*
+  and without those lesson, I think that I won’t *be able to get* a
+  *distinction*. I find the English in French education (school) is badly
+  *taught* (passive voice) because since I’m in school, my level *hasn’t*
+  *increased*. Hardly anyone know*s* really the English grammar and lot of
+  student do many errors. *That's* why *I'm taking* some English *lessons*.   
+
+* Corrections part [3/3]
+
+  I have many difficulties especially in pronunciation because the
+  English accent is really difficult to learn. Then, I also have
+  difficulties in grammar especially with the word “to, at, that…”
+  (the word untranslatable in French).
+
+  I hope that you understand and that you can help me.
+* At or to?
+** At
+   On utilise /at/ quand il n'y a pas de mouvement.
+   ex: You are *at* home.
+** To 
+   On utilise /to/ quand il y a un mouvement.
+   ex: You are going /to/ school.
+* In or into?
+** In  
+   On utilise /in/ quand on localise quelqu'un ou quelque chose.
+   ex: You're *in* your room.
+** Into 
+   On utilise /into/ quand la situation a changé.
+   ex: Someone went *into* your room when you weren't in.
+* To or from?
+** From
+   On utilise /from/ quand on se réfère à la provenance, à l'origine.
+   ex: You're *from* île-de-France.
+** To
+   On utilise /to/ quand on se réfère à la direction, à la
+   destination.
+   ex: I saw him on the train *to* London.
