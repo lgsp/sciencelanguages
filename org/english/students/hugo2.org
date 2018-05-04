@@ -79,3 +79,12 @@
   I loved this video, through it, *I* can to learn *lots* of things about
   Smith. I find the video, in itself, very good, *I* really liked
   watching this video
+* This and That
+** This
+   Use this when you talk about something that is near to you.
+   ex: This previous definition explains how 'this' works.
+** That
+   Use that when you talk about something that is far from you.
+   ex: That country is far away from France.
+** If you want to go further
+   [[https://youtu.be/tZwOF0UHzsM][JamesESL]]
