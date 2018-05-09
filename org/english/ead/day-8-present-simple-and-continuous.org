@@ -24,7 +24,7 @@
 
 * Other Verbs
  For all the other verbs, keep the infinitive without "to," except
- for he/she/it where you need to add an "s" (except for modals, but we'll dedicate a chapter on that, so just be patient). Let's see some examples.
+ for he/she/it where you need to add an "s" (except for modals, but we'll dedicate a chapter to, so just be patient). Let's see some examples.
 
 * Examples
    1. I (to work) *work* every day, but my wife (to do) *does* not.
