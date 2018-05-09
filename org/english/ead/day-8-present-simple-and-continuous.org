@@ -8,11 +8,11 @@
   + Stacy :: Fine, thanks. And you?
   + Laurent :: Fine, thanks. I am always happy when we are talking together.
   + Stacy :: Yes, me too.
-  + Laurent :: Actually, it is a lie.
+  + Laurent :: Actually, that's not true.
   + Stacy :: What?!
   + Laurent :: I'm joking. Let's dig into the lesson of the day: PRESENT SIMPLE AND PRESENT CONTINUOUS!
   
-* Review The Verb To Be
+* Review the Verb To Be
 
   To be is the only irregular verb in present simple tense.
 
@@ -23,28 +23,28 @@
   + They *are* happy to learn with me.
 
 * Other Verbs
- For all the other verbs you just have to keep the infinitive without 'to', except
- for He/She/It where you need to add an 's' (except for modals but we'll dedicate a chapter on it just be patient). Let's see some examples.
+ For all the other verbs, keep the infinitive without "to," except
+ for he/she/it where you need to add an "s" (except for modals, but we'll dedicate a chapter on that, so just be patient). Let's see some examples.
 
 * Examples
    1. I (to work) *work* every day, but my wife (to do) *does* not.
    2. He (to learn) *learns* English by himself and she (to study)
-      *studies* it at University.
+      *studies* it at college.
    3. I (to try) *try* to travel as much as I (to wish) *wish*.
    4. My daughter (to try) *tries* to make new sounds every day.
-   5. Her mother (to cook) *cooks* very well and I (to like) *like*
+   5. Her mother (to cook) *cooks* very well, and I (to like) *like*
       that.
 * Exercise 1
    Complete the following sentences with the verb in parentheses using
    the present simple.
    1. Usually I (to eat) my breakfast at 7:00 am.
    2. She (to listen) to music while she (to do) her homework.
-   3. You (to try) to do your exercises in each lesson.
-   4. In NYC people in the street usually (to walk) fast.
+   3. You (to try) to finish your exercises in each lesson.
+   4. People usually (to walk) fast in New York City.
    5. It (to make) sense to study every day if you (to want) to improve
       your level.
 
-* Present Continuous Also Called Present Progressive
+* Present Continuous, also Called Present Progressive
 
   The construction of the present continuous or present progressive is
   simple: to be + infinitive - to + ing
@@ -64,13 +64,13 @@
    1. I (to eat) my breakfast right now because it's 7:00 am.
    2. Currently, she (to listen) to music while she (to do) her homework.
    3. Right now, you (to try) to do this exercise in this lesson.
-   4. While I (to walk) in the street I can observe people.
-   5. After this I (to go) to explain to you when you should use one tense
+   4. I observe people as I (to walk) in the street.
+   5. After class, I (to go) to explain to you when you should use one tense
       or the other.
 * When To Use Which One
 ** Present Simple
 *** General Truth, Habit, and so on
-   The present simple expresses a general truth, a habit, a persistant
+   The present simple expresses a general truth, a habit, or a persistant
    fact.
 **** Examples
     1. Women live longer than men.
@@ -79,20 +79,20 @@
 **** Exercise 3
     Write 3 sentences using the present simple.
 *** Other Cases
-    + Comments in live (on TV, radio,...)
+    + Comments in live (on TV, radio, ...)
     + Newspaper titles
     + Movie script
 **** Examples
      1. Ronaldo dribbles the last defender and then he shoots and
         scores!
-     2. Prime Minister visits new station.
+     2. The Prime Minister visits the new station.
      3. The detective appears at the door. He knocks. Lisa rises,
-        pauses a moment. She crosses the room to open the door.
+        pauses a moment, and then crosses the room to open the door.
 **** Exercise 4
      Write an example for each case.
 ** Present Continuous or Present Progressive 
    The present continuous expresses an action or a fact that is
-   happening right now, currently, at the moment we talk about it.
+   happening right now, currently, at the moment as we are talking about it.
 *** Examples
     1. Be careful! Taxi cabs in London don't care about pedestrians.
     2. What are you doing? I am studying English.
@@ -105,10 +105,10 @@
     hate, include, know, like, love, matter, mean, need, own, possess,
     prefer, recognize, remember, seem, suppose, understand, want, wish
 * Exercise 6
-    Write 5 examples using 5 differents verbs from this list.
+    Write 5 examples using 5 different verbs from this list.
 
 * Exercise 7
-   Fill the tabs in order to get 7 items.
+   Fill in the tabs in order to get 7 items.
 
   + [[http://doyouspeakenglish.fr/diphthong-6-7/][The diphtong vowel {ɪə}]] as in:
 
@@ -138,7 +138,7 @@
    5. It *makes* sense to study everyday if you *want* to improve
       your level.
 * Solutions: Exercise 2
-   Complete the following sentences with the verb in parenthesis using
+   Complete the following sentences with the verb in parentheses using
    the present continuous.
    1. I *am eating* my breakfast right now because it's 7:00 am.
    2. Currently, she *is listening* to the music while she *is doing* her homework.
@@ -153,7 +153,7 @@
     2. [[https://youtu.be/eDW_yAwaHnc][People are strange]].
     3. [[https://youtu.be/_eF75YR5Ijw][She is everything I need]].
 * Solutions: Exercise 4
-     1. Federer does his service. And it's an ace again!
+     1. Federer serves. And it's an ace again!
      2. Today Macron receives Merkel.
      3. My name is Bond, James Bond. And then the bad guy arrives.
 * Solutions: Exercise 5 
@@ -164,7 +164,7 @@
     1. My wife always agrees with me.
     2. Do you believe what's happening?
     3. [[https://youtu.be/uAhzBVALop4][I belong to you, and you belong to me]].
-    4. This exercise consists in applying all the things you've
+    4. This exercise consists of applying all the things you've
        learned so far.
     5. This course contains a lot of references.
 * Solutions: Exercise 7
