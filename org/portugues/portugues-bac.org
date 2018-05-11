@@ -1,0 +1,51 @@
+#+TITLE: Trucs et astuces pour l'épreuve de portugais au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  | Liens vers le site | Inscription ? | Téléchargeables ? |
+  |--------------------+---------------+-------------------|
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2323-Portugais-LV1][bankexam.fr]] S, LV1 | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/6024-Portugais-LV2][bankexam.Fr]] S, LV2 | oui           | oui               |
+
+* Sujets d'annales corrigés bac ES
+
+  | Liens vers le site  | Inscription ? | Téléchargeables ? |
+  |---------------------+---------------+-------------------|
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/97528-Portugais-LV2][bankexam.fr]] ES, LV1 | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/97528-Portugais-LV2][bankexam.fr]] ES, LV2 | oui           | oui               |
+
+* Sujets d'annales corrigés bac L
+
+  | Liens vers le site | Inscription ? | Téléchargeables ? |
+  |--------------------+---------------+-------------------|
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2475-Portugais-LV1][bankexam.fr]] L, LV1 | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2511-Portugais-LV2][bankexam.fr]] L, LV2 | oui           | oui               |
+
+* Ressources utiles
+
+  | Liens       | Téléchargeable ?            |
+  |-------------+-----------------------------|
+  | [[http://cache.media.eduscol.education.fr/file/LV/20/1/RESS_LGT_cycle_terminal_LV_portugais_sujets_etudes_236201.pdf][eduscol.fr]]  | oui                         |
+  | [[https://www.ac-paris.fr/portail/jcms/p1_643788/ressources-pour-le-cycle-terminal-en-portugais][ac-paris.fr]] | oui                         |
+  | [[https://fr.bab.la/dictionnaire/portugais-anglais/][bab.la]]      | non (dictionnaire en ligne) |
+  | [[https://www.lexilogos.com/portugais_dictionnaire.htm][lexilogos]]   | non (dictionnaire en ligne) |
+  | [[https://www.youtube.com/watch?v=mN4ttx3pAu4&list=PLfKvL-VUSKAkIEsM0luUKCHzhvc2iXAB-][ma-playlist]] | non                         |
+
+* Chaînes YouTube en portugais
+
+  | Liens                    | Thématique            |
+  |--------------------------+-----------------------|
+  | [[https://www.youtube.com/channel/UCHtM9dhi_BMxX-avcF6w7Lg/videos?disable_polymer=1][apprendre le Portugais]]   | français -> portugais |
+  | [[https://www.youtube.com/channel/UC_TlmgPQpBzQWwvPS_ciCKA/videos?disable_polymer=1][Les Secrets Du Brésilien]] | français -> portugais |
+  | [[https://www.youtube.com/channel/UCDmiZuOFPfQ2eqDMzYswbPA/videos?disable_polymer=1][Tatane]]                   | français -> portugais |
+  | [[https://www.youtube.com/user/asicath79/about?disable_polymer=1][Hugo Ferreira Pires]]      | français -> portugais |
+  | [[https://www.youtube.com/playlist?list=PLj3rb6mUpoOKzK4sxjtzsW7H3YtmJgecw][Adomlingua]]               | français -> portugais |
+  | [[https://www.youtube.com/user/portuguesepod101][Learn Portuguese 101]]     | english -> portuguese |
+  | [[https://www.youtube.com/user/portuguesewithcarla/about?disable_polymer=1][Portuguese With Carla]]    | english -> portuguese |
+  | [[https://www.youtube.com/user/tusclasesdeportugues/about?disable_polymer=1][Tus Clases de Portugués]]  | esapñol -> portugês   |
+  | [[https://www.youtube.com/playlist?list=PL7e9WPWwT5srBdBJ8itqYLeqoRfLGIJ9y][EnSimplesPalabras]]        | esapñol -> portugês   |
+  | [[https://www.youtube.com/channel/UCbEsUu6RRXdIPMcVkyCnRYw/videos?disable_polymer=1][Coreanissima]]             | portugês              |
+  
+  
+
