@@ -1,0 +1,55 @@
+#+TITLE: Trucs et astuces pour l'épreuve d'hébreu au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  | Liens vers le site             | Inscription ? | Téléchargeables ?    |
+  |--------------------------------+---------------+----------------------|
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/99130-LV1-Hebreu][bankexam.fr]] S, LV1             | oui           | oui                  |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/37799-Hebreu-LV2][bankexam.fr]] S, LV2             | oui           | oui                  |
+
+* Sujets d'annales corrigés bac ES
+
+  | Liens vers le site             | Inscription ? | Téléchargeables ?    |
+  |--------------------------------+---------------+----------------------|
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/5980-Hebreu-moderne-LV1][bankexam.fr]]  ES, LV1           | oui           | oui                  |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/97500-Hebreu-LV2][bankexam.fr]] ES, LV2            | oui           | oui                  |
+
+* Sujets d'annales corrigés bac L
+
+  | Liens vers le site             | Inscription ? | Téléchargeables ?    |
+  |--------------------------------+---------------+----------------------|
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/99124-LV1-Hebreu][bankexam.fr]] L, LV1             | oui           | oui                  |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/6015-Hebreu-LV2][bankexam.fr]] L, LV2             | oui           | oui                  |
+
+* Ressources utiles
+
+  | Liens        | Téléchargeable ?            |
+  |--------------+-----------------------------|
+  | [[http://cache.media.eduscol.education.fr/file/Lycee/87/1/Sujet0-2013_T_ES-S-L_LV1_hebreu_232871.pdf][eduscol]]      | oui                         |
+  | [[http://www.inalco.fr/sites/default/files/brochure/LLCE/Brochure_Licence_LLCE_Hebreu-Hebreu_moderne.pdf][inalco.fr]]    | oui (orientation)           |
+  | [[https://www.ac-paris.fr/portail/jcms/p1_229428/examens][ac-paris.fr]]  | oui                         |
+  | [[https://www.lexilogos.com/hebreu_moderne_dictionnaire.htm][lexilogos]]    | non (dictionnaire en ligne) |
+  | [[https://www.youtube.com/channel/UC__rbCtdVl9pWGsHW9aX0ew/about?disable_polymer=1][Hebrew Verbs]] | non                         |
+  | [[https://www.youtube.com/watch?v=LkUn0T9cnkI&list=PLfKvL-VUSKAnEt4Tzwwob4rFdKKda6HAu][ma-playlist]]  | non                         |
+
+* Chaînes YouTube en hébreu
+
+  | Liens                                | Thématique         |
+  |--------------------------------------+--------------------|
+  | [[https://www.youtube.com/channel/UCer4YF455QwOFW6_jkYHrxw/about?disable_polymer=1][à cours d'hébreu]]                     | français -> hébreu |
+  | [[https://www.youtube.com/channel/UCNdqOFLn5GbR3N0fYq9g_Yw/about?disable_polymer=1][be ivrit]]                             | français -> hébreu |
+  | [[https://www.youtube.com/user/hebreutube/about?disable_polymer=1][hebreutube]]                           | français -> hébreu |
+  | [[https://www.youtube.com/channel/UC4OMlfV7DUiQhZDbCYdFyEQ/about?disable_polymer=1][Mouvement juif libéral de France]]     | français -> hébreu |
+  | [[https://youtu.be/IJwMGToAy8Q][SosLangues]]                           | français -> hébreu |
+  | [[https://www.youtube.com/playlist?list=PLPTMVg4iw5iiSNzNywhFzNvy1Rzqb2zfo][Apprendre l'hébreu : débutants]]       | français -> hébreu |
+  | [[https://www.youtube.com/channel/UCu4STP5dJvYYIehfLPFo7Qw/about?disable_polymer=1][Hebrew Songs With English Subtitles]]  | english -> hebrew  |
+  | [[https://www.youtube.com/channel/UCn0f2WoHXsUNm-poSBVP8gw/about?disable_polymer=1][Hebrew Movies With English Subtitles]] | english -> hebrew  |
+  | [[https://www.youtube.com/channel/UCBZ304uDHv6mcgcet9C0Qzg][Hebrew Videos with English Subtitles]] | english -> hebrew  |
+  | [[https://www.youtube.com/user/HebrewPod101][Learn Hebrew 101]]                     | english -> hebrew  |
+  | [[https://www.youtube.com/user/dbura1/about?disable_polymer=1][Daniel Ganor]]                         | english -> hebrew  |
+  | [[https://www.youtube.com/playlist?list=PL16EF9FB640E17048][Hebrew Lessons]]                       | english -> hebrew  |
+  | [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAk79lzLBOiDqeDsIaE1zKF8][arabe et hébreu]]                      | arabe et hébreu    |
+  
+  
+
