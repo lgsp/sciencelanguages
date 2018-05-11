@@ -1,0 +1,69 @@
+#+TITLE: Trucs et astuces pour l'épreuve d'allemand au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  | Liens vers le site        | Inscription ? | Téléchargeables ? |
+  |---------------------------+---------------+-------------------|
+  | [[http://www.sujetdebac.fr/annales/serie-s/allemand-lv1/][sujetdebac.fr]] S, ES LV1   | non           | oui               |
+  | [[http://www.sujetdebac.fr/annales/serie-s/allemand-lv2/][sujetdebac.fr]] S, ES LV2   | non           | oui               |
+  | [[https://www.bac-s.net/document/allemand-lve/][bac-s.net]] S, LV1 et LV2   | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2242-Allemand-LV1][bankexam.fr]] S, LV1        | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2543-Allemand-LV2][bankexam.fr]] S, LV2        | oui           | oui               |
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-allemand-lv1-bac-s-96767][studyrama.com]] S, LV1      | non           | non               |
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-allemand-lv2-bac-s-96769][studyrama.com]] S, LV2      | non           | non               |
+
+* Sujets d'annales corrigés bac ES
+
+    | Liens vers le site        | Inscription ? | Téléchargeables ? |
+    |---------------------------+---------------+-------------------|
+    | [[http://www.sujetdebac.fr/annales/serie-s/allemand-lv1/][sujetdebac.fr]] S, ES LV1   | non           | oui               |
+    | [[http://www.sujetdebac.fr/annales/serie-s/allemand-lv2/][sujetdebac.fr]] S, ES LV2   | non           | oui               |
+    | [[https://www.bac-es.net/document/allemand/][bac-es.net]] ES, LV1 et LV2 | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/2241-Allemand-LV1][bankexam.fr]] ES, LV1       | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/50616-Allemand-LV2][bankexam.fr]] ES, LV2       | oui           | oui               |
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-es/sujet-et-corrige-allemand-lv1-bac-es-96801][studyrama.com]] ES, LV1     | non           | non               |
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-es/sujet-et-corrige-allemand-lv2-bac-es-96803][studyrama.com]] ES, LV2     | non           | non               |
+
+* Sujets d'annales corrigés bac L
+
+    | Liens vers le site        | Inscription ? | Téléchargeables ? |
+    |---------------------------+---------------+-------------------|
+    | [[http://www.sujetdebac.fr/annales/serie-l/allemand-lv1/][sujetdebac.fr]] L LV1       | non           | oui               |
+    | [[http://www.sujetdebac.fr/annales/serie-l/allemand-lv2/][sujetdebac.fr]] L LV2       | non           | oui               |
+    | [[https://www.bac-l.net/document/allemand/][bac-l.net]] L, LV1 et LV2   | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2448-Allemand-LV1][bankexam.fr]] L, LV1        | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2486-Allemand-LV2][bankexam.fr]] L, LV2        | oui           | oui               |
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-l/sujet-et-corrige-allemand-lv1-bac-l-96699][studyrama.com]] L, LV1      | non           | non               |
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-l/sujet-et-corrige-allemand-lv2-bac-l-96701][studyrama.com]] L, LV2      | non           | non               |
+
+* Ressources utiles
+
+  | Liens                   | Téléchargeable ?            |
+  |-------------------------+-----------------------------|
+  | [[https://www.ac-paris.fr/portail/jcms/p1_1178221/annales-eca-ac-paris-2015][ac-paris.fr]]             | oui                         |
+  | [[https://www.superprof.fr/blog/epreuve-du-bac-allemand/][superprof.fr]]            | non (conseils)              |
+  | [[https://www.superprof.fr/blog/reussir-bac-langue-allemande/][superprof.fr]]            | non (conseils)              |
+  | [[https://www.letudiant.fr/quiz/bac/allemand.html][letudiant.fr]]            | non (quiz en ligne)         |
+  | [[http://etudiant.lefigaro.fr/bac/revisions-du-bac/terminale-s/allemand/][etudiant.lefigaro.fr]]    | non (fiches en ligne)       |
+  | [[https://fr.bab.la/dictionnaire/francais-allemand/baccalaur%25C3%25A9at][bab.la]]                  | non (dictionnaire en ligne) |
+  | [[http://www2.ac-lyon.fr/enseigne/allemand/spip.php?article10][ac-lyon.fr]]              | oui                         |
+  | [[https://www.ac-paris.fr/portail/jcms/p2_172865/annales-d-examens][ac-paris.fr]]             | oui                         |
+  | [[https://pedagogie.ac-reunion.fr/langues-vivantes-etrangeres/podcaz/banques-son-allemand/podcaz-bac.html][padagogie.ac-reunion.fr]] | oui                         |
+  | [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAliJN9jGwZE2YRsgXDP1MVc][ma-playlist-youtube]]     | non                         |
+
+* Chaînes YouTube en allemand
+
+  | Liens                             | Thématique                |
+  |-----------------------------------+---------------------------|
+  | [[https://www.youtube.com/user/KurzgesagtDE][kurzgesagt]]                        | science, techno, philo    |
+  | [[https://www.youtube.com/user/MeisterLehnsherr][Get Germanized]]                    | english -> deutsch        |
+  | [[https://www.youtube.com/user/DeutschFuerEuch/about?disable_polymer=1][Deutsch für Euch]]                  | english -> deutsch        |
+  | [[https://www.youtube.com/user/MrLAntrim/about?disable_polymer=1][Learn German with Herr Antrim]]     | english -> deutsch        |
+  | [[https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g/about?disable_polymer=1][Learn German with Jenny]]           | english -> deutsch        |
+  | [[https://www.youtube.com/user/sonniaustria/about?disable_polymer=1][Sonja Hubmann]]                     | français -> deutsch       |
+  | [[https://www.youtube.com/user/GoetheInstitutParis/about?disable_polymer=1][Goethe-Institut Frankreich]]        | Institut Goethe en France |
+  | [[https://www.youtube.com/channel/UCNoHs6h5fL2rMDQ7jqFif2w/about?disable_polymer=1][Allemand Malin]]                    | français -> deutsch       |
+  | [[https://www.youtube.com/channel/UCPfFA_OmjxP1GaH4AY_AI_g/about?disable_polymer=1][apprendre le vocabulaire Allemand]] | tout est dans le nom      |
+  | [[https://www.youtube.com/user/germanpod101][Learn German]]                      | english -> deutsch        |
+  
