@@ -1,0 +1,56 @@
+#+TITLE: Trucs et astuces pour l'épreuve de chinois au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  | Liens vers le site   | Inscription ? | Téléchargeables ? |
+  |----------------------+---------------+-------------------|
+  | [[http://www.sujetdebac.fr/annales/serie-s/chinois-lv1/][sujetdebac.fr]] S, LV1 | non           | oui               |
+  | [[http://www.sujetdebac.fr/annales/serie-s/chinois-lv2/][sujetdebac.fr]] S, LV2 | non           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2286-Chinois-LV1][bankexam.Fr]]  S, LV1  | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/6007-Chinois-LV2][bankexam.fr]] S, LV2   | oui           | oui               |
+
+* Sujets d'annales corrigés bac ES
+
+  | Liens vers le site    | Inscription ? | Téléchargeables ? |
+  |-----------------------+---------------+-------------------|
+  | [[http://www.sujetdebac.fr/annales/serie-es/chinois-lv1/2015/][sujetdebac.fr]] ES, LV1 | non           | oui               |
+  | [[http://www.sujetdebac.fr/annales/serie-es/chinois-lv2/2017/][sujetdebac.fr]] ES, LV2 | non           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/2285-Chinois-LV1][bankexam.Fr]] ES, LV1   | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/95833-Chinois-LV2/99611-Chinois-LV2-2016][bankexam.fr]] ES, LV2   | oui           | oui               |
+
+* Sujets d'annales corrigés bac L
+
+  | Liens vers le site   | Inscription ? | Téléchargeables ? |
+  |----------------------+---------------+-------------------|
+  | [[http://www.sujetdebac.fr/annales/serie-l/chinois-lv1/2016/][sujetdebac.fr]] L, LV1 | non           | oui               |
+  | [[http://www.sujetdebac.fr/annales/serie-l/chinois-lv2/][sujetdebac.fr]] L, LV2 | non           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/94518-Chinois-LV1][bankexam.fr]] L, LV1   | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/6006-Chinois-LV2][bankexam.fr]] L, LV2   | oui           | oui               |
+
+* Ressources utiles
+
+  | Liens                  | Téléchargeable ?            |
+  |------------------------+-----------------------------|
+  | [[http://cache.media.eduscol.education.fr/file/LV/34/3/RESS_LGT_cycle_terminal_LV_chinois_sujets_etudes_235343.pdf][eduscol.fr]]             | oui                         |
+  | [[https://sites.google.com/site/moncahierdactivites/cours-de-langues/hanyu/kaoshi][La Classe de Laurianne]] | oui                         |
+  | [[http://www.wordreference.com/][wordreference]]          | non (dictionnaire en ligne) |
+  | [[https://chine.in/mandarin/dictionnaire/][chine.in]]               | non (dictionnaire en ligne) |
+  | [[https://www.youtube.com/watch?v=i_ABgneOQWw&list=PLfKvL-VUSKAm-NfyO82L8iuUfUxWnIqn_][ma-playlist]]            | non                         |
+
+* Chaînes YouTube en chinois
+
+  | Liens                               | Thématique          |
+  |-------------------------------------+---------------------|
+  | [[https://www.youtube.com/user/sigurcamp/about?disable_polymer=1][SIGUR CAMP]]                          | français -> chinois |
+  | [[https://www.youtube.com/channel/UCb1WxDqtR3OuNbZriKf2Ydw/about?disable_polymer=1][Apprendre le chinois]]                | français -> chinois |
+  | [[https://www.youtube.com/user/ParisGoYangNu][Apprendre le chinois c'est facile !]] | français -> chinois |
+  | [[https://www.youtube.com/user/PleinNet/about?disable_polymer=1][Cédric Beau]]                         | français -> chinois |
+  | [[https://www.youtube.com/user/GraspChineseOnline/about?disable_polymer=1][Dani Wang]]                           | english -> chinese  |
+  | [[https://www.youtube.com/channel/UCPS5lOyQ2HfaYgapBV22H0A/about?disable_polymer=1][Learn Chinese with Yi Zhao]]          | english -> chinese  |
+  | [[https://www.youtube.com/user/chineseclass101][Learn Chinese 101]]                   | english -> chinese  |
+  | [[https://www.youtube.com/user/sloppycheng][Yoyo Chinese]]                        | english -> chinese  |
+  
+  
+  
+
