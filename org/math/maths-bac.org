@@ -1,0 +1,76 @@
+#+TITLE: Trucs et astuces pour l'épreuve de maths au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  Tous les sujets d'annales depuis 1999 sont corrigés, disponibles et
+  téléchargeables sur le site de l'APMEP (Association des Professeurs
+  de Mathématiques de l'Enseignement Public) [[https://www.apmep.fr/-Terminale-S-255-sujets-depuis-1999-][www.apmep.fr]]
+
+* Sujets d'annales corrigés bac ES
+
+    Tous les sujets d'annales depuis 2005 sont corrigés, disponibles et
+    téléchargeables sur le site de l'APMEP (Association des Professeurs
+    de Mathématiques de l'Enseignement Public) [[https://www.apmep.fr/-Terminale-ES-327-sujets-tous-][www.apmep.fr]]
+
+* Sujets d'annales corrigés bac L
+
+  | Liens vers le site (non corrigés) | Inscription ? | Téléchargeables ?  |
+  |-----------------------------------+---------------+--------------------|
+  | [[https://www.apmep.fr/-Terminale-L-][apmep]] L                           | non           | oui de 1999 à 2012 |
+  | [[http://www.sujetdebac.fr/annales/serie-l/mathematiques/][sujetdebac.fr]] L                   | non           | oui de 2003 à 2018 |
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-l/sujet-et-corrige-mathematiques-specialite-bac-l-96691][studyrama.com]] L                   | oui           | oui                |
+
+* Ressources utiles
+
+  | Liens                      | Téléchargeable ?    |
+  |----------------------------+---------------------|
+  | [[http://eduscol.education.fr/sti/sites/eduscol.education.fr.sti/files/textes/formations-bac-s-bac-scientifique-profil-sciences-de-lingenieur-specialite-informatique-et-sciences/533-isn-bo-spe8-men-13-10-11.pdf][Programme ISN]] TS           | oui                 |
+  | [[http://eduscol.education.fr/cid60671/ressources-isn.html][Ressources ISN]]             | oui                 |
+  | [[https://csunplugged.org/en/][csunplugged.org]]            | oui                 |
+  | [[https://www.youtube.com/user/csunplugged/about?disable_polymer=1][cs unplugged YT]]            | non                 |
+  | [[http://www.ac-grenoble.fr/disciplines/informatiquelycee/ICN_opt.html][Option ICN]]                 | non                 |
+  | [[https://pixees.fr/]]         | oui                 |
+  | [[https://www.w3schools.com/][W3schools]]                  | non                 |
+  | [[https://www.fun-mooc.fr/courses/inria/41014/session01/about][MOOC ICN]]                   | non                 |
+  | [[https://culturemath.ens.fr/sites/default/files/imagecache/286X266/terminale-ES-L-2012.pdf][culturemath.ens.fr]] TES-L   | oui                 |
+  | [[http://media.education.gouv.fr/file/special_8_men/98/4/mathematiques_S_195984.pdf][media.education.gouv.fr]] TS | oui                 |
+  | [[http://www.maths-et-tiques.fr/index.php/cours-maths/niveau-tale-es-l][m@ths et tiques]] TES-L      | oui (cours et exos) |
+  | [[http://www.maths-et-tiques.fr/index.php/cours-maths/niveau-tale-s][m@ths et tiques]] TS         | oui (cours et exos) |
+  | [[https://www.youtube.com/playlist?list=PLVUDmbpupCar6XK9LBA-8c3NZqPRLtdti][mode-examen]]                | non                 |
+  | [[https://www.youtube.com/playlist?list=PLwWStLtwGECZEFseGhcs5HbbFjbxAcYDm][ma-playlist-bac-S]]          | non                 |
+  | [[https://www.youtube.com/playlist?list=PLwWStLtwGECYu4bxq22GWzmURTViTO2q_][ma-playlist-bac-ES]]-L       | non                 |
+
+* Chaînes YouTube en maths
+
+  | Lien                                 | Langue   |
+  |--------------------------------------+----------|
+  | [[https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/about?disable_polymer=1][Siraj Raval]]                          | anglais  |
+  | [[https://www.youtube.com/user/khanacademy/about?disable_polymer=1][Khan Academy]]                         | anglais  |
+  | [[https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw][3blue1brown]]                          | anglais  |
+  | [[https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg/about?disable_polymer=1][mathologer]]                           | anglais  |
+  | [[https://www.youtube.com/user/numberphile/about?disable_polymer=1][numberphile]]                          | anglais  |
+  | [[https://www.youtube.com/user/Vihart/about?disable_polymer=1][vihart]]                               | anglais  |
+  | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr][Crash Course]]                         | anglais  |
+  | [[https://www.youtube.com/user/standupmaths/about?disable_polymer=1][standupmaths]]                         | anglais  |
+  | [[https://www.youtube.com/user/MindYourDecisions/about?disable_polymer=1][MindYourDecisions]]                    | anglais  |
+  | [[https://www.youtube.com/user/misterwootube/about?disable_polymer=1][Wootube]]                              | anglais  |
+  | [[https://www.youtube.com/channel/UCtoBnL9JM0r_ZVXABGFkCyg/about?disable_polymer=1][Gold Plated Goof]]                     | anglais  |
+  | [[https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g/about?disable_polymer=1][PBS ininite series]]                   | anglais  |
+  | [[https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6][MIT Intro to Probability]]             | anglais  |
+  | [[https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ][MIT Mathematics for Computer Science]] | anglais  |
+  | [[https://www.youtube.com/user/KhanAcademyFrancais][KhanAcademyFrancophone]]               | français |
+  | [[https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A/about?disable_polymer=1][science4all]]                          | français |
+  | [[https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA/about?disable_polymer=1][La statistique expliquée à mon chat]]  | français |
+  | [[https://www.youtube.com/channel/UCgkhWgBGRp0sdFy2MHDWfSg][El Jj]]                                | français |
+  | [[https://www.youtube.com/channel/UChniS87UUJztHrznBFuxx-Q/about?disable_polymer=1][math&Magique]]                         | français |
+  | [[https://www.youtube.com/user/Micmaths/about?disable_polymer=1][micmaths]]                             | français |
+  | [[https://www.youtube.com/user/YMONKA/about?disable_polymer=1][Yvan Monka]]                           | français |
+  | [[https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg/about?disable_polymer=1][Mathrix]]                              | français |
+  | [[https://www.youtube.com/channel/UCo-O74A4qVz6nq5cfCIee6w/about?disable_polymer=1][jaicompris Maths]]                     | français |
+  | [[https://www.youtube.com/channel/UCRt-xGEBfuqA3T_InNW2KUQ/about?disable_polymer=1][AuDi Math]]                            | français |
+  | [[https://www.youtube.com/user/Exo7Math][Exo7Math]]                             | français |
+  | [[https://www.youtube.com/channel/UCjuo-VgUli12Dbo36_eYjCQ][math-sup.fr]]                          | français |
+  
+
+
