@@ -1,0 +1,53 @@
+#+TITLE: Trucs et astuces pour l'épreuve de russe au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  | Liens vers le site      | Inscription ? | Téléchargeables ? |
+  |-------------------------+---------------+-------------------|
+  | [[https://www.bac-s.net/document/russe-lve/][bac-s.net]] S, LV1 et LV2 | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/99133-LV1-Russe][bankexam.fr]] S, LV1      | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2560-Russe-LV2][bankexam.fr]] S, LV2      | oui           | oui               |
+
+* Sujets d'annales corrigés bac ES
+
+  | Liens vers le site       | Inscription ? | Téléchargeables ? |
+  |--------------------------+---------------+-------------------|
+  | [[https://www.bac-es.net/document/russe-lve/][bac-es.net]] ES, LV1 et LV2 | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/2335-Russe-LV1][bankexam.fr]] ES, LV1       | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/4892-Russe-LV2][bankexam.fr]] ES, LV2       | oui           | oui               |
+
+* Sujets d'annales corrigés bac L
+
+  | Liens vers le site      | Inscription ? | Téléchargeables ? |
+  |-------------------------+---------------+-------------------|
+  | [[https://www.bac-l.net/document/russe/][bas-l.net]] L, LV1 et LV2 | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2481-Russe-LV1][bankexam.fr]] L, LV1      | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2517-Russe-LV2][bankexam.fr]] L, LV2      | oui           | oui               |
+
+* Ressources utiles
+
+  | Liens          | Téléchargeable ?            |
+  |----------------+-----------------------------|
+  | [[http://cache.media.eduscol.education.fr/file/LV/13/7/RESS_LGT_cycle_terminal_LV_russe_sujets_etudes_239137.pdf][eduscol.fr]]     | oui                         |
+  | [[http://www.sitac-russe.fr/spip.php?rubrique181][sitac-russe.fr]] | oui                         |
+  | [[http://www.inalco.fr/sites/default/files/asset/document/brochure-russe-licence-llcer-2017-2018_-_2_2i_0.pdf][inalco.fr]]      | oui (orientation)           |
+  | [[https://fr.bab.la/dictionnaire/anglais-russe/baccalaur%25C3%25A9at][bab.la]]         | non (dictionnaire en ligne) |
+  | [[https://www.youtube.com/watch?v=F1ETYb6nfSs&list=PLfKvL-VUSKAk3pvgFvk_aWuHrrB8S7naJ][ma-playlist]]    | non                         |
+
+* Chaînes YouTube en russe
+
+  | Liens                        | Thématique             |
+  |------------------------------+------------------------|
+  | [[https://www.youtube.com/channel/UC3aSpZFaQ17Rn2PdXqxy8YA/about?disable_polymer=1][Le Russe avec une Russe]]      | français -> russe      |
+  | [[https://www.youtube.com/channel/UCmYFWvTSYR7nTUsxGYMowMg/about?disable_polymer=1][Le russe facile avec Dania]]   | français -> russe      |
+  | [[https://www.youtube.com/channel/UCIrta1ZegNYQHsQkD0Lwncw/about?disable_polymer=1][Apprendre le russe avec Ania]] | français -> russe      |
+  | [[https://www.youtube.com/channel/UCTaXX4cH85VNWkyinR2NdLA/about?disable_polymer=1][La Russe de PACA]]             | français -> russe      |
+  | [[https://www.youtube.com/user/Russiefr/about?disable_polymer=1][Russie.fr]]                    | français -> russe      |
+  | [[https://www.youtube.com/channel/UCyJznKYS9kkP7RWWq3YAbFw/about?disable_polymer=1][Real Russian Club]]            | english -> russian     |
+  | [[https://www.youtube.com/channel/UCtMqRKjQcFJoq4TOIdHDiew/about?disable_polymer=1][Be Fluent in Russian]]         | english -> russian     |
+  | [[https://www.youtube.com/user/MrFreeMan0/about?disable_polymer=1][Mr. Freeman]]                  | russian (EN subtitles) |
+  
+  
+
+
