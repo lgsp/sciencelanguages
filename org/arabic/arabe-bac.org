@@ -1,0 +1,61 @@
+#+TITLE: Trucs et astuces pour l'épreuve d'arabe au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  | Liens vers le site             | Inscription ? | Téléchargeables ?    |
+  |--------------------------------+---------------+----------------------|
+  | [[http://www.langue-arabe.fr/sujets-d-examens-d-arabe-annee-2017][langue-arabe.fr]]  S, LV1 et LV2 | non           | oui (pas de corrigé) |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2271-Arabe-LV1][bankexam.fr]] S, LV1             | oui           | oui                  |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/6005-Arabe-LV2][bankexam.fr]] S, LV2             | oui           | oui                  |
+
+* Sujets d'annales corrigés bac ES
+
+  | Liens vers le site             | Inscription ? | Téléchargeables ?    |
+  |--------------------------------+---------------+----------------------|
+  | [[http://www.langue-arabe.fr/sujets-d-examens-d-arabe-annee-2017][langue-arabe.fr]]  S, LV1 et LV2 | non           | oui (pas de corrigé) |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/2272-Arabe-LV1][bankexam.fr]]  ES, LV1           | oui           | oui                  |
+  | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/95795-Arabe-LV2][bankexam.Fr]] ES, LV2            | oui           | oui                  |
+
+* Sujets d'annales corrigés bac L
+
+  | Liens vers le site             | Inscription ? | Téléchargeables ?    |
+  |--------------------------------+---------------+----------------------|
+  | [[http://www.langue-arabe.fr/sujets-d-examens-d-arabe-annee-2017][langue-arabe.fr]]  S, LV1 et LV2 | non           | oui (pas de corrigé) |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/7321-Arabe-LV1][bankexam.fr]]  L, LV1            | oui           | oui                  |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2493-Arabe-LV2][bankexam.fr]]  L, LV2            | oui           | oui                  |
+
+* Ressources utiles
+
+  | Liens             | Téléchargeable ?            |
+  |-------------------+-----------------------------|
+  | [[http://www.langue-arabe.fr/sujets-d-examens][langue-arabe.fr]]   | oui                         |
+  | [[http://cache.media.eduscol.education.fr/file/LV/24/6/RESS_LV_cycle_terminal_arabe_sujets_etude_241246.pdf][eduscol]]           | oui                         |
+  | [[http://www.inalco.fr/departement/etudes-arabes][inalco.fr]]         | non (orientation)           |
+  | [[http://www.inalco.fr/sites/default/files/asset/document/brochure_arabe_litteral_2016-2017-20-09-2016.pdf][inalco.fr]]         | oui (orientation)           |
+  | [[http://www.wordreference.com/][wordreference.com]] | non (dictionnaire en ligne) |
+  | [[https://www.youtube.com/watch?v=EP_Ll4e0u8E&list=PLfKvL-VUSKAl3_Mh9bulAuRqbSR3n5e2D][ma-playlist]]       | non                         |
+
+* Chaînes YouTube en arabe
+
+  | Liens                             | Thématique        |
+  |-----------------------------------+-------------------|
+  | [[https://www.youtube.com/user/TheDawahTV/about?disable_polymer=1][Arabe en ligne]]                    | français -> arabe |
+  | [[https://www.youtube.com/user/MuslimTV33/about?disable_polymer=1][MuslimTV33]]                        | français -> arabe |
+  | [[https://www.youtube.com/user/alwassat29200/about?disable_polymer=1][Pr Rachid Eljay]]                   | français -> arabe |
+  | [[https://www.youtube.com/playlist?list=PL5pi2YEbY64h_v4QpgmzXtQdTQ2dRRK5P][Apprendre l'arabe pour le coran]]   | français -> arabe |
+  | [[https://www.youtube.com/channel/UCjdACS0C6bl3HzF-LNHMpEA/about?disable_polymer=1][L'arabe Facile]]                    | français -> arabe |
+  | [[https://www.youtube.com/channel/UCxbpamOY8s9plQb6VDG-OaQ/about?disable_polymer=1][L'arabe Pas à Pas]]                 | français -> arabe |
+  | [[https://www.youtube.com/user/apprendrelarabe/about?disable_polymer=1][apprendrelarabe]]                   | français -> arabe |
+  | [[https://www.youtube.com/channel/UCnXM9fFnqWUgM5MuIPso9RA/about?disable_polymer=1][Venez apprendre avec loubna]]       | français -> arabe |
+  | [[https://www.youtube.com/user/arabicpod101/about?disable_polymer=1][Learn Arabic 101]]                  | english -> arabic |
+  | [[https://www.youtube.com/playlist?list=PLwOO-vqgFc-qRx7e5cRPQKD5Unc5r8wXm][Spoken Palestinian Arabic Lessons]] | english -> arabic |
+  | [[https://www.youtube.com/playlist?list=PL6CB751D81C7CB539][Conversational Arabic]]             | english -> arabic |
+  | [[https://www.youtube.com/channel/UC0A5REF21kXBkG2KziS76FA/about?disable_polymer=1][Learn With Safaa]]                  | english -> arabic |
+  | [[https://www.youtube.com/user/ArabicAnywhere/about?disable_polymer=1][Arabic anymore]]                    | english -> arabic |
+  | [[https://www.youtube.com/user/LearningMediaArabic/about?disable_polymer=1][Learning Media Arabic]]             | english -> arabic |
+  | [[https://www.youtube.com/user/StepByStepArabic/about?disable_polymer=1][Arabic Mike]]                       | english -> arabic |
+  | [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAk79lzLBOiDqeDsIaE1zKF8][arabe et hébreu]]                   | arabe et hébreu   |
+  
+  
+
