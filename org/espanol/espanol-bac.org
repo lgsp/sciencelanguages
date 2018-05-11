@@ -1,0 +1,62 @@
+#+TITLE: Trucs et astuces pour l'épreuve d'espagnol au bac 
+#+AUTHOR: Laurent Garnier
+
+* Sujets d'annales corrigés bac S
+  
+  | Liens vers le site         | Inscription ? | Téléchargeables ? |
+  |----------------------------+---------------+-------------------|
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-espagnol-lv1-bac-s-96771][studyrama.com]] S, LV1       | non           | non               |
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-espagnol-lv2-bac-s-96773][studyrama.com]] S, LV2       | non           | non               |
+  | [[http://www.sujetdebac.fr/annales/serie-s/espagnol-lv1/][sujetdebac.fr]] S, ES, L LV1 | non           | oui               |
+  | [[http://www.sujetdebac.fr/annales/serie-s/espagnol-lv2/][sujetdebac.fr]] S, ES, L LV2 | non           | oui               |
+  | [[https://www.bac-s.net/document/espagnol/][bac-s.net]] S, LV1 et LV2    | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2290-Espagnol-LV1][bankexam.fr]] S, LV1         | oui           | oui               |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2551-Espagnol-LV2][bankexam.fr]] S, LV2         | oui           | oui               |
+
+* Sujets d'annales corrigés bac ES
+
+    | Liens vers le site         | Inscription ? | Téléchargeables ? |
+    |----------------------------+---------------+-------------------|
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-es/sujet-et-corrige-espagnol-lv1-bac-es-96805][studyrama.com]]  ES, LV1     | non           | non               |
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-es/sujet-et-corrige-espagnol-lv2-bac-es-96807][studyrama.com]] ES, LV2      | non           | non               |
+    | [[http://www.sujetdebac.fr/annales/serie-s/espagnol-lv1/][sujetdebac.fr]] S, ES, L LV1 | non           | oui               |
+    | [[http://www.sujetdebac.fr/annales/serie-s/espagnol-lv2/][sujetdebac.fr]] S, ES, L LV2 | non           | oui               |
+    | [[https://www.bac-es.net/document/espagnol/][bac-es.net]] ES, LV1 et LV2  | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/2289-Espagnol-LV1][bankexam.fr]] ES, LV1        | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2162-Bac-ES/50608-Espagnol-LV2][bankexam.fr]] ES, LV2        | oui           | oui               |
+
+* Sujets d'annales corrigés bac L
+
+    | Liens vers le site       | Inscription ? | Téléchargeables ? |
+    |--------------------------+---------------+-------------------|
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-l/sujet-et-corrige-espagnol-lv1-bac-l-96703][studyrama.com]] L, LV1     | non           | non               |
+    | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-l/sujet-et-corrige-espagnol-lv2-bac-l-96705][studyrama.com]] L, LV2     | non           | non               |
+    | [[http://www.sujetdebac.fr/annales/serie-l/espagnol-lv1/][sujetdebac.fr]] L, LV1     | non           | oui               |
+    | [[http://www.sujetdebac.fr/annales/serie-l/espagnol-lv2/][sujetdebac.fr]] L, LV2     | non           | oui               |
+    | [[https://www.bac-l.net/document/espagnol/][bac-l.net]]  L, LV1 et LV2 | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2462-Espagnol-LV1][bankexam.fr]]  L, LV1      | oui           | oui               |
+    | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2497-Espagnol-LV2][bankexam.fr]]  L, LV2      | oui           | oui               |
+
+* Ressources utiles
+
+  | Liens                | Téléchargeable ?            |
+  |----------------------+-----------------------------|
+  | [[http://cle.ens-lyon.fr/espagnol/se-former/programmes-denseignement/espagnol-programmes-du-cycle-terminal-mythes-et-heros][cle.ens-lyon.fr]]      | non (tout le programme)     |
+  | [[https://www.superprof.fr/blog/contenu-examen-bac-espagnol/][superprof.fr]]         | non (conseils)              |
+  | [[https://www.letudiant.fr/boite-a-docs/document/quizz-de-revision-du-bac-en-espagnol-quizz-n-1-4000.html][letudiant.fr]]         | non (quiz en ligne)         |
+  | [[http://etudiant.lefigaro.fr/bac/revisions-du-bac/terminale-s/espagnol/][etudiant.lefigaro.fr]] | non (fiches en ligne)       |
+  | [[https://fr.bab.la/dictionnaire/francais-espagnol/baccalaur%25C3%25A9at][bab.la]]               | non (dictionnaire en ligne) |
+  | [[https://www.youtube.com/watch?v=VLADJc_tnpw&list=PLfKvL-VUSKAmVyrtWfQcmCjg0M_2UwsXQ][ma-playlist]]          | non                         |
+
+* Chaînes YouTube en espagnol
+
+  | Liens                             | Thématique                  |
+  |-----------------------------------+-----------------------------|
+  | [[https://www.youtube.com/user/TuProponesYoHago/about?disable_polymer=1][PariS Tu Propones Yo Hago]]         | vlogs d'un espagnol à Paris |
+  | [[https://www.youtube.com/user/SpanishStepbyStep/about?disable_polymer=1][Learn Spanish Step by Step]]        | english -> español          |
+  | [[https://www.youtube.com/user/VideosPractiquemos/about?disable_polymer=1][PRACTIQUEMOS by Catalina Moreno]]   | español                     |
+  | [[https://www.youtube.com/user/spanishpod101][Learn Spanish 101]]                 | english -> español          |
+  | [[https://www.youtube.com/channel/UC2ScjpYWHwWVA2j9Qfyij4w/about?disable_polymer=1][Karim Joutet Espagnol pas à pas]]   | français -> español         |
+  | [[https://www.youtube.com/channel/UCfY0B43ZgcN1ELb5e_yn5Kg/about?disable_polymer=1][Holamigo - apprendre l'espagnol]]   | français -> español         |
+  | [[https://www.youtube.com/channel/UCGR2vKl7jpZ52My0K4YbpaQ/about?disable_polymer=1][Pariseando]]                        | español -> français         |
+  
