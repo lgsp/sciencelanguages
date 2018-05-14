@@ -1,0 +1,112 @@
+#+TITLE: Passerelle : du lycée au supérieur
+#+AUTHOR: Laurent Garnier
+
+* Chapitre 1 : mathématique, la science des structures
+** Jour 1 : Structure des nombres : suites, séries et notation sigma
+** Jour 2 : Suites et séries arithmétiques
+** Jour 3 : Suites et séries géométriques
+** Jour 4 : Conjectures et preuves
+** Jour 5 : Induction mathématique
+** Jour 6 : Méthodes de dénombrement
+** Jour 7 : Théorème binomial
+* Chapitre 2 : mathématique comme un langage
+** Jour 8 : Relations et fonctions 
+** Jour 9 : Fonctions particulières et leurs graphes
+** Jour 10 : Opérations avec les fonctions
+** Jour 11 : Transformations de graphes de fonctions
+* Chapitre 3 : Le long voyage des mathématiques
+** Jour 12 : Introduction aux nombres complexes
+** Jour 13 : Opérations avec les nombres complexes
+** Jour 14 : Fonctions polynomiales : graphes et opérations
+** Jour 15 : Équations et inéquations polynomiales
+** Jour 16 : Résolution de systèmes d'équations
+* Chapitre 4 : Modéliser le monde réel 
+** Jour 17 : Limites, continuité et convergence
+** Jour 18 : Dérivation d'une fonction
+** Jour 19 : Règles de dérivation
+** Jour 20 : Exploration des relations entre $f$, $f'$ et $f"$
+** Jour 21 : Applications du calcul différentiel : la cinématique
+** Jour 22 : Applications du calcul différentiel : l'économie
+** Jour 23 : Optimisation et modélisation
+** Jour 24 : Dérivation des fonctions implicites
+** Jour 25 : Taux relatifs
+* Chapitre 5 : Esthétique des mathématiques
+** Jour 26 : Fonctions récurrentes
+** Jour 27 : Propriétés des exposants et logarithmes
+** Jour 28 : Nombre d'Euler et fonctions exponentielles
+** Jour 29 : Invariance et la fonction exponentielle - une approche différente du nombre d'Euler
+** Jour 30 : Logarithmes et bases
+** Jour 31 : Fonctions logarithmes et leur fonctionnement
+** Jour 32 : Dérivation des fonctions exponentielle et logarithme
+** Jour 33 : Angles, arcs et aires
+* Chapitre 6 : Exploration aléatoire
+** Jour 34 : Classification et rerésentation de données statistiques
+** Jour 35 : Mesures de tendance centrale
+** Jour 36 : Mesures de dispersion
+** Jour 37 : Probabilité théorique
+** Jour 38 : Propriété d'une probabilité
+** Jour 39 : Probabilité expérimentale
+** Jour 40 : Probabilité conditionnelle
+** Jour 41 : Événements indépendants
+** Jour 42 : Arbres de probabilité
+** Jour 43 : Théorème de Bayes
+* Chapitre 7 : L'évolution de l'analyse
+** Jour 44 : L'intégration comme l'anti-dérivation
+** Jour 45 : Intégration définie
+** Jour 46 : Signification géométrique de l'intégrale définie
+* Chapitre 8 : Mathématiques anciennes, méthodes modernes
+** Jour 47 : Le triangle rectangle et les rapports trigonométriques 
+** Jour 48 : Le cercle unité et les rapports trigonométriques
+** Jour 49 : Identités d'angles composés
+** Jour 50 : Identités de l'angle double
+** Jour 51 : Graphe des fonctions trigonométriques
+** Jour 52 : Fonctions trigonométriques réciproques
+** Jour 53 : Résolution d'équations trigonométriques
+** Jour 54 : Loi du cosinus
+** Jour 55 : Loi du sinus
+** Jour 56 : Aire d'un triangle
+* Chapitre 9 : La puissance de l'analyse
+** Jour 57 : Dérivation des fonctions trigonométriques
+** Jour 58 : Taux relatifs de modification avec des expressions trigonométriques 
+** Jour 59 : Intégration des fonctions trigonométriques
+** Jour 60 : Intégration par changement de variables
+** Jour 61 : Intégration par parties
+** Jour 62 : Changements de variables particuliers
+** Jour 63 : Applications et modélisation
+* Chapitre 10 : Modélisation aléatoire
+** Jour 64 : Variables aléatoires discrètes et distribution (de probabilité)
+** Jour 65 : Distribution binomiale
+** Jour 66 : Distribution de Poisson
+** Jour 67 : Variables aléatoires continues
+** Jour 68 : Distribution normale
+** Jour 69 : Modélisation et résolution de problème
+* Chapitre 11 : Intuitionisme et formalisme
+** Jour 70 : Vecteur géométrique et opérations de base
+** Jour 71 : Introduction au vecteur algébrique
+** Jour 72 : Vecteurs, points et équations de droites
+** Jour 73 : Produit scalaire
+** Jour 74 : Produit vectoriel et propriétés
+** Jour 75 : Angles, distances et intersections
+** Jour 76 : Modélisation et résolution de problème
+* Chapitre 12 : Perspectives multiples en mathématiques
+** Jour 77 : Nombres complexes en tant que vecteurs
+** Jour 78 : Plan complexe et forme polaire
+** Jour 79 : Opérations avec les nombres complexes sous la forme module-argument
+** Jour 80 : Puissances et racines de nombres complexes : théorème de De Moivre et applications
+** Jour 81 : Connexions mathématiques
+* Chapitre 13 : Exploration
+** Jour 82 : À propos de l'exploration
+** Jour 83 : Critère de l'évaluation interne
+** Jour 84 : Comment l'exploration est-elle évaluée ?
+** Jour 85 : Honnêteté académique
+** Jour 86 : Enregistrement des traces
+** Jour 87 : Choisir un sujet
+** Jour 88 : Commencer
+* Chapitre 14 : Apprentissage antérieur
+** Jour 89 : Nombres
+** Jour 90 : Algèbre
+** Jour 91 : Géométrie
+** Jour 92 : Statistiques
+* Chapitre 15 : Examens d'entraînement
+** Jour 93 : Examen 1
+** Jour 94 : Examen 2
