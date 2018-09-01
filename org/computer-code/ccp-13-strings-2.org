@@ -1,0 +1,49 @@
+#+TITLE: Computer Code Python CCP 13 : les chaînes de caractères, le retour
+#+AUTHOR: Laurent Garnier
+
+* Justification 
+
+  #+BEGIN_SRC python
+    print('Salut'.rjust(10))
+    print('Salut'.rjust(20))
+    print('Salut le monde'.rjust(20))
+    print('Salut'.ljust(10))
+    print('Salut'.rjust(20, '*'))
+    print('Salut'.ljust(20, '-'))
+    print('Salut'.center(20))
+    print('Salut'.center(20, '='))
+  #+END_SRC
+
+* Retrait des espaces
+
+  #+BEGIN_SRC python
+    test = '           Salut le monde         '
+    print(test)
+    print(test.strip())
+    print(test.lstrip())
+    print(test.rstrip())
+  #+END_SRC
+
+* Presse-papier python
+
+  #+BEGIN_SRC python
+    import pyperclip
+    pyperclip.copy('Salut le monde !')
+    print(pyperclip.paste())
+    print(pyperclip.paste())
+  #+END_SRC
+* Bilan
+
+  Nous avons vu dans ce cours :
+  + Comment justifier le texte
+  + Comment retirer des espaces
+  + Comment utiliser le presse-papier
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/uSf0BHnNZJs]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

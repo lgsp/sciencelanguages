@@ -1,0 +1,78 @@
+#+TITLE: Computer Code Python CCP 16 : expressions régulières 3
+#+AUTHOR: Laurent Garnier
+
+* Correspondance optionnelle avec le point d'interrogation
+
+  #+BEGIN_SRC python
+    import re
+
+    batRegex = re.compile(r'Bat(wo)?man')
+
+    mo1 = batRegex.search('The Adventures of Batman')
+    print(mo1.group())
+
+    mo2 = batRegex.search('The Adventures of Batwoman')
+    print(mo2.group())
+
+    phoneRegex = re.compile(r'(\d\d\d-)?\d\d\d-\d\d\d\d')
+
+    mo1 = phoneRegex.search('My american number is 415-555-4242')
+    print(mo1.group())
+
+    mo2 = phoneRegex.search('My american number is 555-4242')
+    print(mo2.group())
+
+
+  #+END_SRC
+
+* Correspondance avec 0 ou plusieurs motifs avec l'étoile
+
+  #+BEGIN_SRC python
+    import re
+
+    batRegex = re.compile(r'Bat(wo)*man')
+
+    mo1 = batRegex.search('The Adventures of Batman')
+    print(mo1.group())
+
+    mo2 = batRegex.search('The Adventures of Batwoman')
+    print(mo2.group())
+
+    mo3 = batRegex.search('The Adventures of Batwowowoman')
+    print(mo3.group())
+
+  #+END_SRC
+* Correspondance avec 1 ou plus avec le +
+
+  #+BEGIN_SRC python
+    import re
+
+    batRegex = re.compile(r'Bat(wo)+man')
+
+    mo1 = batRegex.search('The Adventures of Batman')
+    if mo1 == None:
+	print('No pattern at all!')
+
+    mo2 = batRegex.search('The Adventures of Batwoman')
+    print(mo2.group())
+
+    mo3 = batRegex.search('The Adventures of Batwowowoman')
+    print(mo3.group())
+
+
+  #+END_SRC
+* Bilan
+
+  Nous avons vu dans ce cours :
+  + comment gérer au plus 1 correspondance grâce à ?
+  + comment gérer 0 ou plusieurs correspondances grâce à *
+  + comment gérer au moins 1 correspondance grâce à +
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/EK6CC-HcVm8]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

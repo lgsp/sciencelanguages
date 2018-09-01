@@ -1,0 +1,63 @@
+#+TITLE: Computer Code Python CCP 10 : les types composites 3
+#+AUTHOR: Laurent Garnier
+
+* Référence, le problème
+  
+  #+BEGIN_SRC python
+    crypto = 'btc'
+    print(crypto)
+    btc = 2.5
+    print(btc)
+    eth = btc
+    print(eth)
+    btc += 3
+    print(btc)
+    crypto = [('btc', 2.5), ('eth', 5.5)]
+    money = crypto
+    money[0] = 3.5
+    print(crypto)
+    print(money)
+  #+END_SRC
+* Référence, la solution
+
+  #+BEGIN_SRC python
+    import copy
+    crypto = [('btc', 2.5), ('eth', 5.5)]
+    money = copy.copy(crypto)
+    money[0] = 3.5
+    print(crypto)
+    print(money)
+  #+END_SRC
+* Dictionnaires
+
+  #+BEGIN_SRC python
+    crypto = {'btc': 2.5, 'eth': 4.5, 'ltc': 5}
+    crypto['btc']
+    print("J'ai " + str(crypto['btc']) + "BTC (en vrai NON)")
+    crypto2 = {'eth': 4.5, 'btc': 2.5, 'ltc': 5}
+    if crypto == crypto2:
+	print("Les dicos ne sont pas ordonnés")
+    else:
+	print("Bien sûr qu'ils le sont andouille.")
+    for v in crypto.values():
+	print(v)
+    for k in crypto.keys():
+	print(k)
+    for i in crypto.items():
+	print(i)
+  #+END_SRC
+* Bilan 
+
+  Dans ce cours nous avons vu :
+  + le problème des références avec les listes
+  + la solution au problème des références avec les listes
+  + les dictionnaires
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/ZH2y8ihC_Ro]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

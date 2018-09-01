@@ -1,0 +1,87 @@
+#+TITLE: Computer Code Python CCP 18 : expressions régulières 5
+#+AUTHOR: Laurent Garnier
+
+* Classes de caractère
+
+  | =\d= | N'importe quel chiffre de 0 à 9                    |
+  |      |                                                    |
+  | =\D= | N'importe quel caractère qui n'est pas un chiffre  |
+  |      |                                                    |
+  | =\w= | N'importe quelle lettre, chiffre, ou le =_=        |
+  |      |                                                    |
+  | =\W= | N'importe quel caractère qui n'est pas 1 lettre,   |
+  |      | 1 chiffre, ou le =_=                               |
+  |      |                                                    |
+  | =\s= | N'importe quel espace, tabulation, ou caractère de |
+  |      | nouvelle ligne                                     |
+  |      |                                                    |
+  | =\S= | N'importe quel caractère qui n'est pas 1 espace,   |
+  |      | 1 tabulation, ou 1 nouvelle ligne.                 |
+  |      |                                                    |
+
+* Exemples
+
+  #+BEGIN_SRC python
+    import re
+
+    Regex = re.compile(r'\d+\s\w+')
+    print(Regex.findall('5 oranges, 10 pommes, 7 aubergines, 9 citrons'))
+  #+END_SRC
+* Créer votre propre classe de caractère
+** Premier test
+  #+BEGIN_SRC python
+    import re
+
+    voyelles = re.compile(r'[aeiouyAEIOUY]')
+    print("Attention, 'y' est 1 voyelle en français mais pas en anglais !")
+    print(voyelles.findall('Bonjour apprenti pythonien, que la force soit avec vous'))
+  #+END_SRC
+** Version propre
+  #+BEGIN_SRC python
+    import re
+    import pprint
+
+    voyelles = re.compile(r'[aeiouyAEIOUY]')
+    print("Attention, 'y' est 1 voyelle en français mais pas en anglais !")
+    v = voyelles.findall('Bonjour apprenti pythonien, que la force soit avec vous')
+    print("v est de type : ", type(v))
+    print(v)
+    pprint.pprint(v)
+    v = ' '.join(v)
+    print("v est de type : ", type(v))
+    print(v)
+    pprint.pprint(v)
+  #+END_SRC
+** Et pour les consonnes ?
+
+   #+BEGIN_SRC python
+     import re
+     import pprint
+
+     voyelles = re.compile(r'[^aeiouyAEIOUY]')
+     print("Attention, 'y' est 1 voyelle en français mais pas en anglais !")
+     v = voyelles.findall('Bonjour apprenti pythonien, que la force soit avec vous')
+     print("v est de type : ", type(v))
+     print(v)
+     pprint.pprint(v)
+     v = ' '.join(v)
+     print("v est de type : ", type(v))
+     print(v)
+     pprint.pprint(v)
+
+   #+END_SRC
+* Bilan
+
+  Nous avons vu dans ce cours :
+  + ce que sont les classes de caractères
+  + des exemples d'utilisation
+  + comment créer sa propre classe de caractère
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/uQE-hCqvAZg]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

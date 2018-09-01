@@ -1,0 +1,91 @@
+#+TITLE: Computer Code Python CCP 12 : les chaînes de caractères
+#+AUTHOR: Laurent Garnier
+
+* Caractères d'échappement
+
+  #+BEGIN_SRC python
+    print('J\'ai besoin d\'une contre oblique pour être affiché.')
+    print("\"Moi aussi.\" dit-il.")
+    print('\tEt une petite tabulation, une !')
+    print('Moi je vais\nà la ligne')
+    print('Pour afficher une contre oblique il suffit d\'en mettre 2 \\')
+  #+END_SRC
+
+* Chaînes brutes (raw strings)
+
+  #+BEGIN_SRC python
+    print(r'Si tu veux voir l\'échappement des apostrophes')
+    print(r"Si tu veux voir l\"échappement des apostrophes")
+    print(r'Si tu veux voir la \ttabulation')
+    print(r'Si tu veux voir le passage à la ligne\n')
+    print(r'Si tu veux voir la double contre oblique \\')
+  #+END_SRC
+
+* Chaînes sur plusieurs lignes avec la force triple
+
+  #+BEGIN_SRC python
+    print('''Cher Père Noël,
+
+    Pourrais-tu demander à Mère Noël de mettre des strings ?
+    Oups, je voulais dire des chaînes de caractères.
+    D'habitude on écrit en anglais dans la programmation alors I'm sorry.
+
+    - "Tu es bien insolent pour un grand dadet."
+
+    Espièglement,
+    Laurent''')
+  #+END_SRC
+
+* Commentaires multi-lignes
+
+  #+BEGIN_SRC python
+    """
+    On prend les mêmes et on recommence. 
+    Avec toujours autant de bonne humeur même si ça n'est pas dimanche.
+    """
+
+    def bidule():
+	"""Documentation de bidule avec des trucs"""
+	print("Salut bidule")
+
+    bidule()    
+  #+END_SRC
+
+* Join() et split() sont sur un bateau
+
+  #+BEGIN_SRC python
+    crypto = ', '.join(['btc', 'eth', 'ltc'])
+    print(crypto)
+    bond = ' '.join(['My', 'name', 'is', 'Bond, ', 'James Bond'])
+    print(bond)
+    bond = '007'.join(['My', 'name', 'is', 'Bond, ', 'James Bond'])
+    print(bond)
+    bond = 'My name is Bond, James Bond'.split()
+    print(bond)
+    bond = 'My007name007is007Bond,007James Bond'.split()
+    print(bond)
+    message = '''Je suis à court d'idée pour ce tuto.
+    C'est dommage parce que ça avait l'air intéressant.
+    Ben ouais mais là j'ai pas d'inspiration.
+    Respire un coup ça aide. 
+    Tu serais pas en train d'essayer de faire de l'esprit. 
+    Ouais t'as bien dit essayer.'''
+    print(message)
+    print(message.split())
+  #+END_SRC
+* Bilan
+  Nous avons vu dans ce cours :
+  + Des caractères d'échappement
+  + Comment afficher des chaînes brutes
+  + Comment écrire des chaînes sur plusieurs lignes
+  + Comment écrire des commentaires multi-lignes
+  + Join() et son accolites split()
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/oBX0pAFPCTc]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

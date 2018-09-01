@@ -1,0 +1,71 @@
+#+TITLE: Computer Code Python CCP 07 : les fonctions
+#+AUTHOR: Laurent Garnier
+
+* Exemple minimal sans argument
+
+  #+BEGIN_SRC python
+    def basic():
+	print('Je suis une fonction basique.')
+
+    basic()    
+  #+END_SRC
+
+* Exemple minimal avec 1 argument
+
+  #+BEGIN_SRC python
+    def bonjour(nom):
+	print('Bonjour ' + nom)
+
+    bonjour('Laurent')
+    bonjour(Laurent)
+  #+END_SRC
+
+* Exemple minimal sans argument avec le mot-clé =return=
+
+  #+BEGIN_SRC python
+    def basic():
+	return 'Je suis une fonction basique avec le mot-clé "return".'
+
+    print(type(basic()))
+    print(basic())
+    phrase = basic()
+    print(type(phrase))
+    print(phrase)
+  #+END_SRC
+
+* Exemple minimal avec 1 argument et avec le mot-clé =return=
+
+  #+BEGIN_SRC python
+    def bonjour(nom):
+	return 'Bonjour ' + nom
+
+    print(type(bonjour('Laurent')))
+    print(bonjour('Laurent'))
+    salut = bonjour('Laurent')
+    print(type(salut))
+    print(salut)
+  #+END_SRC
+* Exemple minimal avec 2 arguments et avec le mot-clé =return=
+
+  #+BEGIN_SRC python
+    def add(a, b):
+	return a + b
+
+    print(add(2, 3))
+  #+END_SRC
+* Bilan
+
+  Dans ce cours nous avons vu : 
+  + Comment définir une fonction :
+    + avec ou sans argument
+    + avec ou sans le mot-clé =return=
+  + Comment appeler une fonction
+    + avec ou sans argument
+    + avec ou sans le mot-clé =return=
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : https://youtu.be/XvpgXLQeKO0
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]

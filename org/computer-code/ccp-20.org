@@ -1,0 +1,96 @@
+#+TITLE: Computer Code Python CCP 20 : expressions régulières 7
+#+AUTHOR: Laurent Garnier
+
+* Correspondre des nouvelles lignes avec le caractère =.=
+
+  Le combo =.*= pourra correspondre à tout sauf à une nouvelle
+  ligne. En passant =re.DOTALL= comme second argument de
+  =re.compile()=, vous pourrez faire correspondre le =.= avec /tous/
+  les caractères, incluant le caractère de nouvelle ligne. 
+
+  #+BEGIN_SRC python
+    import re
+
+    noNewlineRegex = re.compile('.*')
+    print(noNewlineRegex.search('Liberté.\nEgalité.\nFraternité.').group())
+
+    print('-' * 30)
+
+    newlineRegex = re.compile('.*', re.DOTALL)
+    print(newlineRegex.search('Liberté.\nEgalité.\nFraternité.').group())
+  #+END_SRC
+
+* Récapitulatif des symboles des regex
+
+  | =?=      | 0 ou 1 occurrence du groupe le précédent                 |
+  | =*=      | 0 ou plusieurs occurrences                               |
+  | =+=      | au moins une occurrence                                  |
+  | ={n}=    | exactement /n/ occurrences                               |
+  | ={n, }=  | /n/ ou plus occurrences                                  |
+  | ={, m}=  | de 0 à /m/ occurrences                                   |
+  | ={n,m}=  | au moins /n/ et au plus /m/ occurrences                  |
+  | =*?=     | version non gloutonne de =*=                             |
+  | =+?=     | version non gloutonne de =+=                             |
+  | ={n,m}?= | version non gloutonne de ={n,m}=                         |
+  | =^test=  | signifie que la chaîne doit commencer par /test/         |
+  | =test$=  | signifie que la chaîne doit finir par /test/             |
+  | =.=      | correspond à n'importe quel caractère (sauf =\n=)        |
+  | =\d=     | correspond à 1 chiffre                                   |
+  | =\w=     | correspond à 1 mot                                       |
+  | =\s=     | correspond à 1 espace                                    |
+  | =\D=     | tout sauf 1 chiffre                                      |
+  | =\W=     | tout sauf 1 mot                                          |
+  | =\S=     | tout sauf 1 espace                                       |
+  | =[abc]=  | correspond à tout caractère entre crochets               |
+  | =[^abc]= | correspond à tout caractère qui n'est pas entre crochets |
+
+* Correspondance sensible à la casse
+
+  Normalement, les regex correspondent au texte avec la casse
+  précisée.  
+
+  #+BEGIN_SRC python
+    import re
+
+    regex1 = re.compile('Bonjour')
+    print(regex1.search('Bonjour les apprentis pythoniens.').group())
+
+    regex2 = re.compile('BONJOUR')
+    if regex2.search('Bonjour les apprentis pythoniens.') == None:
+	print('no match')
+
+    regex3 = re.compile('bonjour')
+    if regex3.search('Bonjour les apprentis pythoniens.')  == None:
+	print('no match')
+  #+END_SRC
+
+  Mais parfois vous voulez simplement la correspondance avec les
+  lettres sans vous soucier de la casse. 
+
+  #+BEGIN_SRC python
+    import re
+
+    regex1 = re.compile('Bonjour', re.I)
+    print(regex1.search('Bonjour les apprentis pythoniens.').group())
+
+    regex2 = re.compile('BONJOUR', re.IGNORECASE)
+    print(regex2.search('Bonjour les apprentis pythoniens.').group())
+
+    regex3 = re.compile('bonjour', re.I)
+    print(regex3.search('Bonjour les apprentis pythoniens.').group())
+  #+END_SRC
+* Bilan
+
+  Nous avons vu dans ce cours :
+  + Comment correspondre des nouvelles lignes avec le caractère =.=
+  + Un récapitulatif des symboles des regex
+  + La gestion de la casse
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/dWCDBc-rH_o]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

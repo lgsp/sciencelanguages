@@ -1,0 +1,73 @@
+#+TITLE: Computer Code Python CCP 04 : les booléens et les conditions
+#+AUTHOR: Laurent Garnier
+
+* Les booléens
+
+  #+BEGIN_SRC python
+    2 == 2
+    'hello' == 'Hello'
+    2 != 2
+    'hello' != 'Hello'
+    2 < 3
+    'hello' < 'Hello'
+    2 > 3
+    3 > 2
+    2 <= 1
+    2 <= 3
+    2 >= 3
+    3 >= 2
+  #+END_SRC
+
+* Les opérateurs booléens
+
+  #+BEGIN_SRC python
+    True and True
+    True and False
+    False and True
+    False and False
+    True or True
+    True or False
+    False or True
+    False or False
+    not True
+    not False
+  #+END_SRC
+
+* Mélange
+
+  #+BEGIN_SRC python
+    ('hello' == 'Hello') and (2 < 3)
+    ('hello' == 'Hello') or (2 < 3)
+    not ('hello' == 'Hello') and (2 < 3)
+    not ('hello' == 'Hello') or (2 < 3)
+    not ( ('hello' == 'Hello') and (2 < 3) )
+  #+END_SRC
+
+* Conditions 
+
+  #+BEGIN_SRC python
+    age = int(input('Entrez votre age : '))
+    if age < 15:
+	print("Vous n'avez pas la majorité sexuelle en France.")
+    elif age < 18:
+	print("Vous n'avez pas la majorité légale en France.")
+    else:
+	print('Vous êtes majeur en France.")
+  #+END_SRC
+
+* Bilan
+
+  Nous avons vu ensemble dans ce cours :
+  + La comparaison entre les booléens
+  + Les opérateurs booléens
+  + Le mélange des deux
+  + La structure conditionnelle
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/LdNJ_fEr6fk]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

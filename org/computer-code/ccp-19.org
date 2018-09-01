@@ -1,0 +1,105 @@
+#+TITLE: Computer Code Python CCP 19 : expressions régulières 6
+#+AUTHOR: Laurent Garnier
+
+* Le symbole =$= et le symbole =^=
+
+  Le symbole =^= au début d'une regex indique que la correspondance
+  doit se produire au début du texte cherché. 
+
+  De la même façon, vous pouvez mettre un symbole =$= à la fin de la
+  regex pour indiquer que la chaîne doit finir avec cette regex.
+
+  #+BEGIN_SRC python
+    import re
+
+    startWithWhy = re.compile(r'^Why')
+    print(startWithWhy.search('Why are you learning Python?'))
+    if startWithWhy.search('Do you know why?') == None:
+	print("There is no 'Why' at the beginning!")
+  #+END_SRC
+
+  La regex =r'\d$'= correspond aux chaînes finissant avec un chiffre.
+
+  #+BEGIN_SRC python
+    import re
+    finishWithDigit = re.compile(r'\d$')
+    print(finishWithDigit.search('We are in 2018'))
+    if finishWithDigit.search('You are twenty one') == None:
+	print('There is no digit')
+  #+END_SRC
+  
+  La regex =r'^\d+$'= correspond aux chaînes qui commencent et
+  finissent par un nombre.
+
+  #+BEGIN_SRC python
+    import re
+
+    onlyNumbers = re.compile(r'^\d+$')
+    print(onlyNumbers.search('1234567890'))
+    if onlyNumbers.search('12345xyz67890') == None:
+	print('There are others characters, not only numbers')
+    if onlyNumbers.search('12 34567890') == None:
+	print("A space is a character, and it's not a digit")
+  #+END_SRC
+
+* Le joker
+
+  Le =.= dans une regex est appelé joker et peut correspondre à
+  n'importe quel caractère sauf une nouvelle ligne.
+
+  #+BEGIN_SRC python
+    import re
+
+    atRegex = re.compile(r'.at')
+    print(atRegex.findall('The fat cat in the hat sat on the flat mat.'))
+    paraRegex = re.compile(r'para.')
+    para = """
+    Les jeux paraolympiques sous la pluie nécessitent des parapluies, 
+    des parachutes et/ou des parapentes et beaucoup de parapharmacie 
+    pour les paraplégiques.
+    Et un paratonnerre évitera de se faire paralyser les systèmes
+    parasympathique animé par des paraboles pleines de paramètres.
+    """
+    print(paraRegex.findall(para))
+  #+END_SRC
+
+* Le duo de choc
+
+  #+BEGIN_SRC python
+    import re
+
+    nameRegex = re.compile(r'First Name: (.*) Last Name: (.*)')
+    mo = nameRegex.search('First Name: James Last Name: Bond')
+    print(mo.group(1))
+    print(mo.group(2))
+  #+END_SRC
+
+  Par défaut le combo =.*= est en mode glouton.
+
+  #+BEGIN_SRC python
+    import re
+
+    nongreedyRegex = re.compile(r'<.*?>')
+    mo = nongreedyRegex.search('<To serve man> for dinner.>')
+    print(mo.group())
+
+    greedyRegex = re.compile(r'<.*>')
+    mo = greedyRegex.search('<To serve man> for dinner.>')
+    print(mo.group())
+  #+END_SRC
+* Bilan
+
+  Nous avons vu dans ce cours :
+  + comment chercher une regex en début ou en fin de chaîne de caractère
+  + comment utiliser le joker
+  + comment combiner le joker avec la répétition multiple pour
+    chercher n'importe quel chaîne de caractères
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/CuQcxekozdA]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

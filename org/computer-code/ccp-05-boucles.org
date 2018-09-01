@@ -1,0 +1,148 @@
+#+TITLE: Computer Code Python CCP 05 : boucles
+#+AUTHOR: Laurent Garnier
+
+
+* Boucle while
+
+  #+BEGIN_SRC python
+    number = 0
+    while number < 10:
+	print(number)
+	number += 1
+  #+END_SRC
+
+* Exercice
+
+  #+BEGIN_SRC python
+    btc_price = 6000
+    while btc_price < 10000:
+	print('Inutile de vendre ses bitcoins.')
+	btc_price += 1000
+    print(btc_price)
+  #+END_SRC
+
+  Que fait ce programme ?
+
+* Break
+
+  #+BEGIN_SRC python
+    while True:
+	print('Menu')
+	print('1: Entrer votre prénom')
+	print('2: Entrer votre âge')
+	print('q: Quitter')
+	choix = input('Votre choix : ')
+	if choix == '1':
+	    prenom = input('Saisir votre prénom : ')
+	elif choix == '2':
+	    age = int(input('Saisir votre âge : '))
+	elif choix == 'q':
+	    break # on sort de la boucle
+	else:
+	    print("Vous n'avez pas entré l'un des choix du menu.")
+  #+END_SRC
+
+* Continue
+
+  #+BEGIN_SRC python
+    while True:
+	print('Quel est votre langage de programmation favori ?')
+	nom = input()
+	if nom != 'Python':
+	    continue
+	print('Et oui ! Python est le meilleur langage de programmation !')
+	version = int(input('Quelle version utilisez-vous ? '))
+	if version == 3:
+	    break
+	else:
+	    print('Il faut vous mettre à jour !')
+  #+END_SRC
+
+* La boucle for
+
+  #+BEGIN_SRC python
+    for i in range(10):
+	print(i)
+
+    for letter in 'hello':
+	print(letter)
+  #+END_SRC
+
+* Break et continue avec la boucle for
+
+  #+BEGIN_SRC python
+    for i in range(10):
+	print(i)
+	if i > 5:
+	    break
+
+    for i in range(10):
+	print(i)
+	if i < 5:
+	    continue
+  #+END_SRC
+
+* Manipuler le mot-clé =range()= [1/3]
+
+  #+BEGIN_SRC python
+    for i in range(0, 10):
+	print(i)
+
+    for i in range(1, 10):
+	print(i)
+
+    for i in range(2, 10):
+	print(i)
+
+    for i in range(3, 10):
+	print(i)
+  #+END_SRC
+
+* Manipuler le mot-clé =range()= [2/3]
+
+    #+BEGIN_SRC python
+      for i in range(0, 10, 2):
+	  print(i)
+
+      for i in range(1, 10, 3):
+	  print(i)
+
+      for i in range(2, 10, 4):
+	  print(i)
+
+      for i in range(3, 10, 5):
+	  print(i)
+    #+END_SRC
+
+* Manipuler le mot-clé =range()= [3/3]
+
+  #+BEGIN_SRC python
+    for i in range(10, 0, -1):
+	print(i)
+
+    for i in range(10, 1, -2):
+	print(i)
+
+    for i in range(10, 2, -3):
+	print(i)
+
+    for i in range(10, 3, -4):
+	print(i)
+  #+END_SRC
+
+* Bilan
+
+  Nous avons vu ensemble dans ce cours :
+  + Comment écrire une boucle while
+  + Comment écrire utiliser les mots-clés =break= et =continue=
+  + Comment écrire une boucle for 
+  + Comment utiliser le mot-clé =range()=
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/itG6S_f3bfk]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

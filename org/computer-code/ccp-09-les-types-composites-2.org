@@ -1,0 +1,85 @@
+#+TITLE: Computer Code Python CCP 09 : les types composites 2
+#+AUTHOR: Laurent Garnier
+
+* L'affectation parallèle
+
+  #+BEGIN_SRC python
+    btc = ['premier', 'plus gros réseau', 'plus gros volume']
+    anciennete = btc[0]
+    reseau = btc[1]
+    volume = btc[2]
+    print("La même chose en 2 lignes")
+    btc = ['premier', 'plus gros réseau', 'plus gros volume']
+    anciennete, reseau, volume = btc
+    c1, c2 = 'btc', 'eth'
+    print("c1 =", c1, "c2 =", c2)
+    c2, c1 = c1, c2
+    print("c1 =", c1, "c2 =", c2)
+  #+END_SRC
+
+* Insertion et ajout d'éléments
+
+  #+BEGIN_SRC python
+    ma_liste = []
+    ma_liste.append('elt1')
+    ma_liste.append(2)
+    ma_liste.append(True)
+    print(ma_liste)
+    ma_liste.insert(0, 'elt0')
+    ma_liste.insert(2, 3)
+    print(ma_liste)
+  #+END_SRC
+
+* Enlever des éléments
+  
+  #+BEGIN_SRC python
+    PoW = ['Bitcoin', 'Komodo', 'Zcash', 'Bitcoin', 'Monero', 'Ethereum']
+    PoW.remove('Bitcoin')
+    print(PoW)
+    del PoW[3]
+    print(PoW)
+  #+END_SRC
+
+* Trier des éléments
+  
+  #+BEGIN_SRC python
+    nombres = [2, 4.5, -9, 5.75, 7, 6]
+    nombres.sort()
+    print(nombres)
+    nombres.sort(reverse=True)
+    print(nombres)
+    crypto = ['Bitcoin', 'Litecoin', 'Ethereum']
+    crypto.sort()
+    print(crypto)
+    lettres = ['a', 'b', 'A', 'B']
+    lettres.sort(key=str.lower)
+    print(lettres)
+  #+END_SRC
+* C'est la fête du string
+
+  #+BEGIN_SRC python
+    name = 'Python'
+    for i in name:
+	print('*** ' + i + ' ***')
+    print(name[1:4])
+    fish = name[2:]
+    volcan = 'Le ' + name + ' de la fournaise est un volcan à la Réunion.'
+    blague = 'Le ' + fish.upper() + " n'est pas seulement un poisson, ça peut être aussi un poison."
+  #+END_SRC
+* Bilan
+
+  Dans ce cours on a vu :
+  + l'affectation parallèle
+  + l'ajout et l'insertion d'éléments dans une liste
+  + comment enlever des éléments
+  + comment trier des éléments
+  + comment faire mumuse avec les strings
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/5w0Gq7JpCH0]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

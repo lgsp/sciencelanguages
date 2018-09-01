@@ -1,0 +1,64 @@
+#+TITLE: Computer Code Python CCP 17 : expressions régulières 4
+#+AUTHOR: Laurent Garnier
+
+* Correspondance avec un nombre précis de répétitions
+
+  #+BEGIN_SRC python
+    import re
+
+    mouhaRegex = re.compile(r'mou(Ha){4}')
+
+    mo1 = mouhaRegex.search('mouHaHaHaHa')
+    print(mo1.group())
+
+    mo2 = mouhaRegex.search('mouHaHa')
+    if mo2 == None:
+	print('Pattern not found')
+  #+END_SRC
+  
+* Correspondance gloutonne et non gloutonne
+
+  #+BEGIN_SRC python
+    import re
+
+    greedyHaRegex = re.compile(r'(Ha){3,5}')
+
+    mo1 = greedyHaRegex.search('HaHaHaHaHa')
+    print(mo1.group())
+
+    nonGreedyHaRegex = re.compile(r'(Ha){3,5}?')
+    mo2 = nonGreedyHaRegex.search('HaHaHaHaHa')
+    print(mo2.group())
+  #+END_SRC
+
+* La méthode =findall()=
+
+  #+BEGIN_SRC python
+    import re
+
+    phoneRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
+
+    mo = phoneRegex.search('Cell: 415-555-9999 Work: 212-555-0000')
+    print(mo.group())
+
+    print(phoneRegex.findall('Cell: 415-555-9999 Work: 212-555-0000'))
+
+    phoneRegex = re.compile(r'(\d\d\d)-(\d\d\d)-(\d\d\d\d)')
+    print(phoneRegex.findall('Cell: 415-555-9999 Work: 212-555-0000'))
+  #+END_SRC
+* Bilan
+
+  Nous avons vu dans ce cours :
+  + comment gérer un nombre spécifique de répétition
+  + comment gérer la correspondance gloutonne et non gloutonne
+  + comment utiliser la méthode =findall()=
+
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/AXdshpAKIQM]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

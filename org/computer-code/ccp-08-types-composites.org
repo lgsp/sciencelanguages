@@ -1,0 +1,101 @@
+#+TITLE: Computer Code Python CCP 08 : les types composites 1
+#+AUTHOR: Laurent Garnier
+
+* Les listes
+
+  #+BEGIN_SRC python
+    cryptos_cash = ['Litecoin', 'Peercoin', 'Dash', 'Zcash', 'Monero']
+    print("Nombre de cryptos dispos : ", len(cryptos_cash))
+    print("Acceptes-tu d'être payé en crypto ?")
+    payed = input()
+    if payed == 'Oui':
+	for crypto in cryptos_cash:
+	    print("J'accepte d'être payé en " + crypto)
+    cryptos_cash.append('Komodo')
+    print("Nombre de cryptos dispos : ", len(cryptos_cash))
+    print("Acceptes-tu de payer en crypto ?")
+    pay = input()
+    if pay == 'Oui':
+	for crypto in cryptos_cash:
+	    print("J'accepte de payer avec du " + crypto)
+    print("À toi de nous dire quel est ton top 3 des cryptos.")    
+    famous = []
+    i = 0      
+    while i < 3:
+	  print("Selon toi, quelle est la crypto n°" + str(i + 1) + " ?")
+	  famous.append(input())
+	  i += 1
+    print("Ton top 3 des cryptos :")
+    for crypto in famous:
+	  print("Crypto n°" + str(famous.index(crypto) + 1) + ' ' + crypto)
+  #+END_SRC
+
+* Les tuples
+
+  #+BEGIN_SRC python
+    my_id = ('Laurent', 35)
+    print("Mon prénom est " + my_id[0])
+    print("J'ai " + str(my_id[1]) + " ans.")
+    print("Et toi ?")
+    name = input("Quel est ton prénom ? ")
+    age = int(input("Quel est ton âge ? "))
+    your_id = (name, age)
+    list_of_ids = [my_id, your_id]
+    print("Ton identité :", list_of_ids[1])
+    print("Tu t'appelles " + list_of_ids[1][0])
+    print("Tu as " + str(list_of_ids[1][1]) + " ans.")
+    print(list_of_ids)
+  #+END_SRC
+* Opérations communes [1/2]
+
+  #+BEGIN_SRC python
+    prog_lang = ['Python', 'Ruby', 'Swift', 'C', 'JS', 'LaTeX']
+    year_of_birth = (1991, 1995, 2014, 1970, 1995, 1984)
+    print("Longueur de la liste : " + str(len(prog_lang)))
+    print("Longueur du tuple :", len(year_of_birth))
+    print("Dernier élément de la liste :", prog_lang[-1])
+    print("Dernier élément du tuple : " + str(year_of_birth[-1]))
+    print("Extrait de la liste")
+    a = int(input("Indice de début : "))
+    b = int(input("Indice de fin : "))
+    print(prog_lang[a:b])
+    print("Extrait du tuple")
+    c = int(input("Indice de début : "))
+    d = int(input("Indice de fin : "))
+    print(year_of_birth[c:d])
+  #+END_SRC
+* Opérations communes [2/2]
+
+  #+BEGIN_SRC python
+    print("Avec les listes")
+    if ('abj' in ['atom', 'ppc', 'abj', 'xap']):
+	print('abj est dans ma liste de crypto PoS')
+    print("Allez voir https://www.poslist.org/ pour plus de détails sur les cryptos PoS")
+    pos = ['atom', 'ppc', 'abj', 'xap']
+    if ('xem' not in pos):
+	print("xem n'est pas 1 crypto PoS mais PoI")
+	print("Inscrivez-vous à la formation CDBSSR pour en savoir plus sur les types de consensus")
+	print("Dans le monde des cryptos il n'y a pas que la PoW et la PoS...")
+    print("Presque la même avec les tuples")
+    pos = tuple(pos)
+    print("Entrer un nom de crypto PoS :")
+    crypto = input()
+    if crypto not in pos:
+	print(crypto + " n'est pas dans mon tuple")
+    else:
+	print("J'ai bien " + crypto + " dans mon tuple")
+  #+END_SRC
+* Bilan
+  Dans ce cours on a vu :
+  + ce que sont les listes
+  + ce que sont les tuples
+  + quelques opérations communes
+
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/j-QnmjbSMfo]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Code HTML généré grâce au package GNU Emacs disponible ici : [[https://github.com/marsmining/ox-twbs]]

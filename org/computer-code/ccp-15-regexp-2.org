@@ -1,0 +1,70 @@
+#+TITLE: Computer Code Python CCP 15 : expressions régulières 2
+#+AUTHOR: Laurent Garnier
+
+
+* Poursuivons avec nos regex
+
+  #+BEGIN_SRC python
+    import re
+
+    phoneNumRegex = re.compile(r'(\d\d\d)-(\d\d\d-\d\d\d\d)')
+    mo = phoneNumRegex.search('My american number is 415-555-4242.') # match object
+    print('Groupe 1 : ', mo.group(1))
+    print('Groupe 2 : ', mo.group(2))
+    print('Groupe 0 : ', mo.group(0))
+    print(mo.group())
+    print(mo.groups())
+    areaCode, mainNumber = mo.groups()
+    print('area code:', areaCode)
+    print('main number:', mainNumber)
+  #+END_SRC
+* Once again
+
+  #+BEGIN_SRC python
+    import re
+
+    phoneNumRegex = re.compile(r'(\(\d\d\d\))-(\d\d\d-\d\d\d\d)') # échappement des parenthèses de l'area code
+    mo = phoneNumRegex.search('My american number is (415)-555-4242.') # match object
+    print('Groupe 1 : ', mo.group(1))
+    print('Groupe 2 : ', mo.group(2))
+    print('Groupe 0 : ', mo.group(0))
+    print(mo.group())
+    print(mo.groups())
+    areaCode, mainNumber = mo.groups()
+    print('area code:', areaCode)
+    print('main number:', mainNumber)
+
+  #+END_SRC
+* Correspondance avec plusieurs groupes avec la pipe
+
+  #+BEGIN_SRC python
+    import re
+
+    heroRegex = re.compile(r'Batman|Tina Fey')
+
+    mo1 = heroRegex.search('Batman and Tina Fey.')
+    print('mo1:', mo1.group())
+
+    mo2 = heroRegex.search('Tina Fey and Batman.')
+    print('mo2:', mo2.group())
+
+    batRegex = re.compile(r'Bat(man|mobile|copter|bat)')
+    mo = batRegex.search('Batmobile lost a wheel')
+    print(mo.group())
+    print(mo.group(1))
+  #+END_SRC
+* Bilan
+
+  Dans ce cours nous avons vu :
+  + les méthodes =group()= et =groups()=
+  + comment gérer les caractères spéciaux
+  + comment gérer plusieurs correspondances avec la pipe
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/CX0uX3qhUEc]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

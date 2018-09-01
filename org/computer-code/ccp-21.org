@@ -1,0 +1,92 @@
+#+TITLE: Computer Code Python CCP 21 : expressions régulières 8
+#+AUTHOR: Laurent Garnier
+
+* Substitution de chaînes de caractères avec la méthode =sub()=
+
+  Les expressions régulières ne permettent pas seulement de retrouver
+  des motifs de texte mais permettent aussi de substituer ces motifs
+  de texte par d'autres.
+
+  #+BEGIN_SRC python
+    import re
+
+    namesRegex = re.compile(r'Agent \w+')
+    new = namesRegex.sub('CENSORED', 'Agent Alice gave the secret documents to Agent Bob.')
+    print(new)
+  #+END_SRC
+
+  Parfois vous pouvez avoir besoin d'utiliser le texte correspondant
+  en tant que partie de substitution.
+
+  #+BEGIN_SRC python
+    import re
+
+    agentNamesRegex = re.compile(r'Agent (\w)\w*')
+    a = agentNamesRegex.sub(r'\1****', 'Agent Alice told Agent Carol that Agent Eve know Agent Bob was a double agent.')
+    print(a)
+  #+END_SRC
+
+* Gestion de regex complexes
+  Les expressions régulières sont bien si le motif de texte est
+  simple. Mais correspondre avec des motifs compliqués peut nécessiter
+  de longues expressions. On peut arranger ça en utilisant le verbose
+  mode.
+
+  #+BEGIN_SRC python
+    import re
+
+    # Version illisible
+    phoneRegex = re.compile(r'((\d{3}|\(\d{3}\))?(\s|-|\.)?\d{3}(\s|-|\.)\d{4}(\s*(ext|x|ext.)\s*\d{2,5})?)')
+    a = phoneRegex.sub(r'\1***', '(415)-555-4242')
+    print(a)
+
+    # Version plus pratique
+    phoneRegex = re.compile(r'''(
+	(\d{3}|\(\d{3}\))?            # area code
+	(\s|-|\.)?                    # separator
+	\d{3}                         # first 3 digits
+	(\s|-|\.)                     # separator
+	\d{4}                         # last 4 digits
+	(\s*(ext|x|ext.)\s*\d{2,5})?  # extension
+	)''', re.VERBOSE)
+    b = phoneRegex.sub(r'\2***', '(415)-555-4242')
+    print(b)
+  #+END_SRC
+* Le trio de choc
+  Comment faire si vous voulez utiliser =re.VERBOSE= pour écrire des
+  commentaires dans vos regex et que vous voulez utiliser
+  =re.IGNORECASE= ? Malheureusement, la fonction =re.compile()= prend
+  seulement une seule valeur comme second argument. Vous pouvez
+  dépasser cette limite pour combiner =re.IGNORECASE=, =re.DOTALL= et
+  =re.VERBOSE= avec le =|=.
+
+  #+BEGIN_SRC python
+    import re
+
+    someRegexValue = re.compile('foo', re.IGNORECASE | re.DOTALL)
+    phraseTest = "Souvent en informatique les gens utilise la chaîne 'foo'."
+    a = someRegexValue.search(phraseTest).group()
+    print(a)
+
+    print('-' * 30)
+
+    someRegexValue = re.compile('foo', re.IGNORECASE | re.DOTALL | re.VERBOSE)
+    print(a)
+  #+END_SRC
+* Bilan
+  Nous avons vu dans ce cours :
+  + comment substituer des chaînes de caractères avec les regex
+  + comment gérer les regex complexes
+  + comment combiner les argument de =re.compile()= avec le =|=
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/dWCDBc-rH_o]] et un site sur
+    les regex : [[https://regexcrossword.com]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]
+
+

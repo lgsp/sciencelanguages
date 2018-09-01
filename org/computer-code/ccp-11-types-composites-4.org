@@ -1,0 +1,70 @@
+#+TITLE: Computer Code Python CCP 11 : les types composites 4
+#+AUTHOR: Laurent Garnier
+
+* Modification des éléments d'un dictionnaire
+
+  #+BEGIN_SRC python
+    dico = {'nom': 'Jeannot', 'year': 2018, 'pages': 3000}
+    print(dico.keys())
+    print(type(dico.keys()))
+    print(list(dico.keys))
+    for k, v in dico.items():
+	print(('Key: ' + k + ' Value: ' + str(v))
+  #+END_SRC
+
+* Vérifier si une clé ou une valeur existe dans un dictionnaire
+
+  #+BEGIN_SRC python
+    crypto = {'btc': 'PoW', 'ppc': 'PoS', 'lsk': 'DPoS', 'xem': 'PoI'}
+    if 'btc' in crypto.keys():
+	print("btc est une des clés")
+    if 'PoS' in crypto.values():
+	print("PoS est une des valeurs")
+    wallet = {'btc': 2.5, 'eth': 4.5, 'ltc': 3}
+    print("Dans mon portefeuille j'ai " + str(wallet.get('btc', 0)) + ' btc.')
+    print("Dans mon portefeuille j'ai " + str(wallet.get('bch', 0)) + ' bch.')
+    wallet.setdefault('bch', 1.5)
+    print("Dans mon portefeuille j'ai " + str(wallet.get('bch', 0)) + ' bch.')
+  #+END_SRC
+
+* Comptons les caractères
+
+  #+BEGIN_SRC python
+    message = "Je m'intéresse aux cryptos comme outils d'usage parce que je crois en ces technologies et non comme actifs financiers parce que je n'ai pas de formation de trader et que c'est trop volatile."
+    count = {}
+
+    for character in message:
+	count.setdefault(character, 0)
+	count[character] += 1
+    print(count)
+  #+END_SRC
+
+* Version jolie
+
+  #+BEGIN_SRC python
+    import pprint
+
+    message = "Je m'intéresse aux cryptos comme outils d'usage parce que je crois en ces technologies et non comme actifs financiers parce que je n'ai pas de formation de trader et que c'est trop volatile."
+    count = {}
+
+    for character in message:
+	count.setdefault(character, 0)
+	count[character] += 1
+    pprint.pprint(count)
+  #+END_SRC
+* Bilan
+
+  Nous avons vu dans ce cours :
+  + comment modifier les éléments des dictionnaires avec des boucles
+  + comment vérifier si une clé ou valeur existe et comment les
+    paramétrer par défaut
+  + comment compter les caractères et comment les afficher joliement
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/O_bR8pHWoio]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]

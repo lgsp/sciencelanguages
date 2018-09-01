@@ -1,0 +1,62 @@
+#+TITLE: Computer Code Python CCP 06 : les modules
+#+AUTHOR: Laurent Garnier
+
+* Importation du module random
+
+  #+BEGIN_SRC python
+    import random
+    for i in range(20):
+	print(random.randint(1, 10))
+
+    from random import *
+    for i in range(20):
+	print(randint(1, 10))
+  #+END_SRC
+
+* Importation du module math 
+
+  #+BEGIN_SRC python
+    import math 
+    phi = (1 + math.sqrt(5)) / 2
+    print(phi)
+    print(math.pi)
+
+    from math import *
+    phi = (1 + sqrt(5)) / 2
+    print(phi)
+    print(pi)
+  #+END_SRC
+
+* Importation du module sys
+
+  #+BEGIN_SRC python
+    import sys
+    while True:
+	print('Taper "exit" pour sortir.')
+	reponse = input()
+	if reponse == 'exit':
+	    sys.exit()
+	print('Vous avez tapé ' + reponse + '.')
+
+    from sys import *
+    while True:
+	print('Taper "exit" pour sortir.')
+	reponse = input()
+	if reponse == 'exit':
+	    exit()
+	print('Vous avez tapé ' + reponse + '.')    
+  #+END_SRC
+* Bilan
+
+  Dans ce cours nous avons vu :
+  + 3 exemples de modules =random=, =math= et =sys=
+  + 2 façons pour importer un module
+* Pour aller plus loin
+
+  + La vidéo sur YouTube : [[https://youtu.be/XQ6A6xhUqp4]]
+  + La formation pour apprendre à coder une blockchain avec Python :
+    [[https://glmp.systeme.io/acbp][ACBP]]
+  + La formation pour découvrir les technologies blockchain : [[https://glmp.systeme.io/cdbssr][CDBSSR]]
+  + La formation pour devenir full stack developer : [[https://glmp.systeme.io/fsd][FSD]]
+  + Le pack avec un paiement en 10 fois :
+    [[https://glmp.systeme.io/pack-3-formations-10-fois]]
