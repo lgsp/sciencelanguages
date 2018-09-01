@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<title>Computer Code Python CCP 08 : les types composites 1</title>
+<!-- 2018-09-01 Sat 15:47 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Org-mode">
+<meta name="author" content="Laurent Garnier">
+
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style type="text/css">
+/* org mode styles on top of twbs */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-size: 18px;
+    margin-bottom: 105px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 101px;
+    background-color: #f5f5f5;
+}
+
+footer > div {
+    padding: 10px;
+}
+
+footer p {
+    margin: 0 0 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#table-of-contents {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    font-size: 18px;
+}
+
+pre {
+    font-size: 16px;
+}
+
+.footpara {
+    display: inline-block;
+}
+
+figcaption {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  padding-bottom: 15px;
+}
+
+/* from twbs docs */
+
+.bs-docs-sidebar.affix {
+    position: static;
+}
+@media (min-width: 768px) {
+    .bs-docs-sidebar {
+        padding-left: 20px;
+    }
+}
+
+/* All levels of nav */
+.bs-docs-sidebar .nav > li > a {
+    display: block;
+    padding: 4px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #999;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    padding-left: 19px;
+    color: #A1283B;
+    text-decoration: none;
+    background-color: transparent;
+    border-left: 1px solid #A1283B;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a {
+    padding-left: 18px;
+    font-weight: bold;
+    color: #A1283B;
+    background-color: transparent;
+    border-left: 2px solid #A1283B;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-docs-sidebar .nav .nav {
+    display: none; /* Hide by default, but at >768px, show it */
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus {
+    padding-left: 29px;
+}
+.bs-docs-sidebar .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav > .active:focus > a {
+    padding-left: 28px;
+    font-weight: 500;
+}
+
+/* Nav: third level (shown on .active) */
+.bs-docs-sidebar .nav .nav .nav {
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav .nav > li > a:focus {
+    padding-left: 39px;
+}
+.bs-docs-sidebar .nav .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav .nav > .active:focus > a {
+    padding-left: 38px;
+    font-weight: 500;
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+    .bs-docs-sidebar .nav > .active > ul {
+        display: block;
+    }
+    /* Widen the fixed sidebar */
+    .bs-docs-sidebar.affix,
+    .bs-docs-sidebar.affix-bottom {
+        width: 213px;
+    }
+    .bs-docs-sidebar.affix {
+        position: fixed; /* Undo the static from mobile first approach */
+        top: 20px;
+    }
+    .bs-docs-sidebar.affix-bottom {
+        position: absolute; /* Undo the static from mobile first approach */
+    }
+    .bs-docs-sidebar.affix .bs-docs-sidenav,.bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+}
+@media (min-width: 1200px) {
+    /* Widen the fixed sidebar again */
+    .bs-docs-sidebar.affix-bottom,
+    .bs-docs-sidebar.affix {
+        width: 263px;
+    }
+}
+</style>
+<script type="text/javascript">
+$(function() {
+    'use strict';
+
+    $('.bs-docs-sidebar li').first().addClass('active');
+
+    $(document.body).scrollspy({target: '.bs-docs-sidebar'});
+
+    $('.bs-docs-sidebar').affix();
+});
+</script>
+</head>
+<body>
+<div id="content" class="container">
+<div class="row"><div class="col-md-9"><h1 class="title">Computer Code Python CCP 08 : les types composites 1</h1>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Les listes</h2>
+<div class="outline-text-2" id="text-1">
+<div class="org-src-container">
+
+<pre class="src src-python"><span style="color: #a0522d;">cryptos_cash</span> = [<span style="color: #8b2252;">'Litecoin'</span>, <span style="color: #8b2252;">'Peercoin'</span>, <span style="color: #8b2252;">'Dash'</span>, <span style="color: #8b2252;">'Zcash'</span>, <span style="color: #8b2252;">'Monero'</span>]
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Nombre de cryptos dispos : "</span>, <span style="color: #483d8b;">len</span>(cryptos_cash))
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Acceptes-tu d'&#234;tre pay&#233; en crypto ?"</span>)
+<span style="color: #a0522d;">payed</span> = <span style="color: #483d8b;">input</span>()
+<span style="color: #a020f0;">if</span> payed == <span style="color: #8b2252;">'Oui'</span>:
+    <span style="color: #a020f0;">for</span> crypto <span style="color: #a020f0;">in</span> cryptos_cash:
+        <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"J'accepte d'&#234;tre pay&#233; en "</span> + crypto)
+cryptos_cash.append(<span style="color: #8b2252;">'Komodo'</span>)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Nombre de cryptos dispos : "</span>, <span style="color: #483d8b;">len</span>(cryptos_cash))
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Acceptes-tu de payer en crypto ?"</span>)
+<span style="color: #a0522d;">pay</span> = <span style="color: #483d8b;">input</span>()
+<span style="color: #a020f0;">if</span> pay == <span style="color: #8b2252;">'Oui'</span>:
+    <span style="color: #a020f0;">for</span> crypto <span style="color: #a020f0;">in</span> cryptos_cash:
+        <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"J'accepte de payer avec du "</span> + crypto)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"&#192; toi de nous dire quel est ton top 3 des cryptos."</span>)    
+<span style="color: #a0522d;">famous</span> = []
+<span style="color: #a0522d;">i</span> = 0      
+<span style="color: #a020f0;">while</span> i &lt; 3:
+      <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Selon toi, quelle est la crypto n&#176;"</span> + <span style="color: #483d8b;">str</span>(i + 1) + <span style="color: #8b2252;">" ?"</span>)
+      famous.append(<span style="color: #483d8b;">input</span>())
+      <span style="color: #a0522d;">i</span> += 1
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Ton top 3 des cryptos :"</span>)
+<span style="color: #a020f0;">for</span> crypto <span style="color: #a020f0;">in</span> famous:
+      <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Crypto n&#176;"</span> + <span style="color: #483d8b;">str</span>(famous.index(crypto) + 1) + <span style="color: #8b2252;">' '</span> + crypto)
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Les tuples</h2>
+<div class="outline-text-2" id="text-2">
+<div class="org-src-container">
+
+<pre class="src src-python"><span style="color: #a0522d;">my_id</span> = (<span style="color: #8b2252;">'Laurent'</span>, 35)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Mon pr&#233;nom est "</span> + my_id[0])
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"J'ai "</span> + <span style="color: #483d8b;">str</span>(my_id[1]) + <span style="color: #8b2252;">" ans."</span>)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Et toi ?"</span>)
+<span style="color: #a0522d;">name</span> = <span style="color: #483d8b;">input</span>(<span style="color: #8b2252;">"Quel est ton pr&#233;nom ? "</span>)
+<span style="color: #a0522d;">age</span> = <span style="color: #483d8b;">int</span>(<span style="color: #483d8b;">input</span>(<span style="color: #8b2252;">"Quel est ton &#226;ge ? "</span>))
+<span style="color: #a0522d;">your_id</span> = (name, age)
+<span style="color: #a0522d;">list_of_ids</span> = [my_id, your_id]
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Ton identit&#233; :"</span>, list_of_ids[1])
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Tu t'appelles "</span> + list_of_ids[1][0])
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Tu as "</span> + <span style="color: #483d8b;">str</span>(list_of_ids[1][1]) + <span style="color: #8b2252;">" ans."</span>)
+<span style="color: #a020f0;">print</span>(list_of_ids)
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Opérations communes <code>[1/2]</code></h2>
+<div class="outline-text-2" id="text-3">
+<div class="org-src-container">
+
+<pre class="src src-python"><span style="color: #a0522d;">prog_lang</span> = [<span style="color: #8b2252;">'Python'</span>, <span style="color: #8b2252;">'Ruby'</span>, <span style="color: #8b2252;">'Swift'</span>, <span style="color: #8b2252;">'C'</span>, <span style="color: #8b2252;">'JS'</span>, <span style="color: #8b2252;">'LaTeX'</span>]
+<span style="color: #a0522d;">year_of_birth</span> = (1991, 1995, 2014, 1970, 1995, 1984)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Longueur de la liste : "</span> + <span style="color: #483d8b;">str</span>(<span style="color: #483d8b;">len</span>(prog_lang)))
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Longueur du tuple :"</span>, <span style="color: #483d8b;">len</span>(year_of_birth))
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Dernier &#233;l&#233;ment de la liste :"</span>, prog_lang[-1])
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Dernier &#233;l&#233;ment du tuple : "</span> + <span style="color: #483d8b;">str</span>(year_of_birth[-1]))
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Extrait de la liste"</span>)
+<span style="color: #a0522d;">a</span> = <span style="color: #483d8b;">int</span>(<span style="color: #483d8b;">input</span>(<span style="color: #8b2252;">"Indice de d&#233;but : "</span>))
+<span style="color: #a0522d;">b</span> = <span style="color: #483d8b;">int</span>(<span style="color: #483d8b;">input</span>(<span style="color: #8b2252;">"Indice de fin : "</span>))
+<span style="color: #a020f0;">print</span>(prog_lang[a:b])
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Extrait du tuple"</span>)
+<span style="color: #a0522d;">c</span> = <span style="color: #483d8b;">int</span>(<span style="color: #483d8b;">input</span>(<span style="color: #8b2252;">"Indice de d&#233;but : "</span>))
+<span style="color: #a0522d;">d</span> = <span style="color: #483d8b;">int</span>(<span style="color: #483d8b;">input</span>(<span style="color: #8b2252;">"Indice de fin : "</span>))
+<span style="color: #a020f0;">print</span>(year_of_birth[c:d])
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Opérations communes <code>[2/2]</code></h2>
+<div class="outline-text-2" id="text-4">
+<div class="org-src-container">
+
+<pre class="src src-python"><span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Avec les listes"</span>)
+<span style="color: #a020f0;">if</span> (<span style="color: #8b2252;">'abj'</span> <span style="color: #a020f0;">in</span> [<span style="color: #8b2252;">'atom'</span>, <span style="color: #8b2252;">'ppc'</span>, <span style="color: #8b2252;">'abj'</span>, <span style="color: #8b2252;">'xap'</span>]):
+    <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">'abj est dans ma liste de crypto PoS'</span>)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Allez voir https://www.poslist.org/ pour plus de d&#233;tails sur les cryptos PoS"</span>)
+<span style="color: #a0522d;">pos</span> = [<span style="color: #8b2252;">'atom'</span>, <span style="color: #8b2252;">'ppc'</span>, <span style="color: #8b2252;">'abj'</span>, <span style="color: #8b2252;">'xap'</span>]
+<span style="color: #a020f0;">if</span> (<span style="color: #8b2252;">'xem'</span> <span style="color: #a020f0;">not</span> <span style="color: #a020f0;">in</span> pos):
+    <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"xem n'est pas 1 crypto PoS mais PoI"</span>)
+    <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Inscrivez-vous &#224; la formation CDBSSR pour en savoir plus sur les types de consensus"</span>)
+    <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Dans le monde des cryptos il n'y a pas que la PoW et la PoS..."</span>)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Presque la m&#234;me avec les tuples"</span>)
+<span style="color: #a0522d;">pos</span> = <span style="color: #483d8b;">tuple</span>(pos)
+<span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"Entrer un nom de crypto PoS :"</span>)
+<span style="color: #a0522d;">crypto</span> = <span style="color: #483d8b;">input</span>()
+<span style="color: #a020f0;">if</span> crypto <span style="color: #a020f0;">not</span> <span style="color: #a020f0;">in</span> pos:
+    <span style="color: #a020f0;">print</span>(crypto + <span style="color: #8b2252;">" n'est pas dans mon tuple"</span>)
+<span style="color: #a020f0;">else</span>:
+    <span style="color: #a020f0;">print</span>(<span style="color: #8b2252;">"J'ai bien "</span> + crypto + <span style="color: #8b2252;">" dans mon tuple"</span>)
+</pre>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Bilan</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+Dans ce cours on a vu :
+</p>
+<ul class="org-ul">
+<li>ce que sont les listes
+</li>
+<li>ce que sont les tuples
+</li>
+<li>quelques opérations communes
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Pour aller plus loin</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li>La vidéo sur YouTube : <a href="https://youtu.be/j-QnmjbSMfo">https://youtu.be/j-QnmjbSMfo</a>
+</li>
+<li>La formation pour apprendre à coder une blockchain avec Python :
+<a href="https://glmp.systeme.io/acbp">ACBP</a>
+</li>
+<li>La formation pour découvrir les technologies blockchain : <a href="https://glmp.systeme.io/cdbssr">CDBSSR</a>
+</li>
+<li>La formation pour devenir full stack developer : <a href="https://glmp.systeme.io/fsd">FSD</a>
+</li>
+<li>Code HTML généré grâce au package GNU Emacs disponible ici : <a href="https://github.com/marsmining/ox-twbs">https://github.com/marsmining/ox-twbs</a>
+</li>
+</ul>
+</div>
+</div>
+</div><div class="col-md-3"><nav id="table-of-contents">
+<div id="text-table-of-contents" class="bs-docs-sidebar">
+<ul class="nav">
+<li><a href="#sec-1">1. Les listes</a></li>
+<li><a href="#sec-2">2. Les tuples</a></li>
+<li><a href="#sec-3">3. Opérations communes <code>[1/2]</code></a></li>
+<li><a href="#sec-4">4. Opérations communes <code>[2/2]</code></a></li>
+<li><a href="#sec-5">5. Bilan</a></li>
+<li><a href="#sec-6">6. Pour aller plus loin</a></li>
+</ul>
+</div>
+</nav>
+</div></div></div>
+<footer id="postamble" class="">
+<div><p class="author">Author: Laurent Garnier</p>
+<p class="date">Created: 2018-09-01 Sat 15:47</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org-mode</a> 9.1.6)</p>
+</div>
+</footer>
+</body>
+</html>
