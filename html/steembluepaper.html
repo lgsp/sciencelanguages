@@ -1,0 +1,898 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Papier bleu de Steem (<a href="https://steem.io/steem-bluepaper.pdf">Steem bluepaper</a>)</title>
+<!-- 2018-09-03 Mon 23:35 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Org-mode">
+<meta name="author" content="Laurent Garnier">
+
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style type="text/css">
+/* org mode styles on top of twbs */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-size: 18px;
+    margin-bottom: 105px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 101px;
+    background-color: #f5f5f5;
+}
+
+footer > div {
+    padding: 10px;
+}
+
+footer p {
+    margin: 0 0 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#table-of-contents {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    font-size: 18px;
+}
+
+pre {
+    font-size: 16px;
+}
+
+.footpara {
+    display: inline-block;
+}
+
+figcaption {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  padding-bottom: 15px;
+}
+
+/* from twbs docs */
+
+.bs-docs-sidebar.affix {
+    position: static;
+}
+@media (min-width: 768px) {
+    .bs-docs-sidebar {
+        padding-left: 20px;
+    }
+}
+
+/* All levels of nav */
+.bs-docs-sidebar .nav > li > a {
+    display: block;
+    padding: 4px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #999;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    padding-left: 19px;
+    color: #A1283B;
+    text-decoration: none;
+    background-color: transparent;
+    border-left: 1px solid #A1283B;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a {
+    padding-left: 18px;
+    font-weight: bold;
+    color: #A1283B;
+    background-color: transparent;
+    border-left: 2px solid #A1283B;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-docs-sidebar .nav .nav {
+    display: none; /* Hide by default, but at >768px, show it */
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus {
+    padding-left: 29px;
+}
+.bs-docs-sidebar .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav > .active:focus > a {
+    padding-left: 28px;
+    font-weight: 500;
+}
+
+/* Nav: third level (shown on .active) */
+.bs-docs-sidebar .nav .nav .nav {
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav .nav > li > a:focus {
+    padding-left: 39px;
+}
+.bs-docs-sidebar .nav .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav .nav > .active:focus > a {
+    padding-left: 38px;
+    font-weight: 500;
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+    .bs-docs-sidebar .nav > .active > ul {
+        display: block;
+    }
+    /* Widen the fixed sidebar */
+    .bs-docs-sidebar.affix,
+    .bs-docs-sidebar.affix-bottom {
+        width: 213px;
+    }
+    .bs-docs-sidebar.affix {
+        position: fixed; /* Undo the static from mobile first approach */
+        top: 20px;
+    }
+    .bs-docs-sidebar.affix-bottom {
+        position: absolute; /* Undo the static from mobile first approach */
+    }
+    .bs-docs-sidebar.affix .bs-docs-sidenav,.bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+}
+@media (min-width: 1200px) {
+    /* Widen the fixed sidebar again */
+    .bs-docs-sidebar.affix-bottom,
+    .bs-docs-sidebar.affix {
+        width: 263px;
+    }
+}
+</style>
+<script type="text/javascript">
+$(function() {
+    'use strict';
+
+    $('.bs-docs-sidebar li').first().addClass('active');
+
+    $(document.body).scrollspy({target: '.bs-docs-sidebar'});
+
+    $('.bs-docs-sidebar').affix();
+});
+</script>
+</head>
+<body>
+<div id="content" class="container">
+<div class="row"><div class="col-md-9"><h1 class="title">Papier bleu de Steem (<a href="https://steem.io/steem-bluepaper.pdf">Steem bluepaper</a>)</h1>
+<p>
+Un protocole pour permettre une monnaie sociale intelligente pour les
+éditeurs et les entreprises de contenu à travers l'Internet.
+</p>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Introduction</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Steem fournit un protocole<sup><a id="fnr.1" name="fnr.1" class="footref" href="#fn.1">1</a></sup> de chaîne de blocs (blockchain)
+évolutif pour un contenu accessible publiquement et immuable, ainsi
+qu'un jeton numérique rapide et sans frais appelé STEEM<sup><a id="fnr.2" name="fnr.2" class="footref" href="#fn.2">2</a></sup>) ce
+qui permet aux gens de gagner de la monnaie (STEEM) en utilisant
+leur cerveau (ce qu'on peut appeler "Preuve de cerveau"
+[Proof-of-Brain]). Les deux blocs de construction de ce protocole, à
+la fois la chaîne de blocs et le jeton, dépendent l'un de l'autre
+pour la sécurité, l'immuabilité et la longévité, et sont donc partie
+intégrante de l'existence de chacun. Steem a fonctionné avec succès
+pendant plus d'un an, et a maintenant dépassé Bitcoin et Ethereum en
+nombre de transactions traitées.<sup><a id="fnr.3" name="fnr.3" class="footref" href="#fn.3">3</a></sup>
+</p>
+
+<p>
+Comparé à d'autres chaînes de blocs, Steem se distingue comme la première
+base de données accessible au public pour du contenu stocké de façon
+immuable sous la forme de texte brut, avec un mécanisme d'incitation
+intégré. Cela fait de Steem une plate-forme de publication publique
+à partir de laquelle toute application Internet peut tirer et
+partager des données tout en récompensant ceux qui contribuent au
+contenu le plus précieux. 
+</p>
+
+<p>
+Dans le domaine des crypto-monnaies, les propriétés uniques de STEEM
+le rendent à la fois «intelligente» et «sociale» par rapport à
+d'autres, comme le bitcoin et l'éther. Cela provient de deux
+nouvelles fonctionnalités du jeton. La première est une piscine de
+jetons (pool of tokens) dédiés à la création de contenu et à la
+conservation (appelé «piscine de récompenses» ["rewards pool"]). La
+seconde est un système de vote qui tire parti de la sagesse de la
+foule pour évaluer la valeur du contenu et distribuer des jetons à
+celui-ci. Ces deux propriétés uniques lorsqu'elles sont combinées
+sont appelées Preuve de Cerveau, ce qui est un principe basé sur la
+Preuve de Travail (Proof-of-Work),<sup><a id="fnr.4" name="fnr.4" class="footref" href="#fn.4">4</a></sup> déstiné à insister sur le
+travail humain requis pour distribuer des jetons aux participants de
+la communauté. La preuve de cerveau positionne STEEM comme un outil
+pour construire des communautés en perpétuelle croissance, qui
+encouragent leurs membres à ajouter de la valeur à la communauté
+grâce à la structure de récompenses intégrée. 
+</p>
+
+<p>
+En plus de ces progrès dans la technologie de la chaîne de bloc et des jetons,
+Steem en tant que système fournit des fonctionnalités avancées
+supplémentaires pour améliorer l'expérience de l'utilisateur, comme
+la récupération de compte volé<sup><a id="fnr.5" name="fnr.5" class="footref" href="#fn.5">5</a></sup>, les services d'entiercement<sup><a id="fnr.6" name="fnr.6" class="footref" href="#fn.6">6</a></sup>,
+le contenu favorisé par l'utilisateur et les comptes d'épargne. Tout
+cela est fait tout en fournissant aux utilisateurs trois fois le
+temps de confirmation et zéro frais sur toutes les
+transactions. Tout cela lui permet de soutenir la mission d'apporter
+une monnaie intelligente et sociale aux éditeurs et bâtisseurs de
+communautés sur Internet. 
+</p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Preuve de Cerveau : Jetons Intelligents et Sociaux</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Les systèmes de jetons qui récompensent les utilisateurs lorsqu'ils
+contribuent à un système de communauté basé sur des jetons
+nécessitent des mécanismes pour établir et évaluer la valeur sociale
+du contenu: nous appelons cela «preuve de cerveau».
+</p>
+</div>
+<div id="outline-container-sec-2-1" class="outline-3">
+<h3 id="sec-2-1"><span class="section-number-3">2.1</span> La piscine de récompenses ("D'où les jetons viennent-ils ?")</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+L'un des aspects les plus innovants (et des plus mal compris) de la
+chaîne de blocs Steem est la "piscine de récompenses" à partir de
+laquelle les jetons sont distribués aux créateurs de contenu de
+valeur. Afin de comprendre ce qu'est la piscine de récompenses, il
+faut d'abord comprendre que les jetons sont produits différemment
+dans les chaînes de blocs DPoS<sup><a id="fnr.7" name="fnr.7" class="footref" href="#fn.7">7</a></sup> qu'ils ne le sont dans les
+chaînes de blocs PoW (Preuve de Travail). Dans les chaînes de blocs PoW
+traditionnelles, les jetons sont produits régulièrement mais
+distribués aléatoirement aux personnes dont les machines effectuent
+un travail ("les mineurs"). 
+</p>
+
+<p>
+Différent des crypto-monnaies de type PoW, les jetons de Steem sont
+générés à un taux fixe d'un bloc toutes les trois secondes. Ces
+jetons sont distribués aux différents acteurs du système selon les
+règles définies par la chaîne de blocs. Ces acteurs, tels que les
+créateurs de contenu, les témoins et les conservateurs
+(organisateurs ?<sup><a id="fnr.8" name="fnr.8" class="footref" href="#fn.8">8</a></sup>), rivalisent de manière spécialisée pour les
+jetons. Contrairement aux moyens traditionnels de distribution de
+PoW, où les mineurs rivalisent sur la puissance informatique brute,
+les acteurs du réseau Steem sont incités à être compétitifs de
+manière à ajouter de la valeur au réseau.
+</p>
+
+<p>
+Le taux de génération de nouveaux jetons a été fixé à 9,5% par an à
+compter de décembre 2016, et diminue à raison de 0,01% tous les 250
+000 blocs, soit environ 0,5% par an. L'inflation continuera à
+décroître à ce rythme jusqu'à atteindre 0,95%, après une période
+d'environ 20,5 ans.
+</p>
+
+<p>
+De l'offre de nouveaux jetons créés par la chaîne de blocs Steem chaque
+année, 75% de ces jetons composent la «piscine de récompenses» qui sont
+distribués aux créateurs de contenu et aux conservateurs de
+contenu. 15% sont distribués aux détenteurs de jetons acquis, et
+10% sont distribués aux Témoins, les producteurs de blocs coopérant
+au protocole de consensus DPoS de Steem.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2-2" class="outline-3">
+<h3 id="sec-2-2"><span class="section-number-3">2.2</span> Récompenses pour les créateurs de contenu et les conservateurs</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Les utilisateurs qui produisent du contenu ajoutent de la valeur au
+réseau en créant du matériel qui attirera de nouveaux utilisateurs
+vers la plateforme, tout en maintenant l'engagement et le
+divertissement des utilisateurs existants. Cela facilite la
+distribution de la monnaie à un plus grand nombre d'utilisateurs et
+augmente l'effet de réseau. Les utilisateurs qui prennent le temps
+d'évaluer et de voter pour le contenu jouent un rôle important dans
+la distribution de la devise aux utilisateurs qui ajoutent le plus
+de valeur. La chaîne de blocs récompense ces deux activités par rapport
+à leur valeur sur la base de la sagesse collective de la foule
+rassemblée à travers le système de vote pondéré par les parts.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> Voter avec des jetons jalonnés pour déterminer l'attribution des récompenses</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+Steem opère sur la base de un-STEEM, un vote. Selon ce modèle, les
+personnes qui ont le plus contribué à la plateforme, selon le solde
+de leur compte, ont le plus d'influence sur la façon dont les
+contributions sont évaluées. L'enjeu peut être acheté ou gagné. Les
+utilisateurs ne peuvent pas acquérir une influence supplémentaire
+en possédant plusieurs comptes, car un même compte avec un montant
+de participation aura la même influence que deux comptes différents
+partageant le même montant de participation. Le seul moyen pour les
+utilisateurs d'accroître leur influence sur la plateforme est
+d'augmenter leur participation.
+</p>
+
+<p>
+En outre, Steem ne permet pas aux membres de voter avec STEEM quand il
+est engagé à un calendrier d'acquisition de 13 semaines appelé
+Steem Power. Selon ce modèle, les membres ont une incitation
+financière à voter de manière à maximiser la valeur à long terme de
+leur STEEM.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Vitesse et échelle sur la Blockchain Steem</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+La chaîne de blocs Steem est conçue pour être l'une des chaînes de blocs
+les plus rapides et les plus efficaces, ce qui est nécessaire pour
+supporter la quantité de trafic attendue sur une plate-forme de
+médias sociaux plus grande que la taille de Reddit. Steem a déjà
+dépassé Bitcoin en nombre de transactions, et est capable d'évoluer
+pour prendre en charge 10 000 transactions ou plus par seconde.
+</p>
+</div>
+<div id="outline-container-sec-3-1" class="outline-3">
+<h3 id="sec-3-1"><span class="section-number-3">3.1</span> La preuve de participation déléguée (DPoS)</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+Souvent engorgées par la preuve de travail (PoW)<sup><a id="fnr.9" name="fnr.9" class="footref" href="#fn.9">9</a></sup>, de
+nombreuses chaînes de blocs ne peuvent pas s'étendre au-delà de
+trois transactions par secondes, ce qui est une fraction du trafic
+financier mondial. Steem avait besoin d'une bien plus grande
+échelle et vitesse que celle offerte par PoW, et ainsi un
+algorithme moins connu appelé Preuve de Participation Déléguée
+(DPoS)<sup><a id="fnr.10" name="fnr.10" class="footref" href="#fn.10">10</a></sup> a été mis à profit pour jeter les bases d'une
+chaîne de blocs adaptée à des milliards d'utilisateurs. 
+</p>
+
+<p>
+Grâce au DPoS, la chaîne de blocs Steem est capable de générer un nouveau
+bloc toutes les 3 secondes avec une charge de calcul minimale. Cela
+signifie que la chaîne de blocs peut traiter plus de transactions et
+contenir plus d'informations, y compris du contenu.
+</p>
+
+<p>
+En définissant les règles pour le cas où un Hardfork se produit,
+les témoins élus dans le cadre DPoS peuvent rapidement et
+efficacement décider d'aller de l'avant avec une proposition
+de hardfork, permettant au protocole chaîne de blocs Steem d'évoluer plus
+rapidement que la plupart des autres. La chaîne de blocs Steem a déjà
+bifurquée 18 fois<sup><a id="fnr.11" name="fnr.11" class="footref" href="#fn.11">11</a></sup>, et chaque fois qu'un Hardfork s'est
+produit, une seule chaîne a persisté après la bifurcation.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-3-2" class="outline-3">
+<h3 id="sec-3-2"><span class="section-number-3">3.2</span> Chaîne de base (ChainBase)</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+ChainBase<sup><a id="fnr.12" name="fnr.12" class="footref" href="#fn.12">12</a></sup> est la partie de la base de données de la pile
+de chaîne de blocs et qui a remplacé Graphene<sup><a id="fnr.13" name="fnr.13" class="footref" href="#fn.13">13</a></sup>
+en 2016. ChainBase a des temps de chargement et de sortie plus
+rapides, prend en charge l'accès parallèle à la base de données et
+est plus robuste contre les plantages que son prédécesseur.La
+corruption de la base de données est également moins fréquente,
+elle permet un "instantané" instantané de l'état de la base de
+données et peut servir plus de requêtes RPC à partir de la même
+mémoire.  
+</p>
+</div>
+</div>
+<div id="outline-container-sec-3-3" class="outline-3">
+<h3 id="sec-3-3"><span class="section-number-3">3.3</span> AppBase</h3>
+<div class="outline-text-3" id="text-3-3">
+<p>
+AppBase est la première étape dans la création d'une FABRIC
+multi-chaîne. AppBase permet à de nombreux composants de la chaîne
+de blocs Steem de devenir modulaire en créant des chaînes de blocs
+supplémentaires sans consensus comme greffons (plugins) dédiés. Ces
+greffons peuvent être mis à jour beaucoup plus rapidement parce
+qu'ils n'ont pas besoin de rejouer la chaîne de blocs en
+entier. Cela rend steemd<sup><a id="fnr.14" name="fnr.14" class="footref" href="#fn.14">14</a></sup> beaucoup plus efficace et facile à
+maintenir et à étendre.
+</p>
+
+<p>
+En pratique, AppBase permet à différents cœurs, ou même à
+différents ordinateurs, de maintenir différentes parties de la
+chaîne de blocs Steem. Cela est significativement plus efficace que
+de nécessiter que chaque coeur, et chaque ordinateur du réseau
+maintienne l'entière chaîne de blocs. Modulariser la chaîne de
+blocs permet de tirer pleinement parti de la nature modulaire des
+ordinateurs. Cela est un pas nécessaire dans le long processus de
+création d'une chaîne de blocs entièrement parallèle, entièrement
+optimisée. 
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Fonctionnalités de la plate-forme Steem</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+La chaîne de blocs Steem sert un double but d'être à la fois un système de
+traitement de jeton numérique, et une plate-forme de média social de
+masse. Les fonctionnalités offertes par la chaîne de blocs
+nécessitent de soutenir les deux buts, et de fournir aux
+utilisateurs une experience de classe mondiale lorsqu'ils utilisent
+chacun des aspects de la plate-forme.
+</p>
+</div>
+<div id="outline-container-sec-4-1" class="outline-3">
+<h3 id="sec-4-1"><span class="section-number-3">4.1</span> Primitives conçues pour les applications de contenu</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Steem offre aux utilisateurs la possibilité unique de publier et
+stocker différents types de contenus directement et de façon
+permanente à l'intérieur du registre immuable de la chaîne de blocs
+en tant que texte brute. Une fois stockées dans la chaîne de blocs,
+les données deviennent disponibles publiquement pour les
+développeurs pour construire avec. Les développeurs sont capables
+d'intéragir avec le contenu directement dans la chaîne de blocs en
+utilisant les APIs<sup><a id="fnr.15" name="fnr.15" class="footref" href="#fn.15">15</a></sup> disponibles. Plusieurs développeurs de
+primitives de la chaîne de blocs peuvent construire à partir de noms de
+compte, messages, commentaires, votes et solde de compte.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-2" class="outline-3">
+<h3 id="sec-4-2"><span class="section-number-3">4.2</span> Système de nom natif</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+Les adresses de portefeuille utilisées par de nombreuses
+technologies de la chaîne de blocs, telles que Bitcoin et Ethereum, se
+composaient historiquement de longues chaînes de lettres et de
+chiffres aléatoires. Cependant, ces adresses de portefeuille
+peuvent rendre difficile la transaction avec d'autres utilisateurs
+dans un contexte de média social en ligne parce que les
+utilisateurs ne peuvent pas se rappeler les adresses de longue chaîne
+de mémoire. La chaîne de blocs Steem utilise chaque nom
+d'utilisateur comme adresse de portefeuille, ce qui renforce
+l'expérience utilisateur pour les participants qui tentent
+d'envoyer des jetons car ils peuvent vérifier les adresses à partir
+de leur propre mémoire. 
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-3" class="outline-3">
+<h3 id="sec-4-3"><span class="section-number-3">4.3</span> Steem Blockchain Dollars (SBD)</h3>
+<div class="outline-text-3" id="text-4-3">
+<p>
+De nombreux utilisateurs initiés à la crypto-monnaie peinent à
+comprendre comment les «jetons internet magiques» attribués par la
+plateforme peuvent réellement avoir une valeur réelle. Afin de
+combler le fossé entre les systèmes de monnaie fiduciaire plus
+traditionnels auxquels les utilisateurs traditionnels sont habitués
+et les jetons de crypto-monnaie qui leur sont attribués via la
+plate-forme, une nouvelle monnaie appelée Steem Blockchain Dollars
+(SBD) a été créée. Les jetons SBD sont conçus pour être étroitement
+liés à un dollar, de sorte que les utilisateurs qui les reçoivent
+peuvent savoir à peu près combien ils valent en termes de «dollars
+réels». Les jetons SBD offrent également une monnaie relativement
+stable aux utilisateurs s'ils veulent préserver la valeur de leur
+compte par rapport à l'USD. Une explication technique plus
+détaillée peut être trouvée dans le livre blanc technique de
+Steem<sup><a id="fnr.16" name="fnr.16" class="footref" href="#fn.16">16</a></sup>.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-4" class="outline-3">
+<h3 id="sec-4-4"><span class="section-number-3">4.4</span> Echange décentralisé</h3>
+<div class="outline-text-3" id="text-4-4">
+<p>
+La chaîne de blocs Steem offre un échange de jeton décentralisé,
+similaire aux échanges de Bitshare.<sup><a id="fnr.17" name="fnr.17" class="footref" href="#fn.17">17</a></sup> L'échange permet aux
+utilisateurs d'échanger leurs jetons STEEM et SBD via un marché
+pair à pair public décentralisé. Les utilisateurs peuvent placer
+des ordres d'achat et de vente, et l'appariement des ordres est
+effectué automatiquement par la chaîne de blocs. Il existe
+également un carnet de commandes accessible au public et un
+historique des commandes que les utilisateurs peuvent utiliser pour
+analyser le marché. Les utilisateurs peuvent interagir directement
+avec l'échange en utilisant l'API de la chaîne de blocs, ou utiliser une
+interface graphique telle que celle sur Steemit.com.<sup><a id="fnr.18" name="fnr.18" class="footref" href="#fn.18">18</a></sup> 
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-5" class="outline-3">
+<h3 id="sec-4-5"><span class="section-number-3">4.5</span> Paiements par l'intermédiaire de l'entiercement</h3>
+<div class="outline-text-3" id="text-4-5">
+<p>
+La nature irréversible des transactions de la chaîne de blocs est un élément
+de sécurité important, bien qu'il y ait de nombreux cas où les
+utilisateurs ne soient pas à l'aise pour envoyer leurs jetons à un
+autre individu sans moyen de les récupérer si l'autre utilisateur
+ne respecte pas leur contrat. La chaîne de blocs Steem fournit un
+moyen pour les utilisateurs de s'envoyer des pièces de monnaie avec
+un tiers désigné comme un service d'entiercement. L'utilisateur
+agissant comme le service d'entiercement est capable de déterminer
+si les termes de l'accord ont été respectés, et soit autoriser les
+fonds à être remis au récepteur ou renvoyé à l'expéditeur.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-6" class="outline-3">
+<h3 id="sec-4-6"><span class="section-number-3">4.6</span> Structure de clé privée hiérarchique</h3>
+<div class="outline-text-3" id="text-4-6">
+<p>
+Steem utilise un système de clé privée hiérarchique unique en son
+genre pour faciliter les transactions à faible sécurité et haute
+sécurité. Les transactions à faible sécurité ont tendance à être
+sociales, comme l'affichage ou les commentaires. Les transactions
+de haute sécurité ont tendance à être des transferts et des
+changements de clés. Cela permet aux utilisateurs d'implémenter
+différents niveaux de sécurité pour leurs clés, en fonction de
+l'accès que les clés permettent. 
+</p>
+
+<p>
+Ces clés privées sont la Publication, Active et Propriétaire. La
+clé de publication permet aux comptes de publier, commenter,
+modifier, voter, resteem<sup><a id="fnr.19" name="fnr.19" class="footref" href="#fn.19">19</a></sup>, et suivre/rendre muet d'autres
+comptes. La clé active est destinée à des tâches plus délicates
+telles que le transfert de fonds, les transactions de montée /
+descente, la conversion de Steem Dollars, le vote de témoins, la
+passation d'ordres au marché et la réinitialisation de la clé de
+publication. La clé du propriétaire est uniquement destinée à
+être utilisée lorsque cela est nécessaire. C'est la clé la plus
+puissante car elle peut changer n'importe quelle clé d'un compte, y
+compris la clé du propriétaire, et prouver la propriété pendant une
+récupération de compte. Idéalement, elle est destinée à être stockée
+hors ligne et utilisée uniquement lorsque les clés du compte doivent
+être modifiées ou pour récupérer un compte compromis.
+</p>
+
+<p>
+Steem facilite également l'utilisation d'un mot de passe principal
+qui crypte les trois clés. Des services Web peuvent utiliser un mot de
+passe principal qui décrypte et signe avec la clé privée
+nécessaire. Les mots de passe principaux peuvent permettre aux
+utilisateurs de faire confiance à certains services pour empêcher
+le transfert de clés inappropriées sur tous les serveurs,
+augmentant ainsi l'expérience utilisateur tout en maintenant un
+environnement de signature côté client sécurisé.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-4-7" class="outline-3">
+<h3 id="sec-4-7"><span class="section-number-3">4.7</span> Autorités Multi Sig</h3>
+<div class="outline-text-3" id="text-4-7">
+<p>
+La chaîne de blocs Steem permet à une autorité d'être divisée entre
+plusieurs entités, de sorte que plusieurs utilisateurs peuvent
+partager la même autorité, ou plusieurs entités sont nécessaires
+pour autoriser une transaction afin qu'elle soit valide. Ceci est
+fait de la même manière que Bitshares où chaque paire de clés
+publique / privée reçoit un poids, et un seuil est défini pour
+l'autorité. Pour qu'une transaction soit valide, suffisamment
+d'entités doivent signer pour que la somme de leurs poids atteigne
+ou dépasse le seuil.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-4-8" class="outline-3">
+<h3 id="sec-4-8"><span class="section-number-3">4.8</span> Bénéficiaires de récompenses multiples</h3>
+<div class="outline-text-3" id="text-4-8">
+<p>
+Pour un poste donné, il peut y avoir un certain nombre de personnes
+différentes qui ont un intérêt financier dans la récompense. Cela
+inclut l'auteur, les co-auteurs possibles, les référents, les
+fournisseurs d'hébergement, les blogs qui ont intégré les
+commentaires de la chaîne de blocs et les développeurs
+d'outils. Quel que soit le site ou l'outil utilisé pour construire
+un article ou un commentaire, vous pourrez définir comment les
+récompenses de ce commentaire sont réparties entre les différentes
+parties. Cela permet diverses formes de collaboration, ainsi qu'un
+moyen pour les plates-formes qui sont construites au-dessus de la
+chaîne de blocs Steem pour collecter une partie des récompenses de leurs
+utilisateurs.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-4-9" class="outline-3">
+<h3 id="sec-4-9"><span class="section-number-3">4.9</span> Jetons de média intelligents (Smart Media Tokens)</h3>
+<div class="outline-text-3" id="text-4-9">
+<p>
+Cette couche de protocole est en cours de développement. Son livre
+blanc sera posté ici.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-4-10" class="outline-3">
+<h3 id="sec-4-10"><span class="section-number-3">4.10</span> Récupération de compte volé</h3>
+<div class="outline-text-3" id="text-4-10">
+<p>
+Si le compte d'un utilisateur est compromis, il peut changer de clé
+en utilisant sa clé privée. Dans le cas où l'attaquant est capable
+de compromettre la clé privée du propriétaire et de changer le mot
+de passe, l'utilisateur dispose de 30 jours pour soumettre une clé
+privée auparavant fonctionnelle via le processus de récupération de
+compte volé de Steem et reprendre le contrôle de son compte. Cela
+peut être offert par une personne ou une entreprise qui fournit des
+services d'enregistrement à Steem. Il n'est pas obligatoire pour le
+registraire de fournir ce service à ses utilisateurs, mais il est
+disponible pour augmenter la valeur de l'expérience des
+utilisateurs d'un registraire.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-11" class="outline-3">
+<h3 id="sec-4-11"><span class="section-number-3">4.11</span> Sécurité à travers les serrures de temps</h3>
+<div class="outline-text-3" id="text-4-11">
+<p>
+Si la clé active ou propriétaire d'un utilisateur est compromise,
+l'attaquant aura un accès complet à tous les fonds de son
+compte. Parce que les transactions chaîne de blocs sont irréversibles,
+les utilisateurs n'ont aucun moyen de récupérer leurs fonds après
+avoir été volés. 
+</p>
+
+<p>
+La chaîne de blocs Steem permet aux utilisateurs de stocker leurs jetons
+STEEM et SBD dans un compte d'épargne, de sorte que les fonds ne
+peuvent être retirés qu'après une période d'attente de trois
+jours. En outre, STEEM qui est détenu dans le calendrier
+d'acquisition de 13 semaines ne peut être retiré à un taux de 1/13
+par semaine, après une période d'attente initiale de sept
+jours. Ces verrous temporels empêchent un attaquant d'accéder
+immédiatement à la totalité des fonds de l'utilisateur, de sorte
+que le propriétaire légitime ait le temps de reprendre le contrôle
+de son compte avant que tous ses fonds puissent être retirés.
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-12" class="outline-3">
+<h3 id="sec-4-12"><span class="section-number-3">4.12</span> Limitation du débit de bande passante pour les opérations sans frais</h3>
+<div class="outline-text-3" id="text-4-12">
+<p>
+Parce que les témoins sont entièrement payés grâce à la génération
+de nouveaux jetons, il n'est pas nécessaire de facturer aux
+utilisateurs des frais pour alimenter la chaîne de blocs. La seule
+raison de facturer des frais aurait pour effet dissuasif d'empêcher
+les utilisateurs d'effectuer un nombre déraisonnable de
+transactions, ce qui pourrait avoir un impact sur la performance de
+la chaîne de blocs.
+</p>
+
+<p>
+Afin de placer des limites raisonnables sur l'utilisation du
+système, chaque utilisateur dispose d'une bande passante
+limitée. Lorsque les utilisateurs effectuent des opérations de
+chaîne de blocs telles que les transferts de jetons, l'envoi de
+contenu et le vote, ils utilisent une partie de leur bande
+passante. Si un utilisateur dépasse sa capacité de bande passante,
+il doit attendre d'effectuer des actions supplémentaires jusqu'à ce
+que sa bande passante se recharge.
+</p>
+
+<p>
+Les limites de bande passante s'ajustent en fonction de
+l'utilisation du réseau, de sorte que les utilisateurs disposent
+d'une bande passante plus importante lorsque l'utilisation du
+réseau est faible. La quantité de bande passante autorisée par un
+compte est directement proportionnelle à la quantité de Steem Power
+dont dispose un utilisateur, de sorte que les utilisateurs peuvent
+toujours augmenter leur bande passante en obtenant une puissance
+Steem supplémentaire.
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Conclusion</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+Le programme unique de récompenses et d'incitations offert par la
+chaîne de blocs et le token de Steem est conçu pour faire de Steem
+l'ultime passerelle de crypto-monnaie pour les utilisateurs
+ordinaires. La performance de la chaîne de blocs est conçue avec
+l'adoption massive de la devise et de la plate-forme en
+tête. Lorsqu'il est combiné avec des temps de traitement
+ultra-rapides et des transactions sans frais, Steem est positionné
+pour devenir l'une des principales technologies de chaîne de blocs
+utilisées par les personnes autour du monde.
+</p>
+</div>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" name="fn.1" class="footnum" href="#fnr.1">1</a></sup> <p class="footpara">
+Delegated Proof of Stake Position
+Paper. Grigg, 2017. <a href="https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-%0Atwo-generals-problem">https://steemit.com/eos/@iang/seeking-consensus-on-consensus-dpos-or-delegated-proof-of-stake-and-the-%0Atwo-generals-problem</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.2" name="fn.2" class="footnum" href="#fnr.2">2</a></sup> <p class="footpara">
+Pour le différentier de sa chaîne de blocs, l'orthographe
+correcte du jeton numérique natif de Steem est STEEM.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.3" name="fn.3" class="footnum" href="#fnr.3">3</a></sup> <p class="footpara">
+Volumes de transaction: transactions par seconde. Steem Témoin
+et utilisateur
+"@roadscape". <a href="https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening">https://steemit.com/blockchain/@roadscape/tps-report-2-the-flippening</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.4" name="fn.4" class="footnum" href="#fnr.4">4</a></sup> <p class="footpara">
+Proof-of-Work. Wikipedia. <a href="https://en.wikipedia.org/wiki/Proof-of-work_system">https://en.wikipedia.org/wiki/Proof-of-work_system</a>
+et je me permets d'ajouter cette vidéo dont j'ai fait les sous-titres
+<a href="https://youtu.be/bBC-nXj3Ng4">Bitcoin and Proof-of-Work in 26 minutes</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.5" name="fn.5" class="footnum" href="#fnr.5">5</a></sup> <p class="footpara">
+Stolen Account Recovery initiation for Steemit.com users:
+07-13-2017 <a href="https://steemit.com/recover_account_step_1">https://steemit.com/recover_account_step_1</a> (en français
+s'il vous plaît)
+</p></div>
+
+<div class="footdef"><sup><a id="fn.6" name="fn.6" class="footnum" href="#fnr.6">6</a></sup> <p class="footpara">
+NdT : Ne connaissant pas ce mot français en voici une définition <a href="http://www.larousse.fr/dictionnaires/francais/entiercement/29936">Larousse</a>.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.7" name="fn.7" class="footnum" href="#fnr.7">7</a></sup> <p class="footpara">
+NdT : DPoS: <a href="https://www.liskafrica.com/guides/la-preuve-de-participation-d%25C3%25A9l%25C3%25A9gu%25C3%25A9-dpos">Delegateed Proof-of-Stake</a> (expliqué en français) et
+<a href="https://hackernoon.com/explain-delegated-proof-of-stake-like-im-5-888b2a74897d">Hackernoon</a> (expliqué en anglais)
+</p></div>
+
+<div class="footdef"><sup><a id="fn.8" name="fn.8" class="footnum" href="#fnr.8">8</a></sup> <p class="footpara">
+NdT : Les mots <i><a href="http://www.wordreference.com/enfr/curators">curator</a></i> ou <i>curation</i> sont particulièrement
+chiants à traduire.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.9" name="fn.9" class="footnum" href="#fnr.9">9</a></sup> <p class="footpara">
+Bitcoin Scalability Problem
+<a href="https://en.wikipedia.org/wiki/Bitcoin_scalability_problem">https://en.wikipedia.org/wiki/Bitcoin_scalability_problem</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.10" name="fn.10" class="footnum" href="#fnr.10">10</a></sup> <p class="footpara">
+DPoS Whitepaper
+<a href="https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper">https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.11" name="fn.11" class="footnum" href="#fnr.11">11</a></sup> <p class="footpara">
+<a href="https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity">https://steemit.com/steemit/@steemitblog/proposing-hardfork-0-20-0-velocity</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.12" name="fn.12" class="footnum" href="#fnr.12">12</a></sup> <p class="footpara">
+ChainBase Release
+<a href="https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release">https://steemit.com/steem/@steemitblog/announcing-steem-0-14-4-shared-db-preview-release</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.13" name="fn.13" class="footnum" href="#fnr.13">13</a></sup> <p class="footpara">
+Graphene Documentation <a href="http://docs.bitshares.org/">http://docs.bitshares.org/</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.14" name="fn.14" class="footnum" href="#fnr.14">14</a></sup> <p class="footpara">
+Le composant du cadre (framework) de la chaîne de blocs Steem
+responsable du traitement des transactions et de la distribution des
+récompenses.
+</p></div>
+
+<div class="footdef"><sup><a id="fn.15" name="fn.15" class="footnum" href="#fnr.15">15</a></sup> <p class="footpara">
+NdT : l'acronyme API est un peu partout présent sur internet
+et comme souvent jamais traduit alors j'en profite ici : <a href="https://fr.wikipedia.org/wiki/Interface_de_programmation">interface de programmation</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.16" name="fn.16" class="footnum" href="#fnr.16">16</a></sup> <p class="footpara">
+Steem Whitepaper <a href="https://steem.io/SteemWhitePaper.pdf">https://steem.io/SteemWhitePaper.pdf</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.17" name="fn.17" class="footnum" href="#fnr.17">17</a></sup> <p class="footpara">
+Bitshares Decentralized Exchange <a href="http://docs.bitshares.org/_downloads/bitshares-general.pdf">http://docs.bitshares.org/_downloads/bitshares-general.pdf</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.18" name="fn.18" class="footnum" href="#fnr.18">18</a></sup> <p class="footpara">
+Steemit.com Currency Market <a href="https://steemit.com/market">https://steemit.com/market</a>
+</p></div>
+
+<div class="footdef"><sup><a id="fn.19" name="fn.19" class="footnum" href="#fnr.19">19</a></sup> <p class="footpara">
+"Resteem" est le terme utilisé dans la chaîne de blocs Steem
+lorsqu'un utilisateur partage le contenu avec ses abonnés. 
+</p></div>
+
+
+</div>
+</div></div><div class="col-md-3"><nav id="table-of-contents">
+<div id="text-table-of-contents" class="bs-docs-sidebar">
+<ul class="nav">
+<li><a href="#sec-1">1. Introduction</a></li>
+<li><a href="#sec-2">2. Preuve de Cerveau : Jetons Intelligents et Sociaux</a>
+<ul class="nav">
+<li><a href="#sec-2-1">2.1. La piscine de récompenses ("D'où les jetons viennent-ils ?")</a></li>
+<li><a href="#sec-2-2">2.2. Récompenses pour les créateurs de contenu et les conservateurs</a></li>
+<li><a href="#sec-2-3">2.3. Voter avec des jetons jalonnés pour déterminer l'attribution des récompenses</a></li>
+</ul>
+</li>
+<li><a href="#sec-3">3. Vitesse et échelle sur la Blockchain Steem</a>
+<ul class="nav">
+<li><a href="#sec-3-1">3.1. La preuve de participation déléguée (DPoS)</a></li>
+<li><a href="#sec-3-2">3.2. Chaîne de base (ChainBase)</a></li>
+<li><a href="#sec-3-3">3.3. AppBase</a></li>
+</ul>
+</li>
+<li><a href="#sec-4">4. Fonctionnalités de la plate-forme Steem</a>
+<ul class="nav">
+<li><a href="#sec-4-1">4.1. Primitives conçues pour les applications de contenu</a></li>
+<li><a href="#sec-4-2">4.2. Système de nom natif</a></li>
+<li><a href="#sec-4-3">4.3. Steem Blockchain Dollars (SBD)</a></li>
+<li><a href="#sec-4-4">4.4. Echange décentralisé</a></li>
+<li><a href="#sec-4-5">4.5. Paiements par l'intermédiaire de l'entiercement</a></li>
+<li><a href="#sec-4-6">4.6. Structure de clé privée hiérarchique</a></li>
+<li><a href="#sec-4-7">4.7. Autorités Multi Sig</a></li>
+<li><a href="#sec-4-8">4.8. Bénéficiaires de récompenses multiples</a></li>
+<li><a href="#sec-4-9">4.9. Jetons de média intelligents (Smart Media Tokens)</a></li>
+<li><a href="#sec-4-10">4.10. Récupération de compte volé</a></li>
+<li><a href="#sec-4-11">4.11. Sécurité à travers les serrures de temps</a></li>
+<li><a href="#sec-4-12">4.12. Limitation du débit de bande passante pour les opérations sans frais</a></li>
+</ul>
+</li>
+<li><a href="#sec-5">5. Conclusion</a></li>
+</ul>
+</div>
+</nav>
+</div></div></div>
+<footer id="postamble" class="">
+<div><p class="author">Author: Laurent Garnier</p>
+<p class="date">Created: 2018-09-03 Mon 23:35</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org-mode</a> 9.1.6)</p>
+</div>
+</footer>
+</body>
+</html>
