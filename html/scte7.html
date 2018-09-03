@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>SCTE#7: SEASONS OF THE YEAR</title>
+<!-- 2018-09-03 Mon 23:26 -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Org-mode">
+<meta name="author" content="Laurent Garnier">
+
+<link  href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style type="text/css">
+/* org mode styles on top of twbs */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    font-size: 18px;
+    margin-bottom: 105px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 101px;
+    background-color: #f5f5f5;
+}
+
+footer > div {
+    padding: 10px;
+}
+
+footer p {
+    margin: 0 0 5px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#table-of-contents {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+blockquote p {
+    font-size: 18px;
+}
+
+pre {
+    font-size: 16px;
+}
+
+.footpara {
+    display: inline-block;
+}
+
+figcaption {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  padding-bottom: 15px;
+}
+
+/* from twbs docs */
+
+.bs-docs-sidebar.affix {
+    position: static;
+}
+@media (min-width: 768px) {
+    .bs-docs-sidebar {
+        padding-left: 20px;
+    }
+}
+
+/* All levels of nav */
+.bs-docs-sidebar .nav > li > a {
+    display: block;
+    padding: 4px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #999;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+    padding-left: 19px;
+    color: #A1283B;
+    text-decoration: none;
+    background-color: transparent;
+    border-left: 1px solid #A1283B;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a {
+    padding-left: 18px;
+    font-weight: bold;
+    color: #A1283B;
+    background-color: transparent;
+    border-left: 2px solid #A1283B;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-docs-sidebar .nav .nav {
+    display: none; /* Hide by default, but at >768px, show it */
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus {
+    padding-left: 29px;
+}
+.bs-docs-sidebar .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav > .active:focus > a {
+    padding-left: 28px;
+    font-weight: 500;
+}
+
+/* Nav: third level (shown on .active) */
+.bs-docs-sidebar .nav .nav .nav {
+    padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 40px;
+    font-size: 12px;
+    font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav .nav > li > a:focus {
+    padding-left: 39px;
+}
+.bs-docs-sidebar .nav .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav .nav > .active:focus > a {
+    padding-left: 38px;
+    font-weight: 500;
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+    .bs-docs-sidebar .nav > .active > ul {
+        display: block;
+    }
+    /* Widen the fixed sidebar */
+    .bs-docs-sidebar.affix,
+    .bs-docs-sidebar.affix-bottom {
+        width: 213px;
+    }
+    .bs-docs-sidebar.affix {
+        position: fixed; /* Undo the static from mobile first approach */
+        top: 20px;
+    }
+    .bs-docs-sidebar.affix-bottom {
+        position: absolute; /* Undo the static from mobile first approach */
+    }
+    .bs-docs-sidebar.affix .bs-docs-sidenav,.bs-docs-sidebar.affix-bottom .bs-docs-sidenav {
+        margin-top: 0;
+        margin-bottom: 0
+    }
+}
+@media (min-width: 1200px) {
+    /* Widen the fixed sidebar again */
+    .bs-docs-sidebar.affix-bottom,
+    .bs-docs-sidebar.affix {
+        width: 263px;
+    }
+}
+</style>
+<script type="text/javascript">
+$(function() {
+    'use strict';
+
+    $('.bs-docs-sidebar li').first().addClass('active');
+
+    $(document.body).scrollspy({target: '.bs-docs-sidebar'});
+
+    $('.bs-docs-sidebar').affix();
+});
+</script>
+</head>
+<body>
+<div id="content" class="container">
+<div class="row"><div class="col-md-9"><h1 class="title">SCTE#7: SEASONS OF THE YEAR</h1>
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Vocabulary of the week</h2>
+<div class="outline-text-2" id="text-1">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Español</th>
+<th scope="col" class="text-left">English</th>
+<th scope="col" class="text-left">Français</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">Yo</td>
+<td class="text-left">I</td>
+<td class="text-left">je</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Tú</td>
+<td class="text-left">you</td>
+<td class="text-left">tu</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Usted</td>
+<td class="text-left">(polite) you</td>
+<td class="text-left">vous (de politesse)</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Amor</td>
+<td class="text-left">love</td>
+<td class="text-left">amour</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Te quiero</td>
+<td class="text-left">I love you</td>
+<td class="text-left">je t’aime</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">No hay problema</td>
+<td class="text-left">no problem</td>
+<td class="text-left">aucun problème</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¡Bienvenido!</td>
+<td class="text-left">welcome!</td>
+<td class="text-left">bienvenue!</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¡Felicitaciones!</td>
+<td class="text-left">congratulations!</td>
+<td class="text-left">félicitations!</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¡Ayuda!</td>
+<td class="text-left">help!</td>
+<td class="text-left">à l’aide!</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Disculpe</td>
+<td class="text-left">sorry</td>
+<td class="text-left">excusez-moi</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¿Cómo estás?</td>
+<td class="text-left">how are you?</td>
+<td class="text-left">comment vas-tu?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Estoy bien</td>
+<td class="text-left">I’m fine</td>
+<td class="text-left">je vais bien</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Un poco</td>
+<td class="text-left">a little</td>
+<td class="text-left">un peu</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Ahora</td>
+<td class="text-left">now</td>
+<td class="text-left">maintenant</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">Más tarde</td>
+<td class="text-left">later</td>
+<td class="text-left">plus tard</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Five W</h2>
+<div class="outline-text-2" id="text-2">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">¿Qué?</th>
+<th scope="col" class="text-left">What?</th>
+<th scope="col" class="text-left">Quoi?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">¿Cuando?</td>
+<td class="text-left">When?</td>
+<td class="text-left">Quand?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¿Dónde?</td>
+<td class="text-left">Where?</td>
+<td class="text-left">Où?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¿Quien?</td>
+<td class="text-left">Who?</td>
+<td class="text-left">Qui?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¿Por Qué?</td>
+<td class="text-left">Why?</td>
+<td class="text-left">Pourquoi?</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">¿Cómo?</td>
+<td class="text-left">How?</td>
+<td class="text-left">Comment?</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Seasons of the year</h2>
+<div class="outline-text-2" id="text-3">
+<table class="table table-striped table-bordered table-hover table-condensed">
+
+
+<colgroup>
+<col  class="left">
+
+<col  class="left">
+
+<col  class="left">
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="text-left">Las estaciones</th>
+<th scope="col" class="text-left">the seasons</th>
+<th scope="col" class="text-left">les saisons</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="text-left">La primavera</td>
+<td class="text-left">spring</td>
+<td class="text-left">printemps</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">El verano</td>
+<td class="text-left">summer</td>
+<td class="text-left">été</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">El otoño</td>
+<td class="text-left">autumn</td>
+<td class="text-left">automne</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="text-left">El invierno</td>
+<td class="text-left">winter</td>
+<td class="text-left">hiver</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Other languages / Autres langues</h2>
+<div class="outline-text-2" id="text-4">
+<ol class="org-ol">
+<li>Newsletters :
+<dl class="org-dl">
+<dt> German / Allemand </dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_german1.html">german-newsletter1</a>
+</dd>
+<dt> Arabic / Arabe </dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_arabic1.html">arabic-newsletter1</a>
+</dd>
+<dt> Chinese / Chinois </dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_chinese1.html">chinese-newsletter1</a>
+</dd>
+<dt> Hebrew / Hébreux </dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_hebrew1.html">hebrew-newsletter1</a>
+</dd>
+<dt> Portuguese / Portugais </dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_portuguese.html">portuguese-newsletter1</a>
+</dd>
+<dt> Russian / Russe </dt><dd><a href="https://lgsp.github.io/sciencelanguages/html/news_russian1.html">russian-newsletter1</a>
+</dd>
+</dl>
+</li>
+<li>Series :
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r">Learn German with me</a>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA">Learn Arabic with me</a>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9">Learn Chinese with me</a>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt">Learn Spanish with me</a>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0">Learn Hebrew with me</a>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAn0zUUPYsMDd8_1J_UtfRxh">Learn Portuguese with me</a>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB">Learn Russian with me</a>
+</li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Additional resources / Ressources complémentaires</h2>
+<div class="outline-text-2" id="text-5">
+<ul class="org-ul">
+<li>The linked video / La vidéo associée
+</li>
+<li><a href="https://fsi-languages.yojik.eu/languages/oldfsi/languages/spanish-index.html">The complete FSI course</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Main website / Site web principal</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+<a href="https://lgsp.github.io/sciencelanguages/html/index.html">Home</a>
+page /
+<a href="https://lgsp.github.io/sciencelanguages/html/index.html">Page</a>
+d'accueil
+</p>
+</div>
+</div>
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Feedback</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+You can find a link <a href="https://youtu.be/YmIk-u1bWH8">here</a> for watching the video. Please subscribe to
+the channel because that will help me. Any feedback and comment
+would be appreciate. I have to precise that I am not an german
+specialist, indeed I'm just a beginner who enjoy to share what he is
+learning.
+</p>
+
+<p>
+Does this content is useful for you? 
+</p>
+<ol class="org-ol">
+<li>If the answer is yes then  please subscribe and spread the word
+by sharing the links on your social media.
+</li>
+<li>If the answer is no then please tell me what can I do in order to
+help you in your learning and improve my material.
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-sec-8" class="outline-2">
+<h2 id="sec-8"><span class="section-number-2">8</span> Critiques constructives</h2>
+<div class="outline-text-2" id="text-8">
+<p>
+Vous pouvez trouver un lien <a href="https://youtu.be/YmIk-u1bWH8">ici</a> pour regarder la vidéo. Merci de
+vous abonner à la chaîne parce que ça m'aidera. Toute critique
+constructive ou commentaire utile seront appréciés. Je dois préciser
+que je ne suis pas un spécialiste de l'allemand, en effet je suis juste
+un débutant qui aime partager ce qu'il apprend.
+</p>
+
+<p>
+Est-ce que ce contenu est utile pour vous?
+</p>
+<ol class="org-ol">
+<li>Si la réponse est oui alors merci de vous abonner et de faire
+passer le mot en partageant les liens sur vos réseaux sociaux.
+</li>
+<li>Si la réponse est non alors merci de me dire ce que je peux faire
+afin de vous aider dans votre apprentissage et améliorer mon
+matériel.
+</li>
+</ol>
+</div>
+</div>
+</div><div class="col-md-3"><nav id="table-of-contents">
+<div id="text-table-of-contents" class="bs-docs-sidebar">
+<ul class="nav">
+<li><a href="#sec-1">1. Vocabulary of the week</a></li>
+<li><a href="#sec-2">2. Five W</a></li>
+<li><a href="#sec-3">3. Seasons of the year</a></li>
+<li><a href="#sec-4">4. Other languages / Autres langues</a></li>
+<li><a href="#sec-5">5. Additional resources / Ressources complémentaires</a></li>
+<li><a href="#sec-6">6. Main website / Site web principal</a></li>
+<li><a href="#sec-7">7. Feedback</a></li>
+<li><a href="#sec-8">8. Critiques constructives</a></li>
+</ul>
+</div>
+</nav>
+</div></div></div>
+<footer id="postamble" class="">
+<div><p class="author">Author: Laurent Garnier</p>
+<p class="date">Created: 2018-09-03 Mon 23:26</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 25.3.1 (<a href="http://orgmode.org">Org-mode</a> 9.1.6)</p>
+</div>
+</footer>
+</body>
+</html>
