@@ -1,7 +1,44 @@
 #+TITLE: Trucs et astuces pour l'épreuve d'allemand au bac 
-#+AUTHOR: Laurent Garnier
+#+AUTHOR: Laurent \textsc{Garnier}
+#+LANGUAGE: fr
+#+OPTIONS: H:2 toc:t num:t date:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+EXPORT_EXCLUDE_TAGS: noexport
 
-* Sujets d'annales corrigés bac S
+#+LATEX_HEADER: \usepackage{amsthm, amssymb}
+#+LATEX_HEADER: \usepackage{pgf,tikz,pgfplots}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage[french]{babel}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=orange, filecolor=magenta, urlcolor=green} 
+
+#+LATEX_HEADER: \pgfplotsset{compat=1.13}
+#+LATEX_HEADER: \usepgfplotslibrary{fillbetween}
+
+#+LATEX_HEADER: \newtheorem{property}{Propriété}[section]
+#+LATEX_HEADER: \newtheorem{defi}{Défi}[section]
+#+LATEX_HEADER: \newtheorem{demo}[theorem]{Démonstration}
+
+#+LATEX_HEADER: \newcommand{\E}[1]{\ensuremath{\mathbb{#1}}}
+#+LATEX_HEADER: \newcommand{\G}[3]{\ensuremath{(\E{#1}^{#2}, #3)}}
+#+LATEX_HEADER: \newcommand{\M}[3]{\ensuremath{\left(\mathcal{M}_{#1}(\E{#2}), #3\right)}}
+#+LATEX_HEADER: \newcommand{\tc}[2]{\ensuremath{\textcolor{#1}{#2}}}
+
+
+#+BEAMER_THEME: default
+#+BEAMER__COLOR_THEME: seagull
+#+BEAMER_OUTER_THEME: default
+#+BEAMER_INNER_THEME: rectangles
+#+BEAMER_FONT_THEME: structurebold
+
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+#+STARTUP: beamer
+
+
+* Sujets d'annales corrigés 
+** Bac S
   
   | Liens vers le site        | Inscription ? | Téléchargeables ? |
   |---------------------------+---------------+-------------------|
@@ -13,7 +50,7 @@
   | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-allemand-lv1-bac-s-96767][studyrama.com]] S, LV1      | non           | non               |
   | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-allemand-lv2-bac-s-96769][studyrama.com]] S, LV2      | non           | non               |
 
-* Sujets d'annales corrigés bac ES
+** Bac ES
 
     | Liens vers le site        | Inscription ? | Téléchargeables ? |
     |---------------------------+---------------+-------------------|
@@ -25,7 +62,7 @@
     | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-es/sujet-et-corrige-allemand-lv1-bac-es-96801][studyrama.com]] ES, LV1     | non           | non               |
     | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-es/sujet-et-corrige-allemand-lv2-bac-es-96803][studyrama.com]] ES, LV2     | non           | non               |
 
-* Sujets d'annales corrigés bac L
+** Bac L
 
     | Liens vers le site        | Inscription ? | Téléchargeables ? |
     |---------------------------+---------------+-------------------|
@@ -38,6 +75,7 @@
     | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-l/sujet-et-corrige-allemand-lv2-bac-l-96701][studyrama.com]] L, LV2      | non           | non               |
 
 * Ressources utiles
+** Ressources utiles
 
   | Liens                   | Téléchargeable ?            |
   |-------------------------+-----------------------------|
@@ -53,6 +91,7 @@
   | [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAliJN9jGwZE2YRsgXDP1MVc][ma-playlist-youtube]]     | non                         |
 
 * Chaînes YouTube en allemand
+** Chaînes YouTube en allemand
 
   | Liens                             | Thématique                |
   |-----------------------------------+---------------------------|
@@ -67,3 +106,56 @@
   | [[https://www.youtube.com/channel/UCPfFA_OmjxP1GaH4AY_AI_g/about?disable_polymer=1][apprendre le vocabulaire Allemand]] | tout est dans le nom      |
   | [[https://www.youtube.com/user/germanpod101][Learn German]]                      | english -> deutsch        |
   
+* Livres utiles pour le bac
+** Livres utiles pour le bac
+
+  + [[https://amzn.to/2rJ6dF6][Objectif Bac 2018]] TS
+  + [[https://amzn.to/2KoNENH][Objectif Bac 2018]] TES
+  + [[https://amzn.to/2wKUACM][Objectif Bac 2018]] TL
+* Ma petite promo perso
+** Ma petite promo perso
+  + [[https://www.youtube.com/watch?v=qoiYGfuuk6s&list=PLfKvL-VUSKAmdKesZSiG1xYvK4Y7iLfFs][La playlist KIT de SURVIE au bac]]
+  + Pour l'anglais en particulier : [[http://doyouspeakenglish.fr/][DYSE]] (mon blog) [[https://www.amazon.fr/gp/product/B07CRVMBVD?ie=UTF8][phonétique]] (mon livre)
+  + Pour les langues en général : [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnkBk88BAb3oq1MlGVnhwcY][BABEL]] (mon projet 7 langues), [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnf4oZzkI3q24X4FJrGzcGr][30 façons d'apprendre l'anglais]]
+  + Pour les maths (scolaire) en particulier : [[https://www.youtube.com/playlist?list=PLwWStLtwGECZ1YPIBHzCD3-rzFjCPWnXO][TDG]] (Théorie Des
+    Groupes), [[https://www.youtube.com/playlist?list=PLwWStLtwGECZQoLYqBJ7gD9iSOhGnQIC9][CPGE]] (Classes Préparatoires aux Grandes Ecoles)
+  + Pour les maths (moins scolaire) : [[https://www.youtube.com/playlist?list=PLb5fsh4qldF8opcpH4xDKnsn2syJ65zrC][Muscle Ton Cerveau]]
+  + Pour l'informatique libre : [[https://www.youtube.com/playlist?list=PLUJNJAesbJGVS8OmCKjOiMvF75OsyimT2][ACBP]] (Apprendre à Coder une Blockchain
+    avec Python) [[https://www.youtube.com/playlist?list=PLO3S2CDkdJ9yKIGk2NiuzXQtlC-dQ4rmA][CDBSSR]] (Comment Découvrir la Blockchain Sans Se
+    Ruiner) [[https://www.youtube.com/playlist?list=PLUJNJAesbJGVfh4t-OkPb_zw9fYAjbGwy][FSD]] (Full Stack Developer)
+  + Pour devenir riche : [[https://www.youtube.com/playlist?list=PLFubDDkqAD9muXLza6RghrB8ShOHcGOGN][ARRÊTER DE FUMER]]
+* Si tu veux m'aider et/ou me remercier
+** Pour m'aider et/ou me remercier GRATUITEMENT
+
+   + Abonne-toi à mes chaînes, commente, like et partage mes vidéos
+   + Si l'un des liens fournis dans ce document ne fonctionne plus
+     alors merci de me le signaler en copiant-collant le lien qui ne
+     fonctionne plus en commentaire de l'une de mes vidéos.
+   + Si tu as des ressources qui pourraient aider les autres merci de
+     les communiquer en commentaires sous l'une de mes vidéos
+   + Tu peux faire une petite vidéo pour me remercier publiquement et
+     laisser un lien vers l'un de mes blogs ou l'une de mes vidéos
+   + Tu peux laisser un avis sur Amazon concernant [[https://www.amazon.fr/gp/product/B07CRVMBVD?ie=UTF8][mon livre]]
+
+** Pour m'aider et/ou me remercier financièrement
+
+   + Tu peux acheter mon livre sur la [[https://amzn.to/2ORsB8Y][phonétique]] anglaise
+   + Tu peux me faire un don en crypto-monnaie (viens m'en parler
+     message privé sur [[https://t.me/joinchat/JGxHI1BrJRHC2C0qLtAXYw][Telegram]] en rejoignant mon groupe pour les gens
+     intéressés par les crypto-monnaies [[https://t.me/joinchat/JGxHI1BrJRHC2C0qLtAXYw][Freemen]])
+   + Tu peux acheter [[https://laurentgarnier.podia.com][l'une de mes formations]]
+
+* Petit cadeau bonus
+** Un dernier petit bonus
+
+   Parce que la santé est primordiale voici une vidéo très
+   intéressante qui explique, entre autres choses, pourquoi il est
+   important d'apprendre toute sa vie : [[https://www.youtube.com/watch?v=KFxEcTolF4o]]
+
+   D'ailleurs si tu veux aller plus loin tu peux te procurer son
+   excellent livre : [[https://www.amazon.fr/gp/product/2253187542/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2253187542&linkCode=as2&tag=wwwbecomefree-21&linkId=c4d561fce3c4735eab69658b0e977199][le meilleur médicament c'est vous]]
+
+* Pour récupérer ce document sous format PDF
+** [[https://laurentgarnier.podia.com][Podia]] ou [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAliJN9jGwZE2YRsgXDP1MVc][YouTube]]
+   + [[https://laurentgarnier.podia.com/kit-de-survie-pour-la-langue-allemande][Podia]]
+   + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAliJN9jGwZE2YRsgXDP1MVc][YouTube]]
