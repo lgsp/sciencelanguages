@@ -1,0 +1,330 @@
+#+TITLE: Trucs et astuces pour l'épreuve d'anglais au bac
+#+AUTHOR: Laurent \textsc{Garnier}
+#+LANGUAGE: fr
+#+OPTIONS: H:2 toc:t num:t date:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+#+LATEX_HEADER: \usepackage{amsthm, amssymb}
+#+LATEX_HEADER: \usepackage{pgf,tikz,pgfplots}
+#+LATEX_HEADER: \usepackage{graphicx}
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage[french]{babel}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=orange, filecolor=magenta, urlcolor=green} 
+
+#+LATEX_HEADER: \pgfplotsset{compat=1.13}
+#+LATEX_HEADER: \usepgfplotslibrary{fillbetween}
+
+#+LATEX_HEADER: \newtheorem{property}{Propriété}[section]
+#+LATEX_HEADER: \newtheorem{defi}{Défi}[section]
+#+LATEX_HEADER: \newtheorem{demo}[theorem]{Démonstration}
+
+#+LATEX_HEADER: \newcommand{\E}[1]{\ensuremath{\mathbb{#1}}}
+#+LATEX_HEADER: \newcommand{\G}[3]{\ensuremath{(\E{#1}^{#2}, #3)}}
+#+LATEX_HEADER: \newcommand{\M}[3]{\ensuremath{\left(\mathcal{M}_{#1}(\E{#2}), #3\right)}}
+#+LATEX_HEADER: \newcommand{\tc}[2]{\ensuremath{\textcolor{#1}{#2}}}
+
+
+#+BEAMER_THEME: default
+#+BEAMER__COLOR_THEME: seagull
+#+BEAMER_OUTER_THEME: default
+#+BEAMER_INNER_THEME: rectangles
+#+BEAMER_FONT_THEME: structurebold
+
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+#+STARTUP: beamer
+
+* Série S 
+** Travailler les sujets d'annales corrigés
+  Je vais pas y aller par 4 chemins, entraîne-toi avec les sujets
+  corrigés disponibles gratuitement en cliquant sur les liens
+  suivants :
+  
+  | Liens vers le site | Inscription ? | Téléchargeables ?                    |
+  |--------------------+---------------+--------------------------------------|
+  | [[http://www.sujetdebac.fr/annales/serie-s/anglais-lv1/][sujetdebac.fr]]      | non           | oui                                  |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2259-Anglais-LV1][bankexam.fr]]        | oui           | oui                                  |
+  | [[http://www.franglish.fr/bac/index.htm][franglish.fr]]       | non           | oui                                  |
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-anglais-lv1-bac-s-96763][studyrama.com]]      | non           | non (consultables en ligne)          |
+  | [[https://www.anglaisfacile.com/free/france/][anglaisfacile.com]]  | non           | ça dépend (redirection vers 2 sites) |
+  | [[https://www.bac-s.net/document/anglais/][bac-s.net]]          | oui           | oui                                  |
+  | [[http://www2.ac-lyon.fr/enseigne/anglais/spip.php?rubrique129][ac-lyon.fr]]         | non           | oui                                  |
+  |                    |               |                                      |
+
+** Ressources pour l'oral
+
+  | Liens vers le site | Inscription ? | Téléchargeables ? |
+  |--------------------+---------------+-------------------|
+  | [[https://www.ac-paris.fr/portail/jcms/p1_1178221/annales-eca-ac-paris-2015][ac-paris.fr]]        | non           | oui               |
+  | [[https://www.ac-paris.fr/portail/jcms/p1_577279/ressources-sonores?cid=sites_11333&portal=sites_11380][ac-paris.fr]]        | non           | non               |
+
+** Ressources générales
+  
+  | Lien vers le site | Inscription ? | Téléchargeables ?           |
+  |-------------------+---------------+-----------------------------|
+  | [[http://cache.media.eduscol.education.fr/file/Ressources/67/6/RESS_LGT_cycle_terminal_LV_anglais_sujets_etudes_230676.pdf][eduscol]]           | non           | oui                         |
+  | [[https://www.ac-paris.fr/portail/jcms/p1_930097/de-l-importance-d-ecrire-des-lettres?cid=sites_11332&portal=sites_11377][ac-paris.fr]]       | non           | non (consultables en ligne) |
+  | [[https://www.ac-paris.fr/portail/jcms/p2_929329/le-roman-gothique][ac-paris.fr]]       | non           | non (consultables en ligne) |
+  | [[http://www.reseau-canope.fr/langues-en-ligne/uploads/tx_lelextendpages/ANG_grande-guerre_lycee_01.pdf][reseau-canope.fr]]  | non           | oui                         |
+  | [[https://youtu.be/36lPo9UBPPQ][youtube.com]]       | non           | non                         |
+  | [[https://www.bl.uk/romantics-and-victorians][bl.uk]]             | non           | non                         |
+  
+** Blockchain technology in English
+
+    | Nom de la chaîne     | Nom de la playlist                    |
+    |----------------------+---------------------------------------|
+    | LanguageScience      | [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAn7GnHIlmHVCyIw1sBC6K-I][Blockchain and Crypto-currencies]]      |
+    | Siraj Raval          | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A54lEqRGsl7Zdcbj3IfEj_z][Intro to Bitcoin]]                      |
+    | Siraj Raval          | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A5VKD1CvdJMNIYerxoyPOcU][Intro to Decentralized Apps]]           |
+    | Siraj Raval          | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL][Cryptocurrencies]]                      |
+    | Siraj Raval          | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A7RTBlSSKdnehec0zJO-xLZ][Blockchain Explained]]                  |
+
+** Science in English
+
+    | Nom de la chaîne     | Nom de la playlist                    |
+    |----------------------+---------------------------------------|
+    | Siraj Raval          | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D][The Math of Intelligence]]              |
+    | Siraj Raval          | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A58LXNa58qguPJGSwpf6pdJ][The Beauty of Math]]                    |
+    | Siraj Raval          | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A5-sn0Sgkw-4q-Lw0jiuQtu][Music Generation]]                      |
+    | Kurzgesagt           | [[https://www.youtube.com/playlist?list=PLFs4vir_WsTyY31efyHdmtp9l7DpR0Wvi][The Human Immune System]]               |
+    | Kurzgesagt           | [[https://www.youtube.com/playlist?list=PLFs4vir_WsTw2QgPkGUpg8TOXa5Z-xkXb][Science & Stuff]]                       |
+    | Kurzgesagt           | [[https://www.youtube.com/playlist?list=PLFs4vir_WsTysVwsTy7hVL89W2MdQtU_k][Technology]]                            |
+    | A More Perfect Logos | [[https://www.youtube.com/playlist?list=PLGV2ddg-PFGvWKDeTyrUji7TXY8y1SHjl][Philosophy of Science]]                 |
+    | Crash Course         | [[https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF][Biology]]                               |
+    | Crash Course         | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV][Physics]]                               |
+    | Crash Course         | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr][Chemistry]]                             |
+    | Crash Course         | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr][Statistics]]                            |
+    | njwildberger         | [[https://www.youtube.com/playlist?list=PL5A714C94D40392AB][Math Foundations]]                      |
+
+** Humanity in English
+
+    | Nom de la chaîne     | Nom de la playlist                    |
+    |----------------------+---------------------------------------|
+    | Thomas Frank         | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJKHcoJzgJ8xd97JbS64e4xE][Crash Course Study Skills]]             |
+    | Thomas Frank         | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJKClhiawf69_GvKdN2U1C4u][Staying Healthy in School and College]] |
+    | Thomas Frank         | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJJ3HxwrSgQlPNU4MKZjmLFi][Start With These]]                      |
+    | CGP Grey             | [[https://www.youtube.com/playlist?list=PLqs5ohhass_QPOfhvhIzxas3Vr9k31Vaz][Rules for Rulers]]                      |
+    | Crash Course         | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR][Philosophy]]                            |
+    | The School of Life   | [[https://www.youtube.com/playlist?list=PLwxNMb28XmpfEr2zNKQfU97eyEs70krSb][Philosophy]]                            |
+    | The School of Life   | [[https://www.youtube.com/playlist?list=PLwxNMb28XmpeUL1vz9Su7OmeghBDgmj7X][Eastern Philosophy]]                    |
+    | Hakob Barseghyan     | [[https://www.youtube.com/playlist?list=PLcVi-VLWtPfbJ15MzQXqILIjhzfYCziRw][HPS100]]                                |
+    | SisyphusRedeemed     | [[https://www.youtube.com/playlist?list=PL67E2553770A6E39E][An Intro 2 the Hist and Philo of Sci]]  |
+    | lalepop89            | [[https://www.youtube.com/playlist?list=PLHzvYltPyWa-TPD3kKRGvG97wBHuUqVYo][BBC History of English Language]]       |
+    | 10 Minute History    | [[https://www.youtube.com/playlist?list=PLm8I5TkIJrVkYO8zFWWIsgH1yuwSUER-S][10 Min English and British History]]    |
+    
+* Série ES 
+** Travailler les sujets d'annales corrigés
+  Je vais pas y aller par 4 chemins, entraîne-toi avec les sujets
+  corrigés disponibles gratuitement en cliquant sur les liens
+  suivants :
+  
+  | Liens vers le site | Inscription ? | Téléchargeables ?                    |
+  |--------------------+---------------+--------------------------------------|
+  | [[http://www.sujetdebac.fr/annales/serie-s/anglais-lv1/][sujetdebac.fr]]      | non           | oui                                  |
+  | [[http://www.bankexam.fr/etablissement/4-Bac-S/2259-Anglais-LV1][bankexam.fr]]        | oui           | oui                                  |
+  | [[http://www.franglish.fr/bac/index.htm][franglish.fr]]       | non           | oui                                  |
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-s/sujet-et-corrige-anglais-lv1-bac-s-96763][studyrama.com]]      | non           | non (consultables en ligne)          |
+  | [[https://www.anglaisfacile.com/free/france/][anglaisfacile.com]]  | non           | ça dépend (redirection vers 2 sites) |
+  | [[https://www.bac-s.net/document/anglais/][bac-s.net]]          | oui           | oui                                  |
+  | [[http://www2.ac-lyon.fr/enseigne/anglais/spip.php?rubrique129][ac-lyon.fr]]         | non           | oui                                  |
+  |                    |               |                                      |
+
+** Ressources pour l'oral
+
+  | Liens vers le site | Inscription ? | Téléchargeables ? |
+  |--------------------+---------------+-------------------|
+  | [[https://www.ac-paris.fr/portail/jcms/p1_1178221/annales-eca-ac-paris-2015][ac-paris.fr]]        | non           | oui               |
+  | [[https://www.ac-paris.fr/portail/jcms/p1_577279/ressources-sonores?cid=sites_11333&portal=sites_11380][ac-paris.fr]]        | non           | non               |
+
+** Ressources générales
+  
+  | Lien vers le site | Inscription ? | Téléchargeables ?           |
+  |-------------------+---------------+-----------------------------|
+  | [[http://cache.media.eduscol.education.fr/file/Ressources/67/6/RESS_LGT_cycle_terminal_LV_anglais_sujets_etudes_230676.pdf][eduscol]]           | non           | oui                         |
+  | [[https://www.ac-paris.fr/portail/jcms/p1_930097/de-l-importance-d-ecrire-des-lettres?cid=sites_11332&portal=sites_11377][ac-paris.fr]]       | non           | non (consultables en ligne) |
+  | [[https://www.ac-paris.fr/portail/jcms/p2_929329/le-roman-gothique][ac-paris.fr]]       | non           | non (consultables en ligne) |
+  | [[http://www.reseau-canope.fr/langues-en-ligne/uploads/tx_lelextendpages/ANG_grande-guerre_lycee_01.pdf][reseau-canope.fr]]  | non           | oui                         |
+  | [[https://youtu.be/36lPo9UBPPQ][youtube.com]]       | non           | non                         |
+  | [[https://www.bl.uk/romantics-and-victorians][bl.uk]]             | non           | non                         |
+  
+** Blockchain technology in English
+
+    | Nom de la chaîne   | Nom de la playlist                    | 
+    |--------------------+---------------------------------------+
+    | LanguageScience    | [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAn7GnHIlmHVCyIw1sBC6K-I][Blockchain and Crypto-currencies]]      |
+    | Siraj Raval        | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A54lEqRGsl7Zdcbj3IfEj_z][Intro to Bitcoin]]                      |
+    | Siraj Raval        | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A5VKD1CvdJMNIYerxoyPOcU][Intro to Decentralized Apps]]           |
+    | Siraj Raval        | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL][Cryptocurrencies]]                      |
+
+** Science in English
+
+    | Nom de la chaîne   | Nom de la playlist                    |
+    |--------------------+---------------------------------------|
+    | Siraj Raval        | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A5-sn0Sgkw-4q-Lw0jiuQtu][Music Generation]]                      |
+    | Thomas Frank       | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJKHcoJzgJ8xd97JbS64e4xE][Crash Course Study Skills]]             |
+    | Thomas Frank       | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJKClhiawf69_GvKdN2U1C4u][Staying Healthy in School and College]] |
+    | Thomas Frank       | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJJ3HxwrSgQlPNU4MKZjmLFi][Start With These]]                      |
+    | Kurzgesagt         | [[https://www.youtube.com/playlist?list=PLFs4vir_WsTySi9F8v5pvCi6zQj7Cwneu][Human Stuff]]                           |
+    | Kurzgesagt         | [[https://www.youtube.com/playlist?list=PLFs4vir_WsTysVwsTy7hVL89W2MdQtU_k][Technology]]                            |
+    | Crash Course       | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV][Physics]]                               |
+    | Crash Course       | [[https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF][Biology]]                               |
+    | Crash Course       | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr][Chemistry]]                             |
+    | Crash Course       | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr][Statistics]]                            |
+    | njwildberger       | [[https://www.youtube.com/playlist?list=PL5A714C94D40392AB][Math Foundations]]                      |
+
+** Humanity in English
+
+    | Nom de la chaîne   | Nom de la playlist                    |
+    |--------------------+---------------------------------------|
+    | CGP Grey           | [[https://www.youtube.com/playlist?list=PLqs5ohhass_QPOfhvhIzxas3Vr9k31Vaz][Rules for Rulers]]                      |
+    | Crash Course       | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR][Philosophy]]                            |
+    | The School of Life | [[https://www.youtube.com/playlist?list=PLwxNMb28XmpfEr2zNKQfU97eyEs70krSb][Philosophy]]                            |
+    | The School of Life | [[https://www.youtube.com/playlist?list=PLwxNMb28XmpeUL1vz9Su7OmeghBDgmj7X][Eastern Philosophy]]                    |
+    | lalepop89          | [[https://www.youtube.com/playlist?list=PLHzvYltPyWa-TPD3kKRGvG97wBHuUqVYo][BBC History of English Language]]       |
+    | 10 Minute History  | [[https://www.youtube.com/playlist?list=PLm8I5TkIJrVkYO8zFWWIsgH1yuwSUER-S][10 Min English and British History]]    |
+    | Crash Course       | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO][Economics]]                             |
+    | Khan Academy       | [[https://www.youtube.com/playlist?list=PLAEA5E9ACA1508F92][Micro and Macro economics]]             |
+    | 1 minute economics | [[https://www.youtube.com/playlist?list=PLhICud5IUwVhK85aHuhrY3-iUwq6eOC6L][Learn Economics in 1 minute]]           |
+    | The School of Life | [[https://www.youtube.com/playlist?list=PLwxNMb28Xmpfv8ez3ItKS1Ti3T8o6f7Yy][History]]                               |
+    | The School of Life | [[https://www.youtube.com/playlist?list=PLwxNMb28XmpeuwUhM0OT338_T5XTtJJok][Political Theory]]                      |
+       
+* Série L
+** Travailler les sujets d'annales corrigés
+  Je vais pas y aller par 4 chemins, entraîne-toi avec les sujets
+  corrigés disponibles gratuitement en cliquant sur les liens
+  suivants :
+  
+  | Liens vers le site   | Inscription ? | Téléchargeables ?           |
+  |----------------------+---------------+-----------------------------|
+  | [[http://www.sujetdebac.fr/annales/serie-l/anglais-lv1/][sujetdebac.fr]]        | non           | oui                         |
+  | [[https://www.bac-l.net/document/anglais/][bac-l.net]]            | oui           | oui                         |
+  | [[http://www.studyrama.com/revision-examen/bac/les-sujets-et-corriges-du-bac/bac-l/sujet-et-corrige-anglais-lv1-bac-l-96695][studyrama.com]]        | non           | non (consultables en ligne) |
+  | [[https://www.letudiant.fr/boite-a-docs/document/corrige-du-bac-l-le-sujet-de-lv1-anglais-1.html][letudiant.fr]]         | non           | non (consultables en ligne) |
+  | [[http://etudiant.lefigaro.fr/article/bac-2017-sujets-et-corriges-de-l-epreuve-de-lv1-en-series-generales_ce4d9c66-4058-11e7-a469-62c36d07d43b/][etudiant.lefigaro.fr]] | non           | non (consultables en ligne) |
+  | [[https://www.lexpress.fr/education/bac/corriges-du-bac-l-es-et-s-d-anglais-2017_1918604.html][lexpress.fr]]          | non           | non (consultables en ligne) |
+  | [[http://www.bankexam.fr/etablissement/2161-Bac-L/2455-Anglais-LV1][bankexam.fr]]          | oui           | oui                         |
+  
+** Bulletin officiel
+   [[https://www.ac-paris.fr/portail/upload/docs/application/pdf/2012-07/b.o_30.09.2010._litterature_etrangere_en_langue_etrangere.pdf][Programme officiel]]
+** Des thèmes, des oeuvres
+   [[http://cache.media.eduscol.education.fr/file/LV/00/4/RESS_LV_cycle_terminal_LELE_anglais_316004.pdf][éduscol]]
+** Organisation des épreuves
+   [[http://www.education.gouv.fr/pid285/bulletin_officiel.html?cid_bo=74959][education.gouv.fr]]
+** Déclinaison des thématiques et ressources
+
+   | Titre       | Lien        | Inscription ? | Téléchargeable ? |
+   |-------------+-------------+---------------+------------------|
+   | Lettres     | [[https://www.ac-paris.fr/portail/jcms/p1_930097/de-l-importance-d-ecrire-des-lettres?cid=p1_660275&portal=sites_11380][ac-paris.fr]] | non           | non              |
+   | Disrupting  | [[https://www.ac-paris.fr/portail/jcms/p2_1075338/disrupting-the-suspension-of-disbelief][ac-paris.fr]] | non           | oui              |
+   | Personnage  | [[https://www.ac-paris.fr/portail/jcms/p1_957301/scenario-pedagogique-en-litterature-etrangere-en-langue-etrangere?portal=sites_11377][ac-paris.fr]] | non           | oui              |
+   | Gothique    | [[https://www.ac-paris.fr/portail/jcms/p2_929329/le-roman-gothique?cid=p1_660275&portal=sites_11380][ac-paris.fr]] | non           | non              |
+   | Shakespeare | [[https://www.ac-paris.fr/portail/jcms/p2_1010358/sparknotes-site-de-ressources-sur-les-oeuvres-de-shakespeare][ac-paris.fr]] | non           | non              |
+   | British     | [[https://www.ac-paris.fr/portail/jcms/p2_1075641/british-library-discovering-literature][ac-paris.fr]] | non           | non              |
+   | Jane Eyre   | [[https://www.ac-paris.fr/portail/jcms/p2_1075648/jane-eyre-and-wide-sargasso][ac-paris.fr]] | non           | oui              |
+   | Imaginaire  | [[https://www.ac-paris.fr/portail/jcms/p1_660336/litterature-etrangere-en-langue-etrangere?cid=p1_660275&portal=sites_11380][ac-paris.fr]] | non           | oui              |
+** Autres documents
+   
+   | Liens       | Inscription ? | Téléchargeable ? |
+   |-------------+---------------+------------------|
+   | [[https://www.ac-paris.fr/portail/jcms/p1_957301/scenario-pedagogique-en-litterature-etrangere-en-langue-etrangere?portal=sites_11377][ac-paris.fr]] | non           | oui              |
+   | [[https://www.ac-paris.fr/portail/jcms/p2_929329/le-roman-gothique?cid=p1_660275&portal=sites_11380][ac-paris.fr]] | non           | non              |
+** Blockchain technology in English
+   
+   | Nom de la chaîne       | Nom de la playlist                    | 
+   |------------------------+---------------------------------------+
+   | LanguageScience        | [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAn7GnHIlmHVCyIw1sBC6K-I][Blockchain and Crypto-currencies]]      |
+   | Siraj Raval            | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A54lEqRGsl7Zdcbj3IfEj_z][Intro to Bitcoin]]                      |
+   | Siraj Raval            | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A5VKD1CvdJMNIYerxoyPOcU][Intro to Decentralized Apps]]           |
+   | Siraj Raval            | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL][Cryptocurrencies]]                      |
+
+** Science in English
+
+   | Nom de la chaîne       | Nom de la playlist                    | 
+   |------------------------+---------------------------------------+
+   | Siraj Raval            | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A5Y14yGVeBwDTbx0kt93Iae][Art Generation]]                        |
+   | Siraj Raval            | [[https://www.youtube.com/playlist?list=PL2-dafEMk2A5-sn0Sgkw-4q-Lw0jiuQtu][Music Generation]]                      |
+   | Thomas Frank           | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJKHcoJzgJ8xd97JbS64e4xE][Crash Course Study Skills]]             |
+   | Thomas Frank           | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJKClhiawf69_GvKdN2U1C4u][Staying Healthy in School and College]] |
+   | Thomas Frank           | [[https://www.youtube.com/playlist?list=PLx65qkgCWNJJ3HxwrSgQlPNU4MKZjmLFi][Start With These]]                      |
+   | Kurzgesagt             | [[https://www.youtube.com/playlist?list=PLFs4vir_WsTySi9F8v5pvCi6zQj7Cwneu][Human Stuff]]                           |
+   | Kurzgesagt             | [[https://www.youtube.com/playlist?list=PLFs4vir_WsTysVwsTy7hVL89W2MdQtU_k][Technology]]                            |
+
+** Humanity in English
+
+   | Nom de la chaîne       | Nom de la playlist                    | 
+   |------------------------+---------------------------------------+
+   | CGP Grey               | [[https://www.youtube.com/playlist?list=PLqs5ohhass_QPOfhvhIzxas3Vr9k31Vaz][Rules for Rulers]]                      |
+   | Crash Course           | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR][Philosophy]]                            |
+   | Crash Course           | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtOeEc9ME62zTfqc0h6Pe8vb][Literature]]                            |
+   | The School of Life     | [[https://www.youtube.com/playlist?list=PLwxNMb28Xmpfv2COuuJaKzy6E2n8nSMdi][Literature]]                            |
+   | The School of Life     | [[https://www.youtube.com/playlist?list=PLwxNMb28XmpfEr2zNKQfU97eyEs70krSb][Philosophy]]                            |
+   | The School of Life     | [[https://www.youtube.com/playlist?list=PLwxNMb28XmpeUL1vz9Su7OmeghBDgmj7X][Eastern Philosophy]]                    |
+   | The School of Life     | [[https://www.youtube.com/playlist?list=PLwxNMb28Xmpfv8ez3ItKS1Ti3T8o6f7Yy][History]]                               |
+   | English Literature Hub | [[https://www.youtube.com/playlist?list=PLhWtLV5EClC19SeYCAAy2JfrB4dzhCKK4][History of English Literature]]         |
+   | Crash Course           | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H][U.S and Politics]]                      |
+   | Crash Course           | [[https://www.youtube.com/playlist?list=PL8dPuuaLjXtMwmepBjTSG593eG7ObzO7s][US History]]                            |
+   | Crash Course           | [[https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9][World History]]                         |
+   | lalepop89              | [[https://www.youtube.com/playlist?list=PLHzvYltPyWa-TPD3kKRGvG97wBHuUqVYo][BBC History of English Language]]       |
+   | 10 Minute History      | [[https://www.youtube.com/playlist?list=PLm8I5TkIJrVkYO8zFWWIsgH1yuwSUER-S][10 Min English and British History]]    |
+
+      
+* Ressources complémentaires mais non scolaires
+** Personnelles
+  1. Mon blog [[http://doyouspeakenglish.fr/]]
+  2. Ma chaîne YouTube : [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnf4oZzkI3q24X4FJrGzcGr][30 astuces pour progresser en anglais]]
+  
+* Livres utiles pour le bac
+** À acheter ou à consulter à la bibliothèque
+  + [[https://amzn.to/2rJ6dF6][Objectif Bac 2018]] TS
+  + [[https://amzn.to/2KoNENH][Objectif Bac 2018]] TES
+  + [[https://amzn.to/2wKUACM][Objectif Bac 2018]] TL
+* Ma petite promo perso
+** Ma petite promo perso
+  + [[https://www.youtube.com/watch?v=qoiYGfuuk6s&list=PLfKvL-VUSKAmdKesZSiG1xYvK4Y7iLfFs][La playlist KIT de SURVIE au bac]]
+  + Pour l'anglais en particulier : [[http://doyouspeakenglish.fr/][DYSE]] (mon blog) [[https://www.amazon.fr/gp/product/B07CRVMBVD?ie=UTF8][phonétique]] (mon livre)
+  + Pour les langues en général : [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnkBk88BAb3oq1MlGVnhwcY][BABEL]] (mon projet 7 langues), [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnf4oZzkI3q24X4FJrGzcGr][30 façons d'apprendre l'anglais]]
+  + Pour les maths (scolaire) en particulier : [[https://www.youtube.com/playlist?list=PLwWStLtwGECZ1YPIBHzCD3-rzFjCPWnXO][TDG]] (Théorie Des
+    Groupes), [[https://www.youtube.com/playlist?list=PLwWStLtwGECZQoLYqBJ7gD9iSOhGnQIC9][CPGE]] (Classes Préparatoires aux Grandes Ecoles)
+  + Pour les maths (moins scolaire) : [[https://www.youtube.com/playlist?list=PLb5fsh4qldF8opcpH4xDKnsn2syJ65zrC][Muscle Ton Cerveau]]
+  + Pour l'informatique libre : [[https://www.youtube.com/playlist?list=PLUJNJAesbJGVS8OmCKjOiMvF75OsyimT2][ACBP]] (Apprendre à Coder une Blockchain
+    avec Python) [[https://www.youtube.com/playlist?list=PLO3S2CDkdJ9yKIGk2NiuzXQtlC-dQ4rmA][CDBSSR]] (Comment Découvrir la Blockchain Sans Se
+    Ruiner) [[https://www.youtube.com/playlist?list=PLUJNJAesbJGVfh4t-OkPb_zw9fYAjbGwy][FSD]] (Full Stack Developer)
+  + Pour devenir riche : [[https://www.youtube.com/playlist?list=PLFubDDkqAD9muXLza6RghrB8ShOHcGOGN][ARRÊTER DE FUMER]]
+* Si tu veux m'aider et/ou me remercier
+** Pour m'aider et/ou me remercier GRATUITEMENT
+
+   + Abonne-toi à mes chaînes, commente, like et partage mes vidéos
+   + Si l'un des liens fournis dans ce document ne fonctionne plus
+     alors merci de me le signaler en copiant-collant le lien qui ne
+     fonctionne plus en commentaire de l'une de mes vidéos.
+   + Si tu as des ressources qui pourraient aider les autres merci de
+     les communiquer en commentaires sous l'une de mes vidéos
+   + Tu peux faire une petite vidéo pour me remercier publiquement et
+     laisser un lien vers l'un de mes blogs ou l'une de mes vidéos
+   + Tu peux laisser un avis sur Amazon concernant [[https://www.amazon.fr/gp/product/B07CRVMBVD?ie=UTF8][mon livre]]
+
+** Pour m'aider et/ou me remercier financièrement
+
+   + Tu peux acheter mon livre sur la [[https://amzn.to/2ORsB8Y][phonétique]] anglaise
+   + Tu peux me faire un don en crypto-monnaie (viens m'en parler
+     message privé sur [[https://t.me/joinchat/JGxHI1BrJRHC2C0qLtAXYw][Telegram]] en rejoignant mon groupe pour les gens
+     intéressés par les crypto-monnaies [[https://t.me/joinchat/JGxHI1BrJRHC2C0qLtAXYw][Freemen]])
+   + Tu peux acheter [[https://laurentgarnier.podia.com][l'une de mes formations]]
+
+* Petit cadeau bonus
+** Un dernier petit bonus
+
+   Parce que la santé est primordiale voici une vidéo très
+   intéressante qui explique, entre autres choses, pourquoi il est
+   important d'apprendre toute sa vie : [[https://www.youtube.com/watch?v=KFxEcTolF4o]]
+
+   D'ailleurs si tu veux aller plus loin tu peux te procurer son
+   excellent livre : [[https://www.amazon.fr/gp/product/2253187542/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2253187542&linkCode=as2&tag=wwwbecomefree-21&linkId=c4d561fce3c4735eab69658b0e977199][le meilleur médicament c'est vous]]
+
+* Pour récupérer ce document sous format PDF
+** [[https://laurentgarnier.podia.com][Podia]] ou [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAmmKcyg6vPYP-XLxIAtfTzn][YouTube]]
+   + [[https://laurentgarnier.podia.com/kit-de-survie-pour-la-langue-anglaise][Podia]]
+   + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAmmKcyg6vPYP-XLxIAtfTzn][YouTube]]
+  
