@@ -1,0 +1,459 @@
+#+TITLE: Top 30 Words You Won't Find In The Dictionary
+#+AUTHOR: Laurent Garnier
+#+OPTIONS: title:nil toc:nil
+#+LATEX_HEADER: \usepackage{graphics}
+#+LATEX_HEADER: \hypersetup{colorlinks=true, citecolor=electricblue,filecolor=electricblue,linkcolor=red,urlcolor=blue}
+
+
+#+BEGIN_EXPORT latex
+\begin{titlepage}
+\begin{center}
+{\Large {\sc Top 30 Words You Won't Find In The Dictionary} \par}
+\vspace{2cm}
+{
+\centering
+\includegraphics[scale=.1]{nz-with-girls.jpeg}
+}\\
+{\Large Introduction To French Slang \par}
+\vspace{2cm}
+BY
+{\Large Laurent \textsc{Garnier} \par}
+\vspace{2cm}
+\end{center}
+\vfill
+Visit my blog: \url{www.impossiblenestpasfrancais.eu}\\
+{
+\centering
+\includegraphics[scale=3]{french-flag.jpg}\\
+Visit my blog: \url{www.impossiblenestpasfrancais.eu}\\
+\includegraphics[scale=.1]{nz-ben-lomond-forest.jpeg}\\
+Visit my blog: \url{www.impossiblenestpasfrancais.eu}
+}\\
+\end{titlepage}
+
+\tableofcontents
+#+END_EXPORT
+
+* Why You Should Study French Slang?
+
+  + French slang is very important.
+
+  + There are tons of levels and variety of French slangs.
+
+  + Here are only 30 words.
+
+  + If you want more just let me know and I'll build a course and/or a
+    book on it because there are a lot of things to talk about here.
+
+  + I think that even scholars are deeply working on that topic.
+
+  + In the table you have 30 words and their definition in standard
+    French I give you the standard translation in standard English.
+
+  + After that you'll get a real life French slang sentence with its
+    translation in English for each word.
+
+  + And as bonuses you'll see some links to YouTube videos and/or
+    others websites with lyrics or Wikipedia pages about the French
+    culture (not only slang culture).
+  
+  + Get my [[https://tinycards.duolingo.com/decks/6VNKUdba/english-words-with-french-origin][Flash Cards]] for FREE!
+  
+  + Subscribe to my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAmWy-ZYHqILaQ1ONPVbdVys][YouTube]] channel: [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAmWy-ZYHqILaQ1ONPVbdVys][LanguageScience]]
+ 
+  + Visit my blog: \url{www.impossiblenestpasfrancais.eu}!
+
+  + Impossible n'est pas français means: Impossible Is Not French!
+
+  + Join my [[https://laurentgarnier.podia.com/top-30-words-you-won-t-find-in-the-dictionary][newsletter]]!
+
+  + So, enjoy discovering this wonderful world!
+
+  #+BEGIN_CENTER
+  #+ATTR_LATEX: :width 150px :height 100px
+  [[./france.jpg]]
+  #+END_CENTER
+
+* The 30 Words You Won't Find In The Dictionary
+
+| Num | Slang          | Normal Word In French   | Normal Word In English |
+|-----+----------------+-------------------------+------------------------|
+|  01 | bagnole        | voiture/automobile      | car                    |
+|  02 | caisse         | voiture/automobile      | car                    |
+|  03 | dèche          | pénurie                 | lack                   |
+|  04 | con            | imbécile/idiot          | stupid                 |
+|  05 | enfoiré        | personne immorale       | immoral person         |
+|  06 | chier          | déféquer                | defecate               |
+|  07 | emmerder       | ennuyer/embêter         | annoy/bother           |
+|  08 | balaise        | fort                    | tough                  |
+|  09 | baraqué        | costaud                 | burly                  |
+|  10 | blindé         | riche                   | wealthy                |
+|  11 | plein aux as   | très riche              | very wealthy           |
+|  12 | oseille        | argent                  | money                  |
+|  13 | flouze         | argent                  | money                  |
+|  14 | blé            | argent                  | money                  |
+|  15 | fric           | argent                  | money                  |
+|  16 | piaule         | chambre                 | room                   |
+|  17 | plumard        | lit                     | bed                    |
+|  18 | pieuter        | dormir                  | sleep                  |
+|  19 | niquer         | avoir un rapport sexuel | to have sex with       |
+|  20 | enculer        | sodomiser               | sodomize               |
+|  21 | enculé         | imbécile                | fucker                 |
+|  22 | pif            | nez                     | nose                   |
+|  23 | gueule         | bouche                  | mouth                  |
+|  24 | tronche        | figure/visage           | face                   |
+|  25 | thune          | argent                  | money                  |
+|  26 | rond           | argent                  | money                  |
+|  27 | fraise         | visage/personne         | face/person            |
+|  28 | poire          | visage/personne         | face/person            |
+|  29 | pomme          | visage/personne         | face/person            |
+|  30 | avoir la pêche | être en forme           | to have energy         |
+
+* Bonus: 30 examples to play with
+** Bagnole
+  #+BEGIN_CENTER       
+  #+ATTR_LATEX: :width 150px :height 100px
+  [[./jesse-collins-car-unsplash.jpg]]
+  Photo by Jesse Collins on https://unsplash.com/
+  #+END_CENTER
+
+  + Français :: J'ai acheté ma *bagnole* y'a 10 ans maintenant. (Voir
+                les [[https://youtu.be/wXCz0lMR6fo][clés de bagnole]])
+  + English :: I bought my *car* 10 years ago now.
+  
+** Caisse
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./goh-rhy-yan-car-unsplash.jpg]]
+   Photo by Goh Rhy Yan on https://unsplash.com/
+   #+END_CENTER
+
+   + Français :: Mon dans ma *caisse* [[https://youtu.be/buQxF0eIeXI][je t'emmène à l'aéroport]].
+   + English :: Come inside my *car* I bring you to the airport.
+
+** Dèche
+   
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 100px :height 75px
+   [[./enrico-mantegazza-fridge-unsplash.jpg]]
+   Photo by Enrico Mantegazza on https://unsplash.com/
+   #+END_CENTER
+   + Français :: C'est la *dèche* en ce moment j'ai rien à grailler
+                 dans mon frigo. (Voir [[https://youtu.be/T6YOABa3eXE][soir de dèche]])
+   + English :: It's *dry* now I have nothing to eat in my fridge.
+
+** Con
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./con.jpg]]
+   #+END_CENTER
+   + Français :: Les *cons* ça osent tout, c'est même à ça qu'on les
+                 reconnaît. (Voir les [[https://youtu.be/EeO1JqBZ6kI][tontons flingeurs]] disponible
+                 [[https://amzn.to/2LH2kLL][ici]] : [[https://amzn.to/2LH2kLL]])
+   + English :: The *idiots* dare everything, it's even that we
+                recognize them.
+** Enfoiré
+
+   + Français :: Regarde-moi cet *enfoiré*, au lieu d'attendre son
+                 tour il passe devant tout le monde sans raison. (Voir
+                 [[https://youtu.be/eaYMU8S354g][les enfoirés]])
+   + English :: Look at this *bastard*, instead of waiting for his turn
+                he passes in front of everyone for no reason.
+** Chier
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./shit.png]]
+   #+END_CENTER
+   + Français :: Je sais pas toi, mais ça me fait *chier* d'attendre
+                 ici pendant des plombes alors qu'on pourrait régler
+                 ce problème avec un ordinateur.
+   + English :: I do not know about you, but it *pisses me off* waiting
+                for a while when we could fix it with a computer.
+
+** Emmerder
+
+   + Français :: Si tu étais plus costaud tu te ferais pas *emmerder*
+                 dans la rue. 
+   + English :: If you were stronger you would not *be pissed off* in
+                the street.
+
+** Balaise
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./alora-griffiths-muscle-unsplash.jpg]]
+   Photo by Alora Griffiths on https://unsplash.com/
+   #+END_CENTER
+   + Français :: Pas besoin d'être super *balaise* en maths pour
+                 apprendre à coder. (Voir ce [[https://youtu.be/Do6YWKE5Vqs][sketch de Coluche]])
+   + English :: You do not have to be *great* at maths to learn to
+                code.
+
+** Baraqué 
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 175px :height 150px
+   [[./kevin-wolf-baraque-unsplash.jpg]]
+   Photo by Kevin Wolf on https://unsplash.com/
+   #+END_CENTER
+   + Français :: C'est pas avec une séance par semaine à la salle de
+                 sport que tu seras *baraqué* comme Terminator. 
+   + English :: It's not with a session a week at the gym that you'll
+                be *hogged* like Terminator.
+
+** Blindé
+   
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./money.jpg]]
+   #+END_CENTER
+   + Français :: Pierre Henri il est *blindé*, t'as vu la baraque
+                 qu'il a dans le 16ème ? 
+   + English :: Pierre Henri he is *loaded*, you saw the hut he has in
+                the 16th?
+
+** Plein aux as
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./sharon-mccutcheon-cash-unsplash.jpg]]
+   #+END_CENTER
+   + Français :: C'est sûr que pour habiter dans le 16ème
+                 arrondissement de Paris il faut *être plein aux as*.
+   + English :: It is certain that to live in the 16th arrondissement
+                of Paris you have *to be full of aces*.
+
+** Oseille
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./money2.jpg]]
+   #+END_CENTER
+   + Français :: Rien que pour être propriétaire à Paris il déjà en
+                 avoir de l'*oseille*.
+   + English :: Just to be owner in Paris must have *dough*.
+
+** Flouze
+   
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./money3.jpg]]
+   #+END_CENTER
+   + Français :: Aboule le *flouze* si tu veux pas finir entre 4
+                 planches. (Voir ce [[https://youtu.be/fy5ewMwLvMc][sketch des inconnus]] l'intégrale
+                 est disponible [[https://amzn.to/2Jv6pA9][ici]] : [[https://amzn.to/2Jv6pA9]])
+   + English :: Give the *money* if you don't want to be dead.
+
+** Blé
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./money4.png]]
+   #+END_CENTER
+   + Français :: L'argent ne fait pas le bonheur, certes mais j'ai
+                 jamais vu des gens qui ont du *blé* se plaindre d'en
+                 avoir trop.
+   + English :: English doesn't buy happiness, sure, but I have never
+                seen people with *dough* complain about having to much
+                of it.
+** Fric
+   
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./money5.jpg]]
+   #+END_CENTER
+   + Français :: Y'a pas que le *fric* dans la vie ! (Voir ce [[https://youtu.be/aXgSHL7efKg][clip]].)
+   + English :: There is not only *money* in life!
+
+** Piaule
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./piaule.jpg]]
+   #+END_CENTER
+   + Français :: Quand on drague une meuf le but c'est de la ramener
+                 dans sa *piaule* (chambre) ou de se faire inviter dans la
+                 sienne. 
+   + English :: When you make a move on a chick the goal is to bring
+                her in your *pad* (room) or to get invited in hers.
+** Plumard
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./bed.jpg]]
+   #+END_CENTER
+   + Français :: Un bon *plumard* c'est toujours utile pour un bon
+                 sommeil. (Voir cette [[https://youtu.be/JQELwtJxqQM][course de plumards]])
+   + English :: A good *sack* is always useful for a good sleep.
+                 
+** Pieuter
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./sleep.jpg]]
+   #+END_CENTER
+   + Français :: Parfois je vais *me pieuter* à 22h parce que je me suis
+                 levé à 5h. (Comme [[https://youtu.be/qpHRWCtrpAI][lui]])
+   + English :: Sometimes I *bunk down* at 10pm because I got up at
+                5am.
+
+** Niquer
+   
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./romi-yusardi-animal-sex-unsplash.jpg]]
+   Photo by Romi Yusardi on https://unsplash.com/
+   #+END_CENTER
+   + Français :: *Niquer* est un mot considéré comme vulgaire mais vous
+                 l'entendrez assez souvent en France, surtout dans les
+                 grandes villes donc ça peut servir de savoir le
+                 reconnaître quand on l'entend. 
+   + English :: *To screw* is a word considered vulgar but you will hear
+                it quite often in France, especially in big cities so
+                it can be useful to know how to recognize it when you
+                hear it.
+ 
+** Enculer
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./bear-sex.jpg]]
+   #+END_CENTER
+   + Français :: Se faire *enculer* est littéralement une pratique
+                 sexuelle plutôt tabou le mieux est d'étudier les
+                 paroles de la chanson de [[https://www.paroles.net/georges-brassens/paroles-s-faire-enculer][Georges Brassens]].
+   + English :: Getting *buggered* is literally a rather taboo sexual
+                practice, the best is to study the lyrics of Georges
+                Brassens' song.
+** Enculé
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 175px :height 100px
+   [[./dumb.jpg]]
+   #+END_CENTER
+   + Français :: Oh hisse l'*enculé* entonnent en coeur les
+                 supporteurs de l'OM au stade Vélodrome.
+   + English :: Go *bastard* sing by heart OM supporters at the
+                Vélodrome stadium
+** Pif
+   
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./pif.jpg]]
+   #+END_CENTER
+   + Français :: Les deux mecs étaient bourrés et y'en a un qui a filé une
+                 pêche à l'autre en plein dans le *pif* du coup la
+                 bagarre a démarré. 
+   + English :: The two guys were drunk and there's one who spun one
+                  punch to the other in the *schnozzle* (nose) of the
+                  moment the fight started.
+
+** Gueule
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./beautiful-face.jpg]]
+   #+END_CENTER
+   + Français :: [[https://fr.wikipedia.org/wiki/Georges_Moustaki][Georges Moustaki]] s'est notamment rendu célèbre avec
+                 sa chanson "avec ma *gueule* [[https://youtu.be/Up5oEw55QO4][de métèque]]".
+   + English :: Georges Moustaki has made famous with his song "with
+                my immigrant face".
+
+** Tronche
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./gueule-de-loup.jpg]]
+   #+END_CENTER
+   + Français :: Il faut faire attention quand on claque des portes on
+                 risque de s'en prendre dans la *tronche*. (Voir la
+                 [[https://youtu.be/kGDLDljaYxg][tronche en biais]])
+   + English : We must be careful when we slam doors we risk to attack
+     the *face*.
+
+** Thune 
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./money6.jpg]]
+   #+END_CENTER
+   + Français :: La *thune* c'est toujours mieux d'en avoir en abondance
+                 plutôt que d'en manquer. (Ecouter [[https://youtu.be/xP2n7oTI0HI][Angèle]])
+   + English :: The *lolly* (money) is always better to have in abundance rather
+                than to miss it.
+
+** Rond
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./rond.jpg]]
+   #+END_CENTER
+   + Français :: En ce moment j'ai pas un *rond*.
+   + English :: Currently I am *chubby* (without money).
+
+** Fraise
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./fraise.jpg]]
+   #+END_CENTER
+   + Français :: *Ramène ta fraise*, j'ai deux mots à te dire. 
+   + English :: *Stick your nose in*, I have two words to tell
+                you. 
+
+** Poire
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./pear.jpg]]
+   #+END_CENTER
+   + Français :: L'autre jour je suis intervenu pour défendre une
+                 personne qui se faisait agresser et j'en ai pris
+                 plein la *poire*.
+   + English :: The other day I intervened to defend a person who was
+                being attacked and I took a lot of in the *face*.
+
+** Pomme
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./apple.jpg]]
+   #+END_CENTER
+   + Français :: Si je te laisse conduire ma voiture alors que tu n'as
+                 pas le permis et que les flics nous arrêtent ça sera
+                 tout pour ma *pomme*.
+   + English :: If I let you drive my car when you do not have the
+                license and the cops stop us that will fall *to me*.
+
+** Avoir la pêche
+
+   #+BEGIN_CENTER
+   #+ATTR_LATEX: :width 150px :height 100px
+   [[./peach.jpg]]
+   #+END_CENTER
+   + Français :: [[https://youtu.be/fL69xn7gLHw][Garde la pêche]] parce qu'*avoir la pêche* c'est être en
+                 forme.
+   + English :: Keep the energy because *feeling great* it's feeling in
+                top form.
+* If You Want To Go Further
+
+  + [[https://amzn.to/2xAV0cr][Merde!: The Real French You Were Never Taught at School]]
+
+  + Get my [[https://tinycards.duolingo.com/decks/6VNKUdba/english-words-with-french-origin][Flash Cards]] for FREE!
+  
+  + Subscribe to my [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAmWy-ZYHqILaQ1ONPVbdVys][YouTube]] channel: [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAmWy-ZYHqILaQ1ONPVbdVys][LanguageScience]]
+ 
+  + Visit my blog: \url{www.impossiblenestpasfrancais.eu}!
+
+  + Impossible n'est pas français means: Impossible Is Not French!
+
+  + Join my [[https://laurentgarnier.podia.com/top-30-words-you-won-t-find-in-the-dictionary][newsletter]]!
+
+    
+  #+BEGIN_CENTER
+  [[./hand-france.png]]
+  [[https://youtu.be/5PS0gY1juCE][Au revoir]]
+  #+END_CENTER
