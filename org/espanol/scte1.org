@@ -1,0 +1,184 @@
+#+TITLE: Spanish Conversation of the Thursday Episode 1
+#+AUTHOR: Laurent Garnier
+#+LANGUAGE: fr, es
+#+OPTIONS: H:2 toc:t num:t date:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=orange, filecolor=magenta, urlcolor=green} 
+
+
+
+#+BEAMER_THEME: default
+#+BEAMER__COLOR_THEME: seagull
+#+BEAMER_OUTER_THEME: default
+#+BEAMER_INNER_THEME: rectangles
+#+BEAMER_FONT_THEME: structurebold
+
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+#+STARTUP: beamer
+
+
+
+* The Alphabet A-M/ L'alphabet A-M
+** From A to M / De A à M
+  
+  | Letter | Name      | Example     | English       | French         |
+  |--------+-----------+-------------+---------------+----------------|
+  | A      | a         | amigo       | friend        | ami            |
+  | B      | be        | bocina      | horn          | sonnette       |
+  | C      | ce        | cuchillo    | knife         | couteau        |
+  | CH     | che       | chubasquero | raincoat      | imperméable    |
+  | D      | de        | desayuno    | breakfast     | petit-déjeuner |
+  | E      | e         | eficaz      | effective     | efficace       |
+  | F      | efe       | frutas      | fruits        | fruits         |
+  | G      | ge        | girar       | spin          | tourner        |
+  | H      | hache     | huevo       | egg           | oeuf           |
+  | I      | i         | iniciar     | start         | commencer      |
+  | J      | jota      | jamon       | ham           | jambon         |
+  | K      | ka        | kilometro   | kilometer     | kilomètre      |
+  | L      | ele       | limon       | lemon         | citron         |
+  | LL     | elle      | lluvia      | rain          | pluie          |
+  | M      | eme       | montaña     | mountain      | montagne       |
+
+
+* The Alphabet N-Z / L'alphabet N-Z
+** From N to Z/De N à Z
+
+  | Letter | Name      | Example     | English       | French         |
+  |--------+-----------+-------------+---------------+----------------|
+  | N      | ene       | nariz       | nose          | nez            |
+  | Ñ      | eñe       | niño        | kid           | enfant         |
+  | O      | o         | oliva       | olive         | olive          |
+  | P      | pe        | pescado     | fish          | poisson        |
+  | Q      | cu        | queso       | cheese        | fromage        |
+  | R      | erre      | recuerdo    | memory        | souvenir       |
+  | S      | ese       | seta        | mushroom      | champignon     |
+  | T      | te        | toro        | bull          | taureau        |
+  | U      | u         | universidad | university    | université     |
+  | V      | eve       | vigilar     | guard         | surveiller     |
+  | W      | uve doble | western     | western movie | western        |
+  | X      | equis     | xilofono    | xylophone     | xylophone      |
+  | Y      | i griega  | yacer       | lie           | être étendu    |
+  | Z      | zeta      | zapato      | shoe          | chaussure      |
+
+
+* Pequeño diálogo
+** En español
+
+  + Lorenzo :: Hola Laura.
+  + Laura :: Hola Lorenzo.
+  + Lorenzo :: ¿Hablas español?
+  + Laura :: No hablo español. 
+  + Lorenzo :: Es sorprendente porque me respondes en español.
+  + Laura :: Si, hablo un poquito español. Entiendo bastante bien el
+             español, pero me cuesta hablar. 
+  + Lorenzo :: Hablas bien el español. ¿Estudiaste en la escuela?
+  + Laura :: Estudié español en la escuela.
+  + Lorenzo :: Ok, tengo que irme, vemos la proxima vez.
+  + Laura :: Bueno, hasta la proxima vez.
+
+* Little dialogue
+** In English
+
+  + Lawrence :: Hi Laura.
+  + Laura :: Hi Lawrence.
+  + Lawrence :: Do you speak Spanish?
+  + Laura :: I don't speak Spanish.
+  + Lawrence :: That's surprising because you answered me in Spanish.
+  + Laura :: Yes, I speak a little Spanish. I understand Spanish well,
+             but I can hardly speak.
+  + Lawrence :: You speak Spanish well. Did you study it at school?
+  + Laura :: I studied Spanish at school.
+  + Lawrence :: Ok, I have to go, see next time.
+  + Laura :: Well, see you next time.
+
+* Petit dialogue
+** En français
+  + Laurent :: Salut Laura.
+  + Laura :: Salut Laurent.
+  + Laurent :: Parles-tu espagnol ?
+  + Laura :: Je ne parle pas espagnol.
+  + Laurent :: C'est surprenant parce que tu m'as répondu en espagnol.
+  + Laura :: Oui, je parle un peu espagnol. Je comprends bien
+             l'espagnol, mais j'ai du mal parler.
+  + Laurent :: Tu parles bien l'espagnol. L'as-tu étudié à l'école ?
+  + Laura :: J'ai étudié l'espagnol à l'école.
+  + Laurent :: D'accord, je dois y aller, à la prochaine fois.
+  + Laura :: Bien, à la prochaine fois.
+
+* Tips and tricks 
+** Spanish to English
+
+  | Español                     | English                        |
+  |-----------------------------+--------------------------------|
+  | ¿Cómo?                      | What? How?                     |
+  |-----------------------------+--------------------------------|
+  | Disculpa, pero no entiendo. | Sorry, but I don't understand. |
+  |-----------------------------+--------------------------------|
+  | ¿Lo puedes repetir?         | Can you repeat?                |
+  |-----------------------------+--------------------------------|
+  | ¿Podrías hablar más alto?   | Could you speak louder?        |
+  |-----------------------------+--------------------------------|
+  | Más despacio, por favor.    | More slowly, please.           |
+  |-----------------------------+--------------------------------|
+  | ¿Puedes deletrearlo?        | Can you spell it?              |
+  |-----------------------------+--------------------------------|
+  | ¿Como se escribe?           | How do you write it?           |
+  
+  
+
+* Trucs et astuces
+** Espagnol vers français
+
+  | Español                     | Français                               |
+  |-----------------------------+----------------------------------------|
+  | ¿Cómo?                      | Quoi ? Comment ?                       |
+  |-----------------------------+----------------------------------------|
+  | Disculpa, pero no entiendo. | Excusez-moi, mais je ne comprends pas. |
+  |-----------------------------+----------------------------------------|
+  | ¿Lo puedes repetir?         | Peux-tu répéter ?                      |
+  |-----------------------------+----------------------------------------|
+  | ¿Podrías hablar más alto?   | Pourrais-tu parler plus fort ?         |
+  |-----------------------------+----------------------------------------|
+  | Más despacio, por favor.    | Plus lentement, s'il te plaît.         |
+  |-----------------------------+----------------------------------------|
+  | ¿Puedes deletrearlo?        | Peux-tu me l'épeler ?                  |
+  |-----------------------------+----------------------------------------|
+  | ¿Como se escribe?           | Comment ça s'écrit ?                   |
+  
+
+* Additional Resources 
+** Links to additional resources
+
+  + The linked [[https://youtu.be/VpVsJGsPfnE][video]]
+  + [[https://lgsp.github.io/sciencelanguages/html/news_spanish1.html][The newsletter for spanish speaker]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/spanish.html][FSI complete spanish course]]
+
+* Ressources complémentaires
+** Ressources complémentaires
+
+  + La [[https://youtu.be/VpVsJGsPfnE][vidéo]] associée
+  + [[https://lgsp.github.io/sciencelanguages/html/news_spanish1.html][The newsletter for spanish speaker]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/spanish.html][FSI complete spanish course]]
+
+  
+* Other languages / Autres langues
+** My videos on YouTube / Mes vidéos sur YouTube
+
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][Learn German with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Learn Arabic with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Learn Chinese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Learn spanish with me]]
+** My blogs
+
+   + [[https://doyouspeakenglish.fr]]
+   + [[https://govoritparoussky.fr]]
+   + [[https://impossiblenestpasfrancais.eu]]
+   + [[https://polyglothuman.fr]]
+
+
