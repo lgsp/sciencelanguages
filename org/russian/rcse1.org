@@ -1,0 +1,107 @@
+#+TITLE: Russian Conversation of the Sunday Episode 1
+#+AUTHOR: Laurent Garnier
+#+LANGUAGE: fr, ru
+#+OPTIONS: H:2 toc:t num:t date:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \usepackage{xunicode}
+#+LATEX_HEADER: \newfontfamily\cyrillicfont{Times New Roman}
+#+LATEX_HEADER: \usepackage{polyglossia}
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=orange, filecolor=magenta, urlcolor=green} 
+
+
+#+BEAMER_THEME: default
+#+BEAMER__COLOR_THEME: seagull
+#+BEAMER_OUTER_THEME: default
+#+BEAMER_INNER_THEME: rectangles
+#+BEAMER_FONT_THEME: structurebold
+
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+#+STARTUP: beamer
+
+
+* маленький диалог
+** По русски
+
+  + Лоран :: привет
+  + Светлана :: привет 
+  + Лоран :: меня зовут Лоран, а тебя 
+  + Светлана :: меня зовут Светлана
+  + Лоран :: очень приятно 
+  + Светлана :: Мне тоже очень приятно 
+  + Лоран :: ты хочешь изучать французский язык и я хочу изучать
+             русский язык, мы можем помочь?
+  + Светлана :: да, да
+  + Лоран :: пока  
+  + Светлана :: пока пока
+
+* Little dialogue 
+** In English
+
+  + Lawrence :: Hi
+  + Svetlana :: Hi 
+  + Lawrence :: My name is Lawrence and you?
+  + Svetlana :: My name is Svetlana
+  + Lawrence :: Nice to meet you
+  + Svetlana :: Nice to meet you too
+  + Lawrence :: You want to learn French and I want to learn Russian,
+                we can help?
+  + Svetlana :: Yes, yes
+  + Lawrence :: Bye
+  + Svetlana :: Bye, bye
+
+* Petit dialogue
+** En français
+
+  + Laurent :: Salut
+  + Svetlana :: Salut
+  + Laurent :: Je m'appelle Laurent et toi ?
+  + Svetlana :: Je m'appelle Svetlana
+  + Laurent :: Enchanté
+  + Svetlana :: Enchantée aussi 
+  + Laurent :: Tu veux apprendre le français et je veux apprendre le
+               russe nous pouvons nous aider
+  + Svetlana :: Oui, oui
+  + Laurent :: Au revoir
+  + Svetlana :: Au revoir
+
+* Russian cyrillic alphabet
+
+  [[https://en.wikipedia.org/wiki/Russian_alphabet][Wikipedia]]
+
+* Additional Ressources 
+** Links to additional resources
+
+  + The linked [[https://youtu.be/OMB9WtsR_48][video]]
+  + [[https://lgsp.github.io/sciencelanguages/html/news_russian1.html][The newsletter for russian speaker]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/russian.html][FSI complete Russian course]]
+
+* Ressources complémentaires
+** Liens vers d'autres ressources
+
+  + La [[https://youtu.be/OMB9WtsR_48][vidéo]] associée
+  + [[https://lgsp.github.io/sciencelanguages/html/news_russian1.html][La newsletter de l'anglais pour le russe]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/russian.html][Le cours complet du FSI]]
+
+* Other languages / Autres langues
+** My YouTube videos / Mes vidéos YouTube
+
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][Learn German with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Learn Arabic with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Learn Chinese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Learn Spanish with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0][Learn Hebrew with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAn0zUUPYsMDd8_1J_UtfRxh][Learn Portuguese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB][Learn Russian with me]]
+
+** My blogs
+
+   + [[https://doyouspeakenglish.fr]]
+   + [[https://govoritparoussky.fr]]
+   + [[https://impossiblenestpasfrancais.eu]]
+   + [[https://polyglothuman.fr]]
