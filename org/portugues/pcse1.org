@@ -1,0 +1,139 @@
+#+TITLE: Portuguese Conversation of the Saturday Episode 1
+#+AUTHOR: Laurent Garnier
+#+LANGUAGE: fr, pt
+#+OPTIONS: H:2 toc:t num:t date:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+#+EXPORT_EXCLUDE_TAGS: noexport
+
+
+#+LATEX_HEADER: \usepackage{colortbl}
+#+LATEX_HEADER: \usepackage{hyperref}
+#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=orange, filecolor=magenta, urlcolor=green} 
+
+
+#+BEAMER_THEME: default
+#+BEAMER__COLOR_THEME: seagull
+#+BEAMER_OUTER_THEME: default
+#+BEAMER_INNER_THEME: rectangles
+#+BEAMER_FONT_THEME: structurebold
+
+#+COLUMNS: %45ITEM %10BEAMER_ENV(Env) %10BEAMER_ACT(Act) %4BEAMER_COL(Col) %8BEAMER_OPT(Opt)
+#+STARTUP: beamer
+
+* Pequeno diálogo
+** Em português
+
+  + Laurent :: Oi, meu nome é Laurent. 
+  + Paloma :: Ola, meu nome é Paloma.
+  + Laurent :: Prazer em conhecê-lo.
+  + Paloma :: Prazer em conhecê-lo.
+  + Laurent :: Como vai?
+  + Paloma :: Tudo bem, obrigada. E você?
+  + Laurent :: Tudo bem, obrigado. Até mais.
+  + Paloma :: Adeus.
+
+* Little dialogue
+** In English
+  + Laurent :: Hi, my name is Laurent. 
+  + Paloma :: Hi, my name is Paloma.
+  + Laurent :: Nice to meet you.
+  + Paloma :: It's a pleasure.
+  + Laurent :: How are you?
+  + Paloma :: I'm fine, thanks. And you?
+  + Laurent :: Fine, Thanks. See you soon.
+  + Paloma :: Goodbye.
+
+* Petit dialogue
+** En français
+
+  + Laurent :: Salut, je m'appelle Laurent. 
+  + Paloma :: Salut, je m'appelle Paloma.
+  + Laurent :: Enchanté.
+  + Paloma :: Ravie de faire ta connaissance.
+  + Laurent :: Comment vas-tu ?
+  + Paloma :: Je vais bien, merci. Et toi ?
+  + Laurent :: Bien, merci. À la prochaine.
+  + Paloma :: Au revoir.
+  
+
+* Vocabulary of the week / Vocabulaire de la semaine
+** Portugês to English
+
+  | Português   | English            | 
+  |-------------+--------------------+
+  | Obrigado/a  | Thanks             |
+  |-------------+--------------------+
+  | De nada     | It's nothing       |
+  |-------------+--------------------+
+  | Disponha    | You're welcome     |
+  |-------------+--------------------+
+  | Bom dia     | Good morning       |
+  |-------------+--------------------+
+  | Boa tarde   | Good afternoon     |
+  |-------------+--------------------+
+  | Boa noite   | Good evening/night |
+  |-------------+--------------------+
+  | Sim         | Yes                |
+  |-------------+--------------------+
+  | Não         | No                 |
+  |-------------+--------------------+
+  | Desculpe    | Sorry              |
+  |-------------+--------------------+
+  | Com licença | Excuse-me          |
+
+** Português vers français  
+
+  | Português   | Français           | 
+  |-------------+--------------------+
+  | Obrigado/a  | Merci              |
+  |-------------+--------------------+
+  | De nada     | De rien            |
+  |-------------+--------------------+
+  | Disponha    | Je vous en prie    |
+  |-------------+--------------------+
+  | Bom dia     | Bonjour            |
+  |-------------+--------------------+
+  | Boa tarde   | Bonjour            |
+  |-------------+--------------------+
+  | Boa noite   | Bonsoir/Bonne nuit |
+  |-------------+--------------------+
+  | Sim         | Oui                |
+  |-------------+--------------------+
+  | Não         | Non                |
+  |-------------+--------------------+
+  | Desculpe    | Pardon             |
+  |-------------+--------------------+
+  | Com licença | Excusez-moi        |
+
+
+* Additional Resources 
+** Links to additional resources
+
+  + The linked [[https://youtu.be/5G2rLRL_-3E][video]]
+  + [[https://lgsp.github.io/sciencelanguages/html/news_portuguese.html][The newsletter for portuguese speaker]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/portuguese.html][FSI complete hebrew course]]
+
+* Ressources complémentaires
+** Liens vers d'autres ressources
+
+  + La [[https://youtu.be/5G2rLRL_-3E][vidéo]] associée
+  + [[https://lgsp.github.io/sciencelanguages/html/news_portuguese.html][La newsletter de l'anglais pour le portugais]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/portuguese.html][Le cours complet du FSI]]
+
+* Other languages / Autres langues
+** My videos on YouTube / Mes vidéos sur YouTube
+
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][Learn German with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Learn Arabic with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Learn Chinese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Learn Spanish with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0][Learn Hebrew with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAn0zUUPYsMDd8_1J_UtfRxh][Learn Portuguese with me]]
+
+** My blogs
+
+   + [[https://doyouspeakenglish.fr]]
+   + [[https://govoritparoussky.fr]]
+   + [[https://impossiblenestpasfrancais.eu]]
+   + [[https://polyglothuman.fr]]
