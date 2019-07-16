@@ -1,0 +1,117 @@
+#+TITLE: Arabic conversation of the Tuesday episode 1
+#+AUTHOR: Laurent Garnier
+#+HTML_DOCTYPE: HTML5
+
+* Words with arabic root
+  
+  | English            | Arabic root             | Meaning of the root |
+  |--------------------+-------------------------+---------------------|
+  | apricot            | barqûq برقوق            | plum                |
+  |--------------------+-------------------------+---------------------|
+  | alcohol            | kahul كحول              | alcohol             |
+  |--------------------+-------------------------+---------------------|
+  | alcove             | al-qubba القبة          | dome                |
+  |--------------------+-------------------------+---------------------|
+  | algebra            | al-jabr الجبر           | to reduce           |
+  |--------------------+-------------------------+---------------------|
+  | almanac            | al-munakh المناخ        | the climate         |
+  |--------------------+-------------------------+---------------------|
+  | admiral            | amir al-bahr أمير البحر | marine officer      |
+  |--------------------+-------------------------+---------------------|
+
+* Mots avec une racine arabe
+  
+  | Français | Racine arabe            | Signification de la racine |
+  |----------+-------------------------+----------------------------|
+  | abricot  | barqûq برقوق            | prune                      |
+  |----------+-------------------------+----------------------------|
+  | alcool   | kahul كحول              | alcool                     |
+  |----------+-------------------------+----------------------------|
+  | alcôve   | al-qubba القبة          | dôme                       |
+  |----------+-------------------------+----------------------------|
+  | algèbre  | al-jabr الجبر           | réduire                    |
+  |----------+-------------------------+----------------------------|
+  | almanach | al-munakh المناخ        | le climat                  |
+  |----------+-------------------------+----------------------------|
+  | amiral   | amir al-bahr أمير البحر | officier de la marine      |
+  |----------+-------------------------+----------------------------|
+   
+* Little dialogue
+  
+  
+  | Number | English                    | Latin transcription         | Arabic letters          |
+  |--------+----------------------------+-----------------------------------+-------------------------|
+  |      1 | Hello!                     | marhabâ                           | مَرْحَبًا                   |
+  |--------+----------------------------+-----------------------------------+-------------------------|
+  |      2 | How are you?               | kaïfal hal?                       | كيف حالك ؟              |
+  |--------+----------------------------+-----------------------------------+-------------------------|
+  |      3 | I am well, thanks to God.  | 'ana bikhayrin, walhamd lilah     | أنا بخير، والحمد لله    |
+  |--------+----------------------------+-----------------------------------+-------------------------|
+  |      4 | I'm learning arabic.       | 'ana 'ataealam allughat alearabia | أنا أتعلم اللغة العربية |
+  |--------+----------------------------+-----------------------------------+-------------------------|
+  |      5 | It's a beautiful language. | 'iinaha lughat jamilatun.         | إنها لغة جميلة.         |
+  
+* Petit dialogue 
+
+    | Numéro | Français                    | Transcription latine              | Lettres Arabes          |
+    |--------+-----------------------------+-----------------------------------+-------------------------|
+    |      1 | Salut !                     | marhabâ                           | مَرْحَبًا                   |
+    |--------+-----------------------------+-----------------------------------+-------------------------|
+    |      2 | Comment ça va ?             | kaïfal hal?                       | كيف حالك ؟              |
+    |--------+-----------------------------+-----------------------------------+-------------------------|
+    |      3 | Je vais bien, grâce à Dieu. | 'ana bikhayrin, walhamd lilah     | أنا بخير، والحمد لله    |
+    |--------+-----------------------------+-----------------------------------+-------------------------|
+    |      4 | J'apprends l'arabe.         | 'ana 'ataealam allughat alearabia | أنا أتعلم اللغة العربية |
+    |--------+-----------------------------+-----------------------------------+-------------------------|
+    |      5 | C'est une belle langue.     | 'iinaha lughat jamilatun.         | إنها لغة جميلة.         |
+* Feedback
+  You can find a link [[https://youtu.be/ugi0E0reSkI][here]] for watching the video. Please subscribe to
+  the channel because that will help me. Any feedback and comment
+  would be appreciate. I have to precise that I am not an arabic
+  specialist, indeed I'm just a beginner who enjoy to share what he is
+  learning.
+  
+  Does this content is useful for you? 
+  1) If the answer is yes then  please subscribe and spread the word
+     by sharing the links on your social media.
+  2) If the answer is no then please tell me what can I do in order to
+     help you in your learning and improve my material.
+* Critiques constructives
+  Vous pouvez trouver un lien [[https://youtu.be/ugi0E0reSkI][ici]] pour regarder la vidéo. Merci de
+  vous abonner à la chaîne parce que ça m'aidera. Toute critique
+  constructive ou commentaire utile seront appréciés. Je dois préciser
+  que je ne suis pas un spécialiste de l'arabe, en effet je suis juste
+  un débutant qui aime partager ce qu'il apprend.
+
+  Est-ce que ce contenu est utile pour vous ?
+  1) Si la réponse est oui alors merci de vous abonner et de faire
+     passer le mot en partageant les liens sur vos réseaux sociaux.
+  2) Si la réponse est non alors merci de me dire ce que je peux faire
+     afin de vous aider dans votre apprentissage et améliorer mon
+     matériel.
+      
+* Additional Ressources 
+  + [[https://youtu.be/YmIk-u1bWH8][The linked video]]
+  + [[https://lgsp.github.io/sciencelanguages/html/news_german1.html][The newsletter for german speaker]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/arabic.html][FSI complete Arabic course]]
+* Ressources complémentaires
+  + [[https://youtu.be/YmIk-u1bWH8][La vidéo associée]]
+  + [[https://lgsp.github.io/sciencelanguages/html/news_german1.html][La newsletter de l'anglais pour l'allemand]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/arabic.html][Le cours complet du FSI]]
+* Other languages / Autres langues
+
+** YouTube
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][Learn German with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Learn Arabic with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Learn Chinese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Learn Spanish with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkbDhpbtXc7RdroMBBeTJx0][Learn Hebrew with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAmY0FMGH6u68j4lwBpiEQFC][Learn Portuguese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB][Learn Russian with me]]
+
+** Blogs
+
+   + [[https://doyouspeakenglish.fr]]
+   + [[https://impossiblenestpasfrancais.eu]]
+   + [[https://govoritparoussky.fr]]
+   + [[https://polyglothuman.fr]]
