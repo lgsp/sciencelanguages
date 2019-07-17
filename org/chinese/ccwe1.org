@@ -1,0 +1,111 @@
+#+TITLE: Chinese Conversation of the Wednesday Episode 1
+#+AUTHOR: Laurent Garnier
+
+
+* Names of the language
+** Different names
+
+ + 官话 Guānhuà kouann h’oua :: mandarin chinese, literally the
+      language of the officials
+
+ + 普通话 Pǔtōnghuà p’hou t’honng h’oua :: the common language
+
+ + 国语 Guóyǔ kouo yu :: the national language
+
+ + 中文 Zhōngwén djonng ouenn :: the language of the middle
+
+ + 汉语 Hànyǔ h’ann yu :: Han's language
+
+ + 他很好 Tā hěn hǎo t’ha h’enn h’ao :: she is very good
+
+ + 爸爸 bàba pa pa :: dad
+
+ + 妈妈 māma :: mum
+
+ + 一 yī yi :: one
+
+ + 不 bù pou :: negation 
+
+* Les noms de la langue
+** Les différents noms
+
+ + 官话 Guānhuà kouann h’oua :: le mandarin, littéralement la langue
+      des fonctionnaires 
+
+ + 普通话 Pǔtōnghuà p’hou t’honng h’oua :: la langue commune 
+
+ + 国语 Guóyǔ kouo yu :: la langue nationale 
+
+ + 中文 Zhōngwén djonng ouenn :: la langue du milieu 
+
+ + 汉语 Hànyǔ h’ann yu :: la langue des Han
+
+ + 他很好 Tā hěn hǎo t’ha h’enn h’ao :: elle est très bien 
+
+ + 爸爸 bàba pa pa :: papa
+
+ + 妈妈 māma :: maman
+
+ + 一 yī yi :: un 
+
+ + 不 bù pou :: négation 
+
+* Idiomatic expressions
+** Some idimatic phrases
+  成语 chéngyǔ tch’henng yu idiomatic expressions 
+
+  + 莫名其妙 Mò míng qí miào mo minng tchi mïao :: literally it's out
+       of the ordinary and there is no word for it; this saying
+       describes everything that is difficult to understand, including
+       a unusual behavior
+  + 以身作则 Yǐ shēn zuò zé yi che dzouo dze :: literally do his
+       person a rule: give the example
+  + 一摸一样 Yì mó yí yàng yi mo yi yaang :: word for word a model, an
+       appearance; quite the same
+  + 全心全意 Quán xīn quán yì tchuenn hsinn tchuenn yi :: word by word
+       heart whole; with all his heart 
+  + 按部就班 Àn bù jiù bān ann pou tio panne :: to process step by
+       step
+
+* Expressions idiomatiques
+** Quelques expressions idiomatiques
+
+  成语 chéngyǔ tch’henng yu expressions idiomatiques 
+
+  + 莫名其妙 Mò míng qí miào mo minng tchi mïao :: littéralement c’est
+     hors de l’ordinaire et il n’y a pas de mot pour ça; ce dicton
+     décrit tout ce qu’il est difficile de comprendre, y compris un
+     comportement inhabituel 
+  + 以身作则 Yǐ shēn zuò zé yi che dzouo dze :: littéralement faire de
+     sa personne une règle : donner l’exemple 
+  + 一摸一样 Yì mó yí yàng yi mo yi yaang :: mot à mot un modèle, une
+     apparence; tout à fait pareil
+  + 全心全意 Quán xīn quán yì tchuenn hsinn tchuenn yi :: mot à mot Cœur
+     entier ; de tout son cœur 
+  + 按部就班 Àn bù jiù bān ann pou tio panne :: procéder étape par étape 
+
+* Ressources complémentaires
+
+  + [[https://youtu.be/AEqPC5t24OU][La vidéo associée]]
+  + [[https://lgsp.github.io/sciencelanguages/html/news_chinese1.html][La newsletter de l'anglais pour chinois]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/chinese.html][Le cours complet du FSI]]
+
+* Additional Ressources 
+  + [[https://youtu.be/AEqPC5t24OU][The linked video]]
+  + [[https://lgsp.github.io/sciencelanguages/html/news_chinese1.html][The newsletter for chinese speaker]]
+  + [[https://fsi-languages.yojik.eu/languages/oldfsi/languages/chinese.html][FSI complete chinese course]]
+
+* Other languages / Autres langues
+** YouTube
+
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAnM9MWJT9F1z1QZTdb73i7r][Learn German with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAkXu2x3Fp74QxxYUVP43haA][Learn Arabic with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAl4R0Mh7sKvQjqCsiEEa6D9][Learn Chinese with me]]
+     + [[https://www.youtube.com/playlist?list=PLfKvL-VUSKAm_p6ikI_pTbxNuHco73REt][Learn spanish with me]]
+
+** Blogs
+
+   + [[https://doyouspeakenglish.fr]]
+   + [[https://impossiblenestpasfrancais.eu]]
+   + [[https://govoritparoussky.fr]]
+   + [[https://polyglothuman.fr]]
