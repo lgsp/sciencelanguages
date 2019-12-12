@@ -1,0 +1,107 @@
+% Try this code on https://www.overleaf.com/project/5df27a25916aef0001c87ccd
+\documentclass[12pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage{xunicode}
+\newfontfamily\cyrillicfont{Times New Roman}
+\usepackage{polyglossia}
+\usepackage{xltxtra}
+\setmainlanguage{french}
+\setotherlanguages{russian, english}
+\usepackage{hyperref}
+\usepackage{graphics}
+\hypersetup{colorlinks=true, citecolor=electricblue,filecolor=electricblue,linkcolor=red,urlcolor=blue}
+\author{Laurent Garnier}
+\date{}
+\title{Alphabet cyrillique Russe \textrussian{русский}\\ avec Python 3 et \XeLaTeX}
+
+\begin{document}
+
+\begin{titlepage}
+
+\begin{center}
+
+{\Large {\sc Alphabet cyrillique Russe\par avec Python 3\par et \XeLaTeX} \par}
+\vspace{2cm}
+\end{center}
+\newpage
+
+\vspace{2cm}
+
+\begin{center}
+
+BY
+
+{\Large Laurent \textsc{Garnier} \par}
+
+\vspace{2cm}
+{\sc Visit my blog on languages:}
+ \url{www.polyglothuman.fr}\par
+{\sc Visit my blog on Russian:}
+ \url{www.govoritparoussky.fr}\par
+
+\end{center}
+\newpage
+
+\begin{center}
+
+ {\sc Visit my YouTube channel:} 
+ \url{http://bit.ly/LanguageScience}\par
+
+ {\sc Visit my playlist on Russian:} 
+ \url{http://bit.ly/LearnRussianWithMe}\par
+
+\end{center}
+
+\end{titlepage}
+
+\tableofcontents
+\section{Alphabet cyrillique russe}
+\begin{center}
+ \begin{tabular}{c|c|c}
+    Indice & Lettre Majuscule & lettre minuscule \\
+    \hline
+    0 & \textrussian{А} & \textrussian{а} \\
+    1 & \textrussian{Б} & \textrussian{б} \\
+    2 & \textrussian{В} & \textrussian{в} \\
+    3 & \textrussian{Г} & \textrussian{г} \\
+    4 & \textrussian{Д} & \textrussian{д} \\
+    5 & \textrussian{Е} & \textrussian{е} \\
+    6 & \textrussian{Ж} & \textrussian{ж} \\
+    7 & \textrussian{З} & \textrussian{з} \\
+    8 & \textrussian{И} & \textrussian{и} \\
+    9 & \textrussian{Й} & \textrussian{й} \\
+    10 & \textrussian{К} & \textrussian{к} \\
+    11 & \textrussian{Л} & \textrussian{л} \\
+    12 & \textrussian{М} & \textrussian{м} \\
+    13 & \textrussian{Н} & \textrussian{н} \\
+    14 & \textrussian{О} & \textrussian{о} \\
+    15 & \textrussian{П} & \textrussian{п} \\
+    16 & \textrussian{Р} & \textrussian{р} \\
+    17 & \textrussian{С} & \textrussian{с} \\
+    18 & \textrussian{Т} & \textrussian{т} \\
+    19 & \textrussian{У} & \textrussian{у} \\
+    20 & \textrussian{Ф} & \textrussian{ф} \\
+    21 & \textrussian{Х} & \textrussian{х} \\
+    22 & \textrussian{Ц} & \textrussian{ц} \\
+    23 & \textrussian{Ч} & \textrussian{ч} \\
+    24 & \textrussian{Щ} & \textrussian{щ} \\
+    25 & \textrussian{Ъ} & \textrussian{ъ} \\
+    26 & \textrussian{Ь} & \textrussian{ь} \\
+    27 & \textrussian{Э} & \textrussian{э} \\
+    28 & \textrussian{Ю} & \textrussian{ю} \\
+    29 & \textrussian{Я} & \textrussian{я} \\
+  \end{tabular}
+\end{center}
+\section{Retrouvez les détails et les sons sur mon blog}
+{\Large Allez consulter cet article de blog dans lequel je détaille la logique de l'alphabet cyrillique russe :\par}
+\begin{center}
+\url{https://govoritparoussky.fr/comment-apprendre-lalphabet-russe-meme-quand-on-est-debutant/}
+\end{center}
+\section{Quelques exemples}
+\begin{description}
+\item[russe]\textrussian{а ты говоришь по русски?}
+\item[français]Parles-tu Russe ?
+\item[russe]\textrussian{Я немного говорю по русски}
+\item[français] Je parle un peu russe
+\end{description}
+\end{document}
